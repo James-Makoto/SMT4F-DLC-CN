@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}我刚回来。{f801}其他猎人也没什么大不了的。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我刚回来。{f801}其他猎人也没什么大不了的。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}我去其他宇宙看了两眼,{f801}{f843}{0000}在一条不错的世界线上呢。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我去其他宇宙看了两眼,{f801}{f843}{0000}在一条不错的世界线上呢。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}被好几个召唤师差遣,{f801}有点要发疯了…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}被好几个召唤师差遣,{f801}有点要发疯了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}一个一个合体过来,又变强啦!{f801}哈哈哈哈哈!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}一个一个合体过来,又变强啦!{f801}哈哈哈哈哈!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}{f843}{0000},是我啊!{f801}快看我这样子…很棒吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000},是我啊!{f801}快看我这样子…很棒吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}我不喜欢松松垮垮的,{f801}就去锻炼身体去了。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我不喜欢松松垮垮的,{f801}就去锻炼身体去了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}接着,这是那边的世界里抢来的。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}接着,这是那边的世界里抢来的。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}{f843}{0000},给你了。{f801}这东西在那边帮了我不少。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000},给你了。{f801}这东西在那边帮了我不少。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}其他宇宙的北海道特产。{f801}…冷死了。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}其他宇宙的北海道特产。{f801}…冷死了。{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

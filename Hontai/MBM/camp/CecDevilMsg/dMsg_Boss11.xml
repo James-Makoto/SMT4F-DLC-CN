@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}公馆里越来越热闹了呢。{f801}不过还不够,还得募集。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}公馆里越来越热闹了呢。{f801}不过还不够,还得募集。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}瓦尔哈拉的那场盛宴真是愉快。{f801}来,让我再快活快活。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}瓦尔哈拉的那场盛宴真是愉快。{f801}来,让我再快活快活。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}为了准备诸神的黄昏,{f801}我们需要尽可能多的战士…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}为了准备诸神的黄昏,{f801}我们需要尽可能多的战士…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}吾将卿当做公馆的宾客招待,{f801}你就把这当做是招待券…收下吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}吾将卿当做公馆的宾客招待,{f801}你就把这当做是招待券…收下吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}这是吾专程为卿取来的,{f801}要珍惜啊。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这是吾专程为卿取来的,{f801}要珍惜啊。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}这个送给卿了…{f801}哼,不必多礼。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这个送给卿了…{f801}哼,不必多礼。{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

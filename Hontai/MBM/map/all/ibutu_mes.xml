@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{f812}巴洛兹{0000}サーチ開始します{f801}{ffff}</source>
+    <target>{f812}巴洛兹{0000}サーチ開始します{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>现在没有遗物反应……{f801}{ffff}</source>
+    <target>现在没有遗物反应……{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>这前面有恶魔设下的结界……{f801}是要前进还是后退,要慎重考虑。{f801}{ffff}</source>
+    <target>这前面有恶魔设下的结界……{f801}是要前进还是后退,要慎重考虑。{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>前进{f801}返回{f801}{ffff}</source>
+    <target>前进{f801}返回{f801}{ffff}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{8012}居民1{0000}你好。{8001}{ffff}</source>
+    <target>{8012}居民1{0000}你好。{8001}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{8012}居民2{0000}早上好{8001}{ffff}</source>
+    <target>{8012}居民2{0000}早上好{8001}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{8012}居民3{0000}再见。{8001}{ffff}</source>
+    <target>{8012}居民3{0000}再见。{8001}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>要移动至御门城吗?{8001}{ffff}</source>
+    <target>要移动至御门城吗?{8001}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>是{8001}否{8001}{ffff}</source>
+    <target>是{8001}否{8001}{ffff}</target>
+  </entry>
+</mbm>

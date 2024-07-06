@@ -1,0 +1,94 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}新技能来咯〜{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}新技能来咯〜{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}{f843}{0000}、{f843}{0000}!{f801}我学会了新的技能!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}、{f843}{0000}!{f801}我学会了新的技能!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}这个技能很不错吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这个技能很不错吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}不好……技能太多了……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不好……技能太多了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}将{f804}{0500}{f877}{0100}{f804}{0000}{f801}变成{f804}{0500}{f877}{0200}{f804}{0000}如何?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}将{f804}{0500}{f877}{0100}{f804}{0000}{f801}变成{f804}{0500}{f877}{0200}{f804}{0000}如何?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}嗯嗯,看你这么坦率真不错。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}嗯嗯,看你这么坦率真不错。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}这样啊……拜拜!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这样啊……拜拜!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}这就进化了……是不是太快了?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这就进化了……是不是太快了?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}我可不管会有什么后果哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我可不管会有什么后果哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}你很明白嘛。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你很明白嘛。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}嘻嘻……{f801}让我们一起大闹一场吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}嘻嘻……{f801}让我们一起大闹一场吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}啊,好像快要进化了……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊,好像快要进化了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}我不要了,{f801}给你吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}我不要了,{f801}给你吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}{f843}{0000}!{f801}要一起使用{f804}{0500}{f872}{0100}{f804}{0000}吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}!{f801}要一起使用{f804}{0500}{f872}{0100}{f804}{0000}吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}这是什么?不知道是什么,就先把{f801}{f804}{0500}{f872}{0100}{f804}{0000}给你吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这是什么?不知道是什么,就先把{f801}{f804}{0500}{f872}{0100}{f804}{0000}给你吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}你想要……我的力量吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你想要……我的力量吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}已经满足了吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}已经满足了吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}我是{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000},{f801}今后还请多多关照。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我是{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000},{f801}今后还请多多关照。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}让技能变异{f801}取消{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}让技能变异{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>让恶魔进化{f801}取消{f801}{f802}{ffff}</source>
+    <target>让恶魔进化{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>确定{f801}取消{f801}{f802}{ffff}</source>
+    <target>确定{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f812}米多{0000}{f87a}{0100}发生了合体故障,{f801}诞生出了预想之外的恶魔……{f801}{f802}{ffff}</source>
+    <target>{f812}米多{0000}{f87a}{0100}发生了合体故障,{f801}诞生出了预想之外的恶魔……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>ダミー{f801}{f802}{ffff}</source>
+    <target>ダミー{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

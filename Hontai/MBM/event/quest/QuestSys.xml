@@ -1,0 +1,286 @@
+<mbm>
+  <entry id="0">
+    <source>接受了{f801}「{f811}{2800}」。{f801}{ffff}</source>
+    <target>接受了{f801}「{f811}{2800}」。{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>达成了{f801}「{f811}{2800}」!{f801}{ffff}</source>
+    <target>达成了{f801}「{f811}{2800}」!{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>放弃了{f801}「{f811}{2800}」。{f801}{ffff}</source>
+    <target>放弃了{f801}「{f811}{2800}」。{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f873}{0100}还剩{f878}{0100}只{f801}{ffff}</source>
+    <target>{f873}{0100}还剩{f878}{0100}只{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>有访客加入了。{f801}{ffff}</source>
+    <target>有访客加入了。{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>同行者离队了。{f801}{ffff}</source>
+    <target>同行者离队了。{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>同行者暂时离队了。{f801}{ffff}</source>
+    <target>同行者暂时离队了。{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>决定再次和同伴前往。{f801}{ffff}</source>
+    <target>决定再次和同伴前往。{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>要交出{f872}{0100}吗?{f801}{ffff}</source>
+    <target>要交出{f872}{0100}吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>要交出{f878}{0100}个{f872}{0100}吗?{f801}{ffff}</source>
+    <target>要交出{f878}{0100}个{f872}{0100}吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>要交出{f873}{0100}吗?{f801}{ffff}</source>
+    <target>要交出{f873}{0100}吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>放弃交纳了。{f801}{ffff}</source>
+    <target>放弃交纳了。{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f811}{2800}变为了明晰状态!{f801}{ffff}</source>
+    <target>{f811}{2800}变为了明晰状态!{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f843}{0000}恢复了精神。{f801}{ffff}</source>
+    <target>{f843}{0000}恢复了精神。{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f843}{0000}一行人恢复了精神。{f801}{ffff}</source>
+    <target>{f843}{0000}一行人恢复了精神。{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>「{f811}{2800}」{f801}被废弃了。{f801}{ffff}</source>
+    <target>「{f811}{2800}」{f801}被废弃了。{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>???{f801}{ffff}</source>
+    <target>???{f801}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>交纳{f801}{f872}{0100}×{f878}{0100}。{f801}{ffff}</source>
+    <target>交纳{f801}{f872}{0100}×{f878}{0100}。{f801}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>交纳{f801}{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}。{f801}{ffff}</source>
+    <target>交纳{f801}{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}。{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>交纳{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300}。{f801}{ffff}</source>
+    <target>交纳{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300}。{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>交纳{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400}。{f801}{ffff}</source>
+    <target>交纳{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400}。{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>讨伐{f801}{f873}{0100}×{f878}{0100}。{f801}{ffff}</source>
+    <target>讨伐{f801}{f873}{0100}×{f878}{0100}。{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>讨伐{f801}{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}。{f801}{ffff}</source>
+    <target>讨伐{f801}{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}。{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>讨伐{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300}。{f801}{ffff}</source>
+    <target>讨伐{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300}。{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>讨伐{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} {f873}{0400}×{f878}{0400}。{f801}{ffff}</source>
+    <target>讨伐{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} {f873}{0400}×{f878}{0400}。{f801}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>展示{f872}{0100}×{f878}{0100}。{f801}{ffff}</source>
+    <target>展示{f872}{0100}×{f878}{0100}。{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>展示{f801}{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}。{f801}{ffff}</source>
+    <target>展示{f801}{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}。{f801}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>展示{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300}。{f801}{ffff}</source>
+    <target>展示{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300}。{f801}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>展示{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400}。{f801}{ffff}</source>
+    <target>展示{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400}。{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>展示{f801}{f873}{0100}×{f878}{0100}。{f801}{ffff}</source>
+    <target>展示{f801}{f873}{0100}×{f878}{0100}。{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>展示{f801}{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}。{f801}{ffff}</source>
+    <target>展示{f801}{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}。{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>展示{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300}。{f801}{ffff}</source>
+    <target>展示{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300}。{f801}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>展示{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} {f873}{0400}×{f878}{0400}。{f801}{ffff}</source>
+    <target>展示{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} {f873}{0400}×{f878}{0400}。{f801}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>要接受{f801}「{f811}{2800}」吗?{f801}{ffff}</source>
+    <target>要接受{f801}「{f811}{2800}」吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>要放弃{f801}「{f811}{2800}」吗?{f801}{ffff}</source>
+    <target>要放弃{f801}「{f811}{2800}」吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>要放弃进行中的任务,{f801}接受这个任务吗?{f801}{ffff}</source>
+    <target>要放弃进行中的任务,{f801}接受这个任务吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>接受了{f801}「{f811}{2800}」。{f801}{ffff}</source>
+    <target>接受了{f801}「{f811}{2800}」。{f801}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>这个任务现在无法接受。{f801}{ffff}</source>
+    <target>这个任务现在无法接受。{f801}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>收集任务{f801}不需要接任务。{f801}{ffff}</source>
+    <target>收集任务{f801}不需要接任务。{f801}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f812}巴洛兹{0000}{f87a}{0100}{f813}{0100}{0000}{851a}{0600}这个任务以你现在的等级很危险,{f801}还是要进行挑战吗?{f801}{ffff}</source>
+    <target>{f812}巴洛兹{0000}{f87a}{0100}{f813}{0100}{0000}{851a}{0600}这个任务以你现在的等级很危险,{f801}还是要进行挑战吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>带恶魔DNA{f878}{0100}个以上的仲魔过来。{f801}{ffff}</source>
+    <target>带恶魔DNA{f878}{0100}个以上的仲魔过来。{f801}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>带持有恶魔DNA {f811}{2900}{f801}的仲魔过来。{f801}{ffff}</source>
+    <target>带持有恶魔DNA {f811}{2900}{f801}的仲魔过来。{f801}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>带持有DNA {f811}{2900}{f801}{f811}{2a00}的仲魔过来。{f801}{ffff}</source>
+    <target>带持有DNA {f811}{2900}{f801}{f811}{2a00}的仲魔过来。{f801}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>带持有DNA {f811}{2900} {f811}{2a00}{f801}{f811}{2b00}的仲魔过来。{f801}{ffff}</source>
+    <target>带持有DNA {f811}{2900} {f811}{2a00}{f801}{f811}{2b00}的仲魔过来。{f801}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>出示持有DNA {f811}{2900} {f811}{2a00}{f801}{f811}{2b00} {f811}{2c00}的恶魔。{f801}{ffff}</source>
+    <target>出示持有DNA {f811}{2900} {f811}{2a00}{f801}{f811}{2b00} {f811}{2c00}的恶魔。{f801}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>交纳{f873}{0100}。{f801}{ffff}</source>
+    <target>交纳{f873}{0100}。{f801}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>交纳{f801}{f873}{0100} {f873}{0200}。{f801}{ffff}</source>
+    <target>交纳{f801}{f873}{0100} {f873}{0200}。{f801}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>交纳{f873}{0100} {f873}{0200}{f801}{f873}{0300}。{f801}{ffff}</source>
+    <target>交纳{f873}{0100} {f873}{0200}{f801}{f873}{0300}。{f801}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>交纳{f873}{0100} {f873}{0200}{f801}{f873}{0300} {f873}{0400}。{f801}{ffff}</source>
+    <target>交纳{f873}{0100} {f873}{0200}{f801}{f873}{0300} {f873}{0400}。{f801}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>接受这个任务的话,{f801}就会转到战斗,准备好了吗?{f801}{ffff}</source>
+    <target>接受这个任务的话,{f801}就会转到战斗,准备好了吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>这个任务已经达成了。{f801}{ffff}</source>
+    <target>这个任务已经达成了。{f801}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>收集{f801}{f872}{0100}×{f878}{0100}。{f801}{ffff}</source>
+    <target>收集{f801}{f872}{0100}×{f878}{0100}。{f801}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>收集{f801}{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}。{f801}{ffff}</source>
+    <target>收集{f801}{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}。{f801}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>收集{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300}。{f801}{ffff}</source>
+    <target>收集{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300}。{f801}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>收集{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400}。{f801}{ffff}</source>
+    <target>收集{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400}。{f801}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f873}{0100} {f873}{0200}成为仲魔了。{f801}{ffff}</source>
+    <target>{f873}{0100} {f873}{0200}成为仲魔了。{f801}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>接受这个任务的话,{f801}就会被传送到其他场所,准备好了吗?{f801}{ffff}</source>
+    <target>接受这个任务的话,{f801}就会被传送到其他场所,准备好了吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>{f843}{0000}{f801}交纳了要求物品。{f801}{ffff}</source>
+    <target>{f843}{0000}{f801}交纳了要求物品。{f801}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f843}{0000}交纳了{f801}所有要求物品。{f801}{ffff}</source>
+    <target>{f843}{0000}交纳了{f801}所有要求物品。{f801}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>放弃的话会回到接受{f801}任务的场所,准备好了吗?{f801}{ffff}</source>
+    <target>放弃的话会回到接受{f801}任务的场所,准备好了吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>找不到执行中的任务数据,{f801}取消任务。{f801}{ffff}</source>
+    <target>找不到执行中的任务数据,{f801}取消任务。{f801}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>无法读取执行中的任务数据,{f801}取消接受的任务。{f801}{ffff}</source>
+    <target>无法读取执行中的任务数据,{f801}取消接受的任务。{f801}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>回到接受任务的场所。{f801}{ffff}</source>
+    <target>回到接受任务的场所。{f801}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>接受这个任务的话,{f801}就会被传送到其他场所,准备好了吗?{f801}{ffff}</source>
+    <target>接受这个任务的话,{f801}就会被传送到其他场所,准备好了吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>回到原来的场所,{f801}取消任务了。{f801}{ffff}</source>
+    <target>回到原来的场所,{f801}取消任务了。{f801}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>以{f811}{2a00}{f811}{2b00}{f801}以上达成{f811}{2900}。{f801}{ffff}</source>
+    <target>以{f811}{2a00}{f811}{2b00}{f801}以上达成{f811}{2900}。{f801}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>实绩任务不需要接受任务。{f801}{ffff}</source>
+    <target>实绩任务不需要接受任务。{f801}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>接受这个任务的话,{f801}就会转到战斗。{f801}{f802}要接受{f801}「{f811}{2800}」吗?{f801}{ffff}</source>
+    <target>接受这个任务的话,{f801}就会转到战斗。{f801}{f802}要接受{f801}「{f811}{2800}」吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>要获取道具吗?{f801}{ffff}</source>
+    <target>要获取道具吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>获得了{f878}{0100}个{f801}{f872}{0100}。{f801}{ffff}</source>
+    <target>获得了{f878}{0100}个{f801}{f872}{0100}。{f801}{ffff}</target>
+  </entry>
+</mbm>

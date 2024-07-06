@@ -1,0 +1,94 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}新的技能……{f801}将孕育新的死亡……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}新的技能……{f801}将孕育新的死亡……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}死之恩宠又增加了……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}死之恩宠又增加了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}记住被此技能所杀掉的生命吧……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}记住被此技能所杀掉的生命吧……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}有诞生就有毁灭……{f801}此乃世之常理。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}有诞生就有毁灭……{f801}此乃世之常理。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}要葬送{f804}{0500}{f877}{0100}{f804}{0000},{f801}孕育{f804}{0500}{f877}{0200}{f804}{0000}吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}要葬送{f804}{0500}{f877}{0100}{f804}{0000},{f801}孕育{f804}{0500}{f877}{0200}{f804}{0000}吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}你的选择将带来死亡与生之变革……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你的选择将带来死亡与生之变革……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}你要选择停滞吗?{f801}驾驭死亡之者啊……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你要选择停滞吗?{f801}驾驭死亡之者啊……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}(仮)変異選択メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異選択メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}(仮)変異OKメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異OKメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}(仮)変異NGメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異NGメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}(仮)変異完了メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異完了メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}(仮)変異レベル未達メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異レベル未達メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}生于转瞬之间的人类啊……{f801}收下{f804}{0500}{f872}{0100}{f804}{0000}吧……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}生于转瞬之间的人类啊……{f801}收下{f804}{0500}{f872}{0100}{f804}{0000}吧……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}赠与你……{f801}愿死亡与你同在……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}赠与你……{f801}愿死亡与你同在……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}与死亡同在之人啊……{f801}将这个{f804}{0500}{f872}{0100}{f804}{0000}赠与你吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}与死亡同在之人啊……{f801}将这个{f804}{0500}{f872}{0100}{f804}{0000}赠与你吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}在吾之教唆之下,沉醉并驾驭死亡,{f801}让其成为自己之食粮吧……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}在吾之教唆之下,沉醉并驾驭死亡,{f801}让其成为自己之食粮吧……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}听到了死之脚步声了吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}听到了死之脚步声了吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}我是{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}……{f801}沉醉于我的声音下吧……人类,我就是死亡。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我是{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}……{f801}沉醉于我的声音下吧……人类,我就是死亡。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}让技能变异{f801}取消{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}让技能变异{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>让恶魔进化{f801}取消{f801}{f802}{ffff}</source>
+    <target>让恶魔进化{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>确定{f801}取消{f801}{f802}{ffff}</source>
+    <target>确定{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f812}米多{0000}{f87a}{0100}发生了合体故障,{f801}诞生出了预想之外的恶魔……{f801}{f802}{ffff}</source>
+    <target>{f812}米多{0000}{f87a}{0100}发生了合体故障,{f801}诞生出了预想之外的恶魔……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>ダミー{f801}{f802}{ffff}</source>
+    <target>ダミー{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

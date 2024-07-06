@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>{f87d}{1000}{f801}普通攻击/{f87d}{0400}属性×{f87d}{0300}回×{f87d}{0500}{f801}{f802}{ffff}</source>
+    <target>{f87d}{1000}{f801}普通攻击/{f87d}{0400}属性×{f87d}{0300}回×{f87d}{0500}{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f87d}{1000}{f801}普通攻击/{f87d}{0400}属性×{f87d}{0300}回×{f87d}{0500}{f801}{f802}{ffff}</source>
+    <target>{f87d}{1000}{f801}普通攻击/{f87d}{0400}属性×{f87d}{0300}回×{f87d}{0500}{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>状态异常耐性/?{f801}普通攻击/?属性×?回×?{f801}{f802}{ffff}</source>
+    <target>状态异常耐性/?{f801}普通攻击/?属性×?回×?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f843}{0000}周围被力量漩涡覆盖,{f801}弱小的恶魔都被赶跑了。{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}周围被力量漩涡覆盖,{f801}弱小的恶魔都被赶跑了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>技能就按照这个顺序设定?{f801}{ffff}</source>
+    <target>技能就按照这个顺序设定?{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>放弃当前的编辑吗?{f801}{ffff}</source>
+    <target>放弃当前的编辑吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>技能顺序更改完毕。{f801}{ffff}</source>
+    <target>技能顺序更改完毕。{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>要逃出当前结界吗?{f801}{ffff}</source>
+    <target>要逃出当前结界吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>恶魔的气息变浓了。{f801}{f802}{ffff}</source>
+    <target>恶魔的气息变浓了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>恶魔的气息变浓了。{f801}{f802}{ffff}</source>
+    <target>恶魔的气息变浓了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>所有异常状态无效{f801}普通攻击/{f87d}{0400}属性×{f87d}{0300}回×{f87d}{0500}{f801}{f802}{ffff}</source>
+    <target>所有异常状态无效{f801}普通攻击/{f87d}{0400}属性×{f87d}{0300}回×{f87d}{0500}{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,66 @@
+<mbm>
+  <entry id="0">
+    <source>是否将难易度从《{f872}{0100}》变更为《{f872}{0200}》?{f801}{ffff}</source>
+    <target>是否将难易度从《{f872}{0100}》变更为《{f872}{0200}》?{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>请设定游戏难易度。{f801}※剧情和任务报酬不会改变。{f801}{ffff}</source>
+    <target>请设定游戏难易度。{f801}※剧情和任务报酬不会改变。{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>是否设定为此音量?{f801}{ffff}</source>
+    <target>是否设定为此音量?{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>难易度改成了《{f872}{0100}》。{f801}{ffff}</source>
+    <target>难易度改成了《{f872}{0100}》。{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>要以这个难易度开始吗?{f801}{ffff}</source>
+    <target>要以这个难易度开始吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>请务必小心,不要因为被神与恶魔所诱惑{f801}而迷失了前进的道路……{f801}{ffff}</source>
+    <target>请务必小心,不要因为被神与恶魔所诱惑{f801}而迷失了前进的道路……{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>游戏开始后或进行中{f801}都可以更改难易度。{f801}{ffff}</source>
+    <target>游戏开始后或进行中{f801}都可以更改难易度。{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>不擅长养成・合体・战斗的玩家{f801}也能轻易推动剧情的难度。{f801}{f802}只要在菜单中进行设定,{f801}随时可以更改难易度。{f801}{ffff}</source>
+    <target>不擅长养成・合体・战斗的玩家{f801}也能轻易推动剧情的难度。{f801}{f802}只要在菜单中进行设定,{f801}随时可以更改难易度。{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>没有玩过系列相关作也能上手的难度。{f801}{f802}只要在菜单中进行设定,{f801}随时可以更改难易度。{f801}{ffff}</source>
+    <target>没有玩过系列相关作也能上手的难度。{f801}{f802}只要在菜单中进行设定,{f801}随时可以更改难易度。{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>充分享受本作独特的紧张感,带有适度的{f801}刺激和挑战的难度。{f801}{f802}只要在菜单中进行设定,{f801}随时可以更改难易度。{f801}{ffff}</source>
+    <target>充分享受本作独特的紧张感,带有适度的{f801}刺激和挑战的难度。{f801}{f802}只要在菜单中进行设定,{f801}随时可以更改难易度。{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>不满足于普通难度的玩家可以挑战更强的{f801}紧张感的难度。{f801}{f802}只要在菜单中进行设定,{f801}随时可以更改难易度。{f801}{ffff}</source>
+    <target>不满足于普通难度的玩家可以挑战更强的{f801}紧张感的难度。{f801}{f802}只要在菜单中进行设定,{f801}随时可以更改难易度。{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>为追求死亡刺激的玩家而设,{f801}「理论上能够通关」的最高难度。{f801}{f802}战斗难度极高,{f801}一步走错满盘皆输。{f801}{f802}此难度下主人公的HP降为0时,{f801}即告游戏结束。{f801}{f802}此外,此条件下游戏中无法变更难易度,{f801}还请注意。{f801}{ffff}</source>
+    <target>为追求死亡刺激的玩家而设,{f801}「理论上能够通关」的最高难度。{f801}{f802}战斗难度极高,{f801}一步走错满盘皆输。{f801}{f802}此难度下主人公的HP降为0时,{f801}即告游戏结束。{f801}{f802}此外,此条件下游戏中无法变更难易度,{f801}还请注意。{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>现在无法变更难易度。{f801}{ffff}</source>
+    <target>现在无法变更难易度。{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>一旦选择此难易度后,{f801}就无法在中途更改难易度。{f801}{f802}是否更改难易度?{f801}{ffff}</source>
+    <target>一旦选择此难易度后,{f801}就无法在中途更改难易度。{f801}{f802}是否更改难易度?{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>现在无法变更难易度。{f801}{ffff}</source>
+    <target>现在无法变更难易度。{f801}{ffff}</target>
+  </entry>
+</mbm>

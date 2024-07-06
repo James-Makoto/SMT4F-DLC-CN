@@ -1,0 +1,94 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}(仮)スキル習得メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル習得メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}(仮)スキル習得メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル習得メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}(仮)スキル習得メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル習得メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)スキル入れ替えメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル入れ替えメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(仮)スキル変化選択メッセージ{f801}{f804}{0500}{f877}{0100}{f804}{0000}から{f804}{0500}{f877}{0200}{f804}{0000}へ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル変化選択メッセージ{f801}{f804}{0500}{f877}{0100}{f804}{0000}から{f804}{0500}{f877}{0200}{f804}{0000}へ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(仮)スキル変化OKメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル変化OKメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}(仮)スキル変化NGメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル変化NGメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}(仮)変異選択メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異選択メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}(仮)変異OKメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異OKメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}(仮)変異NGメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異NGメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}(仮)変異完了メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異完了メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}(仮)変異レベル未達メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異レベル未達メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}11111{f801}{f804}{0500}{f872}{0100}{f804}{0000}{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}11111{f801}{f804}{0500}{f872}{0100}{f804}{0000}{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}11111{f801}{f804}{0500}{f872}{0100}{f804}{0000}{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}11111{f801}{f804}{0500}{f872}{0100}{f804}{0000}{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}11111{f801}{f804}{0500}{f872}{0100}{f804}{0000}{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}11111{f801}{f804}{0500}{f872}{0100}{f804}{0000}{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}(仮)ウィスパースキルメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)ウィスパースキルメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}(仮)ウィスパースキル終了確認{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)ウィスパースキル終了確認{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}11111{f801}{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}11111{f801}{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}让技能变异{f801}取消{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}让技能变异{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>让恶魔进化{f801}取消{f801}{f802}{ffff}</source>
+    <target>让恶魔进化{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>确定{f801}取消{f801}{f802}{ffff}</source>
+    <target>确定{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}{f812}米多{0000}{f87a}{0100}发生了合体故障,{f801}诞生出了预想之外的恶魔……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f812}米多{0000}{f87a}{0100}发生了合体故障,{f801}诞生出了预想之外的恶魔……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>ダミー{f801}{f802}{ffff}</source>
+    <target>ダミー{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

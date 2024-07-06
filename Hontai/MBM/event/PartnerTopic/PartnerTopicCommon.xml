@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>阅览伙伴闲谈记录{f801}{ffff}</source>
+    <target>阅览伙伴闲谈记录{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>正在阅览伙伴闲谈记录{f801}{ffff}</source>
+    <target>正在阅览伙伴闲谈记录{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>获得了{f878}{0100}个{f872}{0100}。{f801}{ffff}</source>
+    <target>获得了{f878}{0100}个{f872}{0100}。{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>要收取礼物吗?{f801}{ffff}</source>
+    <target>要收取礼物吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>可以扔掉礼物吗?{f801}{ffff}</source>
+    <target>可以扔掉礼物吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>扔掉了礼物。{f801}{ffff}</source>
+    <target>扔掉了礼物。{f801}{ffff}</target>
+  </entry>
+</mbm>

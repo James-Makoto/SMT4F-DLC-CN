@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}我打倒了一大堆家伙哦,{f801}一大堆呢…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我打倒了一大堆家伙哦,{f801}一大堆呢…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}出去之后,才有点理解{f801}{f843}{0000}有多好…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}出去之后,才有点理解{f801}{f843}{0000}有多好…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}我回来啦!{f801}下次试试无差别合体吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我回来啦!{f801}下次试试无差别合体吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}可劲儿合体,脚脖子好痛啊…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}可劲儿合体,脚脖子好痛啊…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}{f843}{0000}…{f801}还要「今后请多指教」,对吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}…{f801}还要「今后请多指教」,对吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}我回来了!{f801}下次再擦肩通信吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我回来了!{f801}下次再擦肩通信吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}平行世界的你托我{f801}给你这个。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}平行世界的你托我{f801}给你这个。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}其他宇宙有好多好玩的东西!{f801}{f843}{0000},给你带来个特别好玩的!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}其他宇宙有好多好玩的东西!{f801}{f843}{0000},给你带来个特别好玩的!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}给,其他宇宙的冲绳特产。{f801}那边的大海很宁静哦。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给,其他宇宙的冲绳特产。{f801}那边的大海很宁静哦。{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,62 @@
+<mbm>
+  <entry id="0">
+    <source>浮在空中的方块展开,{f801}抽送门开放了。{f801}{ffff}</source>
+    <target>浮在空中的方块展开,{f801}抽送门开放了。{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>门关得很紧……{f801}{ffff}</source>
+    <target>门关得很紧……{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>第1{f801}{ffff}</source>
+    <target>第1{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>第1经路{f801}{ffff}</source>
+    <target>第1经路{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>第2经路{f801}{ffff}</source>
+    <target>第2经路{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>第3经路{f801}{ffff}</source>
+    <target>第3经路{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>第4经路{f801}{ffff}</source>
+    <target>第4经路{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>第5经路{f801}{ffff}</source>
+    <target>第5经路{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>第6经路{f801}{ffff}</source>
+    <target>第6经路{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>除这里之外的抽送门{f801}好像还没有开放……{f801}{f802}成为目的地的抽送门不开放的话,{f801}无法移动到其他场所。{f801}{ffff}</source>
+    <target>除这里之外的抽送门{f801}好像还没有开放……{f801}{f802}成为目的地的抽送门不开放的话,{f801}无法移动到其他场所。{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>门关得很紧,{f801}以现在的状态无法打开……{f801}{ffff}</source>
+    <target>门关得很紧,{f801}以现在的状态无法打开……{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>门打开了,可以进到里面去……{f801}{ffff}</source>
+    <target>门打开了,可以进到里面去……{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>碰触到浮在空中的块状物体之后,{f801}收缩在里面的物体化作了螺旋状。{f801}{f802}看来这好像是将物体{f801}运送至特定地点的《门》……{f801}{f802}如果开放其他地方相同的块状物体,{f801}应该就可以移动至相应的场所了吧。{f801}{ffff}</source>
+    <target>碰触到浮在空中的块状物体之后,{f801}收缩在里面的物体化作了螺旋状。{f801}{f802}看来这好像是将物体{f801}运送至特定地点的《门》……{f801}{f802}如果开放其他地方相同的块状物体,{f801}应该就可以移动至相应的场所了吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>{f812}警备的猎人{0000}{f81b}{4930}{3237}{3030}{3900}{0000}{0000}入口有我在还算安全,{f801}但是里面全都是恶魔……{f801}{f802}在前往深处的时候要多加小心。{f801}{ffff}</source>
+    <target>{f812}警备的猎人{0000}{f81b}{4930}{3237}{3030}{3900}{0000}{0000}入口有我在还算安全,{f801}但是里面全都是恶魔……{f801}{f802}在前往深处的时候要多加小心。{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>{f812}前来观光的女性{0000}{f81b}{4930}{3138}{3031}{3100}{0000}{0000}虽然我只是前来观光的……{f801}不过宇宙之卵远在我想象之上!{f801}{ffff}</source>
+    <target>{f812}前来观光的女性{0000}{f81b}{4930}{3138}{3031}{3100}{0000}{0000}虽然我只是前来观光的……{f801}不过宇宙之卵远在我想象之上!{f801}{ffff}</target>
+  </entry>
+</mbm>

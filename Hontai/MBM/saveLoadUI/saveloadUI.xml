@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>将覆盖此游戏存档,{f801}请问您确定吗?{f801}{ffff}</source>
+    <target>将覆盖此游戏存档,{f801}请问您确定吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>正在保存存档,{f801}请不要插拔卡带或关闭电源。{f801}{ffff}</source>
+    <target>正在保存存档,{f801}请不要插拔卡带或关闭电源。{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>保存完毕。{f801}{ffff}</source>
+    <target>保存完毕。{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>保存失败。{f801}{ffff}</source>
+    <target>保存失败。{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>正在读取存档,{f801}请不要插拔卡带或关闭电源。{f801}{ffff}</source>
+    <target>正在读取存档,{f801}请不要插拔卡带或关闭电源。{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>读取完毕。{f801}{ffff}</source>
+    <target>读取完毕。{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>读取失败。{f801}{ffff}</source>
+    <target>读取失败。{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>将进行保存,{f801}请问您确定吗?{f801}{ffff}</source>
+    <target>将进行保存,{f801}请问您确定吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>在这个SLOT进行保存的话,{f801}{f804}{0500}存档将保存在SD卡中。{f804}{0000}{f801}请多加注意。{f801}{ffff}</source>
+    <target>在这个SLOT进行保存的话,{f801}{f804}{0500}存档将保存在SD卡中。{f804}{0000}{f801}请多加注意。{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>在这里能够读取保存在{f801}SD卡中的存档。{f801}{ffff}</source>
+    <target>在这里能够读取保存在{f801}SD卡中的存档。{f801}{ffff}</target>
+  </entry>
+</mbm>

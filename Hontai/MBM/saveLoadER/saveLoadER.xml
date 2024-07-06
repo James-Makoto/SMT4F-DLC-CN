@@ -1,0 +1,158 @@
+<mbm>
+  <entry id="0">
+    <source>初始化存档。{f801}{ffff}</source>
+    <target>初始化存档。{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>正在初始化存档……{f801}{ffff}</source>
+    <target>正在初始化存档……{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>存档初始化完毕。{f801}{ffff}</source>
+    <target>存档初始化完毕。{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>由于存档已经损坏,{f801}将进行初始化……{f801}{ffff}</source>
+    <target>由于存档已经损坏,{f801}将进行初始化……{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>无法读取存档……{f801}{ffff}</source>
+    <target>无法读取存档……{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>没能初始化存档。{f801}{ffff}</source>
+    <target>没能初始化存档。{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>由于存档已经破损,{f801}将进行删除。{f801}{ffff}</source>
+    <target>由于存档已经破损,{f801}将进行删除。{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>由于存档已经破损,{f801}将进行初始化。{f801}{ffff}</source>
+    <target>由于存档已经破损,{f801}将进行初始化。{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>没能读取SD卡……{f801}{ffff}</source>
+    <target>没能读取SD卡……{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>追加数据发生损坏,{f801}将重新制作追加数据。{f801}{ffff}</source>
+    <target>追加数据发生损坏,{f801}将重新制作追加数据。{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>没能读取SD卡……{f801}{ffff}</source>
+    <target>没能读取SD卡……{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>追加数据发生损坏,{f801}将重新制作追加数据。{f801}{ffff}</source>
+    <target>追加数据发生损坏,{f801}将重新制作追加数据。{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>没能读取SD卡……{f801}{ffff}</source>
+    <target>没能读取SD卡……{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>SD卡处于写保护状态。{f801}{ffff}</source>
+    <target>SD卡处于写保护状态。{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>没能读取SD卡……{f801}{ffff}</source>
+    <target>没能读取SD卡……{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>没有找到{f801}真・女神转生{8757} FINAL的追加数据。{f801}{f802}将重新制作{f801}真・女神转生{8757} FINAL的追加数据。{f801}{ffff}</source>
+    <target>没有找到{f801}真・女神转生{8757} FINAL的追加数据。{f801}{f802}将重新制作{f801}真・女神转生{8757} FINAL的追加数据。{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>正在制作追加数据。{f801}※这个处理可能需要花费一点时间{f801}{ffff}</source>
+    <target>正在制作追加数据。{f801}※这个处理可能需要花费一点时间{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>追加数据制作完成。{f801}{ffff}</source>
+    <target>追加数据制作完成。{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>SD卡的剩余空间不足,{f801}制作追加数据失败……{f801}{ffff}</source>
+    <target>SD卡的剩余空间不足,{f801}制作追加数据失败……{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>发生错误,制作中断了……{f801}制作追加数据失败。{f801}{ffff}</source>
+    <target>发生错误,制作中断了……{f801}制作追加数据失败。{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>SD处于写保护状态,{f801}制作追加数据失败。{f801}{ffff}</source>
+    <target>SD处于写保护状态,{f801}制作追加数据失败。{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>连接SD卡时发生错误,{f801}制作追加数据失败。{f801}{ffff}</source>
+    <target>连接SD卡时发生错误,{f801}制作追加数据失败。{f801}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>处理SD卡失败。{f801}{ffff}</source>
+    <target>处理SD卡失败。{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>没有识别到SD卡,{f801}制作追加数据失败。{f801}{ffff}</source>
+    <target>没有识别到SD卡,{f801}制作追加数据失败。{f801}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>没有发现{f801}真・女神转生{8757} FINAL的追加数据。{f801}{ffff}</source>
+    <target>没有发现{f801}真・女神转生{8757} FINAL的追加数据。{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>由于数据发生了损坏,已经将其删除。{f801}请重新进行保存。{f801}{ffff}</source>
+    <target>由于数据发生了损坏,已经将其删除。{f801}请重新进行保存。{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>写入SD卡失败,{f801}请重新进行保存。{f801}{ffff}</source>
+    <target>写入SD卡失败,{f801}请重新进行保存。{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>SD卡处于写保护状态。{f801}{ffff}</source>
+    <target>SD卡处于写保护状态。{f801}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>没有识别到SD卡,{f801}写入SD卡失败。{f801}{ffff}</source>
+    <target>没有识别到SD卡,{f801}写入SD卡失败。{f801}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>SD卡的剩余空间不足,{f801}写入SD卡失败。{f801}{ffff}</source>
+    <target>SD卡的剩余空间不足,{f801}写入SD卡失败。{f801}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>没能读取SD卡……{f801}{ffff}</source>
+    <target>没能读取SD卡……{f801}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>没有数据。{f801}{ffff}</source>
+    <target>没有数据。{f801}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>数据已经破损,{f801}读取失败。{f801}{ffff}</source>
+    <target>数据已经破损,{f801}读取失败。{f801}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>由于SD卡的数据已经破损,{f801}将进行删除。{f801}{ffff}</source>
+    <target>由于SD卡的数据已经破损,{f801}将进行删除。{f801}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>由于SLOT{f811}{0000}的SD卡的数据{f801}发生损坏,将进行删除。{f801}{ffff}</source>
+    <target>由于SLOT{f811}{0000}的SD卡的数据{f801}发生损坏,将进行删除。{f801}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>没有体验版的数据。{f801}{ffff}</source>
+    <target>没有体验版的数据。{f801}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>追加数据已经损坏。{f801}{f802}损坏的数据可以{f801}在3DS主机设定中进行删除。{f801}{ffff}</source>
+    <target>追加数据已经损坏。{f801}{f802}损坏的数据可以{f801}在3DS主机设定中进行删除。{f801}{ffff}</target>
+  </entry>
+  <entry id="999">
+    <source>无法识别SD卡。{f801}{f802}请关闭主机电源,{f801}插入SD卡之后再重新尝试一下。{f801}{ffff}</source>
+    <target>无法识别SD卡。{f801}{f802}请关闭主机电源,{f801}插入SD卡之后再重新尝试一下。{f801}{ffff}</target>
+  </entry>
+  <entry id="1000">
+    <source>无法识别SD卡。{f801}{f802}请关闭主机电源,{f801}插入SD卡之后再重新尝试一下。{f801}{ffff}</source>
+    <target>无法识别SD卡。{f801}{f802}请关闭主机电源,{f801}插入SD卡之后再重新尝试一下。{f801}{ffff}</target>
+  </entry>
+</mbm>

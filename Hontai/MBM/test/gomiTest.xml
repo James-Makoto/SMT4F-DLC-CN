@@ -1,0 +1,82 @@
+<mbm>
+  <entry id="0">
+    <source>テストメッセージを開始します。{f801}{ffff}</source>
+    <target>テストメッセージを開始します。{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>テストメッセージです。{f801}{ffff}</source>
+    <target>テストメッセージです。{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>テストメッセージを終了します。{f801}{ffff}</source>
+    <target>テストメッセージを終了します。{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>ジャンケン勝負です{f801}{ffff}</source>
+    <target>ジャンケン勝負です{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>じゃんけんしましょう{f801}{ffff}</source>
+    <target>じゃんけんしましょう{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>じゃんけん・・・しよ・・?{f801}{ffff}</source>
+    <target>じゃんけん・・・しよ・・?{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>さぁ勝負!{f801}{ffff}</source>
+    <target>さぁ勝負!{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>グー{f801}チョキ{f801}パー{f801}{ffff}</source>
+    <target>グー{f801}チョキ{f801}パー{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>あなたの手はグーです{f801}{ffff}</source>
+    <target>あなたの手はグーです{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>あなたの手はチョキです{f801}{ffff}</source>
+    <target>あなたの手はチョキです{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>あなたの手はパーです{f801}{ffff}</source>
+    <target>あなたの手はパーです{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>あいての手はグーです{f801}{ffff}</source>
+    <target>あいての手はグーです{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>あいての手はチョキです{f801}{ffff}</source>
+    <target>あいての手はチョキです{f801}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>あいての手はパーです{f801}{ffff}</source>
+    <target>あいての手はパーです{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>じゃんけんを開始します{f801}{ffff}</source>
+    <target>じゃんけんを開始します{f801}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>じゃーんけーん・・・{f801}{ffff}</source>
+    <target>じゃーんけーん・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>あーいこーで・・・{f801}{ffff}</source>
+    <target>あーいこーで・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>あいこです{f801}{ffff}</source>
+    <target>あいこです{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>あなたの勝ちです{f801}{ffff}</source>
+    <target>あなたの勝ちです{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>あなたの負けです{f801}{ffff}</source>
+    <target>あなたの負けです{f801}{ffff}</target>
+  </entry>
+</mbm>

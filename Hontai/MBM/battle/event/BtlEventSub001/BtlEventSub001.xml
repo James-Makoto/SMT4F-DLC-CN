@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f812}巴比伦淫妇{0000}テスト{f801}{f802}{ffff}</source>
+    <target>{f812}巴比伦淫妇{0000}テスト{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>玛莎哈洛特的信徒{f801}加入了战斗。{f801}{ffff}</source>
+    <target>玛莎哈洛特的信徒{f801}加入了战斗。{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f812}男性信徒{0000}{f87a}{3500}玛莎!{f801}这里就交给我们吧!{f801}{f802}玛莎才刚刚实体化,{f801}请好好保护自己。{f801}{f802}来,这边请!{f801}{ffff}</source>
+    <target>{f812}男性信徒{0000}{f87a}{3500}玛莎!{f801}这里就交给我们吧!{f801}{f802}玛莎才刚刚实体化,{f801}请好好保护自己。{f801}{f802}来,这边请!{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>男信徒带走了{f801}玛莎哈洛特……{f801}{ffff}</source>
+    <target>男信徒带走了{f801}玛莎哈洛特……{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f812}男性信徒{0000}{f87a}{3500}再次降临吧!!巴比伦尼亚的众神啊!{f801}{f802}前来守护{f801}女神母亲吧!{f801}{ffff}</source>
+    <target>{f812}男性信徒{0000}{f87a}{3500}再次降临吧!!巴比伦尼亚的众神啊!{f801}{f802}前来守护{f801}女神母亲吧!{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>テスト{f801}{f802}{ffff}</source>
+    <target>テスト{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>テスト{f801}{f802}{ffff}</source>
+    <target>テスト{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>テスト{f801}{f802}{ffff}</source>
+    <target>テスト{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f812}巴比伦淫妇{0000}テストしぬ{f801}{f802}{ffff}</source>
+    <target>{f812}巴比伦淫妇{0000}テストしぬ{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

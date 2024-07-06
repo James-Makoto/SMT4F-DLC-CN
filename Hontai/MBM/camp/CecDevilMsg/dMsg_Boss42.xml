@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}吾奉旨,{f801}前来讨伐异端…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}吾奉旨,{f801}前来讨伐异端…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}为将吾主的精神传达给{f801}更多的人…向下一个目标前进!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}为将吾主的精神传达给{f801}更多的人…向下一个目标前进!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}主人!吾辈回来了!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}主人!吾辈回来了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}这是捡到的,上交给您。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这是捡到的,上交给您。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}这是吾辈为您准备的礼品。{f801}还请珍惜…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这是吾辈为您准备的礼品。{f801}还请珍惜…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}此物对吾辈无用,不过您应该…{f801}来,收下吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}此物对吾辈无用,不过您应该…{f801}来,收下吧。{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,138 @@
+<mbm>
+  <entry id="0">
+    <source>请选择卡片的附加类型。{f801}{ffff}</source>
+    <target>请选择卡片的附加类型。{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>成长型{f801}无差别合体型{f801}{ffff}</source>
+    <target>成长型{f801}无差别合体型{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>请选择附加的仲魔。{f801}{ffff}</source>
+    <target>请选择附加的仲魔。{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>卡片建立完毕。将此内容{f801}发送给擦肩通讯的用户。{f801}{ffff}</source>
+    <target>卡片建立完毕。将此内容{f801}发送给擦肩通讯的用户。{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>无法添加此仲魔。{f801}{ffff}</source>
+    <target>无法添加此仲魔。{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>要添加这只仲魔吗?{f801}{ffff}</source>
+    <target>要添加这只仲魔吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>没有可以添加的仲魔,{f801}将发送当前卡片。{f801}{ffff}</source>
+    <target>没有可以添加的仲魔,{f801}将发送当前卡片。{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>添加召唤中的仲魔之前,{f801}请将其移出队伍。{f801}{f802}要添加这只仲魔吗?{f801}{ffff}</source>
+    <target>添加召唤中的仲魔之前,{f801}请将其移出队伍。{f801}{f802}要添加这只仲魔吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>请为擦肩通信的用户选择一句问候语。{f801}{ffff}</source>
+    <target>请为擦肩通信的用户选择一句问候语。{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>是否选择当前问候语?{f801}{ffff}</source>
+    <target>是否选择当前问候语?{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>这只仲魔已被添加完毕,{f801}如何操作?{f801}{ffff}</source>
+    <target>这只仲魔已被添加完毕,{f801}如何操作?{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>没有能添加的仲魔。{f801}{ffff}</source>
+    <target>没有能添加的仲魔。{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>请选择您的称号。{f801}{ffff}</source>
+    <target>请选择您的称号。{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>是否选择当前称号?{f801}{ffff}</source>
+    <target>是否选择当前称号?{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>请设定添加的装备。{f801}{ffff}</source>
+    <target>请设定添加的装备。{f801}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>要发送当前装备吗?{f801}{ffff}</source>
+    <target>要发送当前装备吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>保存编辑内容{f801}不保存退出{f801}继续编辑{f801}{ffff}</source>
+    <target>保存编辑内容{f801}不保存退出{f801}继续编辑{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>请选择姿势。{f801}{ffff}</source>
+    <target>请选择姿势。{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>是否选择当前姿势?{f801}{ffff}</source>
+    <target>是否选择当前姿势?{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>改变添加类型{f801}不添加仲魔{f801}{ffff}</source>
+    <target>改变添加类型{f801}不添加仲魔{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>您可以在这里更换DDS卡的{f801}背景。{f801}{ffff}</source>
+    <target>您可以在这里更换DDS卡的{f801}背景。{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>您可以在这里更换DDS卡{f801}上显示的称号。{f801}{ffff}</source>
+    <target>您可以在这里更换DDS卡{f801}上显示的称号。{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>您可以在这里更换DDS卡{f801}上显示的名字。{f801}{ffff}</source>
+    <target>您可以在这里更换DDS卡{f801}上显示的名字。{f801}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>您可以在这里更换DDS卡{f801}上显示的装备。{f801}{ffff}</source>
+    <target>您可以在这里更换DDS卡{f801}上显示的装备。{f801}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>您可以在这里更换DDS卡{f801}上显示的姿势。{f801}{ffff}</source>
+    <target>您可以在这里更换DDS卡{f801}上显示的姿势。{f801}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>您可以在这里更换DDS卡{f801}上附加的仲魔。{f801}{ffff}</source>
+    <target>您可以在这里更换DDS卡{f801}上附加的仲魔。{f801}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>您可以在这里更换DDS卡{f801}上显示的问候语。{f801}{ffff}</source>
+    <target>您可以在这里更换DDS卡{f801}上显示的问候语。{f801}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>请选择卡片背景。{f801}{ffff}</source>
+    <target>请选择卡片背景。{f801}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>是否选择当前背景?{f801}{ffff}</source>
+    <target>是否选择当前背景?{f801}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+</mbm>

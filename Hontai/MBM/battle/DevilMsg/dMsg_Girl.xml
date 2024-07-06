@@ -1,0 +1,94 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}我学会了新技能!{f801}所以,请让我继续杀戮吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我学会了新技能!{f801}所以,请让我继续杀戮吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}就让哥哥你来使用这个新技能吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就让哥哥你来使用这个新技能吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}呵呵……{f801}我变得越来越强了呢。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呵呵……{f801}我变得越来越强了呢。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}我没法学这么多技能呢……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我没法学这么多技能呢……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}要将{f804}{0500}{f877}{0100}{f804}{0000}{f801}变成{f804}{0500}{f877}{0200}{f804}{0000}吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}要将{f804}{0500}{f877}{0100}{f804}{0000}{f801}变成{f804}{0500}{f877}{0200}{f804}{0000}吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}呀哈哈哈哈!真是有趣!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呀哈哈哈哈!真是有趣!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}哼!吝啬的人类……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哼!吝啬的人类……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}就算我变得更强,{f801}哥哥你也不会讨厌我吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就算我变得更强,{f801}哥哥你也不会讨厌我吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}哥哥……再见……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥……再见……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}真是的!好无聊啊!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}真是的!好无聊啊!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}这是……真正的我?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这是……真正的我?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}好兴奋啊……{f801}我的体内有什么在蠢蠢欲动……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好兴奋啊……{f801}我的体内有什么在蠢蠢欲动……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}给你吧〜{f801}请不要让我觉得寂寞哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}给你吧〜{f801}请不要让我觉得寂寞哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}给你吧……{f801}{f843}{0000}可是我的忠仆哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}给你吧……{f801}{f843}{0000}可是我的忠仆哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}这个{f804}{0500}{f872}{0100}{f804}{0000}给你!{f801}你可要珍惜哦!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这个{f804}{0500}{f872}{0100}{f804}{0000}给你!{f801}你可要珍惜哦!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}哥哥,将我的恶魔之力{f801}给你一些吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥,将我的恶魔之力{f801}给你一些吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}呀哈!真是可爱的人类……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呀哈!真是可爱的人类……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}我是{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000},{f801}今后还请多多关照……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我是{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000},{f801}今后还请多多关照……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}让技能变异{f801}取消{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}让技能变异{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>让恶魔进化{f801}取消{f801}{f802}{ffff}</source>
+    <target>让恶魔进化{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>确定{f801}取消{f801}{f802}{ffff}</source>
+    <target>确定{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f812}米多{0000}{f87a}{0100}发生了合体故障,{f801}诞生出了预想之外的恶魔……{f801}{f802}{ffff}</source>
+    <target>{f812}米多{0000}{f87a}{0100}发生了合体故障,{f801}诞生出了预想之外的恶魔……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>ダミー{f801}{f802}{ffff}</source>
+    <target>ダミー{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

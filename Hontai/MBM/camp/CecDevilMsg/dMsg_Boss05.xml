@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}摧毁眼前的安于现状,{f801}吾欲探手,更上层楼。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}摧毁眼前的安于现状,{f801}吾欲探手,更上层楼。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}吾周游列国,磨练技巧…{f801}钻研之路永无止境。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}吾周游列国,磨练技巧…{f801}钻研之路永无止境。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}追求霸道之路没有尽头。{f801}故,吾且锤炼自身。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}追求霸道之路没有尽头。{f801}故,吾且锤炼自身。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}有礼自远方来,让渡给您。{f801}定能助您一臂之力。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}有礼自远方来,让渡给您。{f801}定能助您一臂之力。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}吾久未归,这些时日多有辛苦。{f801}且收下此礼,以表歉意。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}吾久未归,这些时日多有辛苦。{f801}且收下此礼,以表歉意。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}献上吾此番旅途带回的礼品,{f801}请笑纳…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}献上吾此番旅途带回的礼品,{f801}请笑纳…{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

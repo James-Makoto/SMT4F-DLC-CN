@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>テスト{f801}{ffff}</source>
+    <target>テスト{f801}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>被传送到了提尔纳诺。{f801}{f802}在这里通过打倒恶魔,{f801}能够获得宝石。{f801}{ffff}</source>
+    <target>被传送到了提尔纳诺。{f801}{f802}在这里通过打倒恶魔,{f801}能够获得宝石。{f801}{ffff}</target>
+  </entry>
+  <entry id="301">
+    <source>要返回原先的世界吗?{f801}{ffff}</source>
+    <target>要返回原先的世界吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="302">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+</mbm>

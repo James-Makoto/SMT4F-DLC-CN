@@ -1,0 +1,94 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}好热!好热!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好热!好热!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}{f843}{0000}…!{f801}好冷!好冷!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}…!{f801}好冷!好冷!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}好痛苦!好痛苦!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好痛苦!好痛苦!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>恶魔在发呆……{f801}{f802}{ffff}</source>
+    <target>恶魔在发呆……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}将{f804}{0500}{f877}{0100}{f804}{0000}{f801}变成{f804}{0500}{f877}{0200}{f804}{0000}……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}将{f804}{0500}{f877}{0100}{f804}{0000}{f801}变成{f804}{0500}{f877}{0200}{f804}{0000}……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>恶魔默默地点了点头……{f801}{f802}{ffff}</source>
+    <target>恶魔默默地点了点头……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>恶魔寂寞地叫了一声……{f801}{f802}{ffff}</source>
+    <target>恶魔寂寞地叫了一声……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}想要……变成人类……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}想要……变成人类……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}已经……不想再死了……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}已经……不想再死了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}啾啾啾啾啾啾啾啾啾啾啾啾啾……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啾啾啾啾啾啾啾啾啾啾啾啾啾……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>恶魔在发呆……{f801}{f802}{ffff}</source>
+    <target>恶魔在发呆……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>恶魔拿出了{f801}{f804}{0500}{f872}{0100}{f804}{0000}……{f801}{f802}{ffff}</source>
+    <target>恶魔拿出了{f801}{f804}{0500}{f872}{0100}{f804}{0000}……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>恶魔开心地拿出了{f801}{f804}{0500}{f872}{0100}{f804}{0000}……{f801}{f802}{ffff}</source>
+    <target>恶魔开心地拿出了{f801}{f804}{0500}{f872}{0100}{f804}{0000}……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}我的同伴,{f801}给你{f804}{0500}{f872}{0100}{f804}{0000}……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我的同伴,{f801}给你{f804}{0500}{f872}{0100}{f804}{0000}……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}脑浆……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}脑浆……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}开心吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}开心吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>恶魔的声音直接传到了{f801}你的大脑中……{f801}{f802}「我是{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000},{f801}今后还请多多关照……」{f801}{f802}{ffff}</source>
+    <target>恶魔的声音直接传到了{f801}你的大脑中……{f801}{f802}「我是{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000},{f801}今后还请多多关照……」{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}让技能变异{f801}取消{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}让技能变异{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>让恶魔进化{f801}取消{f801}{f802}{ffff}</source>
+    <target>让恶魔进化{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>确定{f801}取消{f801}{f802}{ffff}</source>
+    <target>确定{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f812}米多{0000}{f87a}{0100}发生了合体故障,{f801}诞生出了预想之外的恶魔……{f801}{f802}{ffff}</source>
+    <target>{f812}米多{0000}{f87a}{0100}发生了合体故障,{f801}诞生出了预想之外的恶魔……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>ダミー{f801}{f802}{ffff}</source>
+    <target>ダミー{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

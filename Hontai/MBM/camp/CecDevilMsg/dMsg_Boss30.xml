@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}我前往了各地,指引了正确的秩序…{f801}好了,下次我该去往何方呢?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我前往了各地,指引了正确的秩序…{f801}好了,下次我该去往何方呢?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}现在污秽弥漫在整个世界,{f801}我必须去净化它们…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}现在污秽弥漫在整个世界,{f801}我必须去净化它们…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}为了创造今日的安宁能持续到明天的世界,{f801}还有许多不得不去做的事在等着我。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}为了创造今日的安宁能持续到明天的世界,{f801}还有许多不得不去做的事在等着我。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}这是上天赐予你的礼物…{f801}记得珍惜。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这是上天赐予你的礼物…{f801}记得珍惜。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}这是我为你准备的一件礼品,{f801}不必多礼,收下吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这是我为你准备的一件礼品,{f801}不必多礼,收下吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}收下这个,{f801}既然汝恳切地想要成为秩序的基础…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}收下这个,{f801}既然汝恳切地想要成为秩序的基础…{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

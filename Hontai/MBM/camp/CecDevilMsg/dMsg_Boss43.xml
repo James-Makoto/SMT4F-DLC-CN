@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}我需要给予世间万物试炼。{f801}下回该去哪儿呢…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我需要给予世间万物试炼。{f801}下回该去哪儿呢…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}只要心中有天堂,身处深渊也无妨。{f801}…我只是,要尽我的本分。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}只要心中有天堂,身处深渊也无妨。{f801}…我只是,要尽我的本分。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}我的本质就是要尝试…{f801}若有所求,我随时能给予试炼。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我的本质就是要尝试…{f801}若有所求,我随时能给予试炼。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}这也是一种试炼…{f801}来,收下吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这也是一种试炼…{f801}来,收下吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}给你带了礼物。{f801}这也是为了试炼…拿好。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给你带了礼物。{f801}这也是为了试炼…拿好。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}这是我专程为你带来的礼物。{f801}记得珍惜。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这是我专程为你带来的礼物。{f801}记得珍惜。{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

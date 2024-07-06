@@ -1,0 +1,646 @@
+<mbm>
+  <entry id="100">
+    <source>有一个电梯,{f801}要移动到哪一层?{f801}{ffff}</source>
+    <target>有一个电梯,{f801}要移动到哪一层?{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>第2展望台{f801}取消{f801}{ffff}</source>
+    <target>第2展望台{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>1F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>B1F{f801}取消{f801}{ffff}</source>
+    <target>B1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>1F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>B1F{f801}取消{f801}{ffff}</source>
+    <target>B1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>B1F{f801}取消{f801}{ffff}</source>
+    <target>B1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>B3F{f801}取消{f801}{ffff}</source>
+    <target>B3F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>1F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>B2F{f801}B4F{f801}取消{f801}{ffff}</source>
+    <target>B2F{f801}B4F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>B1F{f801}B4F{f801}取消{f801}{ffff}</source>
+    <target>B1F{f801}B4F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>1F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>B3F{f801}取消{f801}{ffff}</source>
+    <target>B3F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>B2F{f801}取消{f801}{ffff}</source>
+    <target>B2F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>1F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>33F{f801}取消{f801}{ffff}</source>
+    <target>33F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="116">
+    <source>54F{f801}取消{f801}{ffff}</source>
+    <target>54F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="117">
+    <source>1F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="118">
+    <source>43F{f801}取消{f801}{ffff}</source>
+    <target>43F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="119">
+    <source>33F{f801}取消{f801}{ffff}</source>
+    <target>33F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="120">
+    <source>54F{f801}取消{f801}{ffff}</source>
+    <target>54F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>43F{f801}取消{f801}{ffff}</source>
+    <target>43F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>1F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>B8F{f801}B9F{f801}取消{f801}{ffff}</source>
+    <target>B8F{f801}B9F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="124">
+    <source>B51F{f801}取消{f801}{ffff}</source>
+    <target>B51F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="125">
+    <source>B7F{f801}B9F{f801}取消{f801}{ffff}</source>
+    <target>B7F{f801}B9F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="126">
+    <source>B7F{f801}B8F{f801}取消{f801}{ffff}</source>
+    <target>B7F{f801}B8F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="127">
+    <source>B51F{f801}取消{f801}{ffff}</source>
+    <target>B51F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="128">
+    <source>B9F{f801}取消{f801}{ffff}</source>
+    <target>B9F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="129">
+    <source>B51F{f801}取消{f801}{ffff}</source>
+    <target>B51F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="130">
+    <source>B51F{f801}取消{f801}{ffff}</source>
+    <target>B51F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="131">
+    <source>B7F{f801}取消{f801}{ffff}</source>
+    <target>B7F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="132">
+    <source>电梯被锁上了。{f801}{ffff}</source>
+    <target>电梯被锁上了。{f801}{ffff}</target>
+  </entry>
+  <entry id="133">
+    <source>电梯被锁上了。{f801}{ffff}</source>
+    <target>电梯被锁上了。{f801}{ffff}</target>
+  </entry>
+  <entry id="134">
+    <source>B4F{f801}取消{f801}{ffff}</source>
+    <target>B4F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="135">
+    <source>B1F{f801}取消{f801}{ffff}</source>
+    <target>B1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="136">
+    <source>B3F{f801}取消{f801}{ffff}</source>
+    <target>B3F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="137">
+    <source>1F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="138">
+    <source>B1F{f801}取消{f801}{ffff}</source>
+    <target>B1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="139">
+    <source>B2F{f801}取消{f801}{ffff}</source>
+    <target>B2F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="140">
+    <source>1F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="141">
+    <source>B1F{f801}取消{f801}{ffff}</source>
+    <target>B1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="142">
+    <source>B3F{f801}取消{f801}{ffff}</source>
+    <target>B3F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="143">
+    <source>2F{f801}取消{f801}{ffff}</source>
+    <target>2F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="144">
+    <source>电梯被锁上了。{f801}{ffff}</source>
+    <target>电梯被锁上了。{f801}{ffff}</target>
+  </entry>
+  <entry id="145">
+    <source>被锁上了。{f801}{ffff}</source>
+    <target>被锁上了。{f801}{ffff}</target>
+  </entry>
+  <entry id="146">
+    <source>1F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="147">
+    <source>1F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="148">
+    <source>B1F{f801}取消{f801}{ffff}</source>
+    <target>B1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="149">
+    <source>1F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="150">
+    <source>B1F{f801}B2F{f801}取消{f801}{ffff}</source>
+    <target>B1F{f801}B2F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="151">
+    <source>2F{f801}3F{f801}取消{f801}{ffff}</source>
+    <target>2F{f801}3F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="152">
+    <source>2F{f801}3F{f801}取消{f801}{ffff}</source>
+    <target>2F{f801}3F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="153">
+    <source>1F{f801}3F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}3F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="154">
+    <source>1F{f801}3F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}3F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="155">
+    <source>1F{f801}2F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}2F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="156">
+    <source>1F{f801}2F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}2F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="157">
+    <source>将锁打开了。{f801}{ffff}</source>
+    <target>将锁打开了。{f801}{ffff}</target>
+  </entry>
+  <entry id="158">
+    <source>1F{f801}取消{f801}{ffff}</source>
+    <target>1F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="159">
+    <source>2F{f801}取消{f801}{ffff}</source>
+    <target>2F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="160">
+    <source>B3F{f801}取消{f801}{ffff}</source>
+    <target>B3F{f801}取消{f801}{ffff}</target>
+  </entry>
+  <entry id="600">
+    <source>这前面有恶魔设下的结界……{f801}是要前进还是后退,要慎重考虑。{f801}{ffff}</source>
+    <target>这前面有恶魔设下的结界……{f801}是要前进还是后退,要慎重考虑。{f801}{ffff}</target>
+  </entry>
+  <entry id="601">
+    <source>前进{f801}返回{f801}{ffff}</source>
+    <target>前进{f801}返回{f801}{ffff}</target>
+  </entry>
+  <entry id="602">
+    <source>从前面传来了恶魔的气息……{f801}是要前进还是返回,需要三思而后行。{f801}{ffff}</source>
+    <target>从前面传来了恶魔的气息……{f801}是要前进还是返回,需要三思而后行。{f801}{ffff}</target>
+  </entry>
+  <entry id="603">
+    <source>前进{f801}返回{f801}{ffff}</source>
+    <target>前进{f801}返回{f801}{ffff}</target>
+  </entry>
+  <entry id="604">
+    <source>从前面传来了明显的敌意……{f801}是要前进还是返回,请三思而后行。{f801}{ffff}</source>
+    <target>从前面传来了明显的敌意……{f801}是要前进还是返回,请三思而后行。{f801}{ffff}</target>
+  </entry>
+  <entry id="605">
+    <source>从里面传来了令人窒息的气息……{f801}要进入里面吗?{f801}{ffff}</source>
+    <target>从里面传来了令人窒息的气息……{f801}要进入里面吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="606">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="900">
+    <source>从这扇门中可以逃到结界的外面去……{f801}要结束结界内的探索吗?{f801}{ffff}</source>
+    <target>从这扇门中可以逃到结界的外面去……{f801}要结束结界内的探索吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="901">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="902">
+    <source>已经没必要留在这里了……{f801}{ffff}</source>
+    <target>已经没必要留在这里了……{f801}{ffff}</target>
+  </entry>
+  <entry id="903">
+    <source>打倒恶魔之后,结界也消失了。{f801}{f802}{f843}{0000}获得了{f801}《{f811}{0000}》……{f801}{ffff}</source>
+    <target>打倒恶魔之后,结界也消失了。{f801}{f802}{f843}{0000}获得了{f801}《{f811}{0000}》……{f801}{ffff}</target>
+  </entry>
+  <entry id="910">
+    <source>{f811}{0000}{f801}门被关得很紧……{f801}{ffff}</source>
+    <target>{f811}{0000}{f801}门被关得很紧……{f801}{ffff}</target>
+  </entry>
+  <entry id="911">
+    <source>门被神奇的力量紧紧关闭……{f801}{ffff}</source>
+    <target>门被神奇的力量紧紧关闭……{f801}{ffff}</target>
+  </entry>
+  <entry id="912">
+    <source>这里已经什么都没有了。{f801}{ffff}</source>
+    <target>这里已经什么都没有了。{f801}{ffff}</target>
+  </entry>
+  <entry id="913">
+    <source>这里被恶魔之力封印着……{f801}{ffff}</source>
+    <target>这里被恶魔之力封印着……{f801}{ffff}</target>
+  </entry>
+  <entry id="920">
+    <source>{f812}巴洛兹{0000}納品物が集まったよ{f801}Kの店で納品を行うのを推奨するよ{f801}{ffff}</source>
+    <target>{f812}巴洛兹{0000}納品物が集まったよ{f801}Kの店で納品を行うのを推奨するよ{f801}{ffff}</target>
+  </entry>
+  <entry id="921">
+    <source>{f812}巴洛兹{0000}納品物が集まったよ{f801}人外ハンター商会で納品を行うのを推奨するよ{f801}{ffff}</source>
+    <target>{f812}巴洛兹{0000}納品物が集まったよ{f801}人外ハンター商会で納品を行うのを推奨するよ{f801}{ffff}</target>
+  </entry>
+  <entry id="922">
+    <source>{f812}巴洛兹{0000}納品物が集まったよ{f801}指定の場所で納品を行うのを推奨するよ{f801}{ffff}</source>
+    <target>{f812}巴洛兹{0000}納品物が集まったよ{f801}指定の場所で納品を行うのを推奨するよ{f801}{ffff}</target>
+  </entry>
+  <entry id="932">
+    <source>{f812}巴洛兹{0000}{f87a}{0200}{f813}{0100}{0000}{11a9}{0700}惜しかったわね{f801}またチャレンジしましょ{f801}{ffff}</source>
+    <target>{f812}巴洛兹{0000}{f87a}{0200}{f813}{0100}{0000}{11a9}{0700}惜しかったわね{f801}またチャレンジしましょ{f801}{ffff}</target>
+  </entry>
+  <entry id="935">
+    <source>{f812}巴洛兹{0000}{f87a}{0200}{f813}{0100}{0000}{851a}{0600}ちょっと 待って{f801}別のクエストを受けてるけど大丈夫?{f801}{ffff}</source>
+    <target>{f812}巴洛兹{0000}{f87a}{0200}{f813}{0100}{0000}{851a}{0600}ちょっと 待って{f801}別のクエストを受けてるけど大丈夫?{f801}{ffff}</target>
+  </entry>
+  <entry id="936">
+    <source>メインのクエストを進めたい場合は{f801}チャレンジクエストをギブアップ{f801}または達成して メインのクエストの{f801}一時停止を解除してください{f801}{ffff}</source>
+    <target>メインのクエストを進めたい場合は{f801}チャレンジクエストをギブアップ{f801}または達成して メインのクエストの{f801}一時停止を解除してください{f801}{ffff}</target>
+  </entry>
+  <entry id="940">
+    <source>{f812}巴洛兹{0000}{f87a}{0200}ねぇ こんなの知ってる?{f801}{ffff}</source>
+    <target>{f812}巴洛兹{0000}{f87a}{0200}ねぇ こんなの知ってる?{f801}{ffff}</target>
+  </entry>
+  <entry id="941">
+    <source>{f812}巴洛兹{0000}{f87a}{0200}ねぇ こんなの知ってる?{f801}{f802}仮想現実機能を利用した{f801}戦闘訓練用クエストっていうんだけど{f801}{f802}なんなら 詳しく説明するわよ?{f801}{ffff}</source>
+    <target>{f812}巴洛兹{0000}{f87a}{0200}ねぇ こんなの知ってる?{f801}{f802}仮想現実機能を利用した{f801}戦闘訓練用クエストっていうんだけど{f801}{f802}なんなら 詳しく説明するわよ?{f801}{ffff}</target>
+  </entry>
+  <entry id="942">
+    <source>説明を聞く{f801}説明を聞かない{f801}{ffff}</source>
+    <target>説明を聞く{f801}説明を聞かない{f801}{ffff}</target>
+  </entry>
+  <entry id="943">
+    <source>新たなチャレンジクエストが{f801}解禁になりました{f801}{f802}このチャレンジクエストは{f801}様々なミッションを 与えられ攻略する{f801}バトルのみ行うクエストです{f801}{f802}失敗してもペナルティはありません{f801}何度でも挑戦可能です{f801}{f802}定期的にクエストが追加されるので{f801}気軽に挑戦してみましょう{f801}{ffff}</source>
+    <target>新たなチャレンジクエストが{f801}解禁になりました{f801}{f802}このチャレンジクエストは{f801}様々なミッションを 与えられ攻略する{f801}バトルのみ行うクエストです{f801}{f802}失敗してもペナルティはありません{f801}何度でも挑戦可能です{f801}{f802}定期的にクエストが追加されるので{f801}気軽に挑戦してみましょう{f801}{ffff}</target>
+  </entry>
+  <entry id="944">
+    <source>{f812}巴洛兹{0000}{f87a}{0200}{f813}{0000}{0000}{17a9}{0700}いくつかチャレンジクエストに{f801}登録しておくわ{f801}{ffff}</source>
+    <target>{f812}巴洛兹{0000}{f87a}{0200}{f813}{0000}{0000}{17a9}{0700}いくつかチャレンジクエストに{f801}登録しておくわ{f801}{ffff}</target>
+  </entry>
+  <entry id="945">
+    <source>{f812}巴洛兹{0000}{f87a}{0200}…ざっとこんな感じだから{f801}好きな時に受けてみて{f801}{ffff}</source>
+    <target>{f812}巴洛兹{0000}{f87a}{0200}…ざっとこんな感じだから{f801}好きな時に受けてみて{f801}{ffff}</target>
+  </entry>
+  <entry id="946">
+    <source>{f812}巴洛兹{0000}{f87a}{0200}{f813}{0000}{0000}{19a9}{0700}じゃあ 説明はすっ飛ばすわね{f801}{f802}{f813}{0000}{0000}{13a9}{0700}チャレンジクエストに登録しておくから{f801}好きな時に受けてみて{f801}{ffff}</source>
+    <target>{f812}巴洛兹{0000}{f87a}{0200}{f813}{0000}{0000}{19a9}{0700}じゃあ 説明はすっ飛ばすわね{f801}{f802}{f813}{0000}{0000}{13a9}{0700}チャレンジクエストに登録しておくから{f801}好きな時に受けてみて{f801}{ffff}</target>
+  </entry>
+  <entry id="947">
+    <source>{f812}巴洛兹{0000}{f87a}{0200}{f813}{0000}{0000}{12a9}{0700}ねぇ聞いて{f801}仮想現実でできるクエストがあったわ{f801}{f802}{f813}{0000}{0000}{13a9}{0700}チャレンジクエストに登録しておくから{f801}好きな時に受けてみて{f801}{ffff}</source>
+    <target>{f812}巴洛兹{0000}{f87a}{0200}{f813}{0000}{0000}{12a9}{0700}ねぇ聞いて{f801}仮想現実でできるクエストがあったわ{f801}{f802}{f813}{0000}{0000}{13a9}{0700}チャレンジクエストに登録しておくから{f801}好きな時に受けてみて{f801}{ffff}</target>
+  </entry>
+  <entry id="950">
+    <source>驱敌之术的效果消失了。{f801}{ffff}</source>
+    <target>驱敌之术的效果消失了。{f801}{ffff}</target>
+  </entry>
+  <entry id="951">
+    <source>虽然发现了{f811}{0000},{f801}但是已经没法再拿了。{f801}{ffff}</source>
+    <target>虽然发现了{f811}{0000},{f801}但是已经没法再拿了。{f801}{ffff}</target>
+  </entry>
+  <entry id="999">
+    <source>摆脱了陷阱,{f801}好像掉了什么东西。{f801}{ffff}</source>
+    <target>摆脱了陷阱,{f801}好像掉了什么东西。{f801}{ffff}</target>
+  </entry>
+  <entry id="1000">
+    <source>遗物{f804}{0500}{f811}{0000}{f804}{0000}被夺走了。{f801}{ffff}</source>
+    <target>遗物{f804}{0500}{f811}{0000}{f804}{0000}被夺走了。{f801}{ffff}</target>
+  </entry>
+  <entry id="1001">
+    <source>精神力被夺走了,{f801}遗物{f804}{0500}{f811}{0000}{f804}{0000}被夺走了。{f801}{ffff}</source>
+    <target>精神力被夺走了,{f801}遗物{f804}{0500}{f811}{0000}{f804}{0000}被夺走了。{f801}{ffff}</target>
+  </entry>
+  <entry id="1002">
+    <source>陷入陷阱之中,被传送到了别的地方。{f801}遗物{f804}{0500}{f811}{0000}{f804}{0000}被夺走了。{f801}{ffff}</source>
+    <target>陷入陷阱之中,被传送到了别的地方。{f801}遗物{f804}{0500}{f811}{0000}{f804}{0000}被夺走了。{f801}{ffff}</target>
+  </entry>
+  <entry id="1010">
+    <source>好像什么都没有被夺走。{f801}{ffff}</source>
+    <target>好像什么都没有被夺走。{f801}{ffff}</target>
+  </entry>
+  <entry id="1011">
+    <source>精神力被夺走了。{f801}{ffff}</source>
+    <target>精神力被夺走了。{f801}{ffff}</target>
+  </entry>
+  <entry id="1012">
+    <source>受到神秘力量的影响,{f801}被传送到了别的地方……{f801}{ffff}</source>
+    <target>受到神秘力量的影响,{f801}被传送到了别的地方……{f801}{ffff}</target>
+  </entry>
+  <entry id="1100">
+    <source>翡翠之守刀在闪闪发光,{f801}在这里可以使用灵斩。{f801}{ffff}</source>
+    <target>翡翠之守刀在闪闪发光,{f801}在这里可以使用灵斩。{f801}{ffff}</target>
+  </entry>
+  <entry id="1101">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="1102">
+    <source>灵力注入到了《翡翠之守刀》之中……{f801}{ffff}</source>
+    <target>灵力注入到了《翡翠之守刀》之中……{f801}{ffff}</target>
+  </entry>
+  <entry id="1103">
+    <source>《翡翠之守刀》中{f801}充满了灵力。{f801}{ffff}</source>
+    <target>《翡翠之守刀》中{f801}充满了灵力。{f801}{ffff}</target>
+  </entry>
+  <entry id="1104">
+    <source>{f812}纳瓦尔{0000}{f87a}{af00}{f81b}{4930}{3033}{3034}{3400}{0000}{0000}噢噢!?这是!?{f801}哈哈哈哈哈,从现在开始是我的时间了!{f801}{ffff}</source>
+    <target>{f812}纳瓦尔{0000}{f87a}{af00}{f81b}{4930}{3033}{3034}{3400}{0000}{0000}噢噢!?这是!?{f801}哈哈哈哈哈,从现在开始是我的时间了!{f801}{ffff}</target>
+  </entry>
+  <entry id="1105">
+    <source>{f812}纳瓦尔{0000}{f87a}{af00}{f81b}{4930}{3033}{3034}{3400}{0000}{0000}呵呵呵……{f801}果然这里就是奥贝龙说过的地方呢!{f801}{f802}力量透过刀传了过来……{f801}哈哈哈哈哈哈!这个真是厉害!{f801}{f802}{f81b}{4930}{3033}{3031}{3400}{0000}{0000}充满了……力量!{f801}{ffff}</source>
+    <target>{f812}纳瓦尔{0000}{f87a}{af00}{f81b}{4930}{3033}{3034}{3400}{0000}{0000}呵呵呵……{f801}果然这里就是奥贝龙说过的地方呢!{f801}{f802}力量透过刀传了过来……{f801}哈哈哈哈哈哈!这个真是厉害!{f801}{f802}{f81b}{4930}{3033}{3031}{3400}{0000}{0000}充满了……力量!{f801}{ffff}</target>
+  </entry>
+  <entry id="1110">
+    <source>虽然发现了{f811}{0000}和{f811}{0100},{f801}但是已经拿不了了……{f801}{ffff}</source>
+    <target>虽然发现了{f811}{0000}和{f811}{0100},{f801}但是已经拿不了了……{f801}{ffff}</target>
+  </entry>
+  <entry id="1300">
+    <source>虽然感觉到了灵力的奔流,{f801}但似乎什么都没有发生……{f801}{ffff}</source>
+    <target>虽然感觉到了灵力的奔流,{f801}但似乎什么都没有发生……{f801}{ffff}</target>
+  </entry>
+  <entry id="1301">
+    <source>因为纳瓦尔没有在,{f801}什么都没有发生……{f801}{ffff}</source>
+    <target>因为纳瓦尔没有在,{f801}什么都没有发生……{f801}{ffff}</target>
+  </entry>
+  <entry id="1302">
+    <source>{f812}达格达{0000}{f87a}{ad00}{f81b}{4531}{3535}{3033}{3300}{0000}{0000}{f843}{0000},现在的你应该可以{f801}直接用灵力进行操纵吧。{f801}{f802}{f81b}{4531}{3535}{3033}{3400}{0000}{0000}你试试看吧。{f801}{ffff}</source>
+    <target>{f812}达格达{0000}{f87a}{ad00}{f81b}{4531}{3535}{3033}{3300}{0000}{0000}{f843}{0000},现在的你应该可以{f801}直接用灵力进行操纵吧。{f801}{f802}{f81b}{4531}{3535}{3033}{3400}{0000}{0000}你试试看吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="1303">
+    <source>由于{f843}{0000}已经觉醒,{f801}可以使用《翡翠之守刀》了。{f801}{f802}通过调查灵泉,{f801}可以和至今为止一样破坏灵晶。{f801}{ffff}</source>
+    <target>由于{f843}{0000}已经觉醒,{f801}可以使用《翡翠之守刀》了。{f801}{f802}通过调查灵泉,{f801}可以和至今为止一样破坏灵晶。{f801}{ffff}</target>
+  </entry>
+  <entry id="1500">
+    <source>要报告失踪者的详细情报吗?{f801}{ffff}</source>
+    <target>要报告失踪者的详细情报吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="1501">
+    <source>作为报酬,{f801}获得了{f804}{0500}{f878}{0100}{f804}{0000}点程序点数。{f801}{ffff}</source>
+    <target>作为报酬,{f801}获得了{f804}{0500}{f878}{0100}{f804}{0000}点程序点数。{f801}{ffff}</target>
+  </entry>
+  <entry id="1502">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="1510">
+    <source>摆脱了神秘的力量,{f801}解除了全身的束缚……{f801}{ffff}</source>
+    <target>摆脱了神秘的力量,{f801}解除了全身的束缚……{f801}{ffff}</target>
+  </entry>
+  <entry id="2000">
+    <source>标题:区域开通工程竣工的通知{f801}送信者:人外猎人 道路交通整备科{f801}{f802}为了让输送路径变得更加便捷,{f801}道路的一部分区域开通了。{f801}{f802}开通区域:{f801}上野地区〜城东地区{f801}{f802}开通工程还在陆续进行中,{f801}今后还请多多关照。{f801}{ffff}</source>
+    <target>标题:区域开通工程竣工的通知{f801}送信者:人外猎人 道路交通整备科{f801}{f802}为了让输送路径变得更加便捷,{f801}道路的一部分区域开通了。{f801}{f802}开通区域:{f801}上野地区〜城东地区{f801}{f802}开通工程还在陆续进行中,{f801}今后还请多多关照。{f801}{ffff}</target>
+  </entry>
+  <entry id="2001">
+    <source>标题:区域开通工程竣工的通知{f801}送信者:人外猎人 道路交通整备科{f801}{f802}为了让输送路径变得更加便捷,{f801}道路的一部分区域开通了。{f801}{f802}开通区域:{f801}上野・城东地区〜千代田地区{f801}{f802}开通工程还在陆续进行中,{f801}今后还请多多关照。{f801}{ffff}</source>
+    <target>标题:区域开通工程竣工的通知{f801}送信者:人外猎人 道路交通整备科{f801}{f802}为了让输送路径变得更加便捷,{f801}道路的一部分区域开通了。{f801}{f802}开通区域:{f801}上野・城东地区〜千代田地区{f801}{f802}开通工程还在陆续进行中,{f801}今后还请多多关照。{f801}{ffff}</target>
+  </entry>
+  <entry id="2002">
+    <source>标题:区域开通工程竣工的通知{f801}送信者:人外猎人 道路交通整备科{f801}{f802}为了让输送路径变得更加便捷,{f801}道路的一部分区域开通了。{f801}{f802}开通区域:{f801}千代田地区〜六本木地区{f801}{f802}开通工程还在陆续进行中,{f801}今后还请多多关照。{f801}{ffff}</source>
+    <target>标题:区域开通工程竣工的通知{f801}送信者:人外猎人 道路交通整备科{f801}{f802}为了让输送路径变得更加便捷,{f801}道路的一部分区域开通了。{f801}{f802}开通区域:{f801}千代田地区〜六本木地区{f801}{f802}开通工程还在陆续进行中,{f801}今后还请多多关照。{f801}{ffff}</target>
+  </entry>
+  <entry id="2003">
+    <source>标题:区域开通工程竣工的通知{f801}送信者:人外猎人 道路交通整备科{f801}{f802}为了让输送路径变得更加便捷,{f801}剩余的区域工程均已竣工。。{f801}{f802}开通区域:{f801}千代田区域〜池袋・城北区域{f801}{f802}六本木区域〜港湾区域{f801}{f802}开通道路的全部工程均已竣工,{f801}非常感谢大家的协助。{f801}{ffff}</source>
+    <target>标题:区域开通工程竣工的通知{f801}送信者:人外猎人 道路交通整备科{f801}{f802}为了让输送路径变得更加便捷,{f801}剩余的区域工程均已竣工。。{f801}{f802}开通区域:{f801}千代田区域〜池袋・城北区域{f801}{f802}六本木区域〜港湾区域{f801}{f802}开通道路的全部工程均已竣工,{f801}非常感谢大家的协助。{f801}{ffff}</target>
+  </entry>
+  <entry id="2100">
+    <source>{f812}达格达{0000}{f81b}{4930}{3132}{3030}{3800}{0000}{0000}已经获得了委托物呢……{f801}哼,赶快送到商会吧。{f801}{ffff}</source>
+    <target>{f812}达格达{0000}{f81b}{4930}{3132}{3030}{3800}{0000}{0000}已经获得了委托物呢……{f801}哼,赶快送到商会吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="2101">
+    <source>{f812}达格达{0000}新接受的任务中……{f801}有一些已经达成了完成条件。{f801}{f802}哼,就这样继续努力吧。{f801}{ffff}</source>
+    <target>{f812}达格达{0000}新接受的任务中……{f801}有一些已经达成了完成条件。{f801}{f802}哼,就这样继续努力吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="2200">
+    <source>从这面墙壁中感受到了特别的力量……{f801}以现在的状态很难破坏。{f801}{ffff}</source>
+    <target>从这面墙壁中感受到了特别的力量……{f801}以现在的状态很难破坏。{f801}{ffff}</target>
+  </entry>
+  <entry id="2201">
+    <source>从这面墙壁中感受到了特别的力量……{f801}要用天羽羽斩剑进行破坏吗?{f801}{ffff}</source>
+    <target>从这面墙壁中感受到了特别的力量……{f801}要用天羽羽斩剑进行破坏吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="2202">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="2203">
+    <source>从这面墙壁中感受到了特别的力量……{f801}要用天丛云剑进行破坏吗?{f801}{ffff}</source>
+    <target>从这面墙壁中感受到了特别的力量……{f801}要用天丛云剑进行破坏吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="3000">
+    <source>从门的另一侧传来了令人窒息的气息……{f801}{f802}门锁上了,关得很紧……{f801}{f802}要使用《東狂割符》吗?{f801}{ffff}</source>
+    <target>从门的另一侧传来了令人窒息的气息……{f801}{f802}门锁上了,关得很紧……{f801}{f802}要使用《東狂割符》吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="3001">
+    <source>从门的另一侧传来了令人窒息的气息……{f801}{f802}门锁上了,关得很紧……{f801}{f802}以现在的状态无法打开这扇门……{f801}{ffff}</source>
+    <target>从门的另一侧传来了令人窒息的气息……{f801}{f802}门锁上了,关得很紧……{f801}{f802}以现在的状态无法打开这扇门……{f801}{ffff}</target>
+  </entry>
+  <entry id="3002">
+    <source>使用的《東狂割符》消失,{f801}门锁打开了……{f801}{ffff}</source>
+    <target>使用的《東狂割符》消失,{f801}门锁打开了……{f801}{ffff}</target>
+  </entry>
+  <entry id="3003">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="4000">
+    <source>{f812}弗林{0000}フリン会話スクリプト{f801}雑談1です。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}フリン会話スクリプト{f801}雑談1です。{f801}{ffff}</target>
+  </entry>
+  <entry id="5000">
+    <source>试着开了一下门……{f801}{ffff}</source>
+    <target>试着开了一下门……{f801}{ffff}</target>
+  </entry>
+  <entry id="5001">
+    <source>门轻松打开了……{f801}{ffff}</source>
+    <target>门轻松打开了……{f801}{ffff}</target>
+  </entry>
+  <entry id="5002">
+    <source>门关得很紧……{f801}{f802}{f843}{0000}的{f804}{0500}力{f804}{0000}属性不足,{f801}无法打开这扇门。{f801}{ffff}</source>
+    <target>门关得很紧……{f801}{f802}{f843}{0000}的{f804}{0500}力{f804}{0000}属性不足,{f801}无法打开这扇门。{f801}{ffff}</target>
+  </entry>
+  <entry id="5003">
+    <source>门关得很紧……{f801}{f802}{f843}{0000}的{f804}{0500}技{f804}{0000}属性不足,{f801}无法打开这扇门。{f801}{ffff}</source>
+    <target>门关得很紧……{f801}{f802}{f843}{0000}的{f804}{0500}技{f804}{0000}属性不足,{f801}无法打开这扇门。{f801}{ffff}</target>
+  </entry>
+  <entry id="5004">
+    <source>门关得很紧……{f801}{f802}{f843}{0000}的{f804}{0500}魔{f804}{0000}属性不足,{f801}无法打开这扇门。{f801}{ffff}</source>
+    <target>门关得很紧……{f801}{f802}{f843}{0000}的{f804}{0500}魔{f804}{0000}属性不足,{f801}无法打开这扇门。{f801}{ffff}</target>
+  </entry>
+  <entry id="5005">
+    <source>门关得很紧……{f801}{f802}{f843}{0000}的{f804}{0500}速{f804}{0000}属性不足,{f801}无法打开这扇门。{f801}{ffff}</source>
+    <target>门关得很紧……{f801}{f802}{f843}{0000}的{f804}{0500}速{f804}{0000}属性不足,{f801}无法打开这扇门。{f801}{ffff}</target>
+  </entry>
+  <entry id="5006">
+    <source>门关得很紧……{f801}{f802}{f843}{0000}的{f804}{0500}运{f804}{0000}属性不足,{f801}无法打开这扇门。{f801}{ffff}</source>
+    <target>门关得很紧……{f801}{f802}{f843}{0000}的{f804}{0500}运{f804}{0000}属性不足,{f801}无法打开这扇门。{f801}{ffff}</target>
+  </entry>
+  <entry id="5500">
+    <source>从这里能够能够离开东狂,{f801}要结束东狂的探索吗?{f801}{ffff}</source>
+    <target>从这里能够能够离开东狂,{f801}要结束东狂的探索吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="5501">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="6000">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3500}{0000}{0000}这里的恶魔是非常可怕的强敌……{f801}不要大意,小心前进吧。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3500}{0000}{0000}这里的恶魔是非常可怕的强敌……{f801}不要大意,小心前进吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="6001">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3500}{0000}{0000}这里的恶魔非常强大……{f801}不要勉强自己。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3500}{0000}{0000}这里的恶魔非常强大……{f801}不要勉强自己。{f801}{ffff}</target>
+  </entry>
+  <entry id="6010">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3400}{0000}{0000}你中毒了吗?{f801}要治疗的话就要趁早。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3400}{0000}{0000}你中毒了吗?{f801}要治疗的话就要趁早。{f801}{ffff}</target>
+  </entry>
+  <entry id="6011">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3400}{0000}{0000}在中毒状态下进行战斗非常危险……{f801}不要勉强自己,提前进行回复比较好。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3400}{0000}{0000}在中毒状态下进行战斗非常危险……{f801}不要勉强自己,提前进行回复比较好。{f801}{ffff}</target>
+  </entry>
+  <entry id="6012">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3400}{0000}{0000}你感冒了吗?{f801}要治疗的话就要趁早。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3400}{0000}{0000}你感冒了吗?{f801}要治疗的话就要趁早。{f801}{ffff}</target>
+  </entry>
+  <entry id="6013">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3400}{0000}{0000}在感冒状态下进行战斗非常危险……{f801}趁现在进行恢复比较好。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3400}{0000}{0000}在感冒状态下进行战斗非常危险……{f801}趁现在进行恢复比较好。{f801}{ffff}</target>
+  </entry>
+  <entry id="6020">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3700}{0000}{0000}看来你状态不错呢,{f801}就这样继续前进吧。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3700}{0000}{0000}看来你状态不错呢,{f801}就这样继续前进吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="6021">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3700}{0000}{0000}大家的状态好像都很不错,{f801}但是绝不能大意。{f801}{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3700}{0000}{0000}大家的状态好像都很不错,{f801}但是绝不能大意。{f801}{f801}{ffff}</target>
+  </entry>
+  <entry id="6022">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3400}{0000}{0000}现在的状况不大妙……{f801}要多注意自己的身体才行。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3400}{0000}{0000}现在的状况不大妙……{f801}要多注意自己的身体才行。{f801}{ffff}</target>
+  </entry>
+  <entry id="6023">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3400}{0000}{0000}这样下去很危险……{f801}最好回去先休息一下再来。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3400}{0000}{0000}这样下去很危险……{f801}最好回去先休息一下再来。{f801}{ffff}</target>
+  </entry>
+  <entry id="6030">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3031}{3600}{0000}{0000}这个给你,收下吧。{f801}希望它能帮上你的忙。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3031}{3600}{0000}{0000}这个给你,收下吧。{f801}希望它能帮上你的忙。{f801}{ffff}</target>
+  </entry>
+  <entry id="6031">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3031}{3600}{0000}{0000}嗯,多了……这个给你吧。{f801}这是与敌人战斗获得的魔币,请随意使用。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3031}{3600}{0000}{0000}嗯,多了……这个给你吧。{f801}这是与敌人战斗获得的魔币,请随意使用。{f801}{ffff}</target>
+  </entry>
+  <entry id="6032">
+    <source>从弗林那里{f811}{1800}{f801}获得了魔币。{f801}{ffff}</source>
+    <target>从弗林那里{f811}{1800}{f801}获得了魔币。{f801}{ffff}</target>
+  </entry>
+  <entry id="6040">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3700}{0000}{0000}看起来想通过这里没有那么简单……{f801}如果觉得不行的话,就回去休息一下吧。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3700}{0000}{0000}看起来想通过这里没有那么简单……{f801}如果觉得不行的话,就回去休息一下吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="6041">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3700}{0000}{0000}武士是为了民众存在……{f801}为了大家,这场战斗必须要胜利。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3700}{0000}{0000}武士是为了民众存在……{f801}为了大家,这场战斗必须要胜利。{f801}{ffff}</target>
+  </entry>
+  <entry id="6043">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3700}{0000}{0000}不知道YHVH究竟具有多大的力量……{f801}但是,我们绝对不能输。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3700}{0000}{0000}不知道YHVH究竟具有多大的力量……{f801}但是,我们绝对不能输。{f801}{ffff}</target>
+  </entry>
+  <entry id="6044">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3700}{0000}{0000}不久前我还在用没有诱饵的钓竿进行垂钓,{f801}现在却在拯救世界……真是世事难料啊。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3700}{0000}{0000}不久前我还在用没有诱饵的钓竿进行垂钓,{f801}现在却在拯救世界……真是世事难料啊。{f801}{ffff}</target>
+  </entry>
+  <entry id="6045">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3031}{3500}{0000}{0000}还要注意身体状况与回复道具的残量……{f801}稍有大意有可能就会死掉。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3031}{3500}{0000}{0000}还要注意身体状况与回复道具的残量……{f801}稍有大意有可能就会死掉。{f801}{ffff}</target>
+  </entry>
+  <entry id="6046">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3700}{0000}{0000}我们的羁绊将成为征讨敌人的力量……{f801}让我们相信同伴前进吧。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3033}{3700}{0000}{0000}我们的羁绊将成为征讨敌人的力量……{f801}让我们相信同伴前进吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="6047">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3031}{3500}{0000}{0000}居然能够无尽地增产如此强大的敌人……{f801}万物的创造主YHVH……真是深不可测。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3031}{3500}{0000}{0000}居然能够无尽地增产如此强大的敌人……{f801}万物的创造主YHVH……真是深不可测。{f801}{ffff}</target>
+  </entry>
+  <entry id="6048">
+    <source>{f812}弗林{0000}{f81b}{4930}{3039}{3031}{3500}{0000}{0000}你在这场战斗结束之后准备做什么?{f801}不,抱歉……现在说这个还太早。{f801}{ffff}</source>
+    <target>{f812}弗林{0000}{f81b}{4930}{3039}{3031}{3500}{0000}{0000}你在这场战斗结束之后准备做什么?{f801}不,抱歉……现在说这个还太早。{f801}{ffff}</target>
+  </entry>
+  <entry id="7000">
+    <source>由于密特拉施加的结界已经解除,达格达{f801}拥有的让灵魂从黄泉复活的咒力恢复了。{f801}{ffff}</source>
+    <target>由于密特拉施加的结界已经解除,达格达{f801}拥有的让灵魂从黄泉复活的咒力恢复了。{f801}{ffff}</target>
+  </entry>
+  <entry id="7001">
+    <source>没能确认到DLC的内容,{f801}想要继续前进需要购买DLC。{f801}{ffff}</source>
+    <target>没能确认到DLC的内容,{f801}想要继续前进需要购买DLC。{f801}{ffff}</target>
+  </entry>
+</mbm>

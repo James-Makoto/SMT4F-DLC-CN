@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>ミカド城常駐テスト{f801}{ffff}</source>
+    <target>ミカド城常駐テスト{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f812}伊萨加尔{0000}{f87a}{0700}{f813}{0100}{0000}{761c}{0600}…ん? 広場に人だかりができているな{f801}もしかして儀式の会場 ここ…?{f801}{f802}なぁ {f843}{0000}{f801}行ってみるか? どうする…?{f801}{ffff}</source>
+    <target>{f812}伊萨加尔{0000}{f87a}{0700}{f813}{0100}{0000}{761c}{0600}…ん? 広場に人だかりができているな{f801}もしかして儀式の会場 ここ…?{f801}{f802}なぁ {f843}{0000}{f801}行ってみるか? どうする…?{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>行ってみる{f801}やめておく{f801}{ffff}</source>
+    <target>行ってみる{f801}やめておく{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>要休息吗?{f801}{ffff}</source>
+    <target>要休息吗?{f801}{ffff}</target>
+  </entry>
+</mbm>

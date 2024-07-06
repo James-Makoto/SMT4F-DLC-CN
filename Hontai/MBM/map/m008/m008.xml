@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="1">
+    <source>{f812}巴洛兹{0000}{f87a}{0200}{f813}{0000}{0000}{d9ac}{0700}有危险的恶魔反应,{f801}请考虑是否要撤退。{f801}{ffff}</source>
+    <target>{f812}巴洛兹{0000}{f87a}{0200}{f813}{0000}{0000}{d9ac}{0700}有危险的恶魔反应,{f801}请考虑是否要撤退。{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>要留在这里吗?{f801}{ffff}</source>
+    <target>要留在这里吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>真的要留在这里吗?{f801}{ffff}</source>
+    <target>真的要留在这里吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+</mbm>

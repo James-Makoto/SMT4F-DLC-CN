@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>路一直延伸到深处……{f801}怎么办?{f801}{ffff}</source>
+    <target>路一直延伸到深处……{f801}怎么办?{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>继续前进{f801}就此折返{f801}{ffff}</source>
+    <target>继续前进{f801}就此折返{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>路一直延伸到深处……{f801}怎么办?{f801}{ffff}</source>
+    <target>路一直延伸到深处……{f801}怎么办?{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>继续前进{f801}就此折返{f801}{ffff}</source>
+    <target>继续前进{f801}就此折返{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f812}先遣队队长{0000}{f87a}{4300}{f81b}{4930}{3237}{3030}{3100}{0000}{0000}这里是临时的治疗室。{f801}如果需要治疗的话,就来找我吧。{f801}{ffff}</source>
+    <target>{f812}先遣队队长{0000}{f87a}{4300}{f81b}{4930}{3237}{3030}{3100}{0000}{0000}这里是临时的治疗室。{f801}如果需要治疗的话,就来找我吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f812}先遣队队长{0000}{f87a}{4300}{f81b}{4930}{3237}{3030}{3200}{0000}{0000}好,这样治疗就完成了。{f801}这只是应急而已,不要勉强自己。{f801}{ffff}</source>
+    <target>{f812}先遣队队长{0000}{f87a}{4300}{f81b}{4930}{3237}{3030}{3200}{0000}{0000}好,这样治疗就完成了。{f801}这只是应急而已,不要勉强自己。{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>有很多猎人向这边靠近了……{f801}{ffff}</source>
+    <target>有很多猎人向这边靠近了……{f801}{ffff}</target>
+  </entry>
+</mbm>

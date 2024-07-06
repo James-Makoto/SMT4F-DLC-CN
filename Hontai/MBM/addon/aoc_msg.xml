@@ -1,0 +1,98 @@
+<mbm>
+  <entry id="1">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>接下来要连接至网络,{f801}请问您确定吗?{f801}{ffff}</source>
+    <target>接下来要连接至网络,{f801}请问您确定吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>要结束吗?{f801}{ffff}</source>
+    <target>要结束吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>要购买{f872}{0100}吗?{f801}{ffff}</source>
+    <target>要购买{f872}{0100}吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>要删除{f872}{0100}吗?{f801}{ffff}</source>
+    <target>要删除{f872}{0100}吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>要重新接收{f872}{0100}吗?{f801}{ffff}</source>
+    <target>要重新接收{f872}{0100}吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>请不要拔出SD卡。{f801}{ffff}</source>
+    <target>请不要拔出SD卡。{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>DLC删除完毕。{f801}{ffff}</source>
+    <target>DLC删除完毕。{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>要输入密码吗?{f801}{ffff}</source>
+    <target>要输入密码吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>密码有错误。{f801}{ffff}</source>
+    <target>密码有错误。{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>请输入下载码。{f801}{ffff}</source>
+    <target>请输入下载码。{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>拥有下载卡码的话,{f801}可以在这里输入下载码。{f801}{ffff}</source>
+    <target>拥有下载卡码的话,{f801}可以在这里输入下载码。{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>要输入下载码吗?{f801}{ffff}</source>
+    <target>要输入下载码吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>『注意事项』{f801}在这里能够购买{f801}真・女神転生{8757} FINAL的DLC内容。{f801}有部分DLC内容会随着本篇的进行解放,{f801}在购买时请确认各个DLC的说明。{f801}还有,购买的DLC{f801}可以在所有的存档中使用。{f801}{ffff}</source>
+    <target>『注意事项』{f801}在这里能够购买{f801}真・女神転生{8757} FINAL的DLC内容。{f801}有部分DLC内容会随着本篇的进行解放,{f801}在购买时请确认各个DLC的说明。{f801}还有,购买的DLC{f801}可以在所有的存档中使用。{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>之后可以用触摸操作选择项目。{f801}{ffff}</source>
+    <target>之后可以用触摸操作选择项目。{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>请选择想要购买的DLC内容。{f801}{ffff}</source>
+    <target>请选择想要购买的DLC内容。{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>近日将开始服务,{f801}敬请期待!{f801}{ffff}</source>
+    <target>近日将开始服务,{f801}敬请期待!{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>格{f801}{ffff}</source>
+    <target>格{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>免费{f801}{ffff}</source>
+    <target>免费{f801}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>连接中{f801}{ffff}</source>
+    <target>连接中{f801}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>请稍等片刻……{f801}{ffff}</source>
+    <target>请稍等片刻……{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>准备中{f801}{ffff}</source>
+    <target>准备中{f801}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>删除中{f801}{ffff}</source>
+    <target>删除中{f801}{ffff}</target>
+  </entry>
+  <entry id="190">
+    <source>正在读取DLC内容,{f801}请不要拔出SD卡。{f801}{ffff}</source>
+    <target>正在读取DLC内容,{f801}请不要拔出SD卡。{f801}{ffff}</target>
+  </entry>
+</mbm>

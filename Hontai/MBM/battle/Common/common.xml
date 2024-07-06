@@ -1,0 +1,294 @@
+<mbm>
+  <entry id="0">
+    <source>无法再继续保护{f801}{f873}{0600}了!{f801}{f802}{ffff}</source>
+    <target>无法再继续保护{f801}{f873}{0600}了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>逃离了战斗……{f801}{f802}{ffff}</source>
+    <target>逃离了战斗……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>无法逃离!{f801}{f802}{ffff}</source>
+    <target>无法逃离!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>新的敌人出现了!{f801}{f802}{ffff}</source>
+    <target>新的敌人出现了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>我方全灭了……{f801}{f802}{ffff}</source>
+    <target>我方全灭了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>无法从这场战斗中逃脱!{f801}{f802}{ffff}</source>
+    <target>无法从这场战斗中逃脱!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>正在进行自动战斗……按下B键取消。{f801}{f802}{ffff}</source>
+    <target>正在进行自动战斗……按下B键取消。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>正在进行弱点自动战斗……按下B键取消。{f801}{f802}{ffff}</source>
+    <target>正在进行弱点自动战斗……按下B键取消。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>先制攻击成功!{f801}{f802}{ffff}</source>
+    <target>先制攻击成功!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f873}{0600}在发呆……{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}在发呆……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f873}{0600}无法控制自己!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}无法控制自己!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f873}{0600}睡着了……{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}睡着了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f873}{0600}无法行动!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}无法行动!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f873}{0600}开始唠叨……{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}开始唠叨……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f873}{0600}唠叨个不停……{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}唠叨个不停……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f873}{0600}还在唠叨……{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}还在唠叨……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f873}{0600}的运气提升中!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}的运气提升中!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f873}{0600}陷入危机,行动次数增加!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}陷入危机,行动次数增加!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f873}{0600}的命中・回避率提升!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}的命中・回避率提升!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f873}{0600}感冒了,行动变得迟钝!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}感冒了,行动变得迟钝!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f873}{0600}中毒了!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}中毒了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>剩下的仲魔们正在拼命努力……{f801}{f802}{ffff}</source>
+    <target>剩下的仲魔们正在拼命努力……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f873}{0600}被吹飞到别的地方了!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}被吹飞到别的地方了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>仲魔被吹飞了!{f801}{f802}{ffff}</source>
+    <target>仲魔被吹飞了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f843}{0000}倒下了!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}倒下了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f873}{0600}面露诡异的笑容……{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}面露诡异的笑容……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f873}{0600}撑住了!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}撑住了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f873}{0600}带着不屈的斗志复活了!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}带着不屈的斗志复活了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f873}{0600}被传染上感冒了!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}被传染上感冒了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>没有效果!{f801}{f802}{ffff}</source>
+    <target>没有效果!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>大家的心中产生了余裕!{f801}{f802}{ffff}</source>
+    <target>大家的心中产生了余裕!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f873}{0600}的魔法威力提升中!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}的魔法威力提升中!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>即死效果发动了!{f801}{f802}{ffff}</source>
+    <target>即死效果发动了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>大家面露诡异的笑容……{f801}{f802}{ffff}</source>
+    <target>大家面露诡异的笑容……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>守护被中和消失了!{f801}{f802}{ffff}</source>
+    <target>守护被中和消失了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>守护壁反射了攻击!{f801}{f802}{ffff}</source>
+    <target>守护壁反射了攻击!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>烙印付加在了{f873}{0600}身上……{f801}{f802}{ffff}</source>
+    <target>烙印付加在了{f873}{0600}身上……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>贯穿了对方的耐性!{f801}{f802}{ffff}</source>
+    <target>贯穿了对方的耐性!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f873}{0600}晕头转向……{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}晕头转向……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f873}{0600}正在自我陶醉……{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}正在自我陶醉……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f873}{0600}被魅惑了……{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}被魅惑了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f873}{0600}非常生气……{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}非常生气……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f873}{0600}殴打了{f873}{0700}!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}殴打了{f873}{0700}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f873}{0600}殴打了自己!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}殴打了自己!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f873}{0600}殴打了同伴!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}殴打了同伴!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>{f873}{0600}正在观察战况……{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}正在观察战况……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f873}{0600}召唤失败了……{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}召唤失败了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>仲魔无视了命令!{f801}{f802}{ffff}</source>
+    <target>仲魔无视了命令!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>同伴们发动了怒涛般的攻击!!{f801}{ffff}</source>
+    <target>同伴们发动了怒涛般的攻击!!{f801}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>但是,技能被封印了!{f801}{ffff}</source>
+    <target>但是,技能被封印了!{f801}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>{f873}{0600}正在防备敌人的攻击。{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}正在防备敌人的攻击。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f872}{0800}发挥了绝大的效果!{f801}{f802}{ffff}</source>
+    <target>{f872}{0800}发挥了绝大的效果!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>{f873}{0600}进行了行动!{f801}{ffff}</source>
+    <target>{f873}{0600}进行了行动!{f801}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f873}{0600}擅自进行了行动!{f801}{ffff}</source>
+    <target>{f873}{0600}擅自进行了行动!{f801}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f873}{0600}用忍耐之术忍耐住了!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}用忍耐之术忍耐住了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>全能力提升!{f801}{f802}{ffff}</source>
+    <target>全能力提升!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>阻止了{f873}{0600}陷入迷路状态!{f801}{f802}{ffff}</source>
+    <target>阻止了{f873}{0600}陷入迷路状态!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>伙伴从战斗中脱离……{f801}{f802}{ffff}</source>
+    <target>伙伴从战斗中脱离……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>伙伴返回了战斗!{f801}{f802}{ffff}</source>
+    <target>伙伴返回了战斗!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>伙伴们发起了连续攻击!{f801}{ffff}</source>
+    <target>伙伴们发起了连续攻击!{f801}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>伙伴们发起了疾风怒涛的攻击!!{f801}{ffff}</source>
+    <target>伙伴们发起了疾风怒涛的攻击!!{f801}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f873}{0600}的技能被封印了!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}的技能被封印了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>对{f873}{0600}没有效果!{f801}{f802}{ffff}</source>
+    <target>对{f873}{0600}没有效果!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>密特拉菩萨的全能力提升!{f801}{f802}{ffff}</source>
+    <target>密特拉菩萨的全能力提升!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>效果已经发挥至最大!{f801}{f802}{ffff}</source>
+    <target>效果已经发挥至最大!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f873}{0600}的{f873}{0700}耐性降低!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}的{f873}{0700}耐性降低!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>已经无法继续降低了!{f801}{f802}{ffff}</source>
+    <target>已经无法继续降低了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>要使用苏醒之大秘宝复活吗?{f801}{ffff}</source>
+    <target>要使用苏醒之大秘宝复活吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>受到了苏醒之大秘宝的保护!{f801}{ffff}</source>
+    <target>受到了苏醒之大秘宝的保护!{f801}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>{f873}{0600}的{f873}{0700}属性变成弱点!{f801}{ffff}</source>
+    <target>{f873}{0600}的{f873}{0700}属性变成弱点!{f801}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>恶魔召唤系统没有发挥作用……{f801}{ffff}</source>
+    <target>恶魔召唤系统没有发挥作用……{f801}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>仲魔没有理解命令。{f801}{ffff}</source>
+    <target>仲魔没有理解命令。{f801}{ffff}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>收集任务的说明文模板 第1次{f801}完成条件:{f801}带来{f878}{0100}个{f872}{0100}{f801}报酬:{f801}{f878}{0400}魔币{f801}{ffff}</source>
+    <target>收集任务的说明文模板 第1次{f801}完成条件:{f801}带来{f878}{0100}个{f872}{0100}{f801}报酬:{f801}{f878}{0400}魔币{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>追加模板{f801}追加页码第1页{f801}{ffff}</source>
+    <target>追加模板{f801}追加页码第1页{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>追加模板{f801}追加页码第2页{f801}{ffff}</source>
+    <target>追加模板{f801}追加页码第2页{f801}{ffff}</target>
+  </entry>
+</mbm>

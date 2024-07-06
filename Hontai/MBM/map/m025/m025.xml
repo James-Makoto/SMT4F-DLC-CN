@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{f812}灵魂{0000}我……死了吗……{f801}{ffff}</source>
+    <target>{f812}灵魂{0000}我……死了吗……{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f812}灵魂{0000}这就是临死体验?{f801}不、不对……已经不能回头了……{f801}{ffff}</source>
+    <target>{f812}灵魂{0000}这就是临死体验?{f801}不、不对……已经不能回头了……{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f812}灵魂{0000}我觉得不能继续前进了……{f801}{ffff}</source>
+    <target>{f812}灵魂{0000}我觉得不能继续前进了……{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f812}灵魂{0000}可恶,那些家伙们居然敢拋弃我……{f801}我绝对要诅咒他们。{f801}{ffff}</source>
+    <target>{f812}灵魂{0000}可恶,那些家伙们居然敢拋弃我……{f801}我绝对要诅咒他们。{f801}{ffff}</target>
+  </entry>
+</mbm>

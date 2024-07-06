@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}哼哼,我去各地见识了一番,{f801}现在获得更大的力量了。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哼哼,我去各地见识了一番,{f801}现在获得更大的力量了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}能够与更多的人相逢,{f801}就能获得更多的经验。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}能够与更多的人相逢,{f801}就能获得更多的经验。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}我今后还能变得更强…{f801}为了追求混沌以及那之后的世界。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我今后还能变得更强…{f801}为了追求混沌以及那之后的世界。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}啊,这个就给你了。{f801}没什么,就是个礼物而已。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊,这个就给你了。{f801}没什么,就是个礼物而已。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}呵呵,给你带了个好东西…{f801}是人家送我的,不赖吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呵呵,给你带了个好东西…{f801}是人家送我的,不赖吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}来,收下这个。{f801}我可是特意带给你的哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}来,收下这个。{f801}我可是特意带给你的哦?{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

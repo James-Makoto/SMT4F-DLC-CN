@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}妾身已经预见到某人的赞扬了…{f801}毕竟妾身获得了更强的力量。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}妾身已经预见到某人的赞扬了…{f801}毕竟妾身获得了更强的力量。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}妾身乃万物之母,诞下神之人…{f801}周游世界,妾身需要更多的力量。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}妾身乃万物之母,诞下神之人…{f801}周游世界,妾身需要更多的力量。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}妾身乃天之女王,统领宇宙万物的母亲…{f801}来吧,倾听妾身的话语。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}妾身乃天之女王,统领宇宙万物的母亲…{f801}来吧,倾听妾身的话语。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}这东西妾身用不到…{f801}就赐给汝了。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这东西妾身用不到…{f801}就赐给汝了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}这是捡到的…你要是想要就给你了。{f801}来,拿好。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这是捡到的…你要是想要就给你了。{f801}来,拿好。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}呵…你就收下吧。{f801}妾身专程为你取来的,记得珍惜。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呵…你就收下吧。{f801}妾身专程为你取来的,记得珍惜。{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

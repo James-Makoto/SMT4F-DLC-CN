@@ -1,0 +1,630 @@
+<mbm>
+  <entry id="0">
+    <source>请多指教。{f801}{ffff}</source>
+    <target>请多指教。{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>您辛苦了。{f801}{ffff}</source>
+    <target>您辛苦了。{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>您辛苦了。{f801}{ffff}</source>
+    <target>您辛苦了。{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>初次见面!今后请多关照!{f801}{ffff}</source>
+    <target>初次见面!今后请多关照!{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>请多和我擦肩通信,谢谢!{f801}{ffff}</source>
+    <target>请多和我擦肩通信,谢谢!{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>给你介绍下我中意的伙伴。{f801}{ffff}</source>
+    <target>给你介绍下我中意的伙伴。{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>这是我最骄傲的仲魔!{f801}{ffff}</source>
+    <target>这是我最骄傲的仲魔!{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>我家孩子可爱吧?{f801}{ffff}</source>
+    <target>我家孩子可爱吧?{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>要论酷炫的恶魔还得是它,对吧?{f801}{ffff}</source>
+    <target>要论酷炫的恶魔还得是它,对吧?{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>快看我的仲魔!{f801}{ffff}</source>
+    <target>快看我的仲魔!{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>我的仲魔别具一格!{f801}{ffff}</source>
+    <target>我的仲魔别具一格!{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>这只仲魔还不成熟,请多指教。{f801}{ffff}</source>
+    <target>这只仲魔还不成熟,请多指教。{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>好像赶紧变强〜{f801}{ffff}</source>
+    <target>好像赶紧变强〜{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>请狠狠锻炼我!{f801}{ffff}</source>
+    <target>请狠狠锻炼我!{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>这只恶魔有很大的潜力哦。{f801}{ffff}</source>
+    <target>这只恶魔有很大的潜力哦。{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>每一分每一秒都在成长哦!{f801}{ffff}</source>
+    <target>每一分每一秒都在成长哦!{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>好期待它会长成什么样的仲魔啊!{f801}{ffff}</source>
+    <target>好期待它会长成什么样的仲魔啊!{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>愿我们的仲魔都能越来越强!{f801}{ffff}</source>
+    <target>愿我们的仲魔都能越来越强!{f801}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>来无差别合体吧!{f801}{ffff}</source>
+    <target>来无差别合体吧!{f801}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>好!我们走吧,无名!{f801}{ffff}</source>
+    <target>好!我们走吧,无名!{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>唔!?{f801}{ffff}</source>
+    <target>唔!?{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>我要拍一张不错的照片。{f801}{ffff}</source>
+    <target>我要拍一张不错的照片。{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>我们走,队长!{f801}{ffff}</source>
+    <target>我们走,队长!{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>我可是第一!{f801}{ffff}</source>
+    <target>我可是第一!{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>这也是任务……{f801}{ffff}</source>
+    <target>这也是任务……{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>我随时能战斗。{f801}{ffff}</source>
+    <target>我随时能战斗。{f801}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>我有很多赌上性命也要去守护的东西。{f801}{ffff}</source>
+    <target>我有很多赌上性命也要去守护的东西。{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>不像样啊。{f801}{ffff}</source>
+    <target>不像样啊。{f801}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>切…无聊的小把戏,我要吐了。{f801}{ffff}</source>
+    <target>切…无聊的小把戏,我要吐了。{f801}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>我就是你们的光。{f801}{ffff}</source>
+    <target>我就是你们的光。{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>不行了,出故障了!{f801}{ffff}</source>
+    <target>不行了,出故障了!{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>本大爷要将你一口生吞下去。{f801}{ffff}</source>
+    <target>本大爷要将你一口生吞下去。{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>最大值{f801}{ffff}</source>
+    <target>最大值{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="200">
+    <source>不好意思,下次设定恶魔!{f801}{ffff}</source>
+    <target>不好意思,下次设定恶魔!{f801}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>总之先参加了下擦肩通信。{f801}{ffff}</source>
+    <target>总之先参加了下擦肩通信。{f801}{ffff}</target>
+  </entry>
+  <entry id="202">
+    <source>这是擦肩通信的测试。{f801}{ffff}</source>
+    <target>这是擦肩通信的测试。{f801}{ffff}</target>
+  </entry>
+  <entry id="203">
+    <source>请让我观察一下。{f801}{ffff}</source>
+    <target>请让我观察一下。{f801}{ffff}</target>
+  </entry>
+  <entry id="204">
+    <source>最大值{f801}{ffff}</source>
+    <target>最大值{f801}{ffff}</target>
+  </entry>
+  <entry id="300">
+    <source>迷彩{f801}{ffff}</source>
+    <target>迷彩{f801}{ffff}</target>
+  </entry>
+  <entry id="301">
+    <source>白色{f801}{ffff}</source>
+    <target>白色{f801}{ffff}</target>
+  </entry>
+  <entry id="302">
+    <source>黑色{f801}{ffff}</source>
+    <target>黑色{f801}{ffff}</target>
+  </entry>
+  <entry id="303">
+    <source>自己房间{f801}{ffff}</source>
+    <target>自己房间{f801}{ffff}</target>
+  </entry>
+  <entry id="304">
+    <source>青梅竹马房间{f801}{ffff}</source>
+    <target>青梅竹马房间{f801}{ffff}</target>
+  </entry>
+  <entry id="305">
+    <source>人外猎人商会{f801}{ffff}</source>
+    <target>人外猎人商会{f801}{ffff}</target>
+  </entry>
+  <entry id="306">
+    <source>东京{f801}{ffff}</source>
+    <target>东京{f801}{ffff}</target>
+  </entry>
+  <entry id="307">
+    <source>战场{f801}{ffff}</source>
+    <target>战场{f801}{ffff}</target>
+  </entry>
+  <entry id="308">
+    <source>东之御门国{f801}{ffff}</source>
+    <target>东之御门国{f801}{ffff}</target>
+  </entry>
+  <entry id="309">
+    <source>背景最大值{f801}{ffff}</source>
+    <target>背景最大值{f801}{ffff}</target>
+  </entry>
+  <entry id="400">
+    <source>站姿1{f801}{ffff}</source>
+    <target>站姿1{f801}{ffff}</target>
+  </entry>
+  <entry id="401">
+    <source>站姿2{f801}{ffff}</source>
+    <target>站姿2{f801}{ffff}</target>
+  </entry>
+  <entry id="402">
+    <source>站姿3{f801}{ffff}</source>
+    <target>站姿3{f801}{ffff}</target>
+  </entry>
+  <entry id="403">
+    <source>站姿4{f801}{ffff}</source>
+    <target>站姿4{f801}{ffff}</target>
+  </entry>
+  <entry id="404">
+    <source>跑{f801}{ffff}</source>
+    <target>跑{f801}{ffff}</target>
+  </entry>
+  <entry id="405">
+    <source>操作手机{f801}{ffff}</source>
+    <target>操作手机{f801}{ffff}</target>
+  </entry>
+  <entry id="406">
+    <source>姿势1{f801}{ffff}</source>
+    <target>姿势1{f801}{ffff}</target>
+  </entry>
+  <entry id="407">
+    <source>姿势2{f801}{ffff}</source>
+    <target>姿势2{f801}{ffff}</target>
+  </entry>
+  <entry id="408">
+    <source>姿势3{f801}{ffff}</source>
+    <target>姿势3{f801}{ffff}</target>
+  </entry>
+  <entry id="409">
+    <source>蹲下{f801}{ffff}</source>
+    <target>蹲下{f801}{ffff}</target>
+  </entry>
+  <entry id="410">
+    <source>坐下{f801}{ffff}</source>
+    <target>坐下{f801}{ffff}</target>
+  </entry>
+  <entry id="411">
+    <source>姿势最大值{f801}{ffff}</source>
+    <target>姿势最大值{f801}{ffff}</target>
+  </entry>
+  <entry id="500">
+    <source>ダミー文0{f801}{ffff}</source>
+    <target>ダミー文0{f801}{ffff}</target>
+  </entry>
+  <entry id="501">
+    <source>弱鸡见习猎人,{f801}什么时候才能独当一面啊……{f801}{ffff}</source>
+    <target>弱鸡见习猎人,{f801}什么时候才能独当一面啊……{f801}{ffff}</target>
+  </entry>
+  <entry id="502">
+    <source>承载着新时代期望的新手。{f801}不知道究竟潜藏着多大的力量呢……{f801}{ffff}</source>
+    <target>承载着新时代期望的新手。{f801}不知道究竟潜藏着多大的力量呢……{f801}{ffff}</target>
+  </entry>
+  <entry id="503">
+    <source>人外猎人商会最下层。{f801}不要挑剔工作,全盘接受吧。{f801}{ffff}</source>
+    <target>人外猎人商会最下层。{f801}不要挑剔工作,全盘接受吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="504">
+    <source>人外猎人商会的正式成员。{f801}和恶魔交手,不断收集仲魔吧。{f801}{ffff}</source>
+    <target>人外猎人商会的正式成员。{f801}和恶魔交手,不断收集仲魔吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="505">
+    <source>火灾和打架是东京的瑰宝。{f801}仲裁打架就交给我吧。{f801}{ffff}</source>
+    <target>火灾和打架是东京的瑰宝。{f801}仲裁打架就交给我吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="506">
+    <source>在手掌上起舞之人。{f801}灾厄降临并不受人主观意识控制。{f801}{ffff}</source>
+    <target>在手掌上起舞之人。{f801}灾厄降临并不受人主观意识控制。{f801}{ffff}</target>
+  </entry>
+  <entry id="507">
+    <source>被恶魔网开一面的事败露了。{f801}承蒙关照,今天也很有活力。{f801}{ffff}</source>
+    <target>被恶魔网开一面的事败露了。{f801}承蒙关照,今天也很有活力。{f801}{ffff}</target>
+  </entry>
+  <entry id="508">
+    <source>成功夺回了希望之星弗林。{f801}这下未来的东京一定是一派祥和。{f801}{ffff}</source>
+    <target>成功夺回了希望之星弗林。{f801}这下未来的东京一定是一派祥和。{f801}{ffff}</target>
+  </entry>
+  <entry id="509">
+    <source>从东之御门国牢狱中逃狱成功。{f801}只要有恶魔的力量,都不用挖隧道。{f801}{ffff}</source>
+    <target>从东之御门国牢狱中逃狱成功。{f801}只要有恶魔的力量,都不用挖隧道。{f801}{ffff}</target>
+  </entry>
+  <entry id="510">
+    <source>为最终战争画上休止符。{f801}今后将是人类的时代。{f801}{ffff}</source>
+    <target>为最终战争画上休止符。{f801}今后将是人类的时代。{f801}{ffff}</target>
+  </entry>
+  <entry id="511">
+    <source>打倒密特拉,保留了和现世的联系。{f801}满月之时日渐接近了……{f801}{ffff}</source>
+    <target>打倒密特拉,保留了和现世的联系。{f801}满月之时日渐接近了……{f801}{ffff}</target>
+  </entry>
+  <entry id="512">
+    <source>击破YHVH获得了真正的自由。{f801}这才是人类应有的答案。{f801}{ffff}</source>
+    <target>击破YHVH获得了真正的自由。{f801}这才是人类应有的答案。{f801}{ffff}</target>
+  </entry>
+  <entry id="513">
+    <source>击破YHVH创造了新的宇宙。{f801}这才是新世界之神应有的答案。{f801}{ffff}</source>
+    <target>击破YHVH创造了新的宇宙。{f801}这才是新世界之神应有的答案。{f801}{ffff}</target>
+  </entry>
+  <entry id="514">
+    <source>选择了今天的安宁能持续到明天的世界。{f801}加入梅尔卡巴,葬送了东京。{f801}{ffff}</source>
+    <target>选择了今天的安宁能持续到明天的世界。{f801}加入梅尔卡巴,葬送了东京。{f801}{ffff}</target>
+  </entry>
+  <entry id="515">
+    <source>选择了只有强者能够为所欲为的世界。{f801}加入路西法,获得了新生。{f801}{ffff}</source>
+    <target>选择了只有强者能够为所欲为的世界。{f801}加入路西法,获得了新生。{f801}{ffff}</target>
+  </entry>
+  <entry id="516">
+    <source>为他人着想而采取行动,{f801}同伴之间萌生了羁绊。{f801}{ffff}</source>
+    <target>为他人着想而采取行动,{f801}同伴之间萌生了羁绊。{f801}{ffff}</target>
+  </entry>
+  <entry id="517">
+    <source>频繁地为他人着想而采取行动,{f801}同伴之间的羁绊不断成长。{f801}{ffff}</source>
+    <target>频繁地为他人着想而采取行动,{f801}同伴之间的羁绊不断成长。{f801}{ffff}</target>
+  </entry>
+  <entry id="518">
+    <source>积极地为他人着想而采取行动,{f801}没有人能破坏这份羁绊。{f801}{ffff}</source>
+    <target>积极地为他人着想而采取行动,{f801}没有人能破坏这份羁绊。{f801}{ffff}</target>
+  </entry>
+  <entry id="519">
+    <source>行动时不考虑他人,{f801}向着魔神的傀儡迈出了第一步。{f801}{ffff}</source>
+    <target>行动时不考虑他人,{f801}向着魔神的傀儡迈出了第一步。{f801}{ffff}</target>
+  </entry>
+  <entry id="520">
+    <source>行动时经常不考虑他人,{f801}被看做是魔神的爱刀。{f801}{ffff}</source>
+    <target>行动时经常不考虑他人,{f801}被看做是魔神的爱刀。{f801}{ffff}</target>
+  </entry>
+  <entry id="521">
+    <source>行动时完全不考虑他人,{f801}作为魔神的后继者踏上了新的征程。{f801}{ffff}</source>
+    <target>行动时完全不考虑他人,{f801}作为魔神的后继者踏上了新的征程。{f801}{ffff}</target>
+  </entry>
+  <entry id="522">
+    <source>打倒100只恶魔。{f801}人外猎人生涯中一项无可挑剔的战果。{f801}{ffff}</source>
+    <target>打倒100只恶魔。{f801}人外猎人生涯中一项无可挑剔的战果。{f801}{ffff}</target>
+  </entry>
+  <entry id="523">
+    <source>打倒1000只恶魔。{f801}已经称的上是能垂名青史的英雄了。{f801}{ffff}</source>
+    <target>打倒1000只恶魔。{f801}已经称的上是能垂名青史的英雄了。{f801}{ffff}</target>
+  </entry>
+  <entry id="524">
+    <source>打倒8名魔人。{f801}真是个让人望而生畏的强者。{f801}{ffff}</source>
+    <target>打倒8名魔人。{f801}真是个让人望而生畏的强者。{f801}{ffff}</target>
+  </entry>
+  <entry id="525">
+    <source>在现世和黄泉比良坂来回10次。{f801}傀儡的生命没有限制。{f801}{ffff}</source>
+    <target>在现世和黄泉比良坂来回10次。{f801}傀儡的生命没有限制。{f801}{ffff}</target>
+  </entry>
+  <entry id="526">
+    <source>恶魔合体时发生了错误。{f801}失败乃成功之母……千万别泄气。{f801}{ffff}</source>
+    <target>恶魔合体时发生了错误。{f801}失败乃成功之母……千万别泄气。{f801}{ffff}</target>
+  </entry>
+  <entry id="527">
+    <source>获得30只特殊合体恶魔。{f801}要走到这一步,不知经历了多少……{f801}{ffff}</source>
+    <target>获得30只特殊合体恶魔。{f801}要走到这一步,不知经历了多少……{f801}{ffff}</target>
+  </entry>
+  <entry id="528">
+    <source>恶魔全书登录率达到30%。{f801}顺利收集了仲魔。{f801}{ffff}</source>
+    <target>恶魔全书登录率达到30%。{f801}顺利收集了仲魔。{f801}{ffff}</target>
+  </entry>
+  <entry id="529">
+    <source>恶魔全书登录率达到60%。{f801}这样一来米多也会很满足吧。{f801}{ffff}</source>
+    <target>恶魔全书登录率达到60%。{f801}这样一来米多也会很满足吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="530">
+    <source>完成了恶魔全书。{f801}这世上已经没有此人不认识的恶魔了。{f801}{ffff}</source>
+    <target>完成了恶魔全书。{f801}这世上已经没有此人不认识的恶魔了。{f801}{ffff}</target>
+  </entry>
+  <entry id="531">
+    <source>说服成功100回。{f801}没有这个人打动不了的恶魔。{f801}{ffff}</source>
+    <target>说服成功100回。{f801}没有这个人打动不了的恶魔。{f801}{ffff}</target>
+  </entry>
+  <entry id="532">
+    <source>恶魔会话失败10回。{f801}完全理解不了恶魔的想法。{f801}{ffff}</source>
+    <target>恶魔会话失败10回。{f801}完全理解不了恶魔的想法。{f801}{ffff}</target>
+  </entry>
+  <entry id="533">
+    <source>和仲魔交谈50回。{f801}你和仲魔建立起了深厚的信赖关系。{f801}{ffff}</source>
+    <target>和仲魔交谈50回。{f801}你和仲魔建立起了深厚的信赖关系。{f801}{ffff}</target>
+  </entry>
+  <entry id="534">
+    <source>删除了仲魔。{f801}有时候冷酷的决定也是有必要的。{f801}{ffff}</source>
+    <target>删除了仲魔。{f801}有时候冷酷的决定也是有必要的。{f801}{ffff}</target>
+  </entry>
+  <entry id="535">
+    <source>成功逃走10次。{f801}三十六计走为上。{f801}{ffff}</source>
+    <target>成功逃走10次。{f801}三十六计走为上。{f801}{ffff}</target>
+  </entry>
+  <entry id="536">
+    <source>逃走失败10次。{f801}现实是无法逃避的。{f801}{ffff}</source>
+    <target>逃走失败10次。{f801}现实是无法逃避的。{f801}{ffff}</target>
+  </entry>
+  <entry id="537">
+    <source>战斗中进入了500回奸笑状态。{f801}一开始战斗就笑得停不下来。{f801}{ffff}</source>
+    <target>战斗中进入了500回奸笑状态。{f801}一开始战斗就笑得停不下来。{f801}{ffff}</target>
+  </entry>
+  <entry id="538">
+    <source>成功交易10次。{f801}看样子开个店都没问题了。{f801}{ffff}</source>
+    <target>成功交易10次。{f801}看样子开个店都没问题了。{f801}{ffff}</target>
+  </entry>
+  <entry id="539">
+    <source>成功巧取豪夺100次。{f801}这可不是抢夺,是盛情款待。{f801}{ffff}</source>
+    <target>成功巧取豪夺100次。{f801}这可不是抢夺,是盛情款待。{f801}{ffff}</target>
+  </entry>
+  <entry id="540">
+    <source>打出一次1000以上的伤害值。{f801}普通对手已经招架不住了。{f801}{ffff}</source>
+    <target>打出一次1000以上的伤害值。{f801}普通对手已经招架不住了。{f801}{ffff}</target>
+  </entry>
+  <entry id="541">
+    <source>打出一次10000以上的伤害值。{f801}全力屠杀敌人,仅此而已。{f801}{ffff}</source>
+    <target>打出一次10000以上的伤害值。{f801}全力屠杀敌人,仅此而已。{f801}{ffff}</target>
+  </entry>
+  <entry id="542">
+    <source>触发10次辅助攻击。{f801}拥有值得依靠的伙伴呢。{f801}{ffff}</source>
+    <target>触发10次辅助攻击。{f801}拥有值得依靠的伙伴呢。{f801}{ffff}</target>
+  </entry>
+  <entry id="543">
+    <source>除去装备主人公的【力】超过200。{f801}肌肉训练是不是做得有点太猛了。{f801}{ffff}</source>
+    <target>除去装备主人公的【力】超过200。{f801}肌肉训练是不是做得有点太猛了。{f801}{ffff}</target>
+  </entry>
+  <entry id="544">
+    <source>除去装备主人公的【技】超过200。{f801}我这本事不是盖的。{f801}{ffff}</source>
+    <target>除去装备主人公的【技】超过200。{f801}我这本事不是盖的。{f801}{ffff}</target>
+  </entry>
+  <entry id="545">
+    <source>除去装备主人公的【魔】超过200。{f801}腹部底端涌上了沸腾的力量。{f801}{ffff}</source>
+    <target>除去装备主人公的【魔】超过200。{f801}腹部底端涌上了沸腾的力量。{f801}{ffff}</target>
+  </entry>
+  <entry id="546">
+    <source>除去装备主人公的【速】超过200。{f801}犹如疾风一般。{f801}{ffff}</source>
+    <target>除去装备主人公的【速】超过200。{f801}犹如疾风一般。{f801}{ffff}</target>
+  </entry>
+  <entry id="547">
+    <source>除去装备主人公的【运】超过200。{f801}现在感觉做什么都能成功。{f801}{ffff}</source>
+    <target>除去装备主人公的【运】超过200。{f801}现在感觉做什么都能成功。{f801}{ffff}</target>
+  </entry>
+  <entry id="548">
+    <source>在所有人外猎人商会里用过餐。{f801}所有店吃下来都不是人……味道都很独特。{f801}{ffff}</source>
+    <target>在所有人外猎人商会里用过餐。{f801}所有店吃下来都不是人……味道都很独特。{f801}{ffff}</target>
+  </entry>
+  <entry id="549">
+    <source>完成10次挑战任务。{f801}随你什么样的任务,都过来吧。{f801}{ffff}</source>
+    <target>完成10次挑战任务。{f801}随你什么样的任务,都过来吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="550">
+    <source>完成50次挑战任务。{f801}无论是什么任务,到他这里都能解决。{f801}{ffff}</source>
+    <target>完成50次挑战任务。{f801}无论是什么任务,到他这里都能解决。{f801}{ffff}</target>
+  </entry>
+  <entry id="551">
+    <source>金钱超过1000000魔币。{f801}最近搬钱都有点困难了……{f801}{ffff}</source>
+    <target>金钱超过1000000魔币。{f801}最近搬钱都有点困难了……{f801}{ffff}</target>
+  </entry>
+  <entry id="552">
+    <source>消费了100000魔币以上。{f801}该出手时就出手。{f801}{ffff}</source>
+    <target>消费了100000魔币以上。{f801}该出手时就出手。{f801}{ffff}</target>
+  </entry>
+  <entry id="553">
+    <source>在恶魔对话中供奉了100000魔币以上。{f801}为了喜欢的恶魔,花多少钱都愿意。{f801}{ffff}</source>
+    <target>在恶魔对话中供奉了100000魔币以上。{f801}为了喜欢的恶魔,花多少钱都愿意。{f801}{ffff}</target>
+  </entry>
+  <entry id="554">
+    <source>选择朝日作为搭档战斗10次。{f801}战斗时默契满分。{f801}{ffff}</source>
+    <target>选择朝日作为搭档战斗10次。{f801}战斗时默契满分。{f801}{ffff}</target>
+  </entry>
+  <entry id="555">
+    <source>选择朝日作为搭档战斗100次。{f801}已经是无可替代的重要伙伴了。{f801}{ffff}</source>
+    <target>选择朝日作为搭档战斗100次。{f801}已经是无可替代的重要伙伴了。{f801}{ffff}</target>
+  </entry>
+  <entry id="556">
+    <source>选择纳瓦尔作为搭档战斗10次。{f801}看得见嘛,没办法。{f801}{ffff}</source>
+    <target>选择纳瓦尔作为搭档战斗10次。{f801}看得见嘛,没办法。{f801}{ffff}</target>
+  </entry>
+  <entry id="557">
+    <source>选择纳瓦尔作为搭档战斗100次。{f801}太麻烦了,就收为弟子吧。{f801}{ffff}</source>
+    <target>选择纳瓦尔作为搭档战斗100次。{f801}太麻烦了,就收为弟子吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="558">
+    <source>选择希作为搭档战斗10次。{f801}还是被当做小孩。{f801}{ffff}</source>
+    <target>选择希作为搭档战斗10次。{f801}还是被当做小孩。{f801}{ffff}</target>
+  </entry>
+  <entry id="559">
+    <source>选择希作为搭档战斗100次。{f801}互相非常信任,这一点心里都清楚。{f801}{ffff}</source>
+    <target>选择希作为搭档战斗100次。{f801}互相非常信任,这一点心里都清楚。{f801}{ffff}</target>
+  </entry>
+  <entry id="560">
+    <source>选择加斯顿作为搭档战斗10次。{f801}虽然性格有点强横,但是战斗能力没的说。{f801}{ffff}</source>
+    <target>选择加斯顿作为搭档战斗10次。{f801}虽然性格有点强横,但是战斗能力没的说。{f801}{ffff}</target>
+  </entry>
+  <entry id="561">
+    <source>选择加斯顿作为搭档战斗100次{f801}只要互相理解,就是最好的战友。{f801}{ffff}</source>
+    <target>选择加斯顿作为搭档战斗100次{f801}只要互相理解,就是最好的战友。{f801}{ffff}</target>
+  </entry>
+  <entry id="562">
+    <source>选择哈雷路亚作为搭档战斗10次。{f801}知道他很仰慕自己。{f801}{ffff}</source>
+    <target>选择哈雷路亚作为搭档战斗10次。{f801}知道他很仰慕自己。{f801}{ffff}</target>
+  </entry>
+  <entry id="563">
+    <source>选择哈雷路亚作为搭档战斗100次。{f801}互相承认对方的能力,推心置腹的好搭档。{f801}{ffff}</source>
+    <target>选择哈雷路亚作为搭档战斗100次。{f801}互相承认对方的能力,推心置腹的好搭档。{f801}{ffff}</target>
+  </entry>
+  <entry id="564">
+    <source>选择朱鹭作为搭档战斗10次。{f801}究竟是信赖我了呢,还是没有呢。{f801}{ffff}</source>
+    <target>选择朱鹭作为搭档战斗10次。{f801}究竟是信赖我了呢,还是没有呢。{f801}{ffff}</target>
+  </entry>
+  <entry id="565">
+    <source>选择朱鹭作为搭档战斗100次。{f801}她一直在我身旁,望着这边…{f801}{ffff}</source>
+    <target>选择朱鹭作为搭档战斗100次。{f801}她一直在我身旁,望着这边…{f801}{ffff}</target>
+  </entry>
+  <entry id="566">
+    <source>选择伊莎白作为搭档战斗10次。{f801}战斗的才能受到了器重。{f801}{ffff}</source>
+    <target>选择伊莎白作为搭档战斗10次。{f801}战斗的才能受到了器重。{f801}{ffff}</target>
+  </entry>
+  <entry id="567">
+    <source>选择伊莎白作为搭档战斗100次。{f801}明白自己很受期待。{f801}{ffff}</source>
+    <target>选择伊莎白作为搭档战斗100次。{f801}明白自己很受期待。{f801}{ffff}</target>
+  </entry>
+  <entry id="568">
+    <source>先制攻击100次。{f801}摸清了用武器攻击的时机。{f801}{ffff}</source>
+    <target>先制攻击100次。{f801}摸清了用武器攻击的时机。{f801}{ffff}</target>
+  </entry>
+  <entry id="569">
+    <source>先制攻击500次。{f801}亲手开辟道路。{f801}{ffff}</source>
+    <target>先制攻击500次。{f801}亲手开辟道路。{f801}{ffff}</target>
+  </entry>
+  <entry id="570">
+    <source>掉进陷阱10次以上……{f801}这要怎么回避啊?{f801}{ffff}</source>
+    <target>掉进陷阱10次以上……{f801}这要怎么回避啊?{f801}{ffff}</target>
+  </entry>
+  <entry id="571">
+    <source>破坏场景中的摆设50次。{f801}化身为破坏神吧。{f801}{ffff}</source>
+    <target>破坏场景中的摆设50次。{f801}化身为破坏神吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="572">
+    <source>失踪者报告出现10次。{f801}这不是为了APP,是出于善意。{f801}{ffff}</source>
+    <target>失踪者报告出现10次。{f801}这不是为了APP,是出于善意。{f801}{ffff}</target>
+  </entry>
+  <entry id="573">
+    <source>用翡翠之守刀破坏灵晶和击退敌人{f801}合计超过100次。{f801}{ffff}</source>
+    <target>用翡翠之守刀破坏灵晶和击退敌人{f801}合计超过100次。{f801}{ffff}</target>
+  </entry>
+  <entry id="574">
+    <source>总移动距离超过42.195km。{f801}走过的路不会说谎。{f801}{ffff}</source>
+    <target>总移动距离超过42.195km。{f801}走过的路不会说谎。{f801}{ffff}</target>
+  </entry>
+  <entry id="575">
+    <source>总移动距离超过100km。{f801}脚变强壮了也一定是达格达造成的。{f801}{ffff}</source>
+    <target>总移动距离超过100km。{f801}脚变强壮了也一定是达格达造成的。{f801}{ffff}</target>
+  </entry>
+  <entry id="576">
+    <source>继承了其他世界记忆的证明。{f801}不要忘记武士道教义。{f801}{ffff}</source>
+    <target>继承了其他世界记忆的证明。{f801}不要忘记武士道教义。{f801}{ffff}</target>
+  </entry>
+  <entry id="577">
+    <source>继承了其他世界记忆的证明。{f801}你曾经为世界带来了秩序。{f801}{ffff}</source>
+    <target>继承了其他世界记忆的证明。{f801}你曾经为世界带来了秩序。{f801}{ffff}</target>
+  </entry>
+  <entry id="578">
+    <source>继承了其他世界记忆的证明。{f801}你曾经为世界带来了混沌。{f801}{ffff}</source>
+    <target>继承了其他世界记忆的证明。{f801}你曾经为世界带来了混沌。{f801}{ffff}</target>
+  </entry>
+  <entry id="579">
+    <source>继承了其他世界记忆的证明。{f801}你曾经为世界带来了新的道路。{f801}{ffff}</source>
+    <target>继承了其他世界记忆的证明。{f801}你曾经为世界带来了新的道路。{f801}{ffff}</target>
+  </entry>
+  <entry id="580">
+    <source>继承了其他世界记忆的证明。{f801}你曾经将世界还原到了无。{f801}{ffff}</source>
+    <target>继承了其他世界记忆的证明。{f801}你曾经将世界还原到了无。{f801}{ffff}</target>
+  </entry>
+</mbm>

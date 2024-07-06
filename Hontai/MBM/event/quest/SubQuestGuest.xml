@@ -1,0 +1,34 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f843}{0000}不能动了!{f801}{ffff}</source>
+    <target>{f843}{0000}不能动了!{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f873}{3c00}受到了伤害。{f801}{ffff}</source>
+    <target>{f873}{3c00}受到了伤害。{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>蜡烛正在减少…{f801}{ffff}</source>
+    <target>蜡烛正在减少…{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>维克曼的火袭击了希。{f801}{ffff}</source>
+    <target>维克曼的火袭击了希。{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>1只天使攻击了希!{f801}{ffff}</source>
+    <target>1只天使攻击了希!{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>四门之玉出现裂痕了…{f801}{ffff}</source>
+    <target>四门之玉出现裂痕了…{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>和{f873}{0500}一起受到了伤害!{f801}{ffff}</source>
+    <target>和{f873}{0500}一起受到了伤害!{f801}{ffff}</target>
+  </entry>
+</mbm>

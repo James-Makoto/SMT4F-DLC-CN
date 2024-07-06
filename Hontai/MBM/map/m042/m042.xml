@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>门关得很紧……{f801}{ffff}</source>
+    <target>门关得很紧……{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>门关得很紧……{f801}{f802}现在无法打开这扇门。{f801}{ffff}</source>
+    <target>门关得很紧……{f801}{f802}现在无法打开这扇门。{f801}{ffff}</target>
+  </entry>
+</mbm>

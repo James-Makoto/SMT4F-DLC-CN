@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}周游列国,修性之道。{f801}将经过磨练的技能献给贵国…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}周游列国,修性之道。{f801}将经过磨练的技能献给贵国…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}追求锻炼的极致,这招必杀技,{f801}定能让武士摆脱窘境。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}追求锻炼的极致,这招必杀技,{f801}定能让武士摆脱窘境。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}虽分散在贵国各处,为了同一个使命{f801}奋战的武士心在一处…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}虽分散在贵国各处,为了同一个使命{f801}奋战的武士心在一处…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)擦肩变身信息3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}给你带了旅行的伴手礼。{f801}这都要感谢贵国…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给你带了旅行的伴手礼。{f801}这都要感谢贵国…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}我离开之时,是否陷入了苦战?{f801}愿这份礼物能派上用场。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我离开之时,是否陷入了苦战?{f801}愿这份礼物能派上用场。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}这份礼物给您。{f801}在旅途中得到的,跟您有缘。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这份礼物给您。{f801}在旅途中得到的,跟您有缘。{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

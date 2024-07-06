@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>{8012}穿着铠甲的男人们{0000}……{8001}{ffff}</source>
+    <target>{8012}穿着铠甲的男人们{0000}……{8001}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{8012}武器防具店{0000}准备中{8001}{ffff}</source>
+    <target>{8012}武器防具店{0000}准备中{8001}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{8012}道具店{0000}准备中{8001}{ffff}</source>
+    <target>{8012}道具店{0000}准备中{8001}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>要移动至御门城吗?{8001}{ffff}</source>
+    <target>要移动至御门城吗?{8001}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>是{8001}否{8001}{ffff}</source>
+    <target>是{8001}否{8001}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>要进入奈落之中吗?{8001}{ffff}</source>
+    <target>要进入奈落之中吗?{8001}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>要前往地下东京吗?{8001}{ffff}</source>
+    <target>要前往地下东京吗?{8001}{ffff}</target>
+  </entry>
+</mbm>

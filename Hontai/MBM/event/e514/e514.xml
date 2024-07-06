@@ -1,0 +1,98 @@
+<mbm>
+  <entry id="1">
+    <source>{f843}{0000}拔起了{f801}插在门上的支柱。{f801}{ffff}</source>
+    <target>{f843}{0000}拔起了{f801}插在门上的支柱。{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f843}{0000}拔起了{f801}插在门上的支柱。{f801}{ffff}</source>
+    <target>{f843}{0000}拔起了{f801}插在门上的支柱。{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f843}{0000}拔起了{f801}插在门上的支柱。{f801}{ffff}</source>
+    <target>{f843}{0000}拔起了{f801}插在门上的支柱。{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f843}{0000}拔起了{f801}插在门上的支柱。{f801}{ffff}</source>
+    <target>{f843}{0000}拔起了{f801}插在门上的支柱。{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f843}{0000}拔起了{f801}插在门上的支柱。{f801}{ffff}</source>
+    <target>{f843}{0000}拔起了{f801}插在门上的支柱。{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f843}{0000}拔起了{f801}支柱。{f801}{ffff}</source>
+    <target>{f843}{0000}拔起了{f801}支柱。{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f843}{0000}拔起了{f801}支柱。{f801}{ffff}</source>
+    <target>{f843}{0000}拔起了{f801}支柱。{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f843}{0000}拔起了{f801}插在门上的支柱。{f801}{ffff}</source>
+    <target>{f843}{0000}拔起了{f801}插在门上的支柱。{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>在支柱拔起之后,{f801}门打开了。{f801}{ffff}</source>
+    <target>在支柱拔起之后,{f801}门打开了。{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>在支柱拔起之后,{f801}门打开了。{f801}{ffff}</source>
+    <target>在支柱拔起之后,{f801}门打开了。{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>在支柱拔起之后,{f801}门打开了。{f801}{ffff}</source>
+    <target>在支柱拔起之后,{f801}门打开了。{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>在支柱拔起之后,{f801}门打开了。{f801}{ffff}</source>
+    <target>在支柱拔起之后,{f801}门打开了。{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>在支柱拔起之后,{f801}门打开了。{f801}{ffff}</source>
+    <target>在支柱拔起之后,{f801}门打开了。{f801}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>在支柱被拔起之后,{f801}某扇门好像打开了……{f801}{ffff}</source>
+    <target>在支柱被拔起之后,{f801}某扇门好像打开了……{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>在支柱被拔起之后,{f801}某扇门好像打开了……{f801}{ffff}</source>
+    <target>在支柱被拔起之后,{f801}某扇门好像打开了……{f801}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>在支柱拔起之后,{f801}门打开了。{f801}{ffff}</source>
+    <target>在支柱拔起之后,{f801}门打开了。{f801}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>得到了《{f872}{0100}》。{f801}{ffff}</source>
+    <target>得到了《{f872}{0100}》。{f801}{ffff}</target>
+  </entry>
+  <entry id="202">
+    <source>获得《{f872}{0200}》。{f801}{ffff}</source>
+    <target>获得《{f872}{0200}》。{f801}{ffff}</target>
+  </entry>
+  <entry id="203">
+    <source>获得《{f872}{0300}》。{f801}{ffff}</source>
+    <target>获得《{f872}{0300}》。{f801}{ffff}</target>
+  </entry>
+  <entry id="204">
+    <source>获得《{f872}{0400}》。{f801}{ffff}</source>
+    <target>获得《{f872}{0400}》。{f801}{ffff}</target>
+  </entry>
+  <entry id="205">
+    <source>得到了《{f872}{0500}》。{f801}{ffff}</source>
+    <target>得到了《{f872}{0500}》。{f801}{ffff}</target>
+  </entry>
+  <entry id="206">
+    <source>获得《{f872}{0600}》。{f801}{ffff}</source>
+    <target>获得《{f872}{0600}》。{f801}{ffff}</target>
+  </entry>
+  <entry id="207">
+    <source>获得《{f872}{0700}》。{f801}{ffff}</source>
+    <target>获得《{f872}{0700}》。{f801}{ffff}</target>
+  </entry>
+  <entry id="208">
+    <source>获得《{f872}{0800}》。{f801}{ffff}</source>
+    <target>获得《{f872}{0800}》。{f801}{ffff}</target>
+  </entry>
+</mbm>

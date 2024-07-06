@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>是否将{f873}{0100}设定为{f801}支援伙伴?{f801}{ffff}</source>
+    <target>是否将{f873}{0100}设定为{f801}支援伙伴?{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>要取消支援伙伴吗?{f801}{ffff}</source>
+    <target>要取消支援伙伴吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>已将{f873}{0100}设定为支援伙伴。{f801}{ffff}</source>
+    <target>已将{f873}{0100}设定为支援伙伴。{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>请选择支援伙伴。{f801}{ffff}</source>
+    <target>请选择支援伙伴。{f801}{ffff}</target>
+  </entry>
+</mbm>

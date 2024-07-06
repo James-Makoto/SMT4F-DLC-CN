@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>テスト{f801}{ffff}</source>
+    <target>テスト{f801}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>被传送到了提尔纳诺。{f801}{f802}在这里通过打倒恶魔,{f801}能够获得经验值道具。{f801}{ffff}</source>
+    <target>被传送到了提尔纳诺。{f801}{f802}在这里通过打倒恶魔,{f801}能够获得经验值道具。{f801}{ffff}</target>
+  </entry>
+  <entry id="301">
+    <source>要发表感想吗?{f801}{ffff}</source>
+    <target>要发表感想吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="302">
+    <source>很好{f801}不行{f801}不发送{f801}{ffff}</source>
+    <target>很好{f801}不行{f801}不发送{f801}{ffff}</target>
+  </entry>
+  <entry id="303">
+    <source>有回信信息来了……{f801}“非常感谢您的协助”。{f801}{ffff}</source>
+    <target>有回信信息来了……{f801}“非常感谢您的协助”。{f801}{ffff}</target>
+  </entry>
+</mbm>

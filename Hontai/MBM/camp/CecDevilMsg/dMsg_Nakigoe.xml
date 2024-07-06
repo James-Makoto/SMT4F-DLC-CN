@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}呼!呼!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼!呼!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}呼!呼!呼!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼!呼!呼!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}呼!呼!{f801}呼!!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼!呼!{f801}呼!!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}呼!呼!{f801}呼!呼!呼!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼!呼!{f801}呼!呼!呼!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}呼!呼!呼!{f801}呼!呼!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼!呼!呼!{f801}呼!呼!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}呼!呼!{f801}呼!呼!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼!呼!{f801}呼!呼!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}呼呼呼……{f801}呼呼!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼呼呼……{f801}呼呼!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}呼呼呼!{f801}呼、呼、呼……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼呼呼!{f801}呼、呼、呼……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}呼!{f801}呼呼……呼!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼!{f801}呼呼……呼!{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

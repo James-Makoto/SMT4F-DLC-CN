@@ -1,0 +1,110 @@
+<mbm>
+  <entry id="0">
+    <source>在使用存档特典之际,{f801}请准备好前作真・女神转生{8757}的游戏卡{f801}或者有下载版游戏的SD卡。{f801}{ffff}</source>
+    <target>在使用存档特典之际,{f801}请准备好前作真・女神转生{8757}的游戏卡{f801}或者有下载版游戏的SD卡。{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>要开始使用存档特典吗?{f801}{ffff}</source>
+    <target>要开始使用存档特典吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>将开始读取存档特典。{f801}{f802}之后在中断存档特典之时,{f801}有重新启动的必要。{f801}{ffff}</source>
+    <target>将开始读取存档特典。{f801}{f802}之后在中断存档特典之时,{f801}有重新启动的必要。{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>请插入真・女神转生{8757}的游戏卡{f801}或者有下载版游戏的SD卡。{f801}{ffff}</source>
+    <target>请插入真・女神转生{8757}的游戏卡{f801}或者有下载版游戏的SD卡。{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>在插入真・女神转生{8757}的游戏卡之后{f801}请按下A键。{f801}{ffff}</source>
+    <target>在插入真・女神转生{8757}的游戏卡之后{f801}请按下A键。{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>要中断读取存档特典吗?{f801}{ffff}</source>
+    <target>要中断读取存档特典吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>真・女神转生{8757}的游戏卡{f801}没有被正确插入。{f801}{ffff}</source>
+    <target>真・女神转生{8757}的游戏卡{f801}没有被正确插入。{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>没能正确读取{f801}真・女神转生{8757}的存档。{f801}{ffff}</source>
+    <target>没能正确读取{f801}真・女神转生{8757}的存档。{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>成功读取真・女神转生{8757}的存档。{f801}{ffff}</source>
+    <target>成功读取真・女神转生{8757}的存档。{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>请插入真・女神转生{8757} FINAL的游戏卡{f801}或者有下载版游戏的SD卡。{f801}{ffff}</source>
+    <target>请插入真・女神转生{8757} FINAL的游戏卡{f801}或者有下载版游戏的SD卡。{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>在插入真・女神转生{8757}的游戏卡之后{f801}请按下A键。{f801}{ffff}</source>
+    <target>在插入真・女神转生{8757}的游戏卡之后{f801}请按下A键。{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>真・女神转生{8757} FINAL的游戏卡{f801}没有被正确插入。{f801}{ffff}</source>
+    <target>真・女神转生{8757} FINAL的游戏卡{f801}没有被正确插入。{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>存档特典所对应的道具{f801}会根据通关次数有所不同。{f801}{f802}还有,在通关之后会获得相应的称号。{f801}{f802}称号可以在擦肩通信开放时进行设定。{f801}{f802}要读取哪边的存档?{f801}{ffff}</source>
+    <target>存档特典所对应的道具{f801}会根据通关次数有所不同。{f801}{f802}还有,在通关之后会获得相应的称号。{f801}{f802}称号可以在擦肩通信开放时进行设定。{f801}{f802}要读取哪边的存档?{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>存档1{f801}存档2{f801}{ffff}</source>
+    <target>存档1{f801}存档2{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>读取存档特典中断。{f801}{ffff}</source>
+    <target>读取存档特典中断。{f801}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>保存失败。{f801}{ffff}</source>
+    <target>保存失败。{f801}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>读取存档特典成功。{f801}{f802}读取的特典会在游戏初期开放。{f801}{f802}能够从标题画面的闲谈记录那里{f801}进行接收。{f801}{ffff}</source>
+    <target>读取存档特典成功。{f801}{f802}读取的特典会在游戏初期开放。{f801}{f802}能够从标题画面的闲谈记录那里{f801}进行接收。{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>重新启动游戏。{f801}{ffff}</source>
+    <target>重新启动游戏。{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>デバッグメッセージ{f801}HOMEモードONなら自動的に再起動されます{f801}HOMEモードがOFFなら{f801}自動的に再起動させることができませんので{f801}手動で再起動してください{f801}{ffff}</source>
+    <target>デバッグメッセージ{f801}HOMEモードONなら自動的に再起動されます{f801}HOMEモードがOFFなら{f801}自動的に再起動させることができませんので{f801}手動で再起動してください{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>连接游戏卡失败。{f801}{ffff}</source>
+    <target>连接游戏卡失败。{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>没有游戏存档。{f801}{ffff}</source>
+    <target>没有游戏存档。{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>成功读取真・女神转生{8757} FINAL的{f801}游戏数据。{f801}{ffff}</source>
+    <target>成功读取真・女神转生{8757} FINAL的{f801}游戏数据。{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>结束读取存档特典。{f801}{ffff}</source>
+    <target>结束读取存档特典。{f801}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>确定使用存档{f811}{0000}吗?{f801}{ffff}</source>
+    <target>确定使用存档{f811}{0000}吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>存档{f811}{0000}{f801}玩家名:{f811}{0100}{f801}等级:{f811}{0200}{f801}游玩时间:{f811}{0300}:{f811}{0400}:{f811}{0500}{f801}通关次数:{f811}{0600}{f801}{f811}{0700} {f811}{0800}{f801}{f811}{0900} {f811}{0a00}{f801}{ffff}</source>
+    <target>存档{f811}{0000}{f801}玩家名:{f811}{0100}{f801}等级:{f811}{0200}{f801}游玩时间:{f811}{0300}:{f811}{0400}:{f811}{0500}{f801}通关次数:{f811}{0600}{f801}{f811}{0700} {f811}{0800}{f801}{f811}{0900} {f811}{0a00}{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>存档{f811}{0000}{f801}无数据{f801}{ffff}</source>
+    <target>存档{f811}{0000}{f801}无数据{f801}{ffff}</target>
+  </entry>
+</mbm>

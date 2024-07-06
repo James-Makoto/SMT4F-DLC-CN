@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}我吃了其他的猎人。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我吃了其他的猎人。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>恶魔很高兴地{f801}跑向{f843}{0000}!{f801}{f802}{ffff}</source>
+    <target>恶魔很高兴地{f801}跑向{f843}{0000}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}稍微有点智慧了!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}稍微有点智慧了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}宇宙,故乡…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}宇宙,故乡…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}{f843}{0000}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}我在木星遇到了人类的祖先,{f801}他们在很久…以前…前前前前前{f801}{f802}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我在木星遇到了人类的祖先,{f801}他们在很久…以前…前前前前前{f801}{f802}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}{f843}{0000}…{f801}这个。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}…{f801}这个。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}其他宇宙,北海道。{f801}俄罗斯。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}其他宇宙,北海道。{f801}俄罗斯。{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

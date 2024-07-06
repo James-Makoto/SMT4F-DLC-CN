@@ -1,0 +1,66 @@
+<mbm>
+  <entry id="0">
+    <source>{f812}米迦勒{0000}既然你对神,并且对我们{f801}刀刃相向的话……{f801}{f802}好吧,不管有多少{f801}都一起上吧。{f801}{f802}我会一个一个{f801}击溃你们。{f801}{ffff}</source>
+    <target>{f812}米迦勒{0000}既然你对神,并且对我们{f801}刀刃相向的话……{f801}{f802}好吧,不管有多少{f801}都一起上吧。{f801}{f802}我会一个一个{f801}击溃你们。{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f812}米迦勒{0000}什么…{f801}你是说…我们被『封印』了吗…{f801}{f802}太可恨了…{f801}那只……乌鸦……{f801}{ffff}</source>
+    <target>{f812}米迦勒{0000}什么…{f801}你是说…我们被『封印』了吗…{f801}{f802}太可恨了…{f801}那只……乌鸦……{f801}{ffff}</target>
+  </entry>
+  <entry id="1000">
+    <source>{f812}米迦勒{0000}…你是为何而战?{f801}说给我听听吧。{f801}{ffff}</source>
+    <target>{f812}米迦勒{0000}…你是为何而战?{f801}说给我听听吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="1001">
+    <source>为了信念{f801}有人拜托我{f801}为了报仇{f801}不知道{f801}{ffff}</source>
+    <target>为了信念{f801}有人拜托我{f801}为了报仇{f801}不知道{f801}{ffff}</target>
+  </entry>
+  <entry id="1002">
+    <source>{f812}米迦勒{0000}那么我和你的信念,到底谁是正确的……{f801}互相拼死一战来决定谁对谁错吧。{f801}{ffff}</source>
+    <target>{f812}米迦勒{0000}那么我和你的信念,到底谁是正确的……{f801}互相拼死一战来决定谁对谁错吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="1003">
+    <source>{f843}{0000}涌上了{f801}信念的力量……{f801}{ffff}</source>
+    <target>{f843}{0000}涌上了{f801}信念的力量……{f801}{ffff}</target>
+  </entry>
+  <entry id="1004">
+    <source>{f843}{0000}恢复了精神。{f801}{ffff}</source>
+    <target>{f843}{0000}恢复了精神。{f801}{ffff}</target>
+  </entry>
+  <entry id="1005">
+    <source>{f843}{0000}获得了{f801}更多行动的力量!{f801}{ffff}</source>
+    <target>{f843}{0000}获得了{f801}更多行动的力量!{f801}{ffff}</target>
+  </entry>
+  <entry id="1006">
+    <source>{f812}米迦勒{0000}…当我没问。{f801}{f802}像你这种不中用的泥人偶,{f801}我米迦勒怎么可能被打败……{f801}{ffff}</source>
+    <target>{f812}米迦勒{0000}…当我没问。{f801}{f802}像你这种不中用的泥人偶,{f801}我米迦勒怎么可能被打败……{f801}{ffff}</target>
+  </entry>
+  <entry id="1007">
+    <source>米迦勒渐渐{f801}充满了神圣的力量…{f801}{ffff}</source>
+    <target>米迦勒渐渐{f801}充满了神圣的力量…{f801}{ffff}</target>
+  </entry>
+  <entry id="1008">
+    <source>米迦勒的{f801}所有能力大幅提升!{f801}{ffff}</source>
+    <target>米迦勒的{f801}所有能力大幅提升!{f801}{ffff}</target>
+  </entry>
+  <entry id="1009">
+    <source>{f812}米迦勒{0000}你这贪心不足蛇吞象的家伙,{f801}这个报酬可是十分昂贵的。{f801}{f802}在火和硫磺的池子里……{f801}净化你自己的卑劣吧。{f801}{ffff}</source>
+    <target>{f812}米迦勒{0000}你这贪心不足蛇吞象的家伙,{f801}这个报酬可是十分昂贵的。{f801}{f802}在火和硫磺的池子里……{f801}净化你自己的卑劣吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="1010">
+    <source>{f843}{0000}感到仿佛{f801}被烈火烧身般的痛苦…{f801}{ffff}</source>
+    <target>{f843}{0000}感到仿佛{f801}被烈火烧身般的痛苦…{f801}{ffff}</target>
+  </entry>
+  <entry id="1011">
+    <source>{f843}{0000}的{f801}全能力大幅下降!{f801}{ffff}</source>
+    <target>{f843}{0000}的{f801}全能力大幅下降!{f801}{ffff}</target>
+  </entry>
+  <entry id="1012">
+    <source>{f812}米迦勒{0000}那么我告诉你吧。{f801}{f802}你……就到此为止了。{f801}{ffff}</source>
+    <target>{f812}米迦勒{0000}那么我告诉你吧。{f801}{f802}你……就到此为止了。{f801}{ffff}</target>
+  </entry>
+  <entry id="1013">
+    <source>米迦勒突然{f801}发起了偷袭!{f801}{ffff}</source>
+    <target>米迦勒突然{f801}发起了偷袭!{f801}{ffff}</target>
+  </entry>
+</mbm>

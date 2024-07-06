@@ -1,0 +1,2002 @@
+<mbm>
+  <entry id="1">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>对敌人发动1〜4次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜4次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>对敌人发动1〜4次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜4次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>对敌人发动1〜4次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜4次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>对敌人发动1〜4次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜4次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/即死{f801}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>对敌人发动1〜4次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜4次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>对敌人发动1〜4次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜4次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>对敌人发动1〜4次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜4次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/降低能力{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/降低能力{f801}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/混乱{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/混乱{f801}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>对敌人发动{f87d}{0e00}属性攻击{f801}对象/{f87d}{0f00} 威力/根据对方属性变化{f801}{ffff}</source>
+    <target>对敌人发动{f87d}{0e00}属性攻击{f801}对象/{f87d}{0f00} 威力/根据对方属性变化{f801}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>对敌人发动{f87d}{0e00}属性攻击{f801}对象/{f87d}{0f00} 威力/根据对方属性变化{f801}{ffff}</source>
+    <target>对敌人发动{f87d}{0e00}属性攻击{f801}对象/{f87d}{0f00} 威力/根据对方属性变化{f801}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>对敌人发动{f87d}{0e00}属性攻击{f801}对象/{f87d}{0f00} 威力/根据对方属性变化{f801}{ffff}</source>
+    <target>对敌人发动{f87d}{0e00}属性攻击{f801}对象/{f87d}{0f00} 威力/根据对方属性变化{f801}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>以{f87d}{0e00}属性吸收对方的HP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>以{f87d}{0e00}属性吸收对方的HP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>以{f87d}{0e00}属性吸收对方的MP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>以{f87d}{0e00}属性吸收对方的MP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>以{f87d}{0e00}属性吸收对方的HP・MP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>以{f87d}{0e00}属性吸收对方的HP・MP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>付加异常状态「睡眠」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「睡眠」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>付加异常状态「睡眠」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「睡眠」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>付加异常状态「毒」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「毒」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>付加异常状态「毒」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「毒」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>付加异常状态「紧缚」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「紧缚」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>付加异常状态「紧缚」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「紧缚」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>付加异常状态「混乱」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「混乱」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>付加异常状态「混乱」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「混乱」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>付加异常状态「感冒」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「感冒」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>付加异常状态「感冒」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「感冒」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>付加不特定的异常状态{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加不特定的异常状态{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>付加不特定的异常状态{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加不特定的异常状态{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>以{f87d}{0e00}属性减少MP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>以{f87d}{0e00}属性减少MP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>以{f87d}{0e00}属性减少MP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>以{f87d}{0e00}属性减少MP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>以{f87d}{0e00}属性减少持有金钱{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>以{f87d}{0e00}属性减少持有金钱{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>以{f87d}{0e00}属性减少持有金钱{f801}对象/{f87d}{0f00} 效果/大{f801}{ffff}</source>
+    <target>以{f87d}{0e00}属性减少持有金钱{f801}对象/{f87d}{0f00} 效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="75">
+    <source>以{f87d}{0e00}属性让对方HP降为1点{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>以{f87d}{0e00}属性让对方HP降为1点{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="76">
+    <source>对敌人发动1〜5次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜5次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="77">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/感冒状态变为HP1{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/感冒状态变为HP1{f801}{ffff}</target>
+  </entry>
+  <entry id="78">
+    <source>提升魔法攻击力{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>提升魔法攻击力{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="79">
+    <source>付加异常状态「魅惑」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「魅惑」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="80">
+    <source>付加异常状态「魅惑」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「魅惑」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="81">
+    <source>回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="82">
+    <source>大幅回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>大幅回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="83">
+    <source>回复全部HP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>回复全部HP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="84">
+    <source>回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="85">
+    <source>大幅回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>大幅回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="86">
+    <source>回复全部HP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>回复全部HP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="87">
+    <source>回复全部HP{f801}对象/{f87d}{0f00} 奸笑时/恢复异常状态{f801}{ffff}</source>
+    <target>回复全部HP{f801}对象/{f87d}{0f00} 奸笑时/恢复异常状态{f801}{ffff}</target>
+  </entry>
+  <entry id="88">
+    <source>恢复「睡眠・混乱・紧缚・魅惑・魔封・眩晕」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>恢复「睡眠・混乱・紧缚・魅惑・魔封・眩晕」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="89">
+    <source>恢复「睡眠・混乱・紧缚・魅惑・魔封・眩晕」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>恢复「睡眠・混乱・紧缚・魅惑・魔封・眩晕」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="90">
+    <source>恢复异常状态「毒・感冒」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>恢复异常状态「毒・感冒」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="91">
+    <source>对敌人发动2〜4次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/烙印{f801}{ffff}</source>
+    <target>对敌人发动2〜4次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/烙印{f801}{ffff}</target>
+  </entry>
+  <entry id="92">
+    <source>恢复全部不利的异常状态{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>恢复全部不利的异常状态{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="93">
+    <source>在HP耗尽之时回复一半HP复活{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在HP耗尽之时回复一半HP复活{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="94">
+    <source>在HP耗尽之时回复全部HP复活{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在HP耗尽之时回复全部HP复活{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="95">
+    <source>耗尽自己所有的HP复活我方&amp;全部恢复{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>耗尽自己所有的HP复活我方&amp;全部恢复{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="96">
+    <source>对敌人发动2〜4次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/降低防御力{f801}{ffff}</source>
+    <target>对敌人发动2〜4次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/降低防御力{f801}{ffff}</target>
+  </entry>
+  <entry id="97">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="98">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="99">
+    <source>付加异常状态「魔封」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「魔封」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>付加异常状态「魔封」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「魔封」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>提升物理攻击力{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>提升物理攻击力{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>提升命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>提升命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>提升防御力{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>提升防御力{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>提升攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>提升攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>消除能力提升效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>消除能力提升效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>降低攻击力{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>降低攻击力{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>降低命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>降低命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>降低防御力{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>降低防御力{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>降低攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>降低攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>消除能力降低效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>消除能力降低效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>消除能力提升以及降低效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>消除能力提升以及降低效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>降低攻击力・防御力{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>降低攻击力・防御力{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>降低攻击力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>降低攻击力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>降低防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>降低防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>提升攻击力并降低防御力{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>提升攻击力并降低防御力{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="116">
+    <source>为下次进行的物理・铳攻击付加必中暴击效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>为下次进行的物理・铳攻击付加必中暴击效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="117">
+    <source>对敌人发动1次威力根据异常状态数量改变的攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次威力根据异常状态数量改变的攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="118">
+    <source>在下个我方回合到来之前反射物理・铳攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在下个我方回合到来之前反射物理・铳攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="119">
+    <source>在下个我方回合到来之前反射魔法攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在下个我方回合到来之前反射魔法攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="120">
+    <source>让破魔或者咒杀属性失效一次{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>让破魔或者咒杀属性失效一次{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>下次进行的物理・铳攻击的威力变成两倍以上{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>下次进行的物理・铳攻击的威力变成两倍以上{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>下次进行的魔法攻击的威力变成两倍以上{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>下次进行的魔法攻击的威力变成两倍以上{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>提升攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00} 付加/HP变成1{f801}{ffff}</source>
+    <target>提升攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00} 付加/HP变成1{f801}{ffff}</target>
+  </entry>
+  <entry id="124">
+    <source>召唤仲魔或者让其归还{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>召唤仲魔或者让其归还{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="125">
+    <source>召唤仲魔・归还&amp;让其从HP为0的状态复活{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>召唤仲魔・归还&amp;让其从HP为0的状态复活{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="126">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/降低全能力 奸笑时/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/降低全能力 奸笑时/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="127">
+    <source>将等级很高的仲魔从保存区中重新召唤{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>将等级很高的仲魔从保存区中重新召唤{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="128">
+    <source>回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="129">
+    <source>大幅回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>大幅回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="130">
+    <source>回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="131">
+    <source>大幅回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>大幅回复HP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="132">
+    <source>付加「奸笑」状态{f801}对象/{f87d}{0f00} 条件/异常状态时无法使用{f801}{ffff}</source>
+    <target>付加「奸笑」状态{f801}对象/{f87d}{0f00} 条件/异常状态时无法使用{f801}{ffff}</target>
+  </entry>
+  <entry id="133">
+    <source>解除「奸笑」状态{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>解除「奸笑」状态{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="134">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/混乱 奸笑时/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/混乱 奸笑时/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="135">
+    <source>以{f87d}{0e00}属性对敌人造成HP66%的伤害{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>以{f87d}{0e00}属性对敌人造成HP66%的伤害{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="136">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="137">
+    <source>能够从可逃离的战斗之中逃离{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>能够从可逃离的战斗之中逃离{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="138">
+    <source>在战斗中提升最大HP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在战斗中提升最大HP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="139">
+    <source>将攻击力・魔法攻击力提升至最大并付加「奸笑」状态{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>将攻击力・魔法攻击力提升至最大并付加「奸笑」状态{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="140">
+    <source>在效果发动时,{f801}可以回避与低等级恶魔的战斗{f801}{ffff}</source>
+    <target>在效果发动时,{f801}可以回避与低等级恶魔的战斗{f801}{ffff}</target>
+  </entry>
+  <entry id="141">
+    <source>呼唤同伴{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>呼唤同伴{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="142">
+    <source>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="143">
+    <source>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="144">
+    <source>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="145">
+    <source>将攻击力・魔法攻击力降至最低{f801}对象/{f87d}{0f00} 付加/魔封{f801}{ffff}</source>
+    <target>将攻击力・魔法攻击力降至最低{f801}对象/{f87d}{0f00} 付加/魔封{f801}{ffff}</target>
+  </entry>
+  <entry id="146">
+    <source>将防御力降至最低{f801}对象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</source>
+    <target>将防御力降至最低{f801}对象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</target>
+  </entry>
+  <entry id="147">
+    <source>将回避・命中降至最低{f801}对象/{f87d}{0f00} 付加/烙印{f801}{ffff}</source>
+    <target>将回避・命中降至最低{f801}对象/{f87d}{0f00} 付加/烙印{f801}{ffff}</target>
+  </entry>
+  <entry id="148">
+    <source>让处于「睡眠」状态的对象即死{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>让处于「睡眠」状态的对象即死{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="149">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/毒・紧缚・魅惑{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/毒・紧缚・魅惑{f801}{ffff}</target>
+  </entry>
+  <entry id="150">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</target>
+  </entry>
+  <entry id="151">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="152">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="153">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="154">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="155">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="156">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="157">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="158">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="159">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="160">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="161">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="162">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="163">
+    <source>对敌人发动1〜3次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜3次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="164">
+    <source>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="165">
+    <source>对敌人发动1〜3次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜3次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="166">
+    <source>对敌人发动1〜3次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜3次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="167">
+    <source>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="168">
+    <source>对敌人发动1〜3次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜3次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="169">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/降低攻击力{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/降低攻击力{f801}{ffff}</target>
+  </entry>
+  <entry id="170">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</target>
+  </entry>
+  <entry id="171">
+    <source>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/混乱{f801}{ffff}</source>
+    <target>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/混乱{f801}{ffff}</target>
+  </entry>
+  <entry id="172">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/迷路{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/迷路{f801}{ffff}</target>
+  </entry>
+  <entry id="173">
+    <source>对敌人发动2〜4次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/眩晕{f801}{ffff}</source>
+    <target>对敌人发动2〜4次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/眩晕{f801}{ffff}</target>
+  </entry>
+  <entry id="174">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/感冒{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/感冒{f801}{ffff}</target>
+  </entry>
+  <entry id="175">
+    <source>对敌人发动2次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/魔封{f801}{ffff}</source>
+    <target>对敌人发动2次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/魔封{f801}{ffff}</target>
+  </entry>
+  <entry id="176">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/毒{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/毒{f801}{ffff}</target>
+  </entry>
+  <entry id="177">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="178">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/紧缚{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/紧缚{f801}{ffff}</target>
+  </entry>
+  <entry id="179">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/毒{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/毒{f801}{ffff}</target>
+  </entry>
+  <entry id="180">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="181">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="182">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="183">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="184">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="185">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="186">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="187">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="188">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</target>
+  </entry>
+  <entry id="189">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/毒{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/毒{f801}{ffff}</target>
+  </entry>
+  <entry id="190">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/紧缚{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/紧缚{f801}{ffff}</target>
+  </entry>
+  <entry id="191">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/混乱{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/混乱{f801}{ffff}</target>
+  </entry>
+  <entry id="192">
+    <source>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</source>
+    <target>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</target>
+  </entry>
+  <entry id="193">
+    <source>对敌人发动2〜4次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动2〜4次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="194">
+    <source>对敌人发动1〜5次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜5次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="195">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</target>
+  </entry>
+  <entry id="196">
+    <source>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</source>
+    <target>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</target>
+  </entry>
+  <entry id="197">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/眩晕{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/眩晕{f801}{ffff}</target>
+  </entry>
+  <entry id="198">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加眩晕{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加眩晕{f801}{ffff}</target>
+  </entry>
+  <entry id="199">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/眩晕{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/眩晕{f801}{ffff}</target>
+  </entry>
+  <entry id="200">
+    <source>对敌人发动2次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动2次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>对敌人发动4次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动4次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="202">
+    <source>对敌人发动6次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动6次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="203">
+    <source>对敌人发动8次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动8次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="204">
+    <source>对敌人发动10次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动10次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="205">
+    <source>对敌人发动12次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动12次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="206">
+    <source>对敌人发动14次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动14次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="207">
+    <source>ダミー{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>ダミー{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="208">
+    <source>在回合结束前火焰属性攻击会贯穿所有耐性{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在回合结束前火焰属性攻击会贯穿所有耐性{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="209">
+    <source>在回合结束前冰结属性攻击会贯穿所有耐性{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在回合结束前冰结属性攻击会贯穿所有耐性{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="210">
+    <source>在回合结束前电击属性攻击会贯穿所有耐性{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在回合结束前电击属性攻击会贯穿所有耐性{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="211">
+    <source>在回合结束前冲击属性攻击会贯穿所有耐性{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在回合结束前冲击属性攻击会贯穿所有耐性{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="212">
+    <source>在下次敌方行动时减少1次行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在下次敌方行动时减少1次行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="213">
+    <source>在下次敌方行动时减少1次行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在下次敌方行动时减少1次行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="214">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="215">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="216">
+    <source>朝日发动通常攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>朝日发动通常攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="217">
+    <source>朝日发动通常攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>朝日发动通常攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="218">
+    <source>朝日发动通常攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>朝日发动通常攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="219">
+    <source>朝日发动通常攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>朝日发动通常攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="220">
+    <source>朝日发动通常攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>朝日发动通常攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="221">
+    <source>发动即死攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>发动即死攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="222">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="223">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸收{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸收{f801}{ffff}</target>
+  </entry>
+  <entry id="224">
+    <source>对敌人发动2次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动2次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="225">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/消除能力提升{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/消除能力提升{f801}{ffff}</target>
+  </entry>
+  <entry id="226">
+    <source>付加「奸笑」状态{f801}对象/{f87d}{0f00} 条件/异常状态时无法使用{f801}{ffff}</source>
+    <target>付加「奸笑」状态{f801}对象/{f87d}{0f00} 条件/异常状态时无法使用{f801}{ffff}</target>
+  </entry>
+  <entry id="227">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="228">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸收・贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸收・贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="229">
+    <source>对敌人发动2次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动2次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="230">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/能力上昇消去・貫通{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/能力上昇消去・貫通{f801}{ffff}</target>
+  </entry>
+  <entry id="231">
+    <source>对敌人发动6次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果 命中/低{f801}{ffff}</source>
+    <target>对敌人发动6次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="232">
+    <source>在下个我方回合到来之前付加不屈效果{f801}对象/{f87d}{0f00} 几率/中{f801}{ffff}</source>
+    <target>在下个我方回合到来之前付加不屈效果{f801}对象/{f87d}{0f00} 几率/中{f801}{ffff}</target>
+  </entry>
+  <entry id="233">
+    <source>在下个我方回合到来之前付加异常状态无效{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在下个我方回合到来之前付加异常状态无效{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="234">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/降低防御力・贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/降低防御力・贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="235">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 威力/对异常状态者大{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 威力/对异常状态者大{f801}{ffff}</target>
+  </entry>
+  <entry id="236">
+    <source>在下个我方回合到来之前吸收所有弱点属性攻击{f801}对象/{f87d}{0f00} 吸収時/全能力提升・奸笑{f801}{ffff}</source>
+    <target>在下个我方回合到来之前吸收所有弱点属性攻击{f801}对象/{f87d}{0f00} 吸収時/全能力提升・奸笑{f801}{ffff}</target>
+  </entry>
+  <entry id="237">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/威力提升{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/威力提升{f801}{ffff}</target>
+  </entry>
+  <entry id="238">
+    <source>付加异常状态「毒・感冒・紧缚」{f801}对象/{f87d}{0f00} 付加/降低攻击力{f801}{ffff}</source>
+    <target>付加异常状态「毒・感冒・紧缚」{f801}对象/{f87d}{0f00} 付加/降低攻击力{f801}{ffff}</target>
+  </entry>
+  <entry id="239">
+    <source>付加异常状态「睡眠・混乱・魅惑」{f801}对象/{f87d}{0f00} 付加/降低防御力{f801}{ffff}</source>
+    <target>付加异常状态「睡眠・混乱・魅惑」{f801}对象/{f87d}{0f00} 付加/降低防御力{f801}{ffff}</target>
+  </entry>
+  <entry id="240">
+    <source>在战斗开始时以一定几率发动物理属性攻击{f801}对象/敌单体 付加/即死・贯通效果{f801}{ffff}</source>
+    <target>在战斗开始时以一定几率发动物理属性攻击{f801}对象/敌单体 付加/即死・贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="241">
+    <source>在敌方回合中以一定几率发动物理属性攻击{f801}对象/敌单体 付加/即死・贯通效果{f801}{ffff}</source>
+    <target>在敌方回合中以一定几率发动物理属性攻击{f801}对象/敌单体 付加/即死・贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="242">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/降低命中・回避{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/降低命中・回避{f801}{ffff}</target>
+  </entry>
+  <entry id="243">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/眩晕{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/眩晕{f801}{ffff}</target>
+  </entry>
+  <entry id="244">
+    <source>付加异常状态「眩晕」{f801}对象/{f87d}{0f00} 付加/降低命中・回避率{f801}{ffff}</source>
+    <target>付加异常状态「眩晕」{f801}对象/{f87d}{0f00} 付加/降低命中・回避率{f801}{ffff}</target>
+  </entry>
+  <entry id="245">
+    <source>付加异常状态「魅惑」{f801}对象/{f87d}{0f00} 付加/降低攻击力{f801}{ffff}</source>
+    <target>付加异常状态「魅惑」{f801}对象/{f87d}{0f00} 付加/降低攻击力{f801}{ffff}</target>
+  </entry>
+  <entry id="246">
+    <source>对敌人发动3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/解除奸笑状态{f801}{ffff}</source>
+    <target>对敌人发动3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/解除奸笑状态{f801}{ffff}</target>
+  </entry>
+  <entry id="247">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/消除能力提升{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/消除能力提升{f801}{ffff}</target>
+  </entry>
+  <entry id="248">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="249">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="250">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 奸笑时/降低防御力{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 奸笑时/降低防御力{f801}{ffff}</target>
+  </entry>
+  <entry id="251">
+    <source>ダミー{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>ダミー{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="252">
+    <source>对敌人发动2〜3次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动2〜3次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="253">
+    <source>在下次受到弱点攻击时,弱点会发生变化{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在下次受到弱点攻击时,弱点会发生变化{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="254">
+    <source>付加异常状态「魅惑」{f801}对象/{f87d}{0f00} 付加/将防御力降至最低{f801}{ffff}</source>
+    <target>付加异常状态「魅惑」{f801}对象/{f87d}{0f00} 付加/将防御力降至最低{f801}{ffff}</target>
+  </entry>
+  <entry id="255">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="256">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 威力/根据对方的破魔耐性变化{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 威力/根据对方的破魔耐性变化{f801}{ffff}</target>
+  </entry>
+  <entry id="257">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="258">
+    <source>对敌人发动2次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动2次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="259">
+    <source>将防御力・命中・回避率提升至最大{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>将防御力・命中・回避率提升至最大{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="260">
+    <source>在下次受到伤害之际,将所受的伤害直接返还给敌方全体{f801}对象/{f87d}{0f00} 奸笑时/反击效果持续{f801}{ffff}</source>
+    <target>在下次受到伤害之际,将所受的伤害直接返还给敌方全体{f801}对象/{f87d}{0f00} 奸笑时/反击效果持续{f801}{ffff}</target>
+  </entry>
+  <entry id="261">
+    <source>在下次受到伤害之际,将所受的伤害直接返还给敌方全体{f801}对象/{f87d}{0f00} 奸笑时/反击效果持续{f801}{ffff}</source>
+    <target>在下次受到伤害之际,将所受的伤害直接返还给敌方全体{f801}对象/{f87d}{0f00} 奸笑时/反击效果持续{f801}{ffff}</target>
+  </entry>
+  <entry id="262">
+    <source>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="263">
+    <source>对敌人发动2次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/混乱{f801}{ffff}</source>
+    <target>对敌人发动2次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/混乱{f801}{ffff}</target>
+  </entry>
+  <entry id="264">
+    <source>以{f87d}{0e00}属性对敌人造成HP50%的伤害{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>以{f87d}{0e00}属性对敌人造成HP50%的伤害{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="265">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/混乱{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/混乱{f801}{ffff}</target>
+  </entry>
+  <entry id="266">
+    <source>随机让1名对象返回保存区{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>随机让1名对象返回保存区{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="267">
+    <source>让敌方全体的HP降为一半{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>让敌方全体的HP降为一半{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="268">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/降低命中・回避率{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/降低命中・回避率{f801}{ffff}</target>
+  </entry>
+  <entry id="269">
+    <source>对敌人发动2次{f87d}{0e00}属性攻击{f801}对象/{f87d}{0f00} 付加/降低防御力{f801}{ffff}</source>
+    <target>对敌人发动2次{f87d}{0e00}属性攻击{f801}对象/{f87d}{0f00} 付加/降低防御力{f801}{ffff}</target>
+  </entry>
+  <entry id="270">
+    <source>发动必中的即死攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>发动必中的即死攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="271">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="272">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="273">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="274">
+    <source>在下次敌方行动时减少3个行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在下次敌方行动时减少3个行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="275">
+    <source>在下次敌方行动时减少3个行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在下次敌方行动时减少3个行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="276">
+    <source>提升攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>提升攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="277">
+    <source>对敌人发动1次威力根据异常状态数量改变的攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次威力根据异常状态数量改变的攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="278">
+    <source>付加异常状态「睡眠」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「睡眠」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="279">
+    <source>付加异常状态「混乱」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「混乱」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="280">
+    <source>对敌人发动1〜3次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/混乱{f801}{ffff}</source>
+    <target>对敌人发动1〜3次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/混乱{f801}{ffff}</target>
+  </entry>
+  <entry id="281">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/眩晕{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/眩晕{f801}{ffff}</target>
+  </entry>
+  <entry id="282">
+    <source>付加异常状态「魅惑」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「魅惑」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="283">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</target>
+  </entry>
+  <entry id="284">
+    <source>付加异常状态「紧缚」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「紧缚」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="285">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="286">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 必杀率/高{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 必杀率/高{f801}{ffff}</target>
+  </entry>
+  <entry id="287">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/毒・紧缚・魅惑{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/毒・紧缚・魅惑{f801}{ffff}</target>
+  </entry>
+  <entry id="288">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 必杀率/高{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 必杀率/高{f801}{ffff}</target>
+  </entry>
+  <entry id="289">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="290">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/毒{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/毒{f801}{ffff}</target>
+  </entry>
+  <entry id="291">
+    <source>在一定回合内让迪卡加无效化{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在一定回合内让迪卡加无效化{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="292">
+    <source>进行一次{f87d}{0e00}属性攻击,将HP降为1{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>进行一次{f87d}{0e00}属性攻击,将HP降为1{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="293">
+    <source>以{f87d}{0e00}属性吸收对方的MP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>以{f87d}{0e00}属性吸收对方的MP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="294">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="295">
+    <source>使全部辅助效果无效化{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>使全部辅助效果无效化{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="296">
+    <source>对敌人发动{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/紧缚・混乱・魅惑{f801}{ffff}</source>
+    <target>对敌人发动{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/紧缚・混乱・魅惑{f801}{ffff}</target>
+  </entry>
+  <entry id="297">
+    <source>发动即死攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>发动即死攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="298">
+    <source>大幅提升魔法攻击力{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>大幅提升魔法攻击力{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="299">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/迷路{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/迷路{f801}{ffff}</target>
+  </entry>
+  <entry id="300">
+    <source>随机让1名对象返回保存区{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>随机让1名对象返回保存区{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="301">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/烙印{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/烙印{f801}{ffff}</target>
+  </entry>
+  <entry id="302">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="303">
+    <source>消除提特拉康的效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>消除提特拉康的效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="304">
+    <source>使全部辅助效果无效化{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>使全部辅助效果无效化{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="305">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="306">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="307">
+    <source>对敌人发动{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/紧缚・混乱・魅惑{f801}{ffff}</source>
+    <target>对敌人发动{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/紧缚・混乱・魅惑{f801}{ffff}</target>
+  </entry>
+  <entry id="308">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="309">
+    <source>消除玛卡拉康的效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>消除玛卡拉康的效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="310">
+    <source>对敌人发动6〜10次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动6〜10次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="311">
+    <source>以{f87d}{0e00}属性吸收对方的MP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>以{f87d}{0e00}属性吸收对方的MP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="312">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="313">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力贯通攻击{f801}对象/{f87d}{0f00} 付加/随机降低耐性{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力贯通攻击{f801}对象/{f87d}{0f00} 付加/随机降低耐性{f801}{ffff}</target>
+  </entry>
+  <entry id="314">
+    <source>对敌人发动2次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/降低命中・回避率{f801}{ffff}</source>
+    <target>对敌人发动2次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/降低命中・回避率{f801}{ffff}</target>
+  </entry>
+  <entry id="315">
+    <source>提升攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>提升攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="316">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力贯通攻击{f801}对象/{f87d}{0f00} 付加/随机降低耐性{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力贯通攻击{f801}对象/{f87d}{0f00} 付加/随机降低耐性{f801}{ffff}</target>
+  </entry>
+  <entry id="317">
+    <source>在下次敌方行动时减少2个行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在下次敌方行动时减少2个行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="318">
+    <source>在下次敌方行动时减少2个行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在下次敌方行动时减少2个行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="319">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="320">
+    <source>对敌人发动2次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/解除奸笑状态{f801}{ffff}</source>
+    <target>对敌人发动2次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/解除奸笑状态{f801}{ffff}</target>
+  </entry>
+  <entry id="321">
+    <source>增加3次行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>增加3次行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="322">
+    <source>对敌人发动2〜3次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/紧缚{f801}{ffff}</source>
+    <target>对敌人发动2〜3次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/紧缚{f801}{ffff}</target>
+  </entry>
+  <entry id="323">
+    <source>降低攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>降低攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="324">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/伤害2倍{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/伤害2倍{f801}{ffff}</target>
+  </entry>
+  <entry id="325">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="326">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/降低防御力{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/降低防御力{f801}{ffff}</target>
+  </entry>
+  <entry id="327">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力贯通攻击{f801}对象/{f87d}{0f00} 必杀率/高{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力贯通攻击{f801}对象/{f87d}{0f00} 必杀率/高{f801}{ffff}</target>
+  </entry>
+  <entry id="328">
+    <source>对敌人发动4次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动4次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="329">
+    <source>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="330">
+    <source>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="331">
+    <source>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="332">
+    <source>对敌人发动4次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动4次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="333">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 效果/使自己的冰结耐性化作弱点{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 效果/使自己的冰结耐性化作弱点{f801}{ffff}</target>
+  </entry>
+  <entry id="334">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 效果/使自己的火炎耐性化作弱点{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 效果/使自己的火炎耐性化作弱点{f801}{ffff}</target>
+  </entry>
+  <entry id="335">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 效果/使自己的冲击耐性化作弱点{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 效果/使自己的冲击耐性化作弱点{f801}{ffff}</target>
+  </entry>
+  <entry id="336">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 效果/使自己的电击耐性化作弱点{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 效果/使自己的电击耐性化作弱点{f801}{ffff}</target>
+  </entry>
+  <entry id="337">
+    <source>对敌人发动1〜5次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1〜5次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="338">
+    <source>发动{f87d}{0e00}属性攻击 对YHVH具有很大效果{f801}对象/{f87d}{0f00} 付加/随机降低耐性{f801}{ffff}</source>
+    <target>发动{f87d}{0e00}属性攻击 对YHVH具有很大效果{f801}对象/{f87d}{0f00} 付加/随机降低耐性{f801}{ffff}</target>
+  </entry>
+  <entry id="339">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="340">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="341">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</target>
+  </entry>
+  <entry id="342">
+    <source>对敌人发动2次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动2次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="343">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/消除能力提升{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/消除能力提升{f801}{ffff}</target>
+  </entry>
+  <entry id="344">
+    <source>下次进行的魔法攻击的威力变成两倍以上{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</source>
+    <target>下次进行的魔法攻击的威力变成两倍以上{f801}对象/{f87d}{0f00} 付加/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="345">
+    <source>以{f87d}{0e00}属性吸收HP・MP{f801}对象/{f87d}{0f00} 奸笑时/威力提升{f801}{ffff}</source>
+    <target>以{f87d}{0e00}属性吸收HP・MP{f801}对象/{f87d}{0f00} 奸笑时/威力提升{f801}{ffff}</target>
+  </entry>
+  <entry id="346">
+    <source>对敌人发动1〜5次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/防御低下・奸笑时即死{f801}{ffff}</source>
+    <target>对敌人发动1〜5次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/防御低下・奸笑时即死{f801}{ffff}</target>
+  </entry>
+  <entry id="347">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/降低防御・命中・回避{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/降低防御・命中・回避{f801}{ffff}</target>
+  </entry>
+  <entry id="348">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸收{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸收{f801}{ffff}</target>
+  </entry>
+  <entry id="349">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="350">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="351">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="352">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="353">
+    <source>对敌人发动4〜6次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动4〜6次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="354">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/紧缚{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/紧缚{f801}{ffff}</target>
+  </entry>
+  <entry id="355">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="356">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="357">
+    <source>将全能力提升至最大,并付加「奸笑」状态{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>将全能力提升至最大,并付加「奸笑」状态{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="358">
+    <source>将全能力降低至最低{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>将全能力降低至最低{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="359">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="360">
+    <source>对敌人发动3〜4次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动3〜4次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="361">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/威力提升{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/威力提升{f801}{ffff}</target>
+  </entry>
+  <entry id="362">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="363">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="364">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 条件/仅限奸笑时使用{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 条件/仅限奸笑时使用{f801}{ffff}</target>
+  </entry>
+  <entry id="365">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 条件/仅限奸笑时使用{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 条件/仅限奸笑时使用{f801}{ffff}</target>
+  </entry>
+  <entry id="366">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="367">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="368">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="369">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="370">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="371">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="372">
+    <source>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="373">
+    <source>在1回合内反射物理攻击和铳攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在1回合内反射物理攻击和铳攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="374">
+    <source>在1回合内反射异常状态之外的魔法攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在1回合内反射异常状态之外的魔法攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="375">
+    <source>消除能力提升效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>消除能力提升效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="376">
+    <source>消除能力降低效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>消除能力降低效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="377">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="378">
+    <source>付加异常状态「魅惑」{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>付加异常状态「魅惑」{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="379">
+    <source>对敌人发动2〜4次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/眩晕{f801}{ffff}</source>
+    <target>对敌人发动2〜4次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/眩晕{f801}{ffff}</target>
+  </entry>
+  <entry id="380">
+    <source>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>没有任何效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="381">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="382">
+    <source>在下次敌方行动时减少3个行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在下次敌方行动时减少3个行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="383">
+    <source>在下次敌方行动时减少3个行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>在下次敌方行动时减少3个行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="384">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/烙印{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00} 付加/烙印{f801}{ffff}</target>
+  </entry>
+  <entry id="385">
+    <source>对敌人发动6〜10次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动6〜10次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="386">
+    <source>以{f87d}{0e00}属性吸收对方的MP{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>以{f87d}{0e00}属性吸收对方的MP{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="387">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="388">
+    <source>将全能力提升至最大,并付加「奸笑」状态{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>将全能力提升至最大,并付加「奸笑」状态{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="389">
+    <source>将全能力降低至最低{f801}对象/{f87d}{0f00} 付加/魔封{f801}{ffff}</source>
+    <target>将全能力降低至最低{f801}对象/{f87d}{0f00} 付加/魔封{f801}{ffff}</target>
+  </entry>
+  <entry id="390">
+    <source>增加两次行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>增加两次行动机会{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="391">
+    <source>付加异常状态「混乱」{f801}对象/{f87d}{0f00} 付加/全能力低下{f801}{ffff}</source>
+    <target>付加异常状态「混乱」{f801}对象/{f87d}{0f00} 付加/全能力低下{f801}{ffff}</target>
+  </entry>
+  <entry id="392">
+    <source>对敌人发动4〜12次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动4〜12次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="393">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/即死{f801}{ffff}</target>
+  </entry>
+  <entry id="394">
+    <source>对敌人发动1〜5次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/混乱・贯通效果{f801}{ffff}</source>
+    <target>对敌人发动1〜5次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/混乱・贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="395">
+    <source>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性特大威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="396">
+    <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/魔封 命中/低{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/魔封 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="397">
+    <source>大幅提升命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>大幅提升命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="398">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 效果/贯通异常状态的敌人{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 效果/贯通异常状态的敌人{f801}{ffff}</target>
+  </entry>
+  <entry id="399">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/付加即死{f801}{ffff}</target>
+  </entry>
+  <entry id="400">
+    <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/魅惑{f801}{ffff}</source>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/魅惑{f801}{ffff}</target>
+  </entry>
+  <entry id="401">
+    <source>强化自己对物理属性攻击的耐性{f801}对象/自己{f801}{ffff}</source>
+    <target>强化自己对物理属性攻击的耐性{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="402">
+    <source>使物理属性攻击无效化{f801}对象/自己{f801}{ffff}</source>
+    <target>使物理属性攻击无效化{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="403">
+    <source>反射物理属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>反射物理属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="404">
+    <source>吸收物理属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>吸收物理属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="405">
+    <source>强化自己对铳属性攻击的耐性{f801}对象/自己{f801}{ffff}</source>
+    <target>强化自己对铳属性攻击的耐性{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="406">
+    <source>使铳属性攻击无效化{f801}对象/自己{f801}{ffff}</source>
+    <target>使铳属性攻击无效化{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="407">
+    <source>反射铳属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>反射铳属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="408">
+    <source>吸收铳属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>吸收铳属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="409">
+    <source>强化自己对火炎属性攻击的耐性{f801}对象/自己{f801}{ffff}</source>
+    <target>强化自己对火炎属性攻击的耐性{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="410">
+    <source>使火炎属性攻击无效化{f801}对象/自己{f801}{ffff}</source>
+    <target>使火炎属性攻击无效化{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="411">
+    <source>反射火炎属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>反射火炎属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="412">
+    <source>吸收火炎属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>吸收火炎属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="413">
+    <source>强化自己对冰结属性攻击的耐性{f801}对象/自己{f801}{ffff}</source>
+    <target>强化自己对冰结属性攻击的耐性{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="414">
+    <source>使冰结属性攻击无效化{f801}对象/自己{f801}{ffff}</source>
+    <target>使冰结属性攻击无效化{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="415">
+    <source>反射冰结属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>反射冰结属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="416">
+    <source>吸收冰结属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>吸收冰结属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="417">
+    <source>强化自己对电击属性攻击的耐性{f801}对象/自己{f801}{ffff}</source>
+    <target>强化自己对电击属性攻击的耐性{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="418">
+    <source>使电击属性攻击无效化{f801}对象/自己{f801}{ffff}</source>
+    <target>使电击属性攻击无效化{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="419">
+    <source>反射电击属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>反射电击属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="420">
+    <source>吸收电击属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>吸收电击属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="421">
+    <source>强化自己对冲击属性攻击的耐性{f801}对象/自己{f801}{ffff}</source>
+    <target>强化自己对冲击属性攻击的耐性{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="422">
+    <source>使冲击属性攻击无效化{f801}对象/自己{f801}{ffff}</source>
+    <target>使冲击属性攻击无效化{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="423">
+    <source>反射冲击属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>反射冲击属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="424">
+    <source>吸收冲击属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>吸收冲击属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="425">
+    <source>强化自己对咒杀属性攻击的耐性{f801}对象/自己{f801}{ffff}</source>
+    <target>强化自己对咒杀属性攻击的耐性{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="426">
+    <source>使咒杀属性攻击无效化{f801}对象/自己{f801}{ffff}</source>
+    <target>使咒杀属性攻击无效化{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="427">
+    <source>强化自己对破魔属性攻击的耐性{f801}对象/自己{f801}{ffff}</source>
+    <target>强化自己对破魔属性攻击的耐性{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="428">
+    <source>使破魔属性攻击无效化{f801}对象/自己{f801}{ffff}</source>
+    <target>使破魔属性攻击无效化{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="429">
+    <source>使异常状态「睡眠・混乱・魅惑・魔封」无效化{f801}对象/自己{f801}{ffff}</source>
+    <target>使异常状态「睡眠・混乱・魅惑・魔封」无效化{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="430">
+    <source>使异常状态「毒・紧缚・感冒・眩晕」无效化{f801}对象/自己{f801}{ffff}</source>
+    <target>使异常状态「毒・紧缚・感冒・眩晕」无效化{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="431">
+    <source>强化物理属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</source>
+    <target>强化物理属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="432">
+    <source>强化物理属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</source>
+    <target>强化物理属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="433">
+    <source>强化铳属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</source>
+    <target>强化铳属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="434">
+    <source>强化铳属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</source>
+    <target>强化铳属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="435">
+    <source>强化火炎属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</source>
+    <target>强化火炎属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="436">
+    <source>强化火炎属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</source>
+    <target>强化火炎属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="437">
+    <source>强化冰结属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</source>
+    <target>强化冰结属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="438">
+    <source>强化冰结属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</source>
+    <target>强化冰结属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="439">
+    <source>强化电击属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</source>
+    <target>强化电击属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="440">
+    <source>强化电击属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</source>
+    <target>强化电击属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="441">
+    <source>强化冲击属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</source>
+    <target>强化冲击属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="442">
+    <source>强化冲击属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</source>
+    <target>强化冲击属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="443">
+    <source>强化回复魔法的效果{f801}对象/自己{f801}{ffff}</source>
+    <target>强化回复魔法的效果{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="444">
+    <source>强化回复魔法的效果{f801}对象/自己 效果/大{f801}{ffff}</source>
+    <target>强化回复魔法的效果{f801}对象/自己 效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="445">
+    <source>在自己的HP耗尽之时,{f801}能在战斗中以1点HP复活1次{f801}{ffff}</source>
+    <target>在自己的HP耗尽之时,{f801}能在战斗中以1点HP复活1次{f801}{ffff}</target>
+  </entry>
+  <entry id="446">
+    <source>在自己的HP耗尽之时,{f801}能在战斗中以全部HP复活1次{f801}{ffff}</source>
+    <target>在自己的HP耗尽之时,{f801}能在战斗中以全部HP复活1次{f801}{ffff}</target>
+  </entry>
+  <entry id="447">
+    <source>以一定几率反击物理或者铳属性攻击{f801}条件/自己被攻击{f801}{ffff}</source>
+    <target>以一定几率反击物理或者铳属性攻击{f801}条件/自己被攻击{f801}{ffff}</target>
+  </entry>
+  <entry id="448">
+    <source>以一定几率反击物理或者铳属性攻击{f801}条件/自己被攻击 威力/大{f801}{ffff}</source>
+    <target>以一定几率反击物理或者铳属性攻击{f801}条件/自己被攻击 威力/大{f801}{ffff}</target>
+  </entry>
+  <entry id="449">
+    <source>以一定几率反击物理或者铳属性攻击{f801}条件/我方成员被攻击时{f801}{ffff}</source>
+    <target>以一定几率反击物理或者铳属性攻击{f801}条件/我方成员被攻击时{f801}{ffff}</target>
+  </entry>
+  <entry id="450">
+    <source>以一定几率反击物理或者铳属性攻击{f801}条件/我方成员被攻击时 威力/大{f801}{ffff}</source>
+    <target>以一定几率反击物理或者铳属性攻击{f801}条件/我方成员被攻击时 威力/大{f801}{ffff}</target>
+  </entry>
+  <entry id="451">
+    <source>战斗胜利时回复自身HP{f801}{ffff}</source>
+    <target>战斗胜利时回复自身HP{f801}{ffff}</target>
+  </entry>
+  <entry id="452">
+    <source>战斗胜利时回复自身MP{f801}{ffff}</source>
+    <target>战斗胜利时回复自身MP{f801}{ffff}</target>
+  </entry>
+  <entry id="453">
+    <source>战斗胜利时回复全部HP・MP{f801}{ffff}</source>
+    <target>战斗胜利时回复全部HP・MP{f801}{ffff}</target>
+  </entry>
+  <entry id="454">
+    <source>每行走一定距离时回复自身HP{f801}条件/在保存区里时无效{f801}{ffff}</source>
+    <target>每行走一定距离时回复自身HP{f801}条件/在保存区里时无效{f801}{ffff}</target>
+  </entry>
+  <entry id="455">
+    <source>每行走一定距离时回复自身MP{f801}条件/在保存区里时无效{f801}{ffff}</source>
+    <target>每行走一定距离时回复自身MP{f801}条件/在保存区里时无效{f801}{ffff}</target>
+  </entry>
+  <entry id="456">
+    <source>在玩家的仲魔即将迷路的时候{f801}以100%的几率阻止,让其再次返回队伍{f801}{ffff}</source>
+    <target>在玩家的仲魔即将迷路的时候{f801}以100%的几率阻止,让其再次返回队伍{f801}{ffff}</target>
+  </entry>
+  <entry id="457">
+    <source>降低被敌人盯上的几率{f801}{ffff}</source>
+    <target>降低被敌人盯上的几率{f801}{ffff}</target>
+  </entry>
+  <entry id="458">
+    <source>在战斗开始时以一定几率发动物理属性攻击{f801}对象/敌单体 付加/即死・贯通效果{f801}{ffff}</source>
+    <target>在战斗开始时以一定几率发动物理属性攻击{f801}对象/敌单体 付加/即死・贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="459">
+    <source>在敌方回合中以一定几率发动物理属性攻击{f801}对象/敌单体 付加/即死・贯通效果{f801}{ffff}</source>
+    <target>在敌方回合中以一定几率发动物理属性攻击{f801}对象/敌单体 付加/即死・贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="460">
+    <source>在被攻击到弱点时提升全部能力{f801}{ffff}</source>
+    <target>在被攻击到弱点时提升全部能力{f801}{ffff}</target>
+  </entry>
+  <entry id="461">
+    <source>提升最大HP{f801}对象/自己 效果/小{f801}{ffff}</source>
+    <target>提升最大HP{f801}对象/自己 效果/小{f801}{ffff}</target>
+  </entry>
+  <entry id="462">
+    <source>提升最大HP{f801}对象/自己 效果/中{f801}{ffff}</source>
+    <target>提升最大HP{f801}对象/自己 效果/中{f801}{ffff}</target>
+  </entry>
+  <entry id="463">
+    <source>提升最大HP{f801}对象/自己 效果/大{f801}{ffff}</source>
+    <target>提升最大HP{f801}对象/自己 效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="464">
+    <source>提升最大MP{f801}对象/自己 效果/小{f801}{ffff}</source>
+    <target>提升最大MP{f801}对象/自己 效果/小{f801}{ffff}</target>
+  </entry>
+  <entry id="465">
+    <source>提升最大MP{f801}对象/自己 效果/中{f801}{ffff}</source>
+    <target>提升最大MP{f801}对象/自己 效果/中{f801}{ffff}</target>
+  </entry>
+  <entry id="466">
+    <source>提升最大MP{f801}对象/自己 效果/大{f801}{ffff}</source>
+    <target>提升最大MP{f801}对象/自己 效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="467">
+    <source>强化咒杀属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</source>
+    <target>强化咒杀属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="468">
+    <source>强化咒杀属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</source>
+    <target>强化咒杀属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="469">
+    <source>强化破魔属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</source>
+    <target>强化破魔属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="470">
+    <source>强化破魔属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</source>
+    <target>强化破魔属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="471">
+    <source>可以使用回复・辅助道具{f801}对象/自己{f801}{ffff}</source>
+    <target>可以使用回复・辅助道具{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="472">
+    <source>强化所有属性的攻击力{f801}对象/自己 效果/大{f801}{ffff}</source>
+    <target>强化所有属性的攻击力{f801}对象/自己 效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="473">
+    <source>反射咒杀属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>反射咒杀属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="474">
+    <source>吸收咒杀属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>吸收咒杀属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="475">
+    <source>可以使用攻击道具{f801}对象/自己{f801}{ffff}</source>
+    <target>可以使用攻击道具{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="476">
+    <source>反射破魔属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>反射破魔属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="477">
+    <source>战斗胜利时小幅回复自身HP{f801}{ffff}</source>
+    <target>战斗胜利时小幅回复自身HP{f801}{ffff}</target>
+  </entry>
+  <entry id="478">
+    <source>战斗胜利时小幅回复自身MP{f801}{ffff}</source>
+    <target>战斗胜利时小幅回复自身MP{f801}{ffff}</target>
+  </entry>
+  <entry id="479">
+    <source>攻击时贯穿敌人的{f801}破魔吸收・反射・无效・耐性,使其失效{f801}{ffff}</source>
+    <target>攻击时贯穿敌人的{f801}破魔吸收・反射・无效・耐性,使其失效{f801}{ffff}</target>
+  </entry>
+  <entry id="480">
+    <source>攻击时贯穿敌人的{f801}咒杀吸收・反射・无效・耐性,使其失效{f801}{ffff}</source>
+    <target>攻击时贯穿敌人的{f801}咒杀吸收・反射・无效・耐性,使其失效{f801}{ffff}</target>
+  </entry>
+  <entry id="481">
+    <source>吸收破魔属性攻击{f801}对象/自己{f801}{ffff}</source>
+    <target>吸收破魔属性攻击{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+  <entry id="482">
+    <source>不易陷入异常状态{f801}{ffff}</source>
+    <target>不易陷入异常状态{f801}{ffff}</target>
+  </entry>
+  <entry id="483">
+    <source>提高获得的经验值{f801}{ffff}</source>
+    <target>提高获得的经验值{f801}{ffff}</target>
+  </entry>
+  <entry id="484">
+    <source>提高获得的经验值{f801}效果/大{f801}{ffff}</source>
+    <target>提高获得的经验值{f801}效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="485">
+    <source>提升命中・回避率{f801}{ffff}</source>
+    <target>提升命中・回避率{f801}{ffff}</target>
+  </entry>
+  <entry id="486">
+    <source>提升命中・回避率{f801}效果/大{f801}{ffff}</source>
+    <target>提升命中・回避率{f801}效果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="487">
+    <source>提升暴击率{f801}{ffff}</source>
+    <target>提升暴击率{f801}{ffff}</target>
+  </entry>
+  <entry id="488">
+    <source>攻击时贯穿敌人的{f801}物理吸收・反射・无效・耐性,使其失效{f801}{ffff}</source>
+    <target>攻击时贯穿敌人的{f801}物理吸收・反射・无效・耐性,使其失效{f801}{ffff}</target>
+  </entry>
+  <entry id="489">
+    <source>攻击时贯穿敌人的{f801}铳吸收・反射・无效・耐性,使其失效{f801}{ffff}</source>
+    <target>攻击时贯穿敌人的{f801}铳吸收・反射・无效・耐性,使其失效{f801}{ffff}</target>
+  </entry>
+  <entry id="490">
+    <source>攻击时贯穿敌人的{f801}火炎吸收・反射・无效・耐性,使其失效{f801}{ffff}</source>
+    <target>攻击时贯穿敌人的{f801}火炎吸收・反射・无效・耐性,使其失效{f801}{ffff}</target>
+  </entry>
+  <entry id="491">
+    <source>攻击时贯穿敌人的{f801}冰结吸收・反射・无效・耐性,使其失效{f801}{ffff}</source>
+    <target>攻击时贯穿敌人的{f801}冰结吸收・反射・无效・耐性,使其失效{f801}{ffff}</target>
+  </entry>
+  <entry id="492">
+    <source>攻击时贯穿敌人的{f801}电击吸收・反射・无效・耐性,使其失效{f801}{ffff}</source>
+    <target>攻击时贯穿敌人的{f801}电击吸收・反射・无效・耐性,使其失效{f801}{ffff}</target>
+  </entry>
+  <entry id="493">
+    <source>攻击时贯穿敌人的{f801}冲击吸收・反射・无效・耐性,使其失效{f801}{ffff}</source>
+    <target>攻击时贯穿敌人的{f801}冲击吸收・反射・无效・耐性,使其失效{f801}{ffff}</target>
+  </entry>
+  <entry id="494">
+    <source>强化全部属性的威力{f801}并付加贯通效果{f801}{ffff}</source>
+    <target>强化全部属性的威力{f801}并付加贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="495">
+    <source>大幅强化回复魔法的效果{f801}{ffff}</source>
+    <target>大幅强化回复魔法的效果{f801}{ffff}</target>
+  </entry>
+  <entry id="496">
+    <source>强化铳属性的威力{f801}并付加贯通效果{f801}{ffff}</source>
+    <target>强化铳属性的威力{f801}并付加贯通效果{f801}{ffff}</target>
+  </entry>
+  <entry id="497">
+    <source>大幅强化魔法攻击的威力{f801}{ffff}</source>
+    <target>大幅强化魔法攻击的威力{f801}{ffff}</target>
+  </entry>
+  <entry id="498">
+    <source>大幅强化物理属性的威力{f801}{ffff}</source>
+    <target>大幅强化物理属性的威力{f801}{ffff}</target>
+  </entry>
+  <entry id="499">
+    <source>为物理属性的攻击付加贯通效果{f801}并提升暗杀成功率{f801}{ffff}</source>
+    <target>为物理属性的攻击付加贯通效果{f801}并提升暗杀成功率{f801}{ffff}</target>
+  </entry>
+  <entry id="500">
+    <source>强化万能属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</source>
+    <target>强化万能属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</target>
+  </entry>
+</mbm>

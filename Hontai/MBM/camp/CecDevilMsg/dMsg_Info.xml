@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}乘着天鹅巴士跨越了时空。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}乘着天鹅巴士跨越了时空。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}所有宇宙都在战斗。{f801}我只好一个人扮星星王子玩。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}所有宇宙都在战斗。{f801}我只好一个人扮星星王子玩。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}呼,终于回来了。{f801}我就是为了这一刻才去旅行的啊。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼,终于回来了。{f801}我就是为了这一刻才去旅行的啊。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}和各种恶魔合体,{f801}就成了各种各样的我。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}和各种恶魔合体,{f801}就成了各种各样的我。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}哇…难道是{f843}{0000}!?{f801}一瞬间我都有点不认识你了。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哇…难道是{f843}{0000}!?{f801}一瞬间我都有点不认识你了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}我回来了。{f801}别问我发生了什么事,保密。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我回来了。{f801}别问我发生了什么事,保密。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}给,宇宙特产。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给,宇宙特产。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}{f843}{0000},我给你在{f801}机场买的礼物。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000},我给你在{f801}机场买的礼物。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}给,哈瓦那産的礼物。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给,哈瓦那産的礼物。{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="100">
+    <source>没有人在……{f801}{ffff}</source>
+    <target>没有人在……{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>是否要拿取发光的球体呢?{f801}{ffff}</source>
+    <target>是否要拿取发光的球体呢?{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>拿{f801}不拿{f801}{ffff}</source>
+    <target>拿{f801}不拿{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>{f843}{0000}捡到了《{f872}{0100}》。{f801}{ffff}</source>
+    <target>{f843}{0000}捡到了《{f872}{0100}》。{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>{f812}朝日{0000}{f87a}{ae00}{f81b}{4530}{3330}{3030}{3100}{0000}{0000}太好了无名!{f801}这样就能继续前进了!{f801}{ffff}</source>
+    <target>{f812}朝日{0000}{f87a}{ae00}{f81b}{4530}{3330}{3030}{3100}{0000}{0000}太好了无名!{f801}这样就能继续前进了!{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>{f843}{0000}没有碰发光的球体,{f801}直接从现场离开了。{f801}{ffff}</source>
+    <target>{f843}{0000}没有碰发光的球体,{f801}直接从现场离开了。{f801}{ffff}</target>
+  </entry>
+</mbm>
