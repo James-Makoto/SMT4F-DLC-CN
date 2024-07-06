@@ -1,0 +1,58 @@
+<mbm>
+  <entry id="0">
+    <source>前口上チェック{f801}{f802}{ffff}</source>
+    <target>前口上チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>プレイヤーターンチェック{f801}{f802}{ffff}</source>
+    <target>プレイヤーターンチェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>敵ターンチェック{f801}{f802}{ffff}</source>
+    <target>敵ターンチェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>行動開始チェック{f801}{f802}{ffff}</source>
+    <target>行動開始チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>HP75%以下{f801}{f802}{ffff}</source>
+    <target>HP75%以下{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>HP50%以下{f801}{f802}{ffff}</source>
+    <target>HP50%以下{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>HP25%以下{f801}{f802}{ffff}</source>
+    <target>HP25%以下{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>行動終了チェック{f801}{f802}{ffff}</source>
+    <target>行動終了チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>死亡開始チェック{f801}{f802}演出前に表示するのを確認{f801}{f802}{ffff}</source>
+    <target>死亡開始チェック{f801}{f802}演出前に表示するのを確認{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>プレイヤー逃走チェック{f801}{f802}{ffff}</source>
+    <target>プレイヤー逃走チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>敵逃走チェック{f801}{f802}{ffff}</source>
+    <target>敵逃走チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>バトル終了前チェック{f801}{f802}{ffff}</source>
+    <target>バトル終了前チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>登場演出開始チェック{f801}{f802}{ffff}</source>
+    <target>登場演出開始チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1000">
+    <source>テスト{f801}{f802}{ffff}</source>
+    <target>テスト{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

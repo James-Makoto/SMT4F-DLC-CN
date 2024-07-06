@@ -1,0 +1,302 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}排斥…排斥…{f801}{f802}抹杀…所有…不适合…{f801}日本的…异端…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}排斥…排斥…{f801}{f802}抹杀…所有…不适合…{f801}日本的…异端…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}但…保存区…满了…{f801}不能…一起…战斗…啊…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}但…保存区…满了…{f801}不能…一起…战斗…啊…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}我是……{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}……{f801}今后……让我们一起……爱国……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我是……{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}……{f801}今后……让我们一起……爱国……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}但…你…爱国的…{f801}水平…还不够…{f801}{f802}我…不能…当…{f801}你的…仲魔…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}但…你…爱国的…{f801}水平…还不够…{f801}{f802}我…不能…当…{f801}你的…仲魔…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}仔细…看…{f801}已经…有我的同志…在当你的仲魔了…{f801}{f802}要和…同志…一起…{f801}爱国…啊…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}仔细…看…{f801}已经…有我的同志…在当你的仲魔了…{f801}{f802}要和…同志…一起…{f801}爱国…啊…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}还有没有…其他…同志…呢?{f801}邀请…看看…吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}还有没有…其他…同志…呢?{f801}邀请…看看…吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}但…保存区…不够…{f801}无法…共同…战斗…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}但…保存区…不够…{f801}无法…共同…战斗…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}等等…同志…{f801}我也要…一起战斗…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}等等…同志…{f801}我也要…一起战斗…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}没关系…少数精锐…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}没关系…少数精锐…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}那么…我也来做…仲魔…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那么…我也来做…仲魔…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}我介绍…我的同志…给你吧…{f801}{f802}净是些…喜欢…{f801}恐怖手段的…家伙…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我介绍…我的同志…给你吧…{f801}{f802}净是些…喜欢…{f801}恐怖手段的…家伙…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}从同志那里…听说了…{f801}你是…那个?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}从同志那里…听说了…{f801}你是…那个?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}从我们…手里…{f801}夺取…爱国…资金…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}从我们…手里…{f801}夺取…爱国…资金…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}一定…要将你…处刑…{f801}为了…这个国家的…未来…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}一定…要将你…处刑…{f801}为了…这个国家的…未来…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}为了…国家的…未来…{f801}处刑…处刑…处刑…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}为了…国家的…未来…{f801}处刑…处刑…处刑…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}为…为什么…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}为…为什么…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}住手…卖国贼…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}住手…卖国贼…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>{f871}{0100}唔…啊啊啊…{f801}行刑…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}唔…啊啊啊…{f801}行刑…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f871}{0100}绑住…我…要做…什么…{f801}爱国…资金…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}绑住…我…要做…什么…{f801}爱国…资金…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f871}{0100}向我…这个…爱国者…{f801}索取…物资…{f801}{f802}那么…把…物资…给我…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}向我…这个…爱国者…{f801}索取…物资…{f801}{f802}那么…把…物资…给我…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f871}{0100}物资…{f801}这是…爱国之战…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}物资…{f801}这是…爱国之战…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}你是…爱国者…吗?{f801}那我…不会吝啬…给你吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你是…爱国者…吗?{f801}那我…不会吝啬…给你吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f871}{0100}希望…物资…能够…有所帮助…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}希望…物资…能够…有所帮助…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>{f871}{0100}给我…{f804}{0100}{f878}{0100}个…{f804}{0000}{f804}{0100}{f872}{0100}{f804}{0000}吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我…{f804}{0100}{f878}{0100}个…{f804}{0000}{f804}{0100}{f872}{0100}{f804}{0000}吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f871}{0100}给我…{f804}{0100}{f878}{0100}魔币{f804}{0000}吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我…{f804}{0100}{f878}{0100}魔币{f804}{0000}吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}给我…{f804}{0100}一点点{f804}{0000}…{f801}你的…{f804}{0100}生命力{f804}{0000}…吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我…{f804}{0100}一点点{f804}{0000}…{f801}你的…{f804}{0100}生命力{f804}{0000}…吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>{f871}{0100}给我…{f804}{0100}一些{f804}{0000}…{f801}你的…{f804}{0100}生命力{f804}{0000}…吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我…{f804}{0100}一些{f804}{0000}…{f801}你的…{f804}{0100}生命力{f804}{0000}…吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}给我…{f804}{0100}很多{f804}{0000}…{f801}你的…{f804}{0100}生命力{f804}{0000}…吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我…{f804}{0100}很多{f804}{0000}…{f801}你的…{f804}{0100}生命力{f804}{0000}…吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>{f871}{0100}给我…{f804}{0100}非常多的{f804}{0000}…{f801}你的…{f804}{0100}生命力{f804}{0000}…吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我…{f804}{0100}非常多的{f804}{0000}…{f801}你的…{f804}{0100}生命力{f804}{0000}…吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}给我…{f804}{0100}一点点{f804}{0000}…{f801}你的…{f804}{0100}精神力{f804}{0000}…吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我…{f804}{0100}一点点{f804}{0000}…{f801}你的…{f804}{0100}精神力{f804}{0000}…吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>{f871}{0100}给我…{f804}{0100}一些{f804}{0000}…{f801}你的…{f804}{0100}精神力{f804}{0000}…吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我…{f804}{0100}一些{f804}{0000}…{f801}你的…{f804}{0100}精神力{f804}{0000}…吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}给我…{f804}{0100}很多{f804}{0000}…{f801}你的…{f804}{0100}精神力{f804}{0000}…吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我…{f804}{0100}很多{f804}{0000}…{f801}你的…{f804}{0100}精神力{f804}{0000}…吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f871}{0100}给我…{f804}{0100}非常多{f804}{0000}…{f801}你的…{f804}{0100}精神力{f804}{0000}…吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我…{f804}{0100}非常多{f804}{0000}…{f801}你的…{f804}{0100}精神力{f804}{0000}…吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f871}{0100}我要…你仲魔…{f801}{f804}{0100}{f873}{0200}{f804}{0000}的…生命…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我要…你仲魔…{f801}{f804}{0100}{f873}{0200}{f804}{0000}的…生命…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f871}{0100}我要…{f804}{0100}那个{f804}{0000}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我要…{f804}{0100}那个{f804}{0000}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f871}{0100}如果…是…爱国者…{f801}应该知道…我想要…什么物质…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}如果…是…爱国者…{f801}应该知道…我想要…什么物质…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}很炙热的…爱国心…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}很炙热的…爱国心…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>{f871}{0100}爱国心…只有…这种程度…吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}爱国心…只有…这种程度…吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}好…就…这些了…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好…就…这些了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f871}{0100}居然…拒绝…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}居然…拒绝…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}不想…出…吗?{f801}我高看了…你的…爱国心?{f801}{f802}处刑…处刑…处刑…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不想…出…吗?{f801}我高看了…你的…爱国心?{f801}{f802}处刑…处刑…处刑…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>{f871}{0100}够了…{f801}我…对你…很失望…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}够了…{f801}我…对你…很失望…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}你…糊弄…我?{f801}我…高看了…你的…爱国心?{f801}{f802}处刑…处刑…处刑…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你…糊弄…我?{f801}我…高看了…你的…爱国心?{f801}{f802}处刑…处刑…处刑…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>{f871}{0100}不…中用的…家伙…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不…中用的…家伙…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}没有…魔石…无法…爱国…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}没有…魔石…无法…爱国…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>{f871}{0100}拒绝…全部…要求…{f801}这也是…爱国者…吗…{f801}{f802}太…棒了…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}拒绝…全部…要求…{f801}这也是…爱国者…吗…{f801}{f802}太…棒了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}同意…所有要求…{f801}爱国心…不够的…懦弱之人…{f801}{f802}碍眼…快走…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}同意…所有要求…{f801}爱国心…不够的…懦弱之人…{f801}{f802}碍眼…快走…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>{f871}{0100}什么…物资…都没有…{f801}你的…爱国之战…{f801}{f802}太…棒了…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}什么…物资…都没有…{f801}你的…爱国之战…{f801}{f802}太…棒了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}好…撤退…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好…撤退…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>{f871}{0100}同志…{f843}{0000}…{f801}又…见面了…{f801}{f802}如何…有好好…爱国…吗…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}同志…{f843}{0000}…{f801}又…见面了…{f801}{f802}如何…有好好…爱国…吗…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}本来…应该…拒绝的…{f801}但…这是…同志的…请求…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}本来…应该…拒绝的…{f801}但…这是…同志的…请求…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>{f871}{0100}为了…爱国之战…{f801}也…需要…资金…吧…{f801}{f802}这个…给你…了…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}为了…爱国之战…{f801}也…需要…资金…吧…{f801}{f802}这个…给你…了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}为了…爱国之战…{f801}也…需要…物资…吧…{f801}{f802}这个…给你…了…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}为了…爱国之战…{f801}也…需要…物资…吧…{f801}{f802}这个…给你…了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>{f871}{0100}就算…再怎么…爱国…{f801}同样的…对话…也听腻了…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就算…再怎么…爱国…{f801}同样的…对话…也听腻了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>{f871}{0100}终于…找到你了…{f801}同志…{f843}{0000}…{f801}{f802}再次…共赴…{f801}爱国者的…战场吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}终于…找到你了…{f801}同志…{f843}{0000}…{f801}{f802}再次…共赴…{f801}爱国者的…战场吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>{f871}{0100}别…杀…我…{f801}我们…不都是…爱国者吗…{f801}{f802}什么要求…我…都同意…{f801}说吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}别…杀…我…{f801}我们…不都是…爱国者吗…{f801}{f802}什么要求…我…都同意…{f801}说吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>{f871}{0100}爱国者…一言既出…驷马难追…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}爱国者…一言既出…驷马难追…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>{f871}{0100}殉…国!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}殉…国!{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

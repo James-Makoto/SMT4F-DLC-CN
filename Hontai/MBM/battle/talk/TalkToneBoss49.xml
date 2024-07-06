@@ -1,0 +1,302 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}虽然我很感谢你的心意,{f801}不过你还是先获得许可再来找我吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}虽然我很感谢你的心意,{f801}不过你还是先获得许可再来找我吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}嘿?提供资金?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}嘿?提供资金?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}你的任性……真不是盖的!{f801}这次轮到我了,猎人Boy!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你的任性……真不是盖的!{f801}这次轮到我了,猎人Boy!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}想要从我丸男大人这里抢走资金,{f801}就先拿肉来吧!{f801}{f802}但是,我见识到你的任性了……{f801}猎人Boy!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}想要从我丸男大人这里抢走资金,{f801}就先拿肉来吧!{f801}{f802}但是,我见识到你的任性了……{f801}猎人Boy!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}不要!{f801}丸男的钱包已经瘪了!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不要!{f801}丸男的钱包已经瘪了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}等一下!为什么要抢钱!?{f801}要抢钱的话去找别人吧?啊!?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}等一下!为什么要抢钱!?{f801}要抢钱的话去找别人吧?啊!?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>{f871}{0100}给我适可而止吧!{f801}丸男已经没钱了!!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我适可而止吧!{f801}丸男已经没钱了!!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f871}{0100}诶,你要对不能动的我做什么?{f801}你要对我这丰满诱人的身体做什么!?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶,你要对不能动的我做什么?{f801}你要对我这丰满诱人的身体做什么!?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f871}{0100}喂喂,那种事情要现在说吗?{f801}不应该现在说吧?{f801}{f802}但是,那种任性……{f801}丸男倒也不讨厌呢〜{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}喂喂,那种事情要现在说吗?{f801}不应该现在说吧?{f801}{f802}但是,那种任性……{f801}丸男倒也不讨厌呢〜{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f871}{0100}哼哼!就将丸男重要的东西{f801}交给猎人Boy吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哼哼!就将丸男重要的东西{f801}交给猎人Boy吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}就让猎人Boy你看看丸男{f801}自我本色的口袋中吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就让猎人Boy你看看丸男{f801}自我本色的口袋中吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f871}{0100}请接受丸男的自由本色!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}请接受丸男的自由本色!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}一发决定的才是丸男流……{f801}因此……{f801}{f802}我要{f878}{0100}魔币!{f801}你拿得出来吗,猎人Boy!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}一发决定的才是丸男流……{f801}因此……{f801}{f802}我要{f878}{0100}魔币!{f801}你拿得出来吗,猎人Boy!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>{f871}{0100}能把{f878}{0100}个{f872}{0100}{f801}给丸男吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}能把{f878}{0100}个{f872}{0100}{f801}给丸男吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f871}{0100}给我{f878}{0100}魔币吧!{f801}{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我{f878}{0100}魔币吧!{f801}{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}能给我一点猎人Boy的生命力吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}能给我一点猎人Boy的生命力吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>{f871}{0100}能给我猎人Boy的生命力吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}能给我猎人Boy的生命力吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}能给我大量猎人Boy的生命力吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}能给我大量猎人Boy的生命力吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>{f871}{0100}能给我接近极限的{f801}猎人Boy的生命力吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}能给我接近极限的{f801}猎人Boy的生命力吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}能给我一点猎人Boy的精神力吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}能给我一点猎人Boy的精神力吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>{f871}{0100}能给我猎人Boy的精神力吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}能给我猎人Boy的精神力吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}能给我大量猎人Boy的精神力吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}能给我大量猎人Boy的精神力吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f871}{0100}能给我接近极限的{f801}猎人Boy的精神力吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}能给我接近极限的{f801}猎人Boy的精神力吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f871}{0100}请将猎人Boy的仲魔……{f801}{f873}{0200}的性命交给我!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}请将猎人Boy的仲魔……{f801}{f873}{0200}的性命交给我!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f871}{0100}能把那个美丽的热带的东西{f801}给丸男吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}能把那个美丽的热带的东西{f801}给丸男吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f871}{0100}丸男想要的东西?{f801}嗯……什么都行吧……{f801}{f802}猎人Boy想要给{f801}丸男什么东西吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}丸男想要的东西?{f801}嗯……什么都行吧……{f801}{f802}猎人Boy想要给{f801}丸男什么东西吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}哦!你猜得完全正确!{f801}看来你真的非常懂丸男的心!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哦!你猜得完全正确!{f801}看来你真的非常懂丸男的心!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>{f871}{0100}不是那个〜{f801}我一点都不想要〜{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不是那个〜{f801}我一点都不想要〜{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}嗯嗯!{f801}真厉害,猎人Boy!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}嗯嗯!{f801}真厉害,猎人Boy!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f871}{0100}这就是你的本色吗?{f801}OKOK〜{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这就是你的本色吗?{f801}OKOK〜{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}已经够了……{f801}你真是无聊。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}已经够了……{f801}你真是无聊。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>{f871}{0100}哼……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哼……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}OKOK……{f801}喂,这个根本不对啊!?{f801}{f802}居然能够让我丸男吐槽,{f801}你挺有两下子嘛,猎人Boy!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}OKOK……{f801}喂,这个根本不对啊!?{f801}{f802}居然能够让我丸男吐槽,{f801}你挺有两下子嘛,猎人Boy!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>{f871}{0100}诶,你没有吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶,你没有吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}诶,你没有魔石吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶,你没有魔石吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>{f871}{0100}拒绝一切的你的本色……{f801}已经完全传达给我了,猎人Boy!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}拒绝一切的你的本色……{f801}已经完全传达给我了,猎人Boy!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}呼〜太令我失望了……{f801}这样可不行啊,猎人Boy。{f801}{f802}只会听从他人命令的家伙……{f801}是无法发挥真正力量的!{f801}{f802}就让你见识一下……{f801}什么叫原本之力!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼〜太令我失望了……{f801}这样可不行啊,猎人Boy。{f801}{f802}只会听从他人命令的家伙……{f801}是无法发挥真正力量的!{f801}{f802}就让你见识一下……{f801}什么叫原本之力!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>{f871}{0100}就算身无一物又如何?{f801}这才是你的本色啊……{f801}{f802}但是,这样的话就太寂寞了。{f801}因此才要……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就算身无一物又如何?{f801}这才是你的本色啊……{f801}{f802}但是,这样的话就太寂寞了。{f801}因此才要……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>{f871}{0100}诶,还要说这种事情吗?{f801}丸男已经厌烦了〜{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶,还要说这种事情吗?{f801}丸男已经厌烦了〜{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

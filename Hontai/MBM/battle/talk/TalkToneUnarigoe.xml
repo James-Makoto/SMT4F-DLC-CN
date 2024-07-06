@@ -1,0 +1,646 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>我不想和恶魔说话!{f801}{f802}{ffff}</source>
+    <target>我不想和恶魔说话!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>看来恶魔很在意{f801}在交涉前被攻击的事…{f801}{f802}{ffff}</source>
+    <target>看来恶魔很在意{f801}在交涉前被攻击的事…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>恶魔好像想说些什么…{f801}{f802}{ffff}</source>
+    <target>恶魔好像想说些什么…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}仲魔{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}仲魔{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}给我{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>恶魔很寂寞地离开了…{f801}{f802}{ffff}</source>
+    <target>恶魔很寂寞地离开了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>恶魔的声音直接传到了{f801}你的大脑中……{f801}{f802}「我是{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000},{f801}今后还请多多关照……」{f801}{f802}{ffff}</source>
+    <target>恶魔的声音直接传到了{f801}你的大脑中……{f801}{f802}「我是{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000},{f801}今后还请多多关照……」{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>恶魔很寂寞地离开了…{f801}{f802}{ffff}</source>
+    <target>恶魔很寂寞地离开了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}恶魔很高兴地离开了…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}恶魔很高兴地离开了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>恶魔想带其他恶魔走…{f801}{f802}{ffff}</source>
+    <target>恶魔想带其他恶魔走…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>恶魔很遗憾。{f801}{f802}{ffff}</source>
+    <target>恶魔很遗憾。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}啾啾啾啾啾啾啾啾啾啾啾啾啾……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啾啾啾啾啾啾啾啾啾啾啾啾啾……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>恶魔想把其他恶魔{f801}介绍给你…{f801}{f802}{ffff}</source>
+    <target>恶魔想把其他恶魔{f801}介绍给你…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>恶魔在发呆……{f801}{f802}{ffff}</source>
+    <target>恶魔在发呆……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}小鬼的皮很香。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}小鬼的皮很香。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}冷!好冷!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}冷!好冷!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}好热!好热!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好热!好热!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>{f871}{0100}好痛苦!好痛苦!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好痛苦!好痛苦!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f871}{0100}啾啾啾啾啾啾啾啾啾啾啾啾啾……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啾啾啾啾啾啾啾啾啾啾啾啾啾……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>恶魔好像想说些什么…{f801}{f802}{ffff}</source>
+    <target>恶魔好像想说些什么…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f871}{0100}这个{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这个{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}{f878}{0100}魔币{f801}速决…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f878}{0100}魔币{f801}速决…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>{f871}{0100}{f872}{0100} {f878}{0100}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f872}{0100} {f878}{0100}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f871}{0100}{f878}{0100}魔币…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f878}{0100}魔币…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}HP一点…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}HP一点…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>{f871}{0100}HP一些…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}HP一些…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}HP很多…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}HP很多…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>{f871}{0100}HP超多…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}HP超多…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}MP一点…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}MP一点…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>{f871}{0100}MP一些…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}MP一些…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}MP很多…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}MP很多…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f871}{0100}MP超多…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}MP超多…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>恶魔想要{f801}{f873}{0200}的生命。{f801}{f802}{ffff}</source>
+    <target>恶魔想要{f801}{f873}{0200}的生命。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f871}{0100}那个…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那个…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>恶魔想要{f801}{f87e}的HP。{f801}{f802}{ffff}</source>
+    <target>恶魔想要{f801}{f87e}的HP。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f871}{0100}哪个{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哪个{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}好吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>可以{f801}不行{f801}{f802}{ffff}</source>
+    <target>可以{f801}不行{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>恶魔鼓励了{f801}{f843}{0000}的心!{f801}{f802}{ffff}</source>
+    <target>恶魔鼓励了{f801}{f843}{0000}的心!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>恶魔大大鼓励了{f801}{f843}{0000}的心!{f801}{f802}{ffff}</source>
+    <target>恶魔大大鼓励了{f801}{f843}{0000}的心!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}啾啾啾啾啾啾啾啾啾啾啾啾啾……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啾啾啾啾啾啾啾啾啾啾啾啾啾……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>恶魔用绝望侵蚀了{f801}{f843}{0000}的心!{f801}{f802}{ffff}</source>
+    <target>恶魔用绝望侵蚀了{f801}{f843}{0000}的心!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>恶魔用绝望狠狠地侵蚀了{f801}{f843}{0000}的心!{f801}{f802}{ffff}</source>
+    <target>恶魔用绝望狠狠地侵蚀了{f801}{f843}{0000}的心!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f871}{0100}脑浆……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}脑浆……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}………{f801}{f802}小鬼的肉很柔软,非常好吃。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}小鬼的肉很柔软,非常好吃。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}………{f801}{f802}小鬼的骨头鲜美多汁。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}小鬼的骨头鲜美多汁。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}再见{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}再见{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>{f871}{0100}{f843}{0000}…{f801}{f802}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}…{f801}{f802}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}好高兴{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好高兴{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>{f871}{0100}魔币{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}魔币{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}这个{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这个{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>恶魔在看这边…{f801}{f802}恶魔很高兴地{f801}跑向{f843}{0000}!{f801}{f802}{ffff}</source>
+    <target>恶魔在看这边…{f801}{f802}恶魔很高兴地{f801}跑向{f843}{0000}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>{f871}{0100}我…不想死…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我…不想死…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>恶魔很高兴地喊了一声。{f801}{f802}{ffff}</source>
+    <target>恶魔很高兴地喊了一声。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>{f871}{0100}想要……变成人类……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}想要……变成人类……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>恶魔在警戒这边……{f801}要怎么办?{f801}{f802}{ffff}</source>
+    <target>恶魔在警戒这边……{f801}要怎么办?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>放下武器{f801}这边也进行警戒{f801}{f802}{ffff}</source>
+    <target>放下武器{f801}这边也进行警戒{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>{f871}{0100}小鬼的肉很柔软,非常好吃。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}小鬼的肉很柔软,非常好吃。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>{f871}{0100}冷!好冷!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}冷!好冷!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>{f871}{0100}这个{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这个{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>恶魔正在靠近这里……{f801}要如何是好?{f801}{f802}{ffff}</source>
+    <target>恶魔正在靠近这里……{f801}要如何是好?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>躲避{f801}举起武器{f801}纹风不动{f801}{f802}{ffff}</source>
+    <target>躲避{f801}举起武器{f801}纹风不动{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>{f843}{0000}躲开了攻击!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}躲开了攻击!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>恶魔很伤心地{f801}看着{f843}{0000}。{f801}{f802}{ffff}</source>
+    <target>恶魔很伤心地{f801}看着{f843}{0000}。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>被恶魔追上了……{f801}{f802}{ffff}</source>
+    <target>被恶魔追上了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>{f871}{0100}啾啾啾啾啾啾啾啾啾啾啾啾啾……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啾啾啾啾啾啾啾啾啾啾啾啾啾……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>{f871}{0100}已经……不想再死了……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}已经……不想再死了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>{f871}{0100}好热!好热!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好热!好热!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="116">
+    <source>{f871}{0100}脑浆……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}脑浆……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="118">
+    <source>恶魔在向这边招手……{f801}要怎么办?{f801}{f802}{ffff}</source>
+    <target>恶魔在向这边招手……{f801}要怎么办?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="119">
+    <source>靠近{f801}向它招手{f801}举起武器{f801}{f802}{ffff}</source>
+    <target>靠近{f801}向它招手{f801}举起武器{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="120">
+    <source>{f871}{0100}小鬼的血很干净很美味。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}小鬼的血很干净很美味。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>恶魔拿出了什么…{f801}{f802}{ffff}</source>
+    <target>恶魔拿出了什么…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>{f871}{0100}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="124">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="125">
+    <source>{f871}{0100}想要……变成人类……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}想要……变成人类……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="126">
+    <source>{f871}{0100}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="128">
+    <source>恶魔要离开了……{f801}该如何是好?{f801}{f802}{ffff}</source>
+    <target>恶魔要离开了……{f801}该如何是好?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="129">
+    <source>把它留下{f801}无视{f801}举起武器{f801}{f802}{ffff}</source>
+    <target>把它留下{f801}无视{f801}举起武器{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="130">
+    <source>{f871}{0100}小鬼的骨头鲜美多汁。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}小鬼的骨头鲜美多汁。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="131">
+    <source>{f871}{0100}好痛苦!好痛苦!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好痛苦!好痛苦!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="132">
+    <source>{f871}{0100}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="133">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="134">
+    <source>恶魔拿出了信…{f801}{f802}上面写着「下次见面{f801}请让我当你的仲魔」。{f801}{f802}{ffff}</source>
+    <target>恶魔拿出了信…{f801}{f802}上面写着「下次见面{f801}请让我当你的仲魔」。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="135">
+    <source>{f871}{0100}可怕!好可怕!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}可怕!好可怕!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="137">
+    <source>恶魔正在发呆…{f801}要如何做?{f801}{f802}{ffff}</source>
+    <target>恶魔正在发呆…{f801}要如何做?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="138">
+    <source>大声叫喊{f801}吸引它的注意力{f801}用武器去威胁它{f801}{f802}{ffff}</source>
+    <target>大声叫喊{f801}吸引它的注意力{f801}用武器去威胁它{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="139">
+    <source>{f871}{0100}小鬼的皮很香。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}小鬼的皮很香。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="140">
+    <source>{f871}{0100}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="141">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="142">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="143">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="144">
+    <source>{f871}{0100}想要……变成人类……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}想要……变成人类……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="145">
+    <source>恶魔很寂寞地离开了…{f801}{f802}{ffff}</source>
+    <target>恶魔很寂寞地离开了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="147">
+    <source>{f871}{0100}{f843}{0000}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="148">
+    <source>{f871}{0100}小鬼的内脏有很美妙的苦味。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}小鬼的内脏有很美妙的苦味。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="149">
+    <source>{f871}{0100}想要……变成人类……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}想要……变成人类……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="150">
+    <source>{f871}{0100}可怕!好可怕!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}可怕!好可怕!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="151">
+    <source>恶魔离开了……{f801}{f802}{ffff}</source>
+    <target>恶魔离开了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="153">
+    <source>恶魔在笑…{f801}要如何做?{f801}{f802}{ffff}</source>
+    <target>恶魔在笑…{f801}要如何做?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="154">
+    <source>一起笑{f801}看情况{f801}拿出武器{f801}{f802}{ffff}</source>
+    <target>一起笑{f801}看情况{f801}拿出武器{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="155">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="156">
+    <source>恶魔突然袭击过来!{f801}{f802}{ffff}</source>
+    <target>恶魔突然袭击过来!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="157">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="158">
+    <source>{f871}{0100}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊啊啊啊啊啊啊啊啊啊啊…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="159">
+    <source>{f871}{0100}已经……不想再死了……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}已经……不想再死了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="160">
+    <source>恶魔吓了一跳。{f801}{f802}{ffff}</source>
+    <target>恶魔吓了一跳。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="162">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}{f843}{0000}…{f801}又见面了哟?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}{f843}{0000}…{f801}又见面了哟?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="163">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="165">
+    <source>{f843}{0000}跳起了舞……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}跳起了舞……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="166">
+    <source>恶魔一言不发地袭击过来!{f801}{f802}{ffff}</source>
+    <target>恶魔一言不发地袭击过来!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="167">
+    <source>{f871}{0100}噜噜噜!噜噜噜!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}噜噜噜!噜噜噜!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="169">
+    <source>{f843}{0000}唱起了歌……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}唱起了歌……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="170">
+    <source>恶魔一言不发地袭击过来!{f801}{f802}{ffff}</source>
+    <target>恶魔一言不发地袭击过来!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="171">
+    <source>{f871}{0100}噜噜噜!噜噜噜!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}噜噜噜!噜噜噜!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="173">
+    <source>{f843}{0000}扔出了魔币……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}扔出了魔币……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="174">
+    <source>恶魔吓了一跳。{f801}{f802}{ffff}</source>
+    <target>恶魔吓了一跳。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="175">
+    <source>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊嘻嘻嘻嘻嘻嘻嘻嘻嘻……!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="177">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="178">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="179">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="180">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="181">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="182">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="183">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="184">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="185">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="186">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="187">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="188">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="189">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="190">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="191">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="192">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="193">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="194">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="195">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="196">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="197">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

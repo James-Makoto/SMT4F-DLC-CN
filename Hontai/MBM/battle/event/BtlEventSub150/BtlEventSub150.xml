@@ -1,0 +1,78 @@
+<mbm>
+  <entry id="0">
+    <source>{f812}广志{0000}{f87a}{4e01}{f81b}{4331}{3439}{3030}{3100}{0000}{0000}诺亚……{f801}这次真的愿你安息……{f801}{f802}{f81b}{4331}{3439}{3030}{3200}{0000}{0000}那么,你要给我下达什么指示?{f801}我会按照你的设想行动的。{f801}{ffff}</source>
+    <target>{f812}广志{0000}{f87a}{4e01}{f81b}{4331}{3439}{3030}{3100}{0000}{0000}诺亚……{f801}这次真的愿你安息……{f801}{f802}{f81b}{4331}{3439}{3030}{3200}{0000}{0000}那么,你要给我下达什么指示?{f801}我会按照你的设想行动的。{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>需要{f801}不需要{f801}已经不需要帮助了{f801}{ffff}</source>
+    <target>需要{f801}不需要{f801}已经不需要帮助了{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>给广志下什么指示?{f801}{ffff}</source>
+    <target>给广志下什么指示?{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>攻击{f801}回复{f801}辅助{f801}待机{f801}{ffff}</source>
+    <target>攻击{f801}回复{f801}辅助{f801}待机{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>需要广志的帮助吗?{f801}{ffff}</source>
+    <target>需要广志的帮助吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f843}{0000}没给广志下达指令,{f801}继续进行战斗……{f801}{ffff}</source>
+    <target>{f843}{0000}没给广志下达指令,{f801}继续进行战斗……{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f843}{0000}叫广志{f801}暂时退后回避。{f801}{ffff}</source>
+    <target>{f843}{0000}叫广志{f801}暂时退后回避。{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f843}{0000}一行人恢复了精神!{f801}{ffff}</source>
+    <target>{f843}{0000}一行人恢复了精神!{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f843}{0000}和仲魔的{f801}攻击力提升了!{f801}{ffff}</source>
+    <target>{f843}{0000}和仲魔的{f801}攻击力提升了!{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f843}{0000}和仲魔的{f801}防御力提升了!{f801}{ffff}</source>
+    <target>{f843}{0000}和仲魔的{f801}防御力提升了!{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f843}{0000}和仲魔的{f801}命中率提升了!{f801}{ffff}</source>
+    <target>{f843}{0000}和仲魔的{f801}命中率提升了!{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>广志狙击了伊邪那美!{f801}{ffff}</source>
+    <target>广志狙击了伊邪那美!{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>ヒロシのフラグオフだよ{f801}{ffff}</source>
+    <target>ヒロシのフラグオフだよ{f801}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>ヒロシのフラグそのまま{f801}{ffff}</source>
+    <target>ヒロシのフラグそのまま{f801}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f812}伊邪那美{0000}{f81b}{4430}{3530}{3030}{3600}{0000}{0000}哦呀…?{f801}{ffff}</source>
+    <target>{f812}伊邪那美{0000}{f81b}{4430}{3530}{3030}{3600}{0000}{0000}哦呀…?{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f812}广志{0000}{f81b}{4536}{3434}{3033}{3000}{0000}{0000}诺亚…?{f801}{ffff}</source>
+    <target>{f812}广志{0000}{f81b}{4536}{3434}{3033}{3000}{0000}{0000}诺亚…?{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>由于广志的攻击{f801}伊邪那美的精神产生了动摇……{f801} {f801}{ffff}</source>
+    <target>由于广志的攻击{f801}伊邪那美的精神产生了动摇……{f801} {f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>伊邪那美脸上的笑容消失了!{f801}{ffff}</source>
+    <target>伊邪那美脸上的笑容消失了!{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>伊邪那美的笑容消失了,{f801}她的精神开始陷入混乱……{f801}{ffff}</source>
+    <target>伊邪那美的笑容消失了,{f801}她的精神开始陷入混乱……{f801}{ffff}</target>
+  </entry>
+</mbm>

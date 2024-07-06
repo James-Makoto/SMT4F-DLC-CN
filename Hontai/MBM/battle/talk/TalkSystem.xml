@@ -1,0 +1,394 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>现在的状态下{f801}无法与此恶魔进行交涉。{f801}{f802}{ffff}</source>
+    <target>现在的状态下{f801}无法与此恶魔进行交涉。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>好像无法和此对象进行交涉。{f801}{f802}{ffff}</source>
+    <target>好像无法和此对象进行交涉。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f843}{0000}的话语传达不到……{f801}看来已经不将{f843}{0000}当做同伴了……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}的话语传达不到……{f801}看来已经不将{f843}{0000}当做同伴了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f843}{0000}尝试着进行了交涉……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}尝试着进行了交涉……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f843}{0000}试着和刚才还是同伴的人{f801}进行了交谈……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}试着和刚才还是同伴的人{f801}进行了交谈……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f843}{0000}试着和恶魔{f801}进行了交涉……{f801}{f802}但是,{f801}无法和此物体进行交谈!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}试着和恶魔{f801}进行了交涉……{f801}{f802}但是,{f801}无法和此物体进行交谈!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f843}{0000}试着和恶魔{f801}进行了交涉……{f801}{f802}不行,对方根本听不进去!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}试着和恶魔{f801}进行了交涉……{f801}{f802}不行,对方根本听不进去!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f843}{0000}试着和恶魔{f801}进行了交涉……{f801}{f802}不行,对方根本听不进去!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}试着和恶魔{f801}进行了交涉……{f801}{f802}不行,对方根本听不进去!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f843}{0000}试着{f801}和对方进行了交涉……{f801}{f802}不行,对方没有要交涉的意思!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}试着{f801}和对方进行了交涉……{f801}{f802}不行,对方没有要交涉的意思!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f843}{0000}与军团{f801}进行了交涉……{f801}{f802}不行,无法进行交流!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}与军团{f801}进行了交涉……{f801}{f802}不行,无法进行交流!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f843}{0000}试着和舍沙{f801}进行了交涉……{f801}{f802}不行,对方根本听不进去!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}试着和舍沙{f801}进行了交涉……{f801}{f802}不行,对方根本听不进去!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f843}{0000}试着和舍沙{f801}进行了交涉……{f801}{f802}不行,对方没有要交涉的意思!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}试着和舍沙{f801}进行了交涉……{f801}{f802}不行,对方没有要交涉的意思!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f843}{0000}试着和恶魔{f801}进行了交涉……{f801}{f802}但是处于YHVH支配之下的人{f801}听不到{f843}{0000}的声音。{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}试着和恶魔{f801}进行了交涉……{f801}{f802}但是处于YHVH支配之下的人{f801}听不到{f843}{0000}的声音。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f843}{0000}试着和YHVH进行了交谈,{f801}但是无法发出声音!{f801}{f802}对于本身即为《语言》的YHVH来说,{f801}不存在可进行交涉的语言!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}试着和YHVH进行了交谈,{f801}但是无法发出声音!{f801}{f802}对于本身即为《语言》的YHVH来说,{f801}不存在可进行交涉的语言!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f843}{0000}试着与恶魔{f801}进行了对话……{f801}{f802}但是,恶魔已经丧失了自我!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}试着与恶魔{f801}进行了对话……{f801}{f802}但是,恶魔已经丧失了自我!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f843}{0000}试着和恶魔{f801}进行了交涉……{f801}{f802}但是,{f843}{0000}根本无法与{f801}身为高次元存在的此恶魔进行交流。{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}试着和恶魔{f801}进行了交涉……{f801}{f802}但是,{f843}{0000}根本无法与{f801}身为高次元存在的此恶魔进行交流。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f812}纳瓦尔{0000}{f81b}{4930}{3033}{3034}{3900}{0000}{0000}闭嘴,我绝对不会原谅你……{f801}{f802}{ffff}</source>
+    <target>{f812}纳瓦尔{0000}{f81b}{4930}{3033}{3034}{3900}{0000}{0000}闭嘴,我绝对不会原谅你……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f812}希{0000}{f81b}{4930}{3034}{3035}{3100}{0000}{0000}没用的,我绝对不会手下留情。{f801}{f802}{ffff}</source>
+    <target>{f812}希{0000}{f81b}{4930}{3034}{3035}{3100}{0000}{0000}没用的,我绝对不会手下留情。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f812}哈雷路亚{0000}{f81b}{4930}{3035}{3036}{3300}{0000}{0000}住口,我不想听……{f801}{f802}{ffff}</source>
+    <target>{f812}哈雷路亚{0000}{f81b}{4930}{3035}{3036}{3300}{0000}{0000}住口,我不想听……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f812}加斯顿{0000}{f81b}{4930}{3036}{3037}{3500}{0000}{0000}哼……{f801}{f802}{ffff}</source>
+    <target>{f812}加斯顿{0000}{f81b}{4930}{3036}{3037}{3500}{0000}{0000}哼……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f812}伊莎白{0000}{f81b}{4930}{3038}{3034}{3500}{0000}{0000}闭嘴!我绝对不会手下留情。{f801}{f802}{ffff}</source>
+    <target>{f812}伊莎白{0000}{f81b}{4930}{3038}{3034}{3500}{0000}{0000}闭嘴!我绝对不会手下留情。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f812}朱鹭{0000}{f81b}{4930}{3037}{3036}{3000}{0000}{0000}这也……没办法呢……主人……{f801}{f802}{ffff}</source>
+    <target>{f812}朱鹭{0000}{f81b}{4930}{3037}{3036}{3000}{0000}{0000}这也……没办法呢……主人……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>但是保存区中已经满了,{f801}无法让它成为仲魔……{f801}{f802}{ffff}</source>
+    <target>但是保存区中已经满了,{f801}无法让它成为仲魔……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>但是等级不够,{f801}无法让它成为仲魔……{f801}{f802}{ffff}</source>
+    <target>但是等级不够,{f801}无法让它成为仲魔……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>由于先进行了攻击惹怒了它,{f801}它好像没有要交涉的意思了……{f801}{f802}{ffff}</source>
+    <target>由于先进行了攻击惹怒了它,{f801}它好像没有要交涉的意思了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>在{f843}{0000}的呼唤之下,{f801}对方从睡梦中醒了过来……{f801}{f802}{ffff}</source>
+    <target>在{f843}{0000}的呼唤之下,{f801}对方从睡梦中醒了过来……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f843}{0000}为了让对方成为仲魔,{f801}开始与对方进行交涉……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}为了让对方成为仲魔,{f801}开始与对方进行交涉……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f843}{0000}为了让对方提供资金,{f801}开始与对方进行交涉……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}为了让对方提供资金,{f801}开始与对方进行交涉……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f843}{0000}为了让对方交出道具,{f801}开始与对方进行交涉……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}为了让对方交出道具,{f801}开始与对方进行交涉……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>恶魔好像很满意……{f801}{f802}{ffff}</source>
+    <target>恶魔好像很满意……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>效果拔群!{f801}成功地抓住了恶魔的心!{f801}{f802}{ffff}</source>
+    <target>效果拔群!{f801}成功地抓住了恶魔的心!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>恶魔好像不太满意……{f801}{f802}{ffff}</source>
+    <target>恶魔好像不太满意……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>恶魔用热忱的眼神{f801}盯着{f843}{0000}……{f801}{f802}{ffff}</source>
+    <target>恶魔用热忱的眼神{f801}盯着{f843}{0000}……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}成为了仲魔!{f801}{f802}{ffff}</source>
+    <target>{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}成为了仲魔!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>恶魔开始与{f801}周围人交谈……{f801}{f802}{ffff}</source>
+    <target>恶魔开始与{f801}周围人交谈……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f873}{0100}报上了姓名!{f801}{f802}{ffff}</source>
+    <target>{f873}{0100}报上了姓名!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>但是,没有任何恶魔{f801}报上自己的姓名……{f801}{f802}{ffff}</source>
+    <target>但是,没有任何恶魔{f801}报上自己的姓名……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f873}{0100}的能力值{f801}提升了!{f801}{f802}{ffff}</source>
+    <target>{f873}{0100}的能力值{f801}提升了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f873}{0100}的能力值{f801}提升了很多!{f801}{f802}{ffff}</source>
+    <target>{f873}{0100}的能力值{f801}提升了很多!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f873}{0100}的能力值{f801}大幅提升了!{f801}{f802}{ffff}</source>
+    <target>{f873}{0100}的能力值{f801}大幅提升了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f873}{0100}学会了{f801}{f804}{0500}{f877}{0100}{f804}{0000}!{f801}{f802}{ffff}</source>
+    <target>{f873}{0100}学会了{f801}{f804}{0500}{f877}{0100}{f804}{0000}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f843}{0000}用尽各种手段{f801}逼迫对方交出资金……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}用尽各种手段{f801}逼迫对方交出资金……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f843}{0000}逼迫对方{f801}交出了{f878}{0100}魔币!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}逼迫对方{f801}交出了{f878}{0100}魔币!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>在此之上,{f801}又逼迫对方交出了{f878}{0100}魔币!{f801}{f802}{ffff}</source>
+    <target>在此之上,{f801}又逼迫对方交出了{f878}{0100}魔币!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>继续要求对方提供资金{f801}就此停止{f801}{f802}{ffff}</source>
+    <target>继续要求对方提供资金{f801}就此停止{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f843}{0000}慌张的将手{f801}从魔币上拿开了……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}慌张的将手{f801}从魔币上拿开了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>在弗林的胁迫之下,{f801}恶魔又交出了{f878}{0100}魔币!{f801}{f802}{ffff}</source>
+    <target>在弗林的胁迫之下,{f801}恶魔又交出了{f878}{0100}魔币!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>弗林又逼迫对方{f801}交出了{f878}{0100}魔币!{f801}{f802}{ffff}</source>
+    <target>弗林又逼迫对方{f801}交出了{f878}{0100}魔币!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>对方无法行动了!{f801}这下它应该能提供很多资金!{f801}{f802}{ffff}</source>
+    <target>对方无法行动了!{f801}这下它应该能提供很多资金!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>{f843}{0000}让恶魔{f801}交出了大量的资金。{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}让恶魔{f801}交出了大量的资金。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f843}{0000}一共抢夺了{f801}{f878}{0100}魔币。{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}一共抢夺了{f801}{f878}{0100}魔币。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>{f843}{0000}一共抢夺了{f801}{f878}{0100}魔币。{f801}{f802}但是,对方生气了!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}一共抢夺了{f801}{f878}{0100}魔币。{f801}{f802}但是,对方生气了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f843}{0000}连1魔币都没有获得……{f801}{f802}但是,对方生气了!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}连1魔币都没有获得……{f801}{f802}但是,对方生气了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>对方混乱了!{f801}现在正是大好时机!{f801}{f802}{ffff}</source>
+    <target>对方混乱了!{f801}现在正是大好时机!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>答应请求{f801}拒绝请求{f801}蒙混过关{f801}{f802}{ffff}</source>
+    <target>答应请求{f801}拒绝请求{f801}蒙混过关{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>答应请求{f801}拒绝请求{f801}蒙混过关{f801}结束交涉{f801}{f802}{ffff}</source>
+    <target>答应请求{f801}拒绝请求{f801}蒙混过关{f801}结束交涉{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>答应请求{f801}拒绝请求{f801}{f802}{ffff}</source>
+    <target>答应请求{f801}拒绝请求{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>对它说没有{f801}蒙混过关{f801}{f802}{ffff}</source>
+    <target>对它说没有{f801}蒙混过关{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>对它说没有{f801}蒙混过关{f801}结束交涉{f801}{f802}{ffff}</source>
+    <target>对它说没有{f801}蒙混过关{f801}结束交涉{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>以这个条件成交{f801}进行普通的交涉{f801}{f802}{ffff}</source>
+    <target>以这个条件成交{f801}进行普通的交涉{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>答应请求{f801}拒绝请求{f801}{f802}{ffff}</source>
+    <target>答应请求{f801}拒绝请求{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>交出那个{f801}取消{f801}{f802}{ffff}</source>
+    <target>交出那个{f801}取消{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>道具{f801}魔币{f801}HP{f801}MP{f801}{f802}{ffff}</source>
+    <target>道具{f801}魔币{f801}HP{f801}MP{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>{f843}{0000}开始用{f801}花言巧语欺骗恶魔……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}开始用{f801}花言巧语欺骗恶魔……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>恶魔感觉拿到了东西!{f801}{f802}{ffff}</source>
+    <target>恶魔感觉拿到了东西!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>但是被恶魔识破了!{f801}{f802}{ffff}</source>
+    <target>但是被恶魔识破了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f843}{0000}强行{f801}转移了话题!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}强行{f801}转移了话题!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>仲魔{f873}{0200}的性命{f801}被恶魔夺走了……{f801}{f802}{ffff}</source>
+    <target>仲魔{f873}{0200}的性命{f801}被恶魔夺走了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f843}{0000}将{f87e}的HP{f801}献给了恶魔。{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}将{f87e}的HP{f801}献给了恶魔。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>效果拔群!{f801}恶魔非常满足!{f801}{f802}{ffff}</source>
+    <target>效果拔群!{f801}恶魔非常满足!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>效果拔群!{f801}恶魔不知为何很满足!{f801}{f802}{ffff}</source>
+    <target>效果拔群!{f801}恶魔不知为何很满足!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>{f843}{0000}身上没有{f801}对方要求的道具!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}身上没有{f801}对方要求的道具!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>但是,{f843}{0000}身上没有{f801}对方要求的道具!{f801}{f802}{ffff}</source>
+    <target>但是,{f843}{0000}身上没有{f801}对方要求的道具!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>{f804}{0500}{f873}{0100}{f804}{0000}从{f801}迷路中归来了!{f801}{f802}{ffff}</source>
+    <target>{f804}{0500}{f873}{0100}{f804}{0000}从{f801}迷路中归来了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="75">
+    <source>{f873}{0100}还带回了礼物……{f801}{f802}{ffff}</source>
+    <target>{f873}{0100}还带回了礼物……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="76">
+    <source>成为我的仲魔吧{f801}把道具交出来{f801}把钱交出来{f801}去死吧{f801}{f802}{ffff}</source>
+    <target>成为我的仲魔吧{f801}把道具交出来{f801}把钱交出来{f801}去死吧{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="77">
+    <source>把契约书交出来{f801}把道具交出来{f801}把钱交出来{f801}去死吧{f801}{f802}{ffff}</source>
+    <target>把契约书交出来{f801}把道具交出来{f801}把钱交出来{f801}去死吧{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="78">
+    <source>恶魔拼命地在诉说什么……{f801}{f802}但是{f843}{0000}完全无法理解!{f801}{f802}{ffff}</source>
+    <target>恶魔拼命地在诉说什么……{f801}{f802}但是{f843}{0000}完全无法理解!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="79">
+    <source>恶魔非常友好,{f801}看来它好像是认成自己的熟人了……{f801}{f802}{ffff}</source>
+    <target>恶魔非常友好,{f801}看来它好像是认成自己的熟人了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="80">
+    <source>恶魔已经对同样的对话感到厌烦了……{f801}{f802}{ffff}</source>
+    <target>恶魔已经对同样的对话感到厌烦了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="81">
+    <source>恶魔已经对同样的对话感到无聊了……{f801}{f802}{ffff}</source>
+    <target>恶魔已经对同样的对话感到无聊了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="82">
+    <source>恶魔离开了……{f801}{f802}{ffff}</source>
+    <target>恶魔离开了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="83">
+    <source>恶魔死了……{f801}{f802}{ffff}</source>
+    <target>恶魔死了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="84">
+    <source>恶魔吃了一惊,{f801}跑掉了……{f801}{f802}{ffff}</source>
+    <target>恶魔吃了一惊,{f801}跑掉了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="85">
+    <source>{f843}{0000}获得了{f801}{f872}{0100}!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}获得了{f801}{f872}{0100}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="86">
+    <source>{f843}{0000}的{f801}{f878}{0100}个{f872}{0100}被抢走了!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}的{f801}{f878}{0100}个{f872}{0100}被抢走了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="87">
+    <source>{f843}{0000}获得了{f801}{f878}{0100}魔币!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}获得了{f801}{f878}{0100}魔币!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="88">
+    <source>{f843}{0000}的{f801}{f878}{0100}魔币被抢走了!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}的{f801}{f878}{0100}魔币被抢走了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="89">
+    <source>{f843}{0000}收回了{f801}{f878}{0100}魔币!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}收回了{f801}{f878}{0100}魔币!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="90">
+    <source>{f804}{0500}妖精山谷宁芙{f804}{0000}与{f801}在旅途中邂逅的恶魔合体……{f801}{f802}{ffff}</source>
+    <target>{f804}{0500}妖精山谷宁芙{f804}{0000}与{f801}在旅途中邂逅的恶魔合体……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="91">
+    <source>变成了{f804}{0500}夜魔莫考伊{f804}{0000}{f801}归来了!{f801}{f802}{ffff}</source>
+    <target>变成了{f804}{0500}夜魔莫考伊{f804}{0000}{f801}归来了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="92">
+    <source>{f812}杰克霜精’s{0000}赶快做吧嚯〜{f801}{f802}{ffff}</source>
+    <target>{f812}杰克霜精’s{0000}赶快做吧嚯〜{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="93">
+    <source>フォントテスト1{f801}{f804}{0100}フォントテスト1{f801}{f802}{ffff}</source>
+    <target>フォントテスト1{f801}{f804}{0100}フォントテスト1{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="94">
+    <source>フォントテスト2{f801}{f804}{0200}フォントテスト2{f801}{f802}{ffff}</source>
+    <target>フォントテスト2{f801}{f804}{0200}フォントテスト2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="95">
+    <source>フォントテスト3{f801}{f804}{0300}フォントテスト3{f801}{f802}{ffff}</source>
+    <target>フォントテスト3{f801}{f804}{0300}フォントテスト3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="96">
+    <source>フォントテスト4{f801}{f804}{0400}フォントテスト4{f801}{f802}{ffff}</source>
+    <target>フォントテスト4{f801}{f804}{0400}フォントテスト4{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="97">
+    <source>フォントテスト5{f801}{f804}{0500}フォントテスト5{f801}{f802}{ffff}</source>
+    <target>フォントテスト5{f801}{f804}{0500}フォントテスト5{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

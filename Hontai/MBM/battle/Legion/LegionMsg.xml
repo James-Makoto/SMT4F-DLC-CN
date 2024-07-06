@@ -1,0 +1,2058 @@
+<mbm>
+  <entry id="0">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>半死不活的家伙{f801}给你来一场血祭!{f801}我要葬送你{f801}给我老实去死吧{f801}我要吃了你!{f801}{ffff}</source>
+    <target>半死不活的家伙{f801}给你来一场血祭!{f801}我要葬送你{f801}给我老实去死吧{f801}我要吃了你!{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>给我觉悟吧{f801}你要上吗?{f801}你要做什么{f801}人类?{f801}轮到老夫出马了吗{f801}{ffff}</source>
+    <target>给我觉悟吧{f801}你要上吗?{f801}你要做什么{f801}人类?{f801}轮到老夫出马了吗{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>怎么样?{f801}嗯嗯……{f801}怎么办?{f801}接下来……{f801}这个主意不错!{f801}{ffff}</source>
+    <target>怎么样?{f801}嗯嗯……{f801}怎么办?{f801}接下来……{f801}这个主意不错!{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>不行!{f801}伤脑筋……{f801}要做什么?{f801}啊?{f801}骗人吧?{f801}{ffff}</source>
+    <target>不行!{f801}伤脑筋……{f801}要做什么?{f801}啊?{f801}骗人吧?{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>什么!{f801}噢噢噢……{f801}哼……{f801}不明白你什么意思{f801}你做什么?{f801}{ffff}</source>
+    <target>什么!{f801}噢噢噢……{f801}哼……{f801}不明白你什么意思{f801}你做什么?{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>我们来战斗吧{f801}真是不错的猎物{f801}我要杀了你{f801}真是可爱的孩子{f801}我来吃了你吧{f801}{ffff}</source>
+    <target>我们来战斗吧{f801}真是不错的猎物{f801}我要杀了你{f801}真是可爱的孩子{f801}我来吃了你吧{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>糟糕!{f801}没问题!{f801}好热血!{f801}这不是很好嘛{f801}原来如此{f801}{ffff}</source>
+    <target>糟糕!{f801}没问题!{f801}好热血!{f801}这不是很好嘛{f801}原来如此{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>别开玩笑了!{f801}你在逗我吗!{f801}真的吗……{f801}我不愿意……{f801}我拒绝{f801}{ffff}</source>
+    <target>别开玩笑了!{f801}你在逗我吗!{f801}真的吗……{f801}我不愿意……{f801}我拒绝{f801}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>真是有胆量{f801}我接受你的挑战{f801}你突然要做什么?{f801}真是可怕的孩子{f801}真是不懂礼貌{f801}{ffff}</source>
+    <target>真是有胆量{f801}我接受你的挑战{f801}你突然要做什么?{f801}真是可怕的孩子{f801}真是不懂礼貌{f801}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>我要大干一场{f801}来了个好猎物呢{f801}嘿嘿嘿……{f801}出现了啊{f801}哈!{f801}{ffff}</source>
+    <target>我要大干一场{f801}来了个好猎物呢{f801}嘿嘿嘿……{f801}出现了啊{f801}哈!{f801}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>糟糕!{f801}如何?{f801}嘿嘿嘿……{f801}嚯嚯……{f801}要怎么办?{f801}{ffff}</source>
+    <target>糟糕!{f801}如何?{f801}嘿嘿嘿……{f801}嚯嚯……{f801}要怎么办?{f801}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>开玩笑!{f801}鬼知道!{f801}真的吗……{f801}呼!{f801}别逗了!{f801}{ffff}</source>
+    <target>开玩笑!{f801}鬼知道!{f801}真的吗……{f801}呼!{f801}别逗了!{f801}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>真是有趣{f801}狂妄的家伙{f801}你做什么!{f801}我开始眼冒金星了{f801}真是讨厌的家伙{f801}{ffff}</source>
+    <target>真是有趣{f801}狂妄的家伙{f801}你做什么!{f801}我开始眼冒金星了{f801}真是讨厌的家伙{f801}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>要上吗?{f801}嗷嗷嗷嗷{f801}碍眼的人类……{f801}我来陪你玩玩{f801}把你生吞!{f801}{ffff}</source>
+    <target>要上吗?{f801}嗷嗷嗷嗷{f801}碍眼的人类……{f801}我来陪你玩玩{f801}把你生吞!{f801}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>糟糕!{f801}如何?{f801}哎呀!{f801}真令人兴奋!{f801}看上去很美味!{f801}{ffff}</source>
+    <target>糟糕!{f801}如何?{f801}哎呀!{f801}真令人兴奋!{f801}看上去很美味!{f801}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>别开玩笑了!{f801}鬼知道!{f801}我不愿意!{f801}住手!{f801}什么!{f801}{ffff}</source>
+    <target>别开玩笑了!{f801}鬼知道!{f801}我不愿意!{f801}住手!{f801}什么!{f801}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>啊?{f801}你真是卑鄙{f801}真是粗野的人……{f801}你喜欢痛吗?{f801}本大爷要咬你!{f801}{ffff}</source>
+    <target>啊?{f801}你真是卑鄙{f801}真是粗野的人……{f801}你喜欢痛吗?{f801}本大爷要咬你!{f801}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>我来陪你玩玩……{f801}站立于吾面前之人{f801}都必须死{f801}这也是命运{f801}干掉你这混账{f801}{ffff}</source>
+    <target>我来陪你玩玩……{f801}站立于吾面前之人{f801}都必须死{f801}这也是命运{f801}干掉你这混账{f801}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>那么……{f801}受不了……{f801}哦……{f801}不错……{f801}好热!{f801}{ffff}</source>
+    <target>那么……{f801}受不了……{f801}哦……{f801}不错……{f801}好热!{f801}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>唔!{f801}好无聊……{f801}什么?{f801}愚蠢……{f801}喂喂……{f801}{ffff}</source>
+    <target>唔!{f801}好无聊……{f801}什么?{f801}愚蠢……{f801}喂喂……{f801}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>无礼之人……{f801}对我等居然{f801}有如此胆量……{f801}{ffff}</source>
+    <target>无礼之人……{f801}对我等居然{f801}有如此胆量……{f801}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>上了!{f801}和我玩嚯{f801}比试一下么嚯?{f801}是人类嚯{f801}咿呵呵嚯{f801}{ffff}</source>
+    <target>上了!{f801}和我玩嚯{f801}比试一下么嚯?{f801}是人类嚯{f801}咿呵呵嚯{f801}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>要打么嚯?{f801}怎么办嚯?{f801}就是那个嚯!{f801}那就…{f801}咿嚯嚯!{f801}{ffff}</source>
+    <target>要打么嚯?{f801}怎么办嚯?{f801}就是那个嚯!{f801}那就…{f801}咿嚯嚯!{f801}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>别开玩笑了嚯!{f801}不行不行嚯{f801}不要嚯{f801}哎呀哎呀嚯…{f801}咿嚯嚯嚯…{f801}{ffff}</source>
+    <target>别开玩笑了嚯!{f801}不行不行嚯{f801}不要嚯{f801}哎呀哎呀嚯…{f801}咿嚯嚯嚯…{f801}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>要吵架的话{f801}买了{f801}咿嚯!{f801}打飞你嚯{f801}战斗{f801}{ffff}</source>
+    <target>要吵架的话{f801}买了{f801}咿嚯!{f801}打飞你嚯{f801}战斗{f801}{ffff}</target>
+  </entry>
+  <entry id="80">
+    <source>呜呼呼…{f801}可爱的人类呢{f801}你好像很好吃{f801}让我咬一口!{f801}好想吃掉你{f801}{ffff}</source>
+    <target>呜呼呼…{f801}可爱的人类呢{f801}你好像很好吃{f801}让我咬一口!{f801}好想吃掉你{f801}{ffff}</target>
+  </entry>
+  <entry id="81">
+    <source>哎呀!{f801}好兴奋呢{f801}不错呢!{f801}啊嗯!{f801}真棒啊{f801}{ffff}</source>
+    <target>哎呀!{f801}好兴奋呢{f801}不错呢!{f801}啊嗯!{f801}真棒啊{f801}{ffff}</target>
+  </entry>
+  <entry id="82">
+    <source>你说什么?{f801}不要啊!{f801}不行!{f801}唔!{f801}住手!{f801}{ffff}</source>
+    <target>你说什么?{f801}不要啊!{f801}不行!{f801}唔!{f801}住手!{f801}{ffff}</target>
+  </entry>
+  <entry id="83">
+    <source>真是没品的人{f801}真是不愉快{f801}可恶!{f801}不爽{f801}让我来教育你…{f801}{ffff}</source>
+    <target>真是没品的人{f801}真是不愉快{f801}可恶!{f801}不爽{f801}让我来教育你…{f801}{ffff}</target>
+  </entry>
+  <entry id="90">
+    <source>要上了{f801}呜啊啊…{f801}走吧各位{f801}脑浆{f801}呀嘿嘿!{f801}{ffff}</source>
+    <target>要上了{f801}呜啊啊…{f801}走吧各位{f801}脑浆{f801}呀嘿嘿!{f801}{ffff}</target>
+  </entry>
+  <entry id="91">
+    <source>怎么办啊?{f801}呜嗷?{f801}嚯…{f801}呜嗷!{f801}不错啊!{f801}{ffff}</source>
+    <target>怎么办啊?{f801}呜嗷?{f801}嚯…{f801}呜嗷!{f801}不错啊!{f801}{ffff}</target>
+  </entry>
+  <entry id="92">
+    <source>白痴!{f801}呜嗷啊啊!{f801}愚蠢的…{f801}呜啊!{f801}才不要!{f801}{ffff}</source>
+    <target>白痴!{f801}呜嗷啊啊!{f801}愚蠢的…{f801}呜啊!{f801}才不要!{f801}{ffff}</target>
+  </entry>
+  <entry id="93">
+    <source>要被干掉了!{f801}哎呀呀呀!{f801}各位冷静{f801}啾啾{f801}别吓我啊{f801}{ffff}</source>
+    <target>要被干掉了!{f801}哎呀呀呀!{f801}各位冷静{f801}啾啾{f801}别吓我啊{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>我的灵力啊…{f801}是天狗!{f801}消失吧迷妄{f801}好的!{f801}这也是修行…{f801}{ffff}</source>
+    <target>我的灵力啊…{f801}是天狗!{f801}消失吧迷妄{f801}好的!{f801}这也是修行…{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>接下来…{f801}唔嘿嘿嘿…{f801}好吧{f801}好热啊!{f801}那么…{f801}{ffff}</source>
+    <target>接下来…{f801}唔嘿嘿嘿…{f801}好吧{f801}好热啊!{f801}那么…{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>无聊{f801}胡说!{f801}你说什么?{f801}我怎么知道!{f801}愚蠢的…{f801}{ffff}</source>
+    <target>无聊{f801}胡说!{f801}你说什么?{f801}我怎么知道!{f801}愚蠢的…{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>喝!{f801}这是什么人啊{f801}三障么…{f801}可恶的四魔…{f801}这也是修行么…{f801}{ffff}</source>
+    <target>喝!{f801}这是什么人啊{f801}三障么…{f801}可恶的四魔…{f801}这也是修行么…{f801}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>呜呼呼…{f801}来一发吧{f801}来做开心的事吧?{f801}那就决定吧{f801}做什么好呢{f801}{ffff}</source>
+    <target>呜呼呼…{f801}来一发吧{f801}来做开心的事吧?{f801}那就决定吧{f801}做什么好呢{f801}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>怎么办啊?{f801}可以啊?{f801}就是那个!{f801}呜嘿嘿嘿…{f801}干得漂亮!{f801}{ffff}</source>
+    <target>怎么办啊?{f801}可以啊?{f801}就是那个!{f801}呜嘿嘿嘿…{f801}干得漂亮!{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>真糟糕{f801}我怎么知道!{f801}饶了我吧{f801}喂喂…{f801}这不可能!{f801}{ffff}</source>
+    <target>真糟糕{f801}我怎么知道!{f801}饶了我吧{f801}喂喂…{f801}这不可能!{f801}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>猥琐的家伙?{f801}这不是当然么{f801}太急躁了{f801}轻松一点吧{f801}是那种类型么?{f801}{ffff}</source>
+    <target>猥琐的家伙?{f801}这不是当然么{f801}太急躁了{f801}轻松一点吧{f801}是那种类型么?{f801}{ffff}</target>
+  </entry>
+  <entry id="120">
+    <source>呀嚯嚯!{f801}大家真能干嚯{f801}国王嚯!{f801}一起协力嚯{f801}呀嚯嚯!{f801}{ffff}</source>
+    <target>呀嚯嚯!{f801}大家真能干嚯{f801}国王嚯!{f801}一起协力嚯{f801}呀嚯嚯!{f801}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>要打么嚯?{f801}怎么办嚯?{f801}就是那个嚯!{f801}那就…{f801}咿嚯嚯!{f801}{ffff}</source>
+    <target>要打么嚯?{f801}怎么办嚯?{f801}就是那个嚯!{f801}那就…{f801}咿嚯嚯!{f801}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>别开玩笑了嚯!{f801}不行不行嚯{f801}不要嚯{f801}哎呀哎呀嚯…{f801}咿嚯嚯嚯…{f801}{ffff}</source>
+    <target>别开玩笑了嚯!{f801}不行不行嚯{f801}不要嚯{f801}哎呀哎呀嚯…{f801}咿嚯嚯嚯…{f801}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>咿嚯嚯…{f801}好过分嚯{f801}大家没事吧嚯?{f801}吓我一跳嚯{f801}咿嚯嚯…{f801}{ffff}</source>
+    <target>咿嚯嚯…{f801}好过分嚯{f801}大家没事吧嚯?{f801}吓我一跳嚯{f801}咿嚯嚯…{f801}{ffff}</target>
+  </entry>
+  <entry id="130">
+    <source>给我供品{f801}向我的王国…{f801}献上生命…{f801}要开始了{f801}把祭品…{f801}{ffff}</source>
+    <target>给我供品{f801}向我的王国…{f801}献上生命…{f801}要开始了{f801}把祭品…{f801}{ffff}</target>
+  </entry>
+  <entry id="131">
+    <source>记下了…{f801}吼吼吼…{f801}忍不了呢…{f801}怎么样?{f801}好吧{f801}{ffff}</source>
+    <target>记下了…{f801}吼吼吼…{f801}忍不了呢…{f801}怎么样?{f801}好吧{f801}{ffff}</target>
+  </entry>
+  <entry id="132">
+    <source>哼!{f801}不妙呢…{f801}无聊{f801}成何体统!{f801}愚蠢…{f801}{ffff}</source>
+    <target>哼!{f801}不妙呢…{f801}无聊{f801}成何体统!{f801}愚蠢…{f801}{ffff}</target>
+  </entry>
+  <entry id="133">
+    <source>你以为我是谁{f801}信心还不足呢{f801}要用心…{f801}是说教么{f801}尝尝我的愤怒{f801}{ffff}</source>
+    <target>你以为我是谁{f801}信心还不足呢{f801}要用心…{f801}是说教么{f801}尝尝我的愤怒{f801}{ffff}</target>
+  </entry>
+  <entry id="140">
+    <source>吃饭的时间了{f801}吃左脚吧{f801}那右手是我的{f801}有女的么?{f801}头也不错呢{f801}{ffff}</source>
+    <target>吃饭的时间了{f801}吃左脚吧{f801}那右手是我的{f801}有女的么?{f801}头也不错呢{f801}{ffff}</target>
+  </entry>
+  <entry id="141">
+    <source>不妙呢!{f801}可以啊?{f801}怎么样?{f801}好热呢!{f801}唔嘿嘿嘿…{f801}{ffff}</source>
+    <target>不妙呢!{f801}可以啊?{f801}怎么样?{f801}好热呢!{f801}唔嘿嘿嘿…{f801}{ffff}</target>
+  </entry>
+  <entry id="142">
+    <source>别开玩笑了!{f801}胡说!{f801}我怎么知道!{f801}真的假的…{f801}喂喂…{f801}{ffff}</source>
+    <target>别开玩笑了!{f801}胡说!{f801}我怎么知道!{f801}真的假的…{f801}喂喂…{f801}{ffff}</target>
+  </entry>
+  <entry id="143">
+    <source>真嚣张啊{f801}居然敢反抗{f801}你想被吃了么?{f801}吃饭吧{f801}真是的…{f801}{ffff}</source>
+    <target>真嚣张啊{f801}居然敢反抗{f801}你想被吃了么?{f801}吃饭吧{f801}真是的…{f801}{ffff}</target>
+  </entry>
+  <entry id="150">
+    <source>呵呵呵…{f801}邀请你吧{f801}献上你的鲜血{f801}想看么?{f801}我的力量…{f801}{ffff}</source>
+    <target>呵呵呵…{f801}邀请你吧{f801}献上你的鲜血{f801}想看么?{f801}我的力量…{f801}{ffff}</target>
+  </entry>
+  <entry id="151">
+    <source>是啊…{f801}这样就好{f801}也不坏{f801}挺能干嘛{f801}不用了{f801}{ffff}</source>
+    <target>是啊…{f801}这样就好{f801}也不坏{f801}挺能干嘛{f801}不用了{f801}{ffff}</target>
+  </entry>
+  <entry id="152">
+    <source>哎呀哎呀…{f801}说什么呢{f801}真无聊{f801}真的么?{f801}已经够了{f801}{ffff}</source>
+    <target>哎呀哎呀…{f801}说什么呢{f801}真无聊{f801}真的么?{f801}已经够了{f801}{ffff}</target>
+  </entry>
+  <entry id="153">
+    <source>哎呀哎呀…{f801}真急躁…{f801}没意思{f801}后悔吧{f801}小子…{f801}{ffff}</source>
+    <target>哎呀哎呀…{f801}真急躁…{f801}没意思{f801}后悔吧{f801}小子…{f801}{ffff}</target>
+  </entry>
+  <entry id="160">
+    <source>是战斗之时了{f801}哇哈哈!{f801}结出果实吧{f801}用你的血{f801}是战斗之时了{f801}{ffff}</source>
+    <target>是战斗之时了{f801}哇哈哈!{f801}结出果实吧{f801}用你的血{f801}是战斗之时了{f801}{ffff}</target>
+  </entry>
+  <entry id="161">
+    <source>好了…{f801}要怎么办?{f801}就是那个!{f801}好像不妙呢!{f801}好吧{f801}{ffff}</source>
+    <target>好了…{f801}要怎么办?{f801}就是那个!{f801}好像不妙呢!{f801}好吧{f801}{ffff}</target>
+  </entry>
+  <entry id="162">
+    <source>无聊{f801}真糟糕{f801}饶了我吧{f801}哎…{f801}愚蠢…{f801}{ffff}</source>
+    <target>无聊{f801}真糟糕{f801}饶了我吧{f801}哎…{f801}愚蠢…{f801}{ffff}</target>
+  </entry>
+  <entry id="163">
+    <source>有点自觉吧{f801}要被夺走了?{f801}哈?{f801}不过分么?{f801}这也是战…{f801}{ffff}</source>
+    <target>有点自觉吧{f801}要被夺走了?{f801}哈?{f801}不过分么?{f801}这也是战…{f801}{ffff}</target>
+  </entry>
+  <entry id="170">
+    <source>啊嗷!{f801}过来这边!{f801}你笑了吧?{f801}点火了{f801}上了上了!{f801}{ffff}</source>
+    <target>啊嗷!{f801}过来这边!{f801}你笑了吧?{f801}点火了{f801}上了上了!{f801}{ffff}</target>
+  </entry>
+  <entry id="171">
+    <source>好像很好吃!{f801}不错啊!{f801}怎么办?{f801}不错!{f801}那就…{f801}{ffff}</source>
+    <target>好像很好吃!{f801}不错啊!{f801}怎么办?{f801}不错!{f801}那就…{f801}{ffff}</target>
+  </entry>
+  <entry id="172">
+    <source>混账!{f801}不行!{f801}呜嘎!{f801}才不要!{f801}无聊…{f801}{ffff}</source>
+    <target>混账!{f801}不行!{f801}呜嘎!{f801}才不要!{f801}无聊…{f801}{ffff}</target>
+  </entry>
+  <entry id="173">
+    <source>可恶!{f801}别过来!{f801}啊哇哇哇哇{f801}我要生气了{f801}唔咕咕…{f801}{ffff}</source>
+    <target>可恶!{f801}别过来!{f801}啊哇哇哇哇{f801}我要生气了{f801}唔咕咕…{f801}{ffff}</target>
+  </entry>
+  <entry id="180">
+    <source>主啊主啊{f801}赞美吧{f801}美妙的光之主啊{f801}救赎之主啊{f801}赞美吧{f801}{ffff}</source>
+    <target>主啊主啊{f801}赞美吧{f801}美妙的光之主啊{f801}救赎之主啊{f801}赞美吧{f801}{ffff}</target>
+  </entry>
+  <entry id="181">
+    <source>主啊{f801}请赐予我们{f801}祝福{f801}我心{f801}不变{f801}{ffff}</source>
+    <target>主啊{f801}请赐予我们{f801}祝福{f801}我心{f801}不变{f801}{ffff}</target>
+  </entry>
+  <entry id="182">
+    <source>愚蠢!{f801}做什么!{f801}这家伙!{f801}唉!{f801}消失吧!{f801}{ffff}</source>
+    <target>愚蠢!{f801}做什么!{f801}这家伙!{f801}唉!{f801}消失吧!{f801}{ffff}</target>
+  </entry>
+  <entry id="183">
+    <source>主啊{f801}多么野蛮…{f801}请守护{f801}我们{f801}多么没有信心…{f801}{ffff}</source>
+    <target>主啊{f801}多么野蛮…{f801}请守护{f801}我们{f801}多么没有信心…{f801}{ffff}</target>
+  </entry>
+  <entry id="190">
+    <source>后悔也晚了{f801}真是肮脏{f801}绝不原谅越狱{f801}即刻处刑{f801}老实的被讨伐吧{f801}{ffff}</source>
+    <target>后悔也晚了{f801}真是肮脏{f801}绝不原谅越狱{f801}即刻处刑{f801}老实的被讨伐吧{f801}{ffff}</target>
+  </entry>
+  <entry id="191">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="192">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="193">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="200">
+    <source>主啊{f801}请守护{f801}吾等{f801}将光明{f801}赐予吾等{f801}{ffff}</source>
+    <target>主啊{f801}请守护{f801}吾等{f801}将光明{f801}赐予吾等{f801}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="202">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="203">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="210">
+    <source>看着我的眼睛{f801}丑陋也没关系{f801}做给你看!{f801}溶于黑暗{f801}请承受灾厄…{f801}{ffff}</source>
+    <target>看着我的眼睛{f801}丑陋也没关系{f801}做给你看!{f801}溶于黑暗{f801}请承受灾厄…{f801}{ffff}</target>
+  </entry>
+  <entry id="211">
+    <source>接下来…{f801}有趣…{f801}呜嗷啊啊?{f801}那么…{f801}好吧{f801}{ffff}</source>
+    <target>接下来…{f801}有趣…{f801}呜嗷啊啊?{f801}那么…{f801}好吧{f801}{ffff}</target>
+  </entry>
+  <entry id="212">
+    <source>无聊{f801}哎呀哎呀…{f801}呜噜!{f801}真是无语{f801}愚蠢…{f801}{ffff}</source>
+    <target>无聊{f801}哎呀哎呀…{f801}呜噜!{f801}真是无语{f801}愚蠢…{f801}{ffff}</target>
+  </entry>
+  <entry id="213">
+    <source>大意了{f801}没想到是突袭…{f801}切没办法{f801}我居然…{f801}多么失态{f801}{ffff}</source>
+    <target>大意了{f801}没想到是突袭…{f801}切没办法{f801}我居然…{f801}多么失态{f801}{ffff}</target>
+  </entry>
+  <entry id="220">
+    <source>见识吾之指挥吧{f801}我来试试你…{f801}在恶魔之力的面前{f801}献出膝盖吧{f801}我们魔军…{f801}{ffff}</source>
+    <target>见识吾之指挥吧{f801}我来试试你…{f801}在恶魔之力的面前{f801}献出膝盖吧{f801}我们魔军…{f801}{ffff}</target>
+  </entry>
+  <entry id="221">
+    <source>让你看看吧{f801}那就好{f801}让人忍不住呢{f801}接下来…{f801}呼哈哈哈哈…{f801}{ffff}</source>
+    <target>让你看看吧{f801}那就好{f801}让人忍不住呢{f801}接下来…{f801}呼哈哈哈哈…{f801}{ffff}</target>
+  </entry>
+  <entry id="222">
+    <source>你说什么?{f801}跟谁说话呢!{f801}哼…{f801}就这种水平么{f801}无话可说{f801}{ffff}</source>
+    <target>你说什么?{f801}跟谁说话呢!{f801}哼…{f801}就这种水平么{f801}无话可说{f801}{ffff}</target>
+  </entry>
+  <entry id="223">
+    <source>唔呜!?{f801}我们魔军…{f801}居然被这种小孩…{f801}真是嚣张的孩子{f801}打算与我们敌对么?{f801}{ffff}</source>
+    <target>唔呜!?{f801}我们魔军…{f801}居然被这种小孩…{f801}真是嚣张的孩子{f801}打算与我们敌对么?{f801}{ffff}</target>
+  </entry>
+  <entry id="230">
+    <source>被冰冻毁灭吧{f801}颤抖吧…{f801}在亲身的胸前…{f801}沉睡吧…{f801}冻住吧{f801}{ffff}</source>
+    <target>被冰冻毁灭吧{f801}颤抖吧…{f801}在亲身的胸前…{f801}沉睡吧…{f801}冻住吧{f801}{ffff}</target>
+  </entry>
+  <entry id="231">
+    <source>不错啊{f801}原来如此{f801}呵…{f801}这又如何?{f801}居然这样么…{f801}{ffff}</source>
+    <target>不错啊{f801}原来如此{f801}呵…{f801}这又如何?{f801}居然这样么…{f801}{ffff}</target>
+  </entry>
+  <entry id="232">
+    <source>才不要啊{f801}我拒绝{f801}无聊{f801}住手吧{f801}闭嘴{f801}{ffff}</source>
+    <target>才不要啊{f801}我拒绝{f801}无聊{f801}住手吧{f801}闭嘴{f801}{ffff}</target>
+  </entry>
+  <entry id="233">
+    <source>真没礼貌啊{f801}挑战战斗么{f801}真是傲慢{f801}真不可爱{f801}不讲理{f801}{ffff}</source>
+    <target>真没礼貌啊{f801}挑战战斗么{f801}真是傲慢{f801}真不可爱{f801}不讲理{f801}{ffff}</target>
+  </entry>
+  <entry id="240">
+    <source>起风了…{f801}粉碎吧{f801}刮大风吧!{f801}呼呵呵…{f801}开始吧{f801}{ffff}</source>
+    <target>起风了…{f801}粉碎吧{f801}刮大风吧!{f801}呼呵呵…{f801}开始吧{f801}{ffff}</target>
+  </entry>
+  <entry id="241">
+    <source>好了…{f801}这里就先…{f801}嚯…{f801}怎么样?{f801}好吧{f801}{ffff}</source>
+    <target>好了…{f801}这里就先…{f801}嚯…{f801}怎么样?{f801}好吧{f801}{ffff}</target>
+  </entry>
+  <entry id="242">
+    <source>无聊{f801}不行啊…{f801}你说什么?{f801}烦死了!{f801}愚蠢…{f801}{ffff}</source>
+    <target>无聊{f801}不行啊…{f801}你说什么?{f801}烦死了!{f801}愚蠢…{f801}{ffff}</target>
+  </entry>
+  <entry id="243">
+    <source>邪恶的风…{f801}真是熊孩子{f801}可恶的人类…{f801}你要干嘛{f801}不自量力{f801}{ffff}</source>
+    <target>邪恶的风…{f801}真是熊孩子{f801}可恶的人类…{f801}你要干嘛{f801}不自量力{f801}{ffff}</target>
+  </entry>
+  <entry id="250">
+    <source>神鸣之力{f801}要掉下去了{f801}本大爷的声音{f801}响彻吧!{f801}闪亮呢?{f801}{ffff}</source>
+    <target>神鸣之力{f801}要掉下去了{f801}本大爷的声音{f801}响彻吧!{f801}闪亮呢?{f801}{ffff}</target>
+  </entry>
+  <entry id="251">
+    <source>吼吼吼…{f801}吼吼?{f801}好像很好吃!{f801}吼!{f801}嗯嗯…{f801}{ffff}</source>
+    <target>吼吼吼…{f801}吼吼?{f801}好像很好吃!{f801}吼!{f801}嗯嗯…{f801}{ffff}</target>
+  </entry>
+  <entry id="252">
+    <source>不行啊…{f801}嚯!{f801}不行!{f801}呼沙沙!{f801}吵死了!{f801}{ffff}</source>
+    <target>不行啊…{f801}嚯!{f801}不行!{f801}呼沙沙!{f801}吵死了!{f801}{ffff}</target>
+  </entry>
+  <entry id="253">
+    <source>被突袭{f801}吃惊的我{f801}接受挑战!{f801}没办法{f801}大意了…{f801}{ffff}</source>
+    <target>被突袭{f801}吃惊的我{f801}接受挑战!{f801}没办法{f801}大意了…{f801}{ffff}</target>
+  </entry>
+  <entry id="260">
+    <source>将生命{f801}献给{f801}燃烧的我吧!{f801}啊啊啊!{f801}化成灰吧{f801}{ffff}</source>
+    <target>将生命{f801}献给{f801}燃烧的我吧!{f801}啊啊啊!{f801}化成灰吧{f801}{ffff}</target>
+  </entry>
+  <entry id="261">
+    <source>好了…{f801}呜嗷?{f801}嚯嚯!{f801}呜嗷!{f801}好吧{f801}{ffff}</source>
+    <target>好了…{f801}呜嗷?{f801}嚯嚯!{f801}呜嗷!{f801}好吧{f801}{ffff}</target>
+  </entry>
+  <entry id="262">
+    <source>你说什么?{f801}呜嗷!{f801}唔唔…{f801}呜嗷啊!{f801}愚蠢…{f801}{ffff}</source>
+    <target>你说什么?{f801}呜嗷!{f801}唔唔…{f801}呜嗷啊!{f801}愚蠢…{f801}{ffff}</target>
+  </entry>
+  <entry id="263">
+    <source>不惧怕火炎么{f801}无畏的小鬼{f801}我来当你的对手{f801}烧焦…死…{f801}不自量力{f801}{ffff}</source>
+    <target>不惧怕火炎么{f801}无畏的小鬼{f801}我来当你的对手{f801}烧焦…死…{f801}不自量力{f801}{ffff}</target>
+  </entry>
+  <entry id="270">
+    <source>将你的障碍…{f801}流走吧{f801}演奏给你…{f801}是战斗之时了{f801}开始吧{f801}{ffff}</source>
+    <target>将你的障碍…{f801}流走吧{f801}演奏给你…{f801}是战斗之时了{f801}开始吧{f801}{ffff}</target>
+  </entry>
+  <entry id="271">
+    <source>怎么样?{f801}可以呢…{f801}那么…{f801}真不错{f801}好热呢!{f801}{ffff}</source>
+    <target>怎么样?{f801}可以呢…{f801}那么…{f801}真不错{f801}好热呢!{f801}{ffff}</target>
+  </entry>
+  <entry id="272">
+    <source>别开玩笑了!{f801}不要说笑{f801}愚蠢呢{f801}住手!{f801}真的么…{f801}{ffff}</source>
+    <target>别开玩笑了!{f801}不要说笑{f801}愚蠢呢{f801}住手!{f801}真的么…{f801}{ffff}</target>
+  </entry>
+  <entry id="273">
+    <source>迎击{f801}野蛮啊…{f801}要和我们战斗?{f801}放马过来吧{f801}真是无谋的人类{f801}{ffff}</source>
+    <target>迎击{f801}野蛮啊…{f801}要和我们战斗?{f801}放马过来吧{f801}真是无谋的人类{f801}{ffff}</target>
+  </entry>
+  <entry id="280">
+    <source>觉悟吧{f801}战士之魂…{f801}我来引导{f801}吞噬…{f801}你的死{f801}{ffff}</source>
+    <target>觉悟吧{f801}战士之魂…{f801}我来引导{f801}吞噬…{f801}你的死{f801}{ffff}</target>
+  </entry>
+  <entry id="281">
+    <source>那就好…{f801}不错呢{f801}那么…{f801}哎呀!{f801}好吧{f801}{ffff}</source>
+    <target>那就好…{f801}不错呢{f801}那么…{f801}哎呀!{f801}好吧{f801}{ffff}</target>
+  </entry>
+  <entry id="282">
+    <source>哎呀哎呀…{f801}怎么会!{f801}多么…{f801}不要啊!{f801}真是无语{f801}{ffff}</source>
+    <target>哎呀哎呀…{f801}怎么会!{f801}多么…{f801}不要啊!{f801}真是无语{f801}{ffff}</target>
+  </entry>
+  <entry id="283">
+    <source>居然敢挑战我吗{f801}真是有勇气的人类{f801}让我看看{f801}你的力量{f801}唔噜噜噜…{f801}{ffff}</source>
+    <target>居然敢挑战我吗{f801}真是有勇气的人类{f801}让我看看{f801}你的力量{f801}唔噜噜噜…{f801}{ffff}</target>
+  </entry>
+  <entry id="290">
+    <source>消灭敌人吧…{f801}给我心脏!{f801}回到黑暗…{f801}大口吃!{f801}不能前进到这前方了{f801}{ffff}</source>
+    <target>消灭敌人吧…{f801}给我心脏!{f801}回到黑暗…{f801}大口吃!{f801}不能前进到这前方了{f801}{ffff}</target>
+  </entry>
+  <entry id="291">
+    <source>接下来…{f801}好像很好吃!{f801}喝…{f801}嗷嗯!{f801}那么…{f801}{ffff}</source>
+    <target>接下来…{f801}好像很好吃!{f801}喝…{f801}嗷嗯!{f801}那么…{f801}{ffff}</target>
+  </entry>
+  <entry id="292">
+    <source>无聊{f801}你说什么!{f801}………{f801}不行!{f801}愚蠢…{f801}{ffff}</source>
+    <target>无聊{f801}你说什么!{f801}………{f801}不行!{f801}愚蠢…{f801}{ffff}</target>
+  </entry>
+  <entry id="293">
+    <source>可恶…{f801}不敬之徒{f801}你要毁灭!{f801}敢敌对我呢{f801}吃了你的心脏!{f801}{ffff}</source>
+    <target>可恶…{f801}不敬之徒{f801}你要毁灭!{f801}敢敌对我呢{f801}吃了你的心脏!{f801}{ffff}</target>
+  </entry>
+  <entry id="300">
+    <source>这个叛徒{f801}觉悟吧{f801}绝不饶恕!{f801}人类的敌人{f801}以死赎罪吧{f801}{ffff}</source>
+    <target>这个叛徒{f801}觉悟吧{f801}绝不饶恕!{f801}人类的敌人{f801}以死赎罪吧{f801}{ffff}</target>
+  </entry>
+  <entry id="301">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="302">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="303">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="310">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="311">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="312">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="313">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="320">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="321">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="322">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="323">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="330">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="331">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="332">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="333">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="340">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="341">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="342">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="343">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="350">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="351">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="352">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="353">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="360">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="361">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="362">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="363">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="370">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="371">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="372">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="373">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="380">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="381">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="382">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="383">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="390">
+    <source>要到什么时候?{f801}呐要到什么时候?{f801}唉…{f801}要到什么时候?{f801}呐要到什么时候?{f801}{ffff}</source>
+    <target>要到什么时候?{f801}呐要到什么时候?{f801}唉…{f801}要到什么时候?{f801}呐要到什么时候?{f801}{ffff}</target>
+  </entry>
+  <entry id="391">
+    <source>呼呼?{f801}呼呼!{f801}呼呼呼{f801}呜呼呼?{f801}咿呜??{f801}{ffff}</source>
+    <target>呼呼?{f801}呼呼!{f801}呼呼呼{f801}呜呼呼?{f801}咿呜??{f801}{ffff}</target>
+  </entry>
+  <entry id="392">
+    <source>嚯!{f801}咿!{f801}呼呼咿!{f801}呼呼…{f801}…呼呼!!{f801}{ffff}</source>
+    <target>嚯!{f801}咿!{f801}呼呼咿!{f801}呼呼…{f801}…呼呼!!{f801}{ffff}</target>
+  </entry>
+  <entry id="393">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="400">
+    <source>这可是个好客人{f801}想要食料么{f801}就让妾身{f801}亲自招待{f801}新鲜的孩童之肉…{f801}{ffff}</source>
+    <target>这可是个好客人{f801}想要食料么{f801}就让妾身{f801}亲自招待{f801}新鲜的孩童之肉…{f801}{ffff}</target>
+  </entry>
+  <entry id="401">
+    <source>哦呀哎呀…{f801}如何呢?{f801}真嚣张{f801}不可是{f801}嗯…{f801}{ffff}</source>
+    <target>哦呀哎呀…{f801}如何呢?{f801}真嚣张{f801}不可是{f801}嗯…{f801}{ffff}</target>
+  </entry>
+  <entry id="402">
+    <source>你说什么!?{f801}咿!!{f801}不可饶恕!{f801}干不下去{f801}这个无礼之人!{f801}{ffff}</source>
+    <target>你说什么!?{f801}咿!!{f801}不可饶恕!{f801}干不下去{f801}这个无礼之人!{f801}{ffff}</target>
+  </entry>
+  <entry id="403">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="410">
+    <source>啊啊啊啊…{f801}开始了么?{f801}重要重要{f801}啾啾啾{f801}好冷好冷好冷{f801}{ffff}</source>
+    <target>啊啊啊啊…{f801}开始了么?{f801}重要重要{f801}啾啾啾{f801}好冷好冷好冷{f801}{ffff}</target>
+  </entry>
+  <entry id="411">
+    <source>怎么回事?{f801}怎么办?{f801}别听啊本店!{f801}那是恶鬼的低语{f801}唔唔…{f801}{ffff}</source>
+    <target>怎么回事?{f801}怎么办?{f801}别听啊本店!{f801}那是恶鬼的低语{f801}唔唔…{f801}{ffff}</target>
+  </entry>
+  <entry id="412">
+    <source>不要把本官!{f801}当白痴!{f801}闭嘴闭嘴!{f801}你说什么!?{f801}反叛行为么!?{f801}{ffff}</source>
+    <target>不要把本官!{f801}当白痴!{f801}闭嘴闭嘴!{f801}你说什么!?{f801}反叛行为么!?{f801}{ffff}</target>
+  </entry>
+  <entry id="413">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="420">
+    <source>啊嗯?{f801}别进我的地盘{f801}出手的话就杀了你{f801}这是地盘啊{f801}是我们的东西{f801}{ffff}</source>
+    <target>啊嗯?{f801}别进我的地盘{f801}出手的话就杀了你{f801}这是地盘啊{f801}是我们的东西{f801}{ffff}</target>
+  </entry>
+  <entry id="421">
+    <source>喂喂{f801}怎么办啊?{f801}真的么?真的?{f801}咚的一声出来吧{f801}不会吧{f801}{ffff}</source>
+    <target>喂喂{f801}怎么办啊?{f801}真的么?真的?{f801}咚的一声出来吧{f801}不会吧{f801}{ffff}</target>
+  </entry>
+  <entry id="422">
+    <source>我怎么知道!{f801}真兴奋〜{f801}哈啊?{f801}哈啊!?{f801}哈啊啊!?{f801}{ffff}</source>
+    <target>我怎么知道!{f801}真兴奋〜{f801}哈啊?{f801}哈啊!?{f801}哈啊啊!?{f801}{ffff}</target>
+  </entry>
+  <entry id="423">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="430">
+    <source>啊小孩子…{f801}是我的么{f801}绝对是啊{f801}我的孩子…{f801}绝对不会让你跑的{f801}{ffff}</source>
+    <target>啊小孩子…{f801}是我的么{f801}绝对是啊{f801}我的孩子…{f801}绝对不会让你跑的{f801}{ffff}</target>
+  </entry>
+  <entry id="431">
+    <source>喂住手啊{f801}呜呜…啊啊…!{f801}有点不妙?{f801}怎么办…{f801}呐怎么办啊?{f801}{ffff}</source>
+    <target>喂住手啊{f801}呜呜…啊啊…!{f801}有点不妙?{f801}怎么办…{f801}呐怎么办啊?{f801}{ffff}</target>
+  </entry>
+  <entry id="432">
+    <source>我不管了!{f801}为什么会变成这样{f801}莫名其妙{f801}嗷啊啊啊!{f801}这不可能吧?{f801}{ffff}</source>
+    <target>我不管了!{f801}为什么会变成这样{f801}莫名其妙{f801}嗷啊啊啊!{f801}这不可能吧?{f801}{ffff}</target>
+  </entry>
+  <entry id="433">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="440">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="441">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="442">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="443">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="450">
+    <source>来了来了来了{f801}弱小的孩子啊{f801}让亲身吃了你{f801}直到肝肠寸断{f801}增加吧{f801}{ffff}</source>
+    <target>来了来了来了{f801}弱小的孩子啊{f801}让亲身吃了你{f801}直到肝肠寸断{f801}增加吧{f801}{ffff}</target>
+  </entry>
+  <entry id="451">
+    <source>哦呀哦呀哦呀{f801}怎么办怎么办{f801}商量吧{f801}是商量是商量{f801}哦呀哦呀哦呀{f801}{ffff}</source>
+    <target>哦呀哦呀哦呀{f801}怎么办怎么办{f801}商量吧{f801}是商量是商量{f801}哦呀哦呀哦呀{f801}{ffff}</target>
+  </entry>
+  <entry id="452">
+    <source>呜唔唔{f801}不知道不知道{f801}可恶可恶可恶{f801}你这家伙你这家伙{f801}呜唔唔{f801}{ffff}</source>
+    <target>呜唔唔{f801}不知道不知道{f801}可恶可恶可恶{f801}你这家伙你这家伙{f801}呜唔唔{f801}{ffff}</target>
+  </entry>
+  <entry id="453">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="460">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="461">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="462">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="463">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="470">
+    <source>都是为了主人{f801}奉献一切吧…{f801}主人…{f801}主人的路已经打开了{f801}时间到了…{f801}{ffff}</source>
+    <target>都是为了主人{f801}奉献一切吧…{f801}主人…{f801}主人的路已经打开了{f801}时间到了…{f801}{ffff}</target>
+  </entry>
+  <entry id="471">
+    <source>这样下去…{f801}是为了主人吧{f801}可是…{f801}作为亲身来说…{f801}嗯…{f801}{ffff}</source>
+    <target>这样下去…{f801}是为了主人吧{f801}可是…{f801}作为亲身来说…{f801}嗯…{f801}{ffff}</target>
+  </entry>
+  <entry id="472">
+    <source>为什么会这样!{f801}可是为了主人啊!?{f801}不能理解{f801}啊啊号会和你!{f801}啊啊可恨!{f801}{ffff}</source>
+    <target>为什么会这样!{f801}可是为了主人啊!?{f801}不能理解{f801}啊啊号会和你!{f801}啊啊可恨!{f801}{ffff}</target>
+  </entry>
+  <entry id="473">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="480">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="481">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="482">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="483">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="490">
+    <source>对象确认{f801}排除敌性对象{f801}对象确认{f801}对象确认{f801}排除敌性对象{f801}{ffff}</source>
+    <target>对象确认{f801}排除敌性对象{f801}对象确认{f801}对象确认{f801}排除敌性对象{f801}{ffff}</target>
+  </entry>
+  <entry id="491">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="492">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="493">
+    <source>视认攻击对象{f801}排除敌性对象{f801}被害轻微{f801}确认对象{f801}确认敌人攻击{f801}{ffff}</source>
+    <target>视认攻击对象{f801}排除敌性对象{f801}被害轻微{f801}确认对象{f801}确认敌人攻击{f801}{ffff}</target>
+  </entry>
+  <entry id="500">
+    <source>觉悟吧{f801}哈哈哈哈!{f801}挣扎吧{f801}审判之时了…{f801}消失吧{f801}{ffff}</source>
+    <target>觉悟吧{f801}哈哈哈哈!{f801}挣扎吧{f801}审判之时了…{f801}消失吧{f801}{ffff}</target>
+  </entry>
+  <entry id="501">
+    <source>那就好…{f801}有趣…{f801}那么…{f801}呼呼呼…{f801}好吧{f801}{ffff}</source>
+    <target>那就好…{f801}有趣…{f801}那么…{f801}呼呼呼…{f801}好吧{f801}{ffff}</target>
+  </entry>
+  <entry id="502">
+    <source>哎呀哎呀…{f801}愚蠢啊{f801}真是…{f801}无话可说{f801}够了!{f801}{ffff}</source>
+    <target>哎呀哎呀…{f801}愚蠢啊{f801}真是…{f801}无话可说{f801}够了!{f801}{ffff}</target>
+  </entry>
+  <entry id="503">
+    <source>无可救药呢…{f801}野蛮!{f801}真是够了{f801}连审判之时…{f801}悔改吧{f801}{ffff}</source>
+    <target>无可救药呢…{f801}野蛮!{f801}真是够了{f801}连审判之时…{f801}悔改吧{f801}{ffff}</target>
+  </entry>
+  <entry id="510">
+    <source>玩的家伙?{f801}可以吧?{f801}来玩吧{f801}陪我啊{f801}呜呼呼…{f801}{ffff}</source>
+    <target>玩的家伙?{f801}可以吧?{f801}来玩吧{f801}陪我啊{f801}呜呼呼…{f801}{ffff}</target>
+  </entry>
+  <entry id="511">
+    <source>呼呼?{f801}呼!{f801}呼呜呜{f801}呼呜!{f801}呼沙!{f801}{ffff}</source>
+    <target>呼呼?{f801}呼!{f801}呼呜呜{f801}呼呜!{f801}呼沙!{f801}{ffff}</target>
+  </entry>
+  <entry id="512">
+    <source>呼呜!{f801}呼沙沙!{f801}呼呜呼呜?{f801}呼呜!{f801}呼呜呜{f801}{ffff}</source>
+    <target>呼呜!{f801}呼沙沙!{f801}呼呜呼呜?{f801}呼呜!{f801}呼呜呜{f801}{ffff}</target>
+  </entry>
+  <entry id="513">
+    <source>突然干嘛啊?{f801}吓我一跳…{f801}麻烦…{f801}没叫你{f801}真是的…{f801}{ffff}</source>
+    <target>突然干嘛啊?{f801}吓我一跳…{f801}麻烦…{f801}没叫你{f801}真是的…{f801}{ffff}</target>
+  </entry>
+  <entry id="520">
+    <source>嗷嗯!{f801}整个吞下!{f801}笑了吧?{f801}点火了啊!{f801}要上了!要上了!{f801}{ffff}</source>
+    <target>嗷嗯!{f801}整个吞下!{f801}笑了吧?{f801}点火了啊!{f801}要上了!要上了!{f801}{ffff}</target>
+  </entry>
+  <entry id="521">
+    <source>好像很好吃!{f801}不错啊!{f801}怎么办?{f801}不错!{f801}那就…{f801}{ffff}</source>
+    <target>好像很好吃!{f801}不错啊!{f801}怎么办?{f801}不错!{f801}那就…{f801}{ffff}</target>
+  </entry>
+  <entry id="522">
+    <source>混账!{f801}不行!{f801}呜嘎!{f801}才不要!{f801}无聊…{f801}{ffff}</source>
+    <target>混账!{f801}不行!{f801}呜嘎!{f801}才不要!{f801}无聊…{f801}{ffff}</target>
+  </entry>
+  <entry id="523">
+    <source>可恶!{f801}本大爷大意了{f801}啊哇哇哇{f801}我生气了!{f801}唔咕咕…{f801}{ffff}</source>
+    <target>可恶!{f801}本大爷大意了{f801}啊哇哇哇{f801}我生气了!{f801}唔咕咕…{f801}{ffff}</target>
+  </entry>
+  <entry id="530">
+    <source>我要大干一场{f801}来了个好猎物呢{f801}嘿嘿嘿……{f801}出现了啊{f801}哈!{f801}{ffff}</source>
+    <target>我要大干一场{f801}来了个好猎物呢{f801}嘿嘿嘿……{f801}出现了啊{f801}哈!{f801}{ffff}</target>
+  </entry>
+  <entry id="531">
+    <source>糟糕!{f801}如何?{f801}嘿嘿嘿……{f801}嚯嚯……{f801}要怎么办?{f801}{ffff}</source>
+    <target>糟糕!{f801}如何?{f801}嘿嘿嘿……{f801}嚯嚯……{f801}要怎么办?{f801}{ffff}</target>
+  </entry>
+  <entry id="532">
+    <source>开玩笑!{f801}鬼知道!{f801}真的吗……{f801}呼!{f801}别逗了!{f801}{ffff}</source>
+    <target>开玩笑!{f801}鬼知道!{f801}真的吗……{f801}呼!{f801}别逗了!{f801}{ffff}</target>
+  </entry>
+  <entry id="533">
+    <source>真是有趣{f801}狂妄的家伙{f801}你做什么!{f801}我开始眼冒金星了{f801}真是讨厌的家伙{f801}{ffff}</source>
+    <target>真是有趣{f801}狂妄的家伙{f801}你做什么!{f801}我开始眼冒金星了{f801}真是讨厌的家伙{f801}{ffff}</target>
+  </entry>
+  <entry id="540">
+    <source>抓住你了{f801}嗷…噢…嗷{f801}你看到了?{f801}不过是个小鬼…{f801}啊啊啊{f801}{ffff}</source>
+    <target>抓住你了{f801}嗷…噢…嗷{f801}你看到了?{f801}不过是个小鬼…{f801}啊啊啊{f801}{ffff}</target>
+  </entry>
+  <entry id="541">
+    <source>原来如此呢{f801}那怎么办?{f801}居然这样…{f801}呜嗷?{f801}呜嗷嗷!{f801}{ffff}</source>
+    <target>原来如此呢{f801}那怎么办?{f801}居然这样…{f801}呜嗷?{f801}呜嗷嗷!{f801}{ffff}</target>
+  </entry>
+  <entry id="542">
+    <source>才不要啊{f801}我拒绝{f801}闭嘴吧{f801}呜嗷嗷!{f801}呜嗷!{f801}{ffff}</source>
+    <target>才不要啊{f801}我拒绝{f801}闭嘴吧{f801}呜嗷嗷!{f801}呜嗷!{f801}{ffff}</target>
+  </entry>
+  <entry id="543">
+    <source>反击啊{f801}找到了{f801}居然不怕死?{f801}呜唔呜唔唔{f801}一起{f801}{ffff}</source>
+    <target>反击啊{f801}找到了{f801}居然不怕死?{f801}呜唔呜唔唔{f801}一起{f801}{ffff}</target>
+  </entry>
+  <entry id="550">
+    <source>呀嚯嚯!{f801}大家真能干嚯{f801}国王嚯!{f801}一起协力嚯{f801}呀嚯嚯!{f801}{ffff}</source>
+    <target>呀嚯嚯!{f801}大家真能干嚯{f801}国王嚯!{f801}一起协力嚯{f801}呀嚯嚯!{f801}{ffff}</target>
+  </entry>
+  <entry id="551">
+    <source>要打么嚯?{f801}怎么办嚯?{f801}就是那个嚯!{f801}那就…{f801}咿嚯嚯!{f801}{ffff}</source>
+    <target>要打么嚯?{f801}怎么办嚯?{f801}就是那个嚯!{f801}那就…{f801}咿嚯嚯!{f801}{ffff}</target>
+  </entry>
+  <entry id="552">
+    <source>别开玩笑了嚯!{f801}不行不行嚯{f801}不要嚯{f801}哎呀哎呀嚯…{f801}咿嚯嚯嚯…{f801}{ffff}</source>
+    <target>别开玩笑了嚯!{f801}不行不行嚯{f801}不要嚯{f801}哎呀哎呀嚯…{f801}咿嚯嚯嚯…{f801}{ffff}</target>
+  </entry>
+  <entry id="553">
+    <source>咿嚯嚯…{f801}好过分嚯{f801}大家没事吧嚯?{f801}吓我一跳嚯{f801}咿嚯嚯…{f801}{ffff}</source>
+    <target>咿嚯嚯…{f801}好过分嚯{f801}大家没事吧嚯?{f801}吓我一跳嚯{f801}咿嚯嚯…{f801}{ffff}</target>
+  </entry>
+  <entry id="560">
+    <source>看着我的眼睛{f801}丑陋也没关系{f801}做给你看!{f801}溶于黑暗{f801}请承受灾厄…{f801}{ffff}</source>
+    <target>看着我的眼睛{f801}丑陋也没关系{f801}做给你看!{f801}溶于黑暗{f801}请承受灾厄…{f801}{ffff}</target>
+  </entry>
+  <entry id="561">
+    <source>接下来…{f801}有趣…{f801}呜嗷啊啊?{f801}那么…{f801}好吧{f801}{ffff}</source>
+    <target>接下来…{f801}有趣…{f801}呜嗷啊啊?{f801}那么…{f801}好吧{f801}{ffff}</target>
+  </entry>
+  <entry id="562">
+    <source>无聊{f801}哎呀哎呀…{f801}呜噜!{f801}真是无语{f801}愚蠢…{f801}{ffff}</source>
+    <target>无聊{f801}哎呀哎呀…{f801}呜噜!{f801}真是无语{f801}愚蠢…{f801}{ffff}</target>
+  </entry>
+  <entry id="563">
+    <source>大意了{f801}没想到是突袭…{f801}切没办法{f801}我居然…{f801}多么失态{f801}{ffff}</source>
+    <target>大意了{f801}没想到是突袭…{f801}切没办法{f801}我居然…{f801}多么失态{f801}{ffff}</target>
+  </entry>
+  <entry id="570">
+    <source>堕落吧毁灭吧{f801}应死{f801}在我军前{f801}跪拜吧{f801}开始战斗吧{f801}{ffff}</source>
+    <target>堕落吧毁灭吧{f801}应死{f801}在我军前{f801}跪拜吧{f801}开始战斗吧{f801}{ffff}</target>
+  </entry>
+  <entry id="571">
+    <source>那就好…{f801}有趣…{f801}呼呼呼…{f801}嚯…{f801}好吧{f801}{ffff}</source>
+    <target>那就好…{f801}有趣…{f801}呼呼呼…{f801}嚯…{f801}好吧{f801}{ffff}</target>
+  </entry>
+  <entry id="572">
+    <source>哎呀哎呀…{f801}愚蠢啊{f801}真无语{f801}无聊{f801}你说什么?{f801}{ffff}</source>
+    <target>哎呀哎呀…{f801}愚蠢啊{f801}真无语{f801}无聊{f801}你说什么?{f801}{ffff}</target>
+  </entry>
+  <entry id="573">
+    <source>呵呵…{f801}有趣呢人类{f801}放马过来吧{f801}让我看看你的力量{f801}无聊呢…{f801}{ffff}</source>
+    <target>呵呵…{f801}有趣呢人类{f801}放马过来吧{f801}让我看看你的力量{f801}无聊呢…{f801}{ffff}</target>
+  </entry>
+  <entry id="580">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="581">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="582">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="583">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="590">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="591">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="592">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="593">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="600">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="601">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="602">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="603">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="610">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="611">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="612">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="613">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="620">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="621">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="622">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="623">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="630">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="631">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="632">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="633">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="640">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="641">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="642">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="643">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="650">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="651">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="652">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="653">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="660">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="661">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="662">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="663">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="670">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="671">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="672">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="673">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="680">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="681">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="682">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="683">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="690">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="691">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="692">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="693">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="700">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="701">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="702">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="703">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="710">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="711">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="712">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="713">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="720">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="721">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="722">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="723">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="730">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="731">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="732">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="733">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="740">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="741">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="742">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="743">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="750">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="751">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="752">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="753">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="760">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="761">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="762">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="763">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="770">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="771">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="772">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="773">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="780">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="781">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="782">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="783">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="790">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="791">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="792">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="793">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="800">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="801">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="802">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="803">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="810">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="811">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="812">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="813">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="820">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="821">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="822">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="823">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="830">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="831">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="832">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="833">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="840">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="841">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="842">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="843">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="850">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="851">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="852">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="853">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="860">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="861">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="862">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="863">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="870">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="871">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="872">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="873">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="880">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="881">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="882">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="883">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="890">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="891">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="892">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="893">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="900">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="901">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="902">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="903">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="910">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="911">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="912">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="913">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="920">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="921">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="922">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="923">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="930">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="931">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="932">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="933">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="940">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="941">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="942">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="943">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="950">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="951">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="952">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="953">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="960">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="961">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="962">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="963">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="970">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="971">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="972">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="973">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="980">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="981">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="982">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="983">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="990">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="991">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="992">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="993">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1000">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1001">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1002">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1003">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1010">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1011">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1012">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1013">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1020">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1021">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1022">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1023">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1030">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1031">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1032">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1033">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1040">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1041">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1042">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1043">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1050">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1051">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1052">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1053">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1060">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1061">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1062">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1063">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1070">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1071">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1072">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1073">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1080">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1081">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1082">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1083">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1090">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1091">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1092">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1093">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1100">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1101">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1102">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1103">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1110">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1111">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1112">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1113">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1120">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1121">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1122">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1123">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1130">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1131">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1132">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1133">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1140">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1141">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1142">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1143">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1150">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1151">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1152">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1153">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1160">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1161">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1162">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1163">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1170">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1171">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1172">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1173">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1180">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1181">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1182">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1183">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1190">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1191">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1192">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1193">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1200">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1201">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1202">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1203">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1210">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1211">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1212">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1213">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1220">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1221">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1222">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1223">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1230">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1231">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1232">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1233">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1240">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1241">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1242">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1243">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1250">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1251">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1252">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1253">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1260">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1261">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1262">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1263">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1270">
+    <source>(仮)出現時{f801}{ffff}</source>
+    <target>(仮)出現時{f801}{ffff}</target>
+  </entry>
+  <entry id="1271">
+    <source>(仮)相談{f801}{ffff}</source>
+    <target>(仮)相談{f801}{ffff}</target>
+  </entry>
+  <entry id="1272">
+    <source>(仮)仲間割れ{f801}{ffff}</source>
+    <target>(仮)仲間割れ{f801}{ffff}</target>
+  </entry>
+  <entry id="1273">
+    <source>(仮)ダメージ{f801}{ffff}</source>
+    <target>(仮)ダメージ{f801}{ffff}</target>
+  </entry>
+  <entry id="2000">
+    <source>恶魔们忙着商量{f801}没空攻击…{f801}{ffff}</source>
+    <target>恶魔们忙着商量{f801}没空攻击…{f801}{ffff}</target>
+  </entry>
+  <entry id="2001">
+    <source>恶魔们起内讧了{f801}没空攻击…{f801}{ffff}</source>
+    <target>恶魔们起内讧了{f801}没空攻击…{f801}{ffff}</target>
+  </entry>
+</mbm>

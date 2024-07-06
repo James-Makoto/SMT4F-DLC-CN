@@ -1,0 +1,1442 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}不要谈无聊的事情了,{f801}让我们来找点乐子吧?呵呵……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不要谈无聊的事情了,{f801}让我们来找点乐子吧?呵呵……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}那么,你就不要先攻击啊!{f801}真是的!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那么,你就不要先攻击啊!{f801}真是的!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}既然如此……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}既然如此……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}知道了,{f801}我会成为你的仲魔!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}知道了,{f801}我会成为你的仲魔!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}我想先要点好处呢〜{f801}不给我我可是要生气的哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我想先要点好处呢〜{f801}不给我我可是要生气的哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}呜哇……保存区已经满了,{f801}没有我能进去的地方……{f801}{f802}真是的,人家不理你了1{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呜哇……保存区已经满了,{f801}没有我能进去的地方……{f801}{f802}真是的,人家不理你了1{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}我是{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000},{f801}今后还请多多关照……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我是{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000},{f801}今后还请多多关照……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}嗯?难道说……{f801}哥哥你比我还要弱吗?{f801}{f802}那么,我就不能加入你了〜{f801}我讨厌弱小的人类呢。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}嗯?难道说……{f801}哥哥你比我还要弱吗?{f801}{f802}那么,我就不能加入你了〜{f801}我讨厌弱小的人类呢。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}啊,我的朋友已经{f801}成为你的仲魔了啊!{f801}{f802}请多多关照我的朋友!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊,我的朋友已经{f801}成为你的仲魔了啊!{f801}{f802}请多多关照我的朋友!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}我可以叫别的恶魔过来吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我可以叫别的恶魔过来吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}呜哇,哥哥你的保存区已经满了啊……{f801}{f802}那么,就等下次你再邀请我吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呜哇,哥哥你的保存区已经满了啊……{f801}{f802}那么,就等下次你再邀请我吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}哈哈哈哈!{f801}看上去很有趣,我就跟你一起走吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哈哈哈哈!{f801}看上去很有趣,我就跟你一起走吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}嗯?没有人来呢……{f801}是因为害羞吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}嗯?没有人来呢……{f801}是因为害羞吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}那么,就让我成为你的仲魔吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那么,就让我成为你的仲魔吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}那个,可以把我的朋友叫来吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那个,可以把我的朋友叫来吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}初次见面,人类!{f801}{f802}因为{f873}{0200}拼命拜托我,{f801}所以我才来这里看看。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}初次见面,人类!{f801}{f802}因为{f873}{0200}拼命拜托我,{f801}所以我才来这里看看。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}呀!{f801}哥哥你真是帅呢!{f801}{f802}那个那个,你不想要仲魔吗?{f801}很想要吧?我也想要!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呀!{f801}哥哥你真是帅呢!{f801}{f802}那个那个,你不想要仲魔吗?{f801}很想要吧?我也想要!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}诶,要我给你钱?{f801}但是……我对那种事情……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶,要我给你钱?{f801}但是……我对那种事情……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}呜……呜……{f801}我的钱……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呜……呜……{f801}我的钱……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}哥哥你果然也是个卑鄙的人类,{f801}给我去死吧……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥你果然也是个卑鄙的人类,{f801}给我去死吧……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}呀!等一下!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呀!等一下!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}你不是人!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你不是人!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>{f871}{0100}给我适可而止吧……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我适可而止吧……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f871}{0100}喂……哥哥……{f801}我现在……不能动啊?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}喂……哥哥……{f801}我现在……不能动啊?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f871}{0100}要来交换道具吗?{f801}没问题!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}要来交换道具吗?{f801}没问题!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f871}{0100}这个给你,{f801}你一定要珍惜哦!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这个给你,{f801}你一定要珍惜哦!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}啦啦啦……有好多花啊〜{f801}哥哥〜你可以随心所欲地对待我〜{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啦啦啦……有好多花啊〜{f801}哥哥〜你可以随心所欲地对待我〜{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f871}{0100}你真是个好孩子,{f801}我来给你优惠一点吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你真是个好孩子,{f801}我来给你优惠一点吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}让我们来个简单点的决定方式吧?{f801}人家想要用魔币来直接决定……{f801}{f802}{f878}{0100}魔币!{f801}应该没有问题吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}让我们来个简单点的决定方式吧?{f801}人家想要用魔币来直接决定……{f801}{f802}{f878}{0100}魔币!{f801}应该没有问题吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>{f871}{0100}我想要{f878}{0100}个{f872}{0100}……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我想要{f878}{0100}个{f872}{0100}……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f871}{0100}我想要{f878}{0100}魔币。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我想要{f878}{0100}魔币。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}我希望哥哥你能{f801}稍微分一点HP给我……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我希望哥哥你能{f801}稍微分一点HP给我……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>{f871}{0100}我希望哥哥你能{f801}分一点HP给我……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我希望哥哥你能{f801}分一点HP给我……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}我希望哥哥你能{f801}多分一点HP给我……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我希望哥哥你能{f801}多分一点HP给我……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>{f871}{0100}我希望哥哥你能{f801}把大量的HP都分给我!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我希望哥哥你能{f801}把大量的HP都分给我!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}我希望哥哥你能{f801}稍微分一点MP给我……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我希望哥哥你能{f801}稍微分一点MP给我……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>{f871}{0100}我希望哥哥你能{f801}分一点MP给我……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我希望哥哥你能{f801}分一点MP给我……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}我希望哥哥你能{f801}多分一点MP给我……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我希望哥哥你能{f801}多分一点MP给我……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f871}{0100}我希望哥哥你能{f801}把大量的MP都分给我!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我希望哥哥你能{f801}把大量的MP都分给我!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f871}{0100}可以将哥哥你的仲魔……{f801}{f873}{0200}的生命交给我吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}可以将哥哥你的仲魔……{f801}{f873}{0200}的生命交给我吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f871}{0100}唔……{f801}我想要那个呢。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}唔……{f801}我想要那个呢。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f871}{0100}我想要哥哥你的妻子……{f801}{f87e}的HP呢。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我想要哥哥你的妻子……{f801}{f87e}的HP呢。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f871}{0100}那个那个,给我点东西吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那个那个,给我点东西吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}不愧是哥哥!{f801}我非常开心!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不愧是哥哥!{f801}我非常开心!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>{f871}{0100}不对……{f801}你居然连我想要什么都不知道……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不对……{f801}你居然连我想要什么都不知道……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}我可以咬哥哥吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我可以咬哥哥吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>可以{f801}不行{f801}{f802}{ffff}</source>
+    <target>可以{f801}不行{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>{f871}{0100}好高兴!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好高兴!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>{f843}{0000}变得{f801}有精神了!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}变得{f801}有精神了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>{f843}{0000}变得{f801}非常有精神了!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}变得{f801}非常有精神了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}你会让任何人去咬吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你会让任何人去咬吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>{f843}{0000}变得{f801}有点疲惫了!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}变得{f801}有点疲惫了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f843}{0000}变得{f801}疲惫不堪了!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}变得{f801}疲惫不堪了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f871}{0100}真是的,你真没骨气……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}真是的,你真没骨气……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}哇!{f801}我拿到了想要的东西!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哇!{f801}我拿到了想要的东西!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f871}{0100}哼!吝啬的人类……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哼!吝啬的人类……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}诶,你明明有却不肯给我吗?{f801}{f802}算了,还是杀了你吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶,你明明有却不肯给我吗?{f801}{f802}算了,还是杀了你吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>{f871}{0100}已经够了……{f801}人家不玩了!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}已经够了……{f801}人家不玩了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}等一下!{f801}你刚刚在骗我吧?{f801}{f802}算了,还是杀了你吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}等一下!{f801}你刚刚在骗我吧?{f801}{f802}算了,还是杀了你吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>{f871}{0100}诶……你没有吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶……你没有吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}诶……你没有魔石吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶……你没有魔石吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>{f871}{0100}居然能拒绝的如此干脆!{f801}哥哥你真了不起!{f801}{f802}对待恶魔居然能够这种态度,了不起!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}居然能拒绝的如此干脆!{f801}哥哥你真了不起!{f801}{f802}对待恶魔居然能够这种态度,了不起!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}我已经玩腻了……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我已经玩腻了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>{f871}{0100}好厉害!{f801}哥哥你身无一物呢!{f801}{f802}真没办法,{f801}这次我就放你一马吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好厉害!{f801}哥哥你身无一物呢!{f801}{f802}真没办法,{f801}这次我就放你一马吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}再见了,拜拜!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}再见了,拜拜!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>{f871}{0100}啊!{f843}{0000}哥哥!{f801}{f802}至今为止我们谈论了不少事情,{f801}我们已经是非常好的朋友了呢。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊!{f843}{0000}哥哥!{f801}{f802}至今为止我们谈论了不少事情,{f801}我们已经是非常好的朋友了呢。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}你说想要我成为你的仲魔?{f801}没问题!{f801}{f802}嘻嘻……{f801}就让我和哥哥你一起杀戮吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你说想要我成为你的仲魔?{f801}没问题!{f801}{f802}嘻嘻……{f801}就让我和哥哥你一起杀戮吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>{f871}{0100}我把魔币给你吧?{f801}嘻嘻……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我把魔币给你吧?{f801}嘻嘻……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}我把这个给你吧?{f801}嘻嘻……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我把这个给你吧?{f801}嘻嘻……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>{f871}{0100}真是无聊的人类……{f801}我要回去了。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}真是无聊的人类……{f801}我要回去了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>{f871}{0100}啊!{f843}{0000}……{f801}{f802}我寂寞得都快要死掉了……{f801}绝对不要再离开我了哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊!{f843}{0000}……{f801}{f802}我寂寞得都快要死掉了……{f801}绝对不要再离开我了哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>{f871}{0100}拜托了,请不要杀我……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}拜托了,请不要杀我……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>{f871}{0100}嘻嘻!{f801}我最喜欢哥哥了!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}嘻嘻!{f801}我最喜欢哥哥了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>{f871}{0100}你就算杀了恶魔也毫无愧疚吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你就算杀了恶魔也毫无愧疚吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>恶魔在警戒这边……{f801}要怎么办?{f801}{f802}{ffff}</source>
+    <target>恶魔在警戒这边……{f801}要怎么办?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>放下武器{f801}这边也进行警戒{f801}{f802}{ffff}</source>
+    <target>放下武器{f801}这边也进行警戒{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>{f871}{0100}哥哥你可真是个好人啊……{f801}这样可是会短命的哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥你可真是个好人啊……{f801}这样可是会短命的哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>{f871}{0100}你很懂我呢!{f801}看来我和哥哥你很投缘!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你很懂我呢!{f801}看来我和哥哥你很投缘!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>{f871}{0100}真是的!好无聊啊!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}真是的!好无聊啊!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>{f871}{0100}等一下!我已经不想战斗了!{f801}请放过我吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}等一下!我已经不想战斗了!{f801}请放过我吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>{f871}{0100}人类真的是好可怕……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人类真的是好可怕……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>恶魔正在靠近这里……{f801}要如何是好?{f801}{f802}{ffff}</source>
+    <target>恶魔正在靠近这里……{f801}要如何是好?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>躲避{f801}举起武器{f801}纹风不动{f801}{f802}{ffff}</source>
+    <target>躲避{f801}举起武器{f801}纹风不动{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>{f843}{0000}躲开了攻击!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}躲开了攻击!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>{f871}{0100}真是的!你也不用躲着我吧?{f801}我可是对你很有兴趣呢!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}真是的!你也不用躲着我吧?{f801}我可是对你很有兴趣呢!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>被恶魔追上了……{f801}{f802}{ffff}</source>
+    <target>被恶魔追上了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>{f871}{0100}嘻嘻……真是敏锐的人类。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}嘻嘻……真是敏锐的人类。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>{f871}{0100}请饶我一命吧!{f801}我会成为你的仲魔的,你觉得怎么样?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}请饶我一命吧!{f801}我会成为你的仲魔的,你觉得怎么样?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="116">
+    <source>{f871}{0100}哥哥你真是勇敢啊。{f801}让我们来聊聊吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥你真是勇敢啊。{f801}让我们来聊聊吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="117">
+    <source>{f871}{0100}哥哥,你很勇敢啊?{f801}{f802}你以为……{f801}我会这样夸奖你吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥,你很勇敢啊?{f801}{f802}你以为……{f801}我会这样夸奖你吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="119">
+    <source>恶魔在向这边招手……{f801}要怎么办?{f801}{f802}{ffff}</source>
+    <target>恶魔在向这边招手……{f801}要怎么办?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="120">
+    <source>靠近{f801}向它招手{f801}举起武器{f801}{f802}{ffff}</source>
+    <target>靠近{f801}向它招手{f801}举起武器{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>{f871}{0100}你中计了!{f801}呀哈哈哈哈哈哈!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你中计了!{f801}呀哈哈哈哈哈哈!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>{f871}{0100}我正想要把这个给你呢!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我正想要把这个给你呢!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>{f871}{0100}你可要珍惜使用哦。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你可要珍惜使用哦。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="124">
+    <source>{f871}{0100}我正想要助人类一臂之力呢!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我正想要助人类一臂之力呢!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="125">
+    <source>{f871}{0100}真恶心……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}真恶心……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="126">
+    <source>{f871}{0100}我们很合得来呢!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我们很合得来呢!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="127">
+    <source>{f871}{0100}哥哥,你太天真了!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥,你太天真了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="128">
+    <source>被恶魔偷袭了……{f801}{f802}{ffff}</source>
+    <target>被恶魔偷袭了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="129">
+    <source>{f871}{0100}请饶我一命吧!{f801}我会成为你的仲魔的,你觉得怎么样?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}请饶我一命吧!{f801}我会成为你的仲魔的,你觉得怎么样?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="131">
+    <source>恶魔要离开了……{f801}该如何是好?{f801}{f802}{ffff}</source>
+    <target>恶魔要离开了……{f801}该如何是好?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="132">
+    <source>把它留下{f801}无视{f801}举起武器{f801}{f802}{ffff}</source>
+    <target>把它留下{f801}无视{f801}举起武器{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="133">
+    <source>{f871}{0100}真没办法……{f801}我就来和你交涉吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}真没办法……{f801}我就来和你交涉吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="134">
+    <source>{f871}{0100}抱歉,我现在有急事!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}抱歉,我现在有急事!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="135">
+    <source>{f871}{0100}你不要这么冷淡啊?{f801}来和我交涉吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你不要这么冷淡啊?{f801}来和我交涉吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="136">
+    <source>{f871}{0100}不要那么冷淡啊!{f801}{f802}你要对女孩子{f801}温柔一些才行哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不要那么冷淡啊!{f801}{f802}你要对女孩子{f801}温柔一些才行哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="137">
+    <source>{f871}{0100}请饶我一命吧!{f801}我会成为你的仲魔的,你觉得怎么样?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}请饶我一命吧!{f801}我会成为你的仲魔的,你觉得怎么样?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="138">
+    <source>{f871}{0100}人类在这种方面{f801}可真是愚蠢啊。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人类在这种方面{f801}可真是愚蠢啊。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="140">
+    <source>恶魔摆出一副爱答不理的样子……{f801}要如何是好?{f801}{f802}{ffff}</source>
+    <target>恶魔摆出一副爱答不理的样子……{f801}要如何是好?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="141">
+    <source>大声叫喊{f801}吸引它的注意力{f801}用武器去威胁它{f801}{f802}{ffff}</source>
+    <target>大声叫喊{f801}吸引它的注意力{f801}用武器去威胁它{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="142">
+    <source>{f871}{0100}讨厌!{f801}不要管我!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}讨厌!{f801}不要管我!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="143">
+    <source>{f871}{0100}原来是哥哥你啊!{f801}好吧,我来和你交涉吧〜{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}原来是哥哥你啊!{f801}好吧,我来和你交涉吧〜{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="144">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="145">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="146">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="147">
+    <source>{f871}{0100}请饶我一命吧!{f801}我会成为你的仲魔的,你觉得怎么样?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}请饶我一命吧!{f801}我会成为你的仲魔的,你觉得怎么样?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="148">
+    <source>{f871}{0100}人类在这种方面{f801}可真是愚蠢啊。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人类在这种方面{f801}可真是愚蠢啊。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="150">
+    <source>{f871}{0100}拜托了!请放过我!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}拜托了!请放过我!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="151">
+    <source>放过它{f801}不放过它{f801}{f802}{ffff}</source>
+    <target>放过它{f801}不放过它{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="152">
+    <source>{f871}{0100}哥哥,谢谢你!{f801}这是我的一点心意……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥,谢谢你!{f801}这是我的一点心意……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="153">
+    <source>恶魔离开了……{f801}{f802}{ffff}</source>
+    <target>恶魔离开了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="154">
+    <source>{f871}{0100}你中计了!{f801}呀哈哈哈哈哈哈!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你中计了!{f801}呀哈哈哈哈哈哈!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="155">
+    <source>{f871}{0100}算了,还是杀了你吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}算了,还是杀了你吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="156">
+    <source>{f871}{0100}请饶我一命吧!{f801}我会成为你的仲魔的,你觉得怎么样?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}请饶我一命吧!{f801}我会成为你的仲魔的,你觉得怎么样?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="158">
+    <source>{f871}{0100}你应该是{f843}{0000}……{f801}我听过你的传闻。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你应该是{f843}{0000}……{f801}我听过你的传闻。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="159">
+    <source>{f871}{0100}你这个随意杀害恶魔的坏蛋!{f801}我绝不会放过你!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这个随意杀害恶魔的坏蛋!{f801}我绝不会放过你!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="160">
+    <source>{f871}{0100}请让成为你的仲魔吧!{f801}就算你不愿意,我也要跟你走!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}请让成为你的仲魔吧!{f801}就算你不愿意,我也要跟你走!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="161">
+    <source>{f871}{0100}我不想和你扯上关系!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我不想和你扯上关系!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="162">
+    <source>恶魔离开了……{f801}{f802}{ffff}</source>
+    <target>恶魔离开了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="164">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}我没法相信人类!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}我没法相信人类!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="165">
+    <source>正是如此{f801}你说的不对{f801}我是值得相信的人类{f801}{f802}{ffff}</source>
+    <target>正是如此{f801}你说的不对{f801}我是值得相信的人类{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="166">
+    <source>{f871}{0100}这样说的话,{f801}哥哥你和我也一样呢。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这样说的话,{f801}哥哥你和我也一样呢。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="167">
+    <source>{f871}{0100}我们真是合得来!{f801}我可以成为你的仲魔哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我们真是合得来!{f801}我可以成为你的仲魔哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="168">
+    <source>{f871}{0100}真是无可救药的人类!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}真是无可救药的人类!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="169">
+    <source>{f871}{0100}那么,{f801}希望你能够让我相信。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那么,{f801}希望你能够让我相信。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="170">
+    <source>{f871}{0100}说这种话的家伙{f801}是最不能相信的!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}说这种话的家伙{f801}是最不能相信的!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="171">
+    <source>{f871}{0100}那么,{f801}希望你能够让我相信。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那么,{f801}希望你能够让我相信。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="173">
+    <source>{f871}{0100}我对人类很有兴趣!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我对人类很有兴趣!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="174">
+    <source>要如何对待恶魔?{f801}{f802}{ffff}</source>
+    <target>要如何对待恶魔?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="175">
+    <source>以友好的态度接触{f801}以压迫的态度接触{f801}{f802}{ffff}</source>
+    <target>以友好的态度接触{f801}以压迫的态度接触{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="176">
+    <source>{f871}{0100}唔……感觉你有点恶心……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}唔……感觉你有点恶心……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="177">
+    <source>{f871}{0100}哇!和我想象的一样!{f801}果然人类就是这么有趣!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哇!和我想象的一样!{f801}果然人类就是这么有趣!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="178">
+    <source>{f871}{0100}什么啊,我没有兴趣了……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}什么啊,我没有兴趣了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="179">
+    <source>{f871}{0100}哇!和我想象的一样!{f801}果然人类就是这么有趣!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哇!和我想象的一样!{f801}果然人类就是这么有趣!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="181">
+    <source>恶魔在害怕……{f801}要如何是好?{f801}{f802}{ffff}</source>
+    <target>恶魔在害怕……{f801}要如何是好?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="182">
+    <source>温柔的微笑{f801}用正经的脸行李{f801}{f802}{ffff}</source>
+    <target>温柔的微笑{f801}用正经的脸行李{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="183">
+    <source>{f871}{0100}唔……{f801}那个人类好恐怖!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}唔……{f801}那个人类好恐怖!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="184">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="185">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="187">
+    <source>恶魔用可怜的眼光{f801}看着这边……{f801}{f802}{ffff}</source>
+    <target>恶魔用可怜的眼光{f801}看着这边……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="188">
+    <source>微笑{f801}向她伸出手{f801}行礼{f801}{f802}{ffff}</source>
+    <target>微笑{f801}向她伸出手{f801}行礼{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="189">
+    <source>{f871}{0100}哥哥你可真是个好人啊……{f801}这样可是会短命的哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥你可真是个好人啊……{f801}这样可是会短命的哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="190">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="191">
+    <source>{f871}{0100}哥哥,你经常被人说{f801}是一个好人吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥,你经常被人说{f801}是一个好人吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="193">
+    <source>{f871}{0100}我们一起玩吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我们一起玩吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="194">
+    <source>玩{f801}不玩{f801}不能免费陪你玩{f801}{f802}{ffff}</source>
+    <target>玩{f801}不玩{f801}不能免费陪你玩{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="195">
+    <source>{f871}{0100}人类居然想这么主动地陪恶魔玩……{f801}你是不是有什么企图!?{f801}{f802}算了,还是杀了你吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人类居然想这么主动地陪恶魔玩……{f801}你是不是有什么企图!?{f801}{f802}算了,还是杀了你吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="196">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="197">
+    <source>{f871}{0100}诶,明明是个人类还要提交换条件?{f801}你可真是麻烦呢。{f801}{f802}那我就成为你的仲魔,来陪我玩吧!{f801}如果你能多给我一些东西的话,我会考虑。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶,明明是个人类还要提交换条件?{f801}你可真是麻烦呢。{f801}{f802}那我就成为你的仲魔,来陪我玩吧!{f801}如果你能多给我一些东西的话,我会考虑。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="199">
+    <source>{f871}{0100}哥哥你喜欢战斗吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥你喜欢战斗吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="200">
+    <source>喜欢{f801}讨厌{f801}既不喜欢也不讨厌{f801}{f802}{ffff}</source>
+    <target>喜欢{f801}讨厌{f801}既不喜欢也不讨厌{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="202">
+    <source>{f871}{0100}你和我一样呢!{f801}{f802}我也喜欢你不战斗{f801}就直接死掉呢!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你和我一样呢!{f801}{f802}我也喜欢你不战斗{f801}就直接死掉呢!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="203">
+    <source>{f871}{0100}你和我一样呢!{f801}{f802}我来占卜一下{f801}我们两个人的相合度吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你和我一样呢!{f801}{f802}我来占卜一下{f801}我们两个人的相合度吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="204">
+    <source>{f871}{0100}那你还要杀恶魔?{f801}人类可真是可怕……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那你还要杀恶魔?{f801}人类可真是可怕……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="206">
+    <source>{f871}{0100}哥哥你为什么{f801}要成为人外猎人?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥你为什么{f801}要成为人外猎人?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="207">
+    <source>因为想成为{f801}只是随波逐流……{f801}我也忘记了{f801}{f802}{ffff}</source>
+    <target>因为想成为{f801}只是随波逐流……{f801}我也忘记了{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="208">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="209">
+    <source>{f871}{0100}随波逐流也很重要呢!{f801}{f802}不知道我们会如何?{f801}能不能随波逐流的成为朋友呢?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}随波逐流也很重要呢!{f801}{f802}不知道我们会如何?{f801}能不能随波逐流的成为朋友呢?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="210">
+    <source>{f871}{0100}那么,我就让你想起来吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那么,我就让你想起来吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="212">
+    <source>{f871}{0100}你想要我吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你想要我吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="213">
+    <source>想要{f801}不想要{f801}这肯定是陷阱{f801}{f802}{ffff}</source>
+    <target>想要{f801}不想要{f801}这肯定是陷阱{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="214">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="215">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="216">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="218">
+    <source>{f871}{0100}呐……{f801}成为只属于我的哥哥吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呐……{f801}成为只属于我的哥哥吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="219">
+    <source>好,从现在开始你就是我的妹妹。{f801}好,从现在开始你就是我的姐姐。{f801}好,从现在开始你就是我的仲魔。{f801}{f802}{ffff}</source>
+    <target>好,从现在开始你就是我的妹妹。{f801}好,从现在开始你就是我的姐姐。{f801}好,从现在开始你就是我的仲魔。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="220">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="221">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="222">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="224">
+    <source>{f871}{0100}在我成为仲魔之后,{f801}你想要怎么做?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}在我成为仲魔之后,{f801}你想要怎么做?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="225">
+    <source>进行培养{f801}用来合体{f801}用来观赏{f801}{f802}{ffff}</source>
+    <target>进行培养{f801}用来合体{f801}用来观赏{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="226">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="227">
+    <source>{f871}{0100}想要合体!{f801}我想要成为哥哥你的仲魔!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}想要合体!{f801}我想要成为哥哥你的仲魔!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="228">
+    <source>{f871}{0100}哇,你这个变态!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哇,你这个变态!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="230">
+    <source>{f871}{0100}如果要演戏的话,{f801}哥哥你想要扮演什么角色?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}如果要演戏的话,{f801}哥哥你想要扮演什么角色?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="231">
+    <source>主角{f801}配角{f801}后台人员{f801}{f802}{ffff}</source>
+    <target>主角{f801}配角{f801}后台人员{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="232">
+    <source>{f871}{0100}诶?主角可是我啊。{f801}让我来好好教你一下吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶?主角可是我啊。{f801}让我来好好教你一下吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="233">
+    <source>{f871}{0100}那么,{f801}让我偶尔也来成为配角辅助你吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那么,{f801}让我偶尔也来成为配角辅助你吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="234">
+    <source>{f871}{0100}没错,{f801}哥哥你是侍奉我的仆人!{f801}{f802}呀哈哈哈哈……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}没错,{f801}哥哥你是侍奉我的仆人!{f801}{f802}呀哈哈哈哈……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="235">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="237">
+    <source>{f871}{0100}我要上了!你可要承受住哦!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我要上了!你可要承受住哦!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="238">
+    <source>承受{f801}避开{f801}反击{f801}{f802}{ffff}</source>
+    <target>承受{f801}避开{f801}反击{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="239">
+    <source>恶魔突然袭击过来了!{f801}{f802}{ffff}</source>
+    <target>恶魔突然袭击过来了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="240">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}呼……真舒服!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}呼……真舒服!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="241">
+    <source>{f871}{0100}太好了!{f801}我是只属于你的!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}太好了!{f801}我是只属于你的!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="242">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="243">
+    <source>{f871}{0100}哥、哥哥?{f801}为什么你要举起武器!?{f801}{f802}好……好可怕……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥、哥哥?{f801}为什么你要举起武器!?{f801}{f802}好……好可怕……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="244">
+    <source>{f871}{0100}哇!{f801}你真是有两下子,哥哥你好强啊!{f801}{f802}我也想要变强,{f801}想要成为哥哥你的伙伴!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哇!{f801}你真是有两下子,哥哥你好强啊!{f801}{f802}我也想要变强,{f801}想要成为哥哥你的伙伴!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="246">
+    <source>{f871}{0100}如果我咬了你的手脚,你会生气吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}如果我咬了你的手脚,你会生气吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="247">
+    <source>当然不行{f801}你敢做的话,我可是会反击的哦?{f801}{f802}{ffff}</source>
+    <target>当然不行{f801}你敢做的话,我可是会反击的哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="248">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="249">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="251">
+    <source>{f871}{0100}叔叔,现在有时间吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}叔叔,现在有时间吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="252">
+    <source>什么?{f801}我还没那么老{f801}阿姨你有什么事?{f801}{f802}{ffff}</source>
+    <target>什么?{f801}我还没那么老{f801}阿姨你有什么事?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="253">
+    <source>{f871}{0100}刚才在哥哥你的背后{f801}有一个不认识的叔叔在!{f801}{f802}他看上去很寂寞,{f801}你要和他做好朋友哦!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}刚才在哥哥你的背后{f801}有一个不认识的叔叔在!{f801}{f802}他看上去很寂寞,{f801}你要和他做好朋友哦!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="254">
+    <source>{f871}{0100}骗人……难道说你还是小宝宝吗?{f801}{f802}就让我来成为仲魔,{f801}好好照顾你吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}骗人……难道说你还是小宝宝吗?{f801}{f802}就让我来成为仲魔,{f801}好好照顾你吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="255">
+    <source>{f871}{0100}那你就是老爷爷了?{f801}我来帮你一把,让你进棺材吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那你就是老爷爷了?{f801}我来帮你一把,让你进棺材吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="256">
+    <source>{f871}{0100}为……为什么你会知道?{f801}其实我已经很老了……{f801}{f802}好害羞……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}为……为什么你会知道?{f801}其实我已经很老了……{f801}{f802}好害羞……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="258">
+    <source>{f871}{0100}与大家一起和一个人,{f801}哪边比较强呢?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}与大家一起和一个人,{f801}哪边比较强呢?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="259">
+    <source>与大家一起{f801}一个人{f801}{f802}{ffff}</source>
+    <target>与大家一起{f801}一个人{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="260">
+    <source>{f871}{0100}是啊,如果和大家一起{f801}就能齐心协力了呢。{f801}{f802}但是,大家总有一天都会消失吧?{f801}那个时候,哥哥你还算是强吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}是啊,如果和大家一起{f801}就能齐心协力了呢。{f801}{f802}但是,大家总有一天都会消失吧?{f801}那个时候,哥哥你还算是强吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="261">
+    <source>{f871}{0100}所以哥哥你才和同伴们在一起啊!{f801}{f802}但是,你真的很强吗?{f801}让我来测试一下吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}所以哥哥你才和同伴们在一起啊!{f801}{f802}但是,你真的很强吗?{f801}让我来测试一下吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="262">
+    <source>{f871}{0100}诶?你一点都不强呢!{f801}{f802}就凭你这种弱小的人{f801}是无法和大家携手共进的。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶?你一点都不强呢!{f801}{f802}就凭你这种弱小的人{f801}是无法和大家携手共进的。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="263">
+    <source>{f871}{0100}人类只剩下自己的时候会变强吗?{f801}那还真是危险呢……{f801}{f802}是吗,只要不是一个人就好了啊!{f801}我会陪你一起的。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人类只剩下自己的时候会变强吗?{f801}那还真是危险呢……{f801}{f802}是吗,只要不是一个人就好了啊!{f801}我会陪你一起的。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="265">
+    <source>{f871}{0100}你在这种地方做什么呢?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你在这种地方做什么呢?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="266">
+    <source>在工作{f801}在等人{f801}在寻找死亡之地{f801}{f802}{ffff}</source>
+    <target>在工作{f801}在等人{f801}在寻找死亡之地{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="267">
+    <source>{f871}{0100}和女人交谈就是工作吗?{f801}真是可疑的工作……{f801}{f802}还是换个职业比较好吧?{f801}就让我成为仲魔帮助你吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}和女人交谈就是工作吗?{f801}真是可疑的工作……{f801}{f802}还是换个职业比较好吧?{f801}就让我成为仲魔帮助你吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="268">
+    <source>{f871}{0100}不能妨碍你工作呢,{f801}拜拜。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不能妨碍你工作呢,{f801}拜拜。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="269">
+    <source>{f871}{0100}是谁?是谁?{f801}我有点嫉妒呢……{f801}{f802}那我也想要让你等我!{f801}我们约定好了!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}是谁?是谁?{f801}我有点嫉妒呢……{f801}{f802}那我也想要让你等我!{f801}我们约定好了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="270">
+    <source>{f871}{0100}那个人难道是……{f801}{f802}抱……抱歉!{f801}我就让你们在另一个世界中相见吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那个人难道是……{f801}{f802}抱……抱歉!{f801}我就让你们在另一个世界中相见吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="271">
+    <source>{f871}{0100}你说在哪里都能死?{f801}其实还想要活下去吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你说在哪里都能死?{f801}其实还想要活下去吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="272">
+    <source>{f871}{0100}就算杀掉想死的人{f801}也没什么意思呢。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就算杀掉想死的人{f801}也没什么意思呢。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="274">
+    <source>{f843}{0000}跳起了舞……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}跳起了舞……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="275">
+    <source>{f871}{0100}抱歉,太羞耻了……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}抱歉,太羞耻了……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="276">
+    <source>{f871}{0100}真是有趣的人类!{f801}就让我成为你的仲魔吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}真是有趣的人类!{f801}就让我成为你的仲魔吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="278">
+    <source>{f843}{0000}唱起了歌……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}唱起了歌……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="279">
+    <source>{f871}{0100}好怀念的歌曲……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好怀念的歌曲……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="280">
+    <source>{f871}{0100}真是有趣的人类!{f801}就让我成为你的仲魔吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}真是有趣的人类!{f801}就让我成为你的仲魔吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="282">
+    <source>{f843}{0000}扔出了魔币……{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}扔出了魔币……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="283">
+    <source>{f871}{0100}我对魔币没有兴趣……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我对魔币没有兴趣……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="284">
+    <source>{f871}{0100}呵呵……{f801}你希望我成为仲魔吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呵呵……{f801}你希望我成为仲魔吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="286">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}大家都欺负我……{f801}你也要欺负我吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}大家都欺负我……{f801}你也要欺负我吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="287">
+    <source>可能吧{f801}我不会欺负你{f801}我会让你成为我的仆人{f801}{f802}{ffff}</source>
+    <target>可能吧{f801}我不会欺负你{f801}我会让你成为我的仆人{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="288">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="289">
+    <source>{f871}{0100}你是个好人呢!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你是个好人呢!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="290">
+    <source>{f871}{0100}那算什么?我不懂你什么意思!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那算什么?我不懂你什么意思!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="292">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}诶,你想要做什么!?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}诶,你想要做什么!?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="293">
+    <source>求婚{f801}下跪{f801}举起武器{f801}{f802}{ffff}</source>
+    <target>求婚{f801}下跪{f801}举起武器{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="294">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="295">
+    <source>{f871}{0100}哎呀,你可真是懂礼貌啊!?{f801}你这个人类可真是出色呢!{f801}{f802}好,就让你成为我的宠物吧!{f801}{f802}你就像个宠物那样,{f801}给我老老实实进贡吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哎呀,你可真是懂礼貌啊!?{f801}你这个人类可真是出色呢!{f801}{f802}好,就让你成为我的宠物吧!{f801}{f802}你就像个宠物那样,{f801}给我老老实实进贡吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="296">
+    <source>{f871}{0100}呀!你想要吓唬我吗!?{f801}既然如此……我不会输的!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呀!你想要吓唬我吗!?{f801}既然如此……我不会输的!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="298">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}诶诶诶!?{f801}我还没做好心理准备……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}诶诶诶!?{f801}我还没做好心理准备……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="299">
+    <source>在你下定决心之前,{f801}我不会勉强你。{f801}{f802}{ffff}</source>
+    <target>在你下定决心之前,{f801}我不会勉强你。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="300">
+    <source>{f871}{0100}哥哥,你真是温柔呢……{f801}就让我来成为你的仲魔吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥,你真是温柔呢……{f801}就让我来成为你的仲魔吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="301">
+    <source>{f871}{0100}到底是哪边!?{f801}我最讨厌优柔寡断的人了!我不认识你!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}到底是哪边!?{f801}我最讨厌优柔寡断的人了!我不认识你!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="303">
+    <source>{f871}{0100}哥哥你已经强到了{f801}不会被欺负的程度吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥你已经强到了{f801}不会被欺负的程度吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="304">
+    <source>没错{f801}不太好说{f801}我很弱{f801}{f802}{ffff}</source>
+    <target>没错{f801}不太好说{f801}我很弱{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="305">
+    <source>{f871}{0100}呀哈!{f801}那么,可以让我试一下吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呀哈!{f801}那么,可以让我试一下吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="306">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}你真是挺强的!{f801}那么,让我见识一下你的钱包有多强吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}你真是挺强的!{f801}那么,让我见识一下你的钱包有多强吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="307">
+    <source>{f871}{0100}你真出色!{f801}这么谦虚,真是太成熟了!{f801}{f802}我整个人都交给你了!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你真出色!{f801}这么谦虚,真是太成熟了!{f801}{f802}我整个人都交给你了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="308">
+    <source>{f871}{0100}诶!好厉害!{f801}那就让我来试试吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶!好厉害!{f801}那就让我来试试吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="310">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}你明明是个人类,{f801}却想要管我要东西吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}你明明是个人类,{f801}却想要管我要东西吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="311">
+    <source>希望你能成为仲魔{f801}希望你能扇我巴掌{f801}{f802}{ffff}</source>
+    <target>希望你能成为仲魔{f801}希望你能扇我巴掌{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="312">
+    <source>{f871}{0100}就算你突然这么说,{f801}我也不知该如何是好呢……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就算你突然这么说,{f801}我也不知该如何是好呢……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="313">
+    <source>{f871}{0100}你想要和我玩是吧?{f801}好!要上咯!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你想要和我玩是吧?{f801}好!要上咯!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="314">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}哈哈哈哈……真有趣!{f801}我可以成为你的朋友!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}哈哈哈哈……真有趣!{f801}我可以成为你的朋友!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="316">
+    <source>{f871}{0100}我有想要的东西……{f801}你能给我吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我有想要的东西……{f801}你能给我吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="317">
+    <source>你想要什么?{f801}我也有想要的东西{f801}{f802}{ffff}</source>
+    <target>你想要什么?{f801}我也有想要的东西{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="318">
+    <source>{f871}{0100}那就是哥哥你的命!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那就是哥哥你的命!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="319">
+    <source>{f871}{0100}如果你把想要的东西给我,{f801}我可以考虑的哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}如果你把想要的东西给我,{f801}我可以考虑的哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="321">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}不要说这种话,{f801}我们来玩吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}不要说这种话,{f801}我们来玩吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="322">
+    <source>知道了,来玩吧{f801}我绝对不会和你玩{f801}{f802}{ffff}</source>
+    <target>知道了,来玩吧{f801}我绝对不会和你玩{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="323">
+    <source>{f871}{0100}太好了!{f801}那么,我就去拿脖套和绳子了!{f801}{f802}哥哥,你在那里稍等一下吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}太好了!{f801}那么,我就去拿脖套和绳子了!{f801}{f802}哥哥,你在那里稍等一下吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="324">
+    <source>{f871}{0100}那么……就去死吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那么……就去死吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="326">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}真是的,你忘记我和你说{f801}等一下了吗?{f801}{f802}给你,脖套和绳子!{f801}你应该知道要怎么使用吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}真是的,你忘记我和你说{f801}等一下了吗?{f801}{f802}给你,脖套和绳子!{f801}你应该知道要怎么使用吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="327">
+    <source>知道{f801}我不知道你在说什么{f801}{f802}{ffff}</source>
+    <target>知道{f801}我不知道你在说什么{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="328">
+    <source>{f871}{0100}嗯!哥哥你从今天开始{f801}就是我的仆人了!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}嗯!哥哥你从今天开始{f801}就是我的仆人了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="329">
+    <source>{f871}{0100}真失望……{f801}哥哥你也是这么麻烦的人类啊。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}真失望……{f801}哥哥你也是这么麻烦的人类啊。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="331">
+    <source>{f871}{0100}为什么?{f801}只要大家好好相处就行了吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}为什么?{f801}只要大家好好相处就行了吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="332">
+    <source>这倒也是{f801}不可能{f801}放下武器{f801}{f802}{ffff}</source>
+    <target>这倒也是{f801}不可能{f801}放下武器{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="333">
+    <source>{f871}{0100}没错,让我们来好好相处吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}没错,让我们来好好相处吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="334">
+    <source>{f871}{0100}这倒也是,这世界上充满了杀气呢。{f801}{f802}所以,至少让我们放下杀气{f801}来和平交涉吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这倒也是,这世界上充满了杀气呢。{f801}{f802}所以,至少让我们放下杀气{f801}来和平交涉吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="335">
+    <source>{f871}{0100}哥哥你可真是个好人啊……{f801}这样可是会短命的哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哥哥你可真是个好人啊……{f801}这样可是会短命的哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="337">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}为什么?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}为什么?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="338">
+    <source>为了东京{f801}想要消灭恶魔{f801}{f802}{ffff}</source>
+    <target>为了东京{f801}想要消灭恶魔{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="339">
+    <source>{f871}{0100}你真是充满了使命感呢!{f801}{f802}东京真幸福啊……{f801}真希望你能为了我也这么拼命……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你真是充满了使命感呢!{f801}{f802}东京真幸福啊……{f801}真希望你能为了我也这么拼命……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="340">
+    <source>{f871}{0100}是啊……{f801}有很多讨厌的家伙在呢!{f801}{f802}我也成为你的仲魔,{f801}协助你一起杀掉他们吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}是啊……{f801}有很多讨厌的家伙在呢!{f801}{f802}我也成为你的仲魔,{f801}协助你一起杀掉他们吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="342">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}诶,该怎么办好呢……{f801}哥哥,你再稍微靠近一些吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}诶,该怎么办好呢……{f801}哥哥,你再稍微靠近一些吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="343">
+    <source>靠近{f801}警戒{f801}{f802}{ffff}</source>
+    <target>靠近{f801}警戒{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="344">
+    <source>{f871}{0100}你以为能够得到我吗?{f801}真是太遗憾了!{f801}{f802}人类可真是笨啊!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你以为能够得到我吗?{f801}真是太遗憾了!{f801}{f802}人类可真是笨啊!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="345">
+    <source>{f871}{0100}我最讨厌那种在关键时刻{f801}优柔寡断的男人了!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我最讨厌那种在关键时刻{f801}优柔寡断的男人了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="347">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}你真是……太过分了……{f801}我好寂寞啊……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}你真是……太过分了……{f801}我好寂寞啊……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="348">
+    <source>那么,就跟我来吧。{f801}对不起……{f801}{f802}{ffff}</source>
+    <target>那么,就跟我来吧。{f801}对不起……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="349">
+    <source>{f871}{0100}知道了!一定不要放开我哦!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}知道了!一定不要放开我哦!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="350">
+    <source>{f871}{0100}啊?{f801}应该是你跟着我来吧!?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊?{f801}应该是你跟着我来吧!?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="351">
+    <source>{f871}{0100}笨蛋!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}笨蛋!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="353">
+    <source>{f871}{0100}你居然说是陷阱,太过分了!{f801}为什么你觉得这是陷阱!?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你居然说是陷阱,太过分了!{f801}为什么你觉得这是陷阱!?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="354">
+    <source>因为是女孩子说的{f801}因为是恶魔说的{f801}{f802}{ffff}</source>
+    <target>因为是女孩子说的{f801}因为是恶魔说的{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="355">
+    <source>{f871}{0100}这难道不是性别歧视吗?{f801}哥哥你也太没有器量了吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这难道不是性别歧视吗?{f801}哥哥你也太没有器量了吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="356">
+    <source>{f871}{0100}哼,你还真是聪明啊!{f801}不过你这样能够交得到朋友吗?{f801}{f802}在我们下次见面前,{f801}你先改正自己的性格吧,哥哥!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哼,你还真是聪明啊!{f801}不过你这样能够交得到朋友吗?{f801}{f802}在我们下次见面前,{f801}你先改正自己的性格吧,哥哥!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="358">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}嘻嘻,哥哥你为了妹妹{f801}应该什么都能做吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}嘻嘻,哥哥你为了妹妹{f801}应该什么都能做吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="359">
+    <source>什么都能做{f801}不行{f801}{f802}{ffff}</source>
+    <target>什么都能做{f801}不行{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="360">
+    <source>{f871}{0100}那么,你就去死吧?{f801}{f802}因为哥哥你没法活几百年吧。{f801}{f802}哥哥你永远都是只属于我的……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那么,你就去死吧?{f801}{f802}因为哥哥你没法活几百年吧。{f801}{f802}哥哥你永远都是只属于我的……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="361">
+    <source>{f871}{0100}哇!哥哥你好严厉!{f801}但是,到关键时刻会很温柔吧?{f801}{f802}就让我对哥哥你{f801}好好撒撒娇吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哇!哥哥你好严厉!{f801}但是,到关键时刻会很温柔吧?{f801}{f802}就让我对哥哥你{f801}好好撒撒娇吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="363">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}诶,难道说我的年龄露馅了!?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}诶,难道说我的年龄露馅了!?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="364">
+    <source>你果然年纪不小了吧?{f801}比起妹妹,我更喜欢姐姐{f801}{f802}{ffff}</source>
+    <target>你果然年纪不小了吧?{f801}比起妹妹,我更喜欢姐姐{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="365">
+    <source>{f871}{0100}我从过去开始就一直是一个人……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我从过去开始就一直是一个人……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="366">
+    <source>{f871}{0100}哼……所以呢?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哼……所以呢?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="368">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}为什么你总是说这种寂寞的话?{f801}是因为没有朋友吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}为什么你总是说这种寂寞的话?{f801}是因为没有朋友吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="369">
+    <source>没有那种事{f801}我的恶魔朋友很少{f801}{f802}{ffff}</source>
+    <target>没有那种事{f801}我的恶魔朋友很少{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="370">
+    <source>{f871}{0100}哦,真是羡慕呢……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哦,真是羡慕呢……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="371">
+    <source>{f871}{0100}那么,就让我成为你的朋友吧!{f801}我是你最好的朋友!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那么,就让我成为你的朋友吧!{f801}我是你最好的朋友!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="373">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}我想要改变现在的自己,{f801}可以相信你吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}我想要改变现在的自己,{f801}可以相信你吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="374">
+    <source>可以{f801}谁知道呢{f801}{f802}{ffff}</source>
+    <target>可以{f801}谁知道呢{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="375">
+    <source>{f871}{0100}知道了!我相信!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}知道了!我相信!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="376">
+    <source>{f871}{0100}感觉没法相信呢……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}感觉没法相信呢……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="377">
+    <source>{f871}{0100}我会努力的!{f801}所以,请让我成为哥哥的仲魔吧!{f801}{f802}当然,可是要有代价的哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我会努力的!{f801}所以,请让我成为哥哥的仲魔吧!{f801}{f802}当然,可是要有代价的哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="379">
+    <source>{f871}{0100}但是,这就要背叛同伴了吧?{f801}该如何是好呢……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}但是,这就要背叛同伴了吧?{f801}该如何是好呢……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="380">
+    <source>希望你能相信我{f801}要相信同伴{f801}{f802}{ffff}</source>
+    <target>希望你能相信我{f801}要相信同伴{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="381">
+    <source>{f871}{0100}知道了……{f801}你可要珍惜我哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}知道了……{f801}你可要珍惜我哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="382">
+    <source>{f871}{0100}诶,人类居然不重视同伴吗?{f801}果然人类还是令人讨厌……{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶,人类居然不重视同伴吗?{f801}果然人类还是令人讨厌……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="383">
+    <source>{f871}{0100}我已经做好觉悟了。{f801}我会和哥哥你一起走!{f801}{f802}所以带我走吧!{f801}当然,是要有代价的哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我已经做好觉悟了。{f801}我会和哥哥你一起走!{f801}{f802}所以带我走吧!{f801}当然,是要有代价的哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="385">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}后台人员?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}后台人员?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="386">
+    <source>是支撑戏剧的剧组人员{f801}是支配戏剧的黑幕{f801}我不想太显眼{f801}{f802}{ffff}</source>
+    <target>是支撑戏剧的剧组人员{f801}是支配戏剧的黑幕{f801}我不想太显眼{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="387">
+    <source>{f871}{0100}剧组人员吗……{f801}要在我身上打光哦!{f801}{f802}哥哥,{f801}让我们开始进行交涉吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}剧组人员吗……{f801}要在我身上打光哦!{f801}{f802}哥哥,{f801}让我们开始进行交涉吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="388">
+    <source>{f871}{0100}诶,那么就让我成为{f801}哥哥你的仲魔吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶,那么就让我成为{f801}哥哥你的仲魔吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="389">
+    <source>{f871}{0100}你讨厌显眼吗?{f801}呵呵……真可爱。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你讨厌显眼吗?{f801}呵呵……真可爱。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="391">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}为什么要躲开啊!{f801}你这个人类真是狂妄!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}为什么要躲开啊!{f801}你这个人类真是狂妄!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="392">
+    <source>我无法相信恶魔{f801}抱歉……{f801}{f802}{ffff}</source>
+    <target>我无法相信恶魔{f801}抱歉……{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="393">
+    <source>{f871}{0100}请相信我!{f801}我会与你进行交涉!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}请相信我!{f801}我会与你进行交涉!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="394">
+    <source>{f871}{0100}那么,下次就不要躲开了哦!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那么,下次就不要躲开了哦!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="396">
+    <source>{f871}{0100}为什么不行?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}为什么不行?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="397">
+    <source>因为很残酷{f801}如果自己被做那种事,你觉得会如何?{f801}因为会死{f801}{f802}{ffff}</source>
+    <target>因为很残酷{f801}如果自己被做那种事,你觉得会如何?{f801}因为会死{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="398">
+    <source>{f871}{0100}诶,很有趣哦?{f801}人类和人偶没有什么两样吧?{f801}{f802}但是,我很欣赏哥哥你。{f801}如果你愿意听我的愿望,我可以饲养你。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}诶,很有趣哦?{f801}人类和人偶没有什么两样吧?{f801}{f802}但是,我很欣赏哥哥你。{f801}如果你愿意听我的愿望,我可以饲养你。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="399">
+    <source>{f871}{0100}没问题哦?{f801}你要试试吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}没问题哦?{f801}你要试试吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="400">
+    <source>{f871}{0100}人类可真是弱小啊,{f801}真是无聊。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人类可真是弱小啊,{f801}真是无聊。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="402">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}啊,这个人类真是狂妄!{f801}要是我死掉的话,你用什么赔?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}啊,这个人类真是狂妄!{f801}要是我死掉的话,你用什么赔?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="403">
+    <source>没关系{f801}那确实有点麻烦{f801}{f802}{ffff}</source>
+    <target>没关系{f801}那确实有点麻烦{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="404">
+    <source>{f871}{0100}虽然可以,不过我讨厌一个人……{f801}如果和哥哥一起的话可以哦?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}虽然可以,不过我讨厌一个人……{f801}如果和哥哥一起的话可以哦?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="405">
+    <source>{f871}{0100}是吧?嘻嘻……{f801}那么,你一定要对我再温柔一些哦!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}是吧?嘻嘻……{f801}那么,你一定要对我再温柔一些哦!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="407">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}久等了!{f801}等了好久了吧?真抱歉,我来晚了。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}久等了!{f801}等了好久了吧?真抱歉,我来晚了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="408">
+    <source>{f871}{0100}约会真是很有趣呢!{f801}那么,我们就一起走吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}约会真是很有趣呢!{f801}那么,我们就一起走吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="410">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}啊,是之前的哥哥!{f801}怎么样,你的性格改正了吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}啊,是之前的哥哥!{f801}怎么样,你的性格改正了吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="411">
+    <source>改正了{f801}没有改正{f801}{f802}{ffff}</source>
+    <target>改正了{f801}没有改正{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="412">
+    <source>{f871}{0100}嘿,看来你很会察言观色了吗!{f801}好,我就和你做朋友吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}嘿,看来你很会察言观色了吗!{f801}好,我就和你做朋友吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="413">
+    <source>{f871}{0100}你还是没有变呢……{f801}{f802}但是,我喜欢坦率的人类哦?{f801}我也可以表现得更加坦率吧?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你还是没有变呢……{f801}{f802}但是,我喜欢坦率的人类哦?{f801}我也可以表现得更加坦率吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="415">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="416">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="417">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="418">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="419">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="420">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="421">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="422">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="423">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="424">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="425">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="426">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="427">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="428">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="429">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="430">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="431">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="432">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="433">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="434">
+    <source>保留{f801}{f802}{ffff}</source>
+    <target>保留{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="435">
+    <source>{f871}{0100}保留{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}保留{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>
