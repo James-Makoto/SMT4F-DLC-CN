@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}我ガ主ノ意ニヨリ{f801}異端者ヲ討チ滅ボシテキタ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我ガ主ノ意ニヨリ{f801}異端者ヲ討チ滅ボシテキタ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}我ハ主ノ御心ヲ 多クノ者ニ{f801}広メナクテハナラヌ…サア次ノ地ヘ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我ハ主ノ御心ヲ 多クノ者ニ{f801}広メナクテハナラヌ…サア次ノ地ヘ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}主ヨ! 我ハ帰ッテ来タ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}主ヨ! 我ハ帰ッテ来タ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)すれちがい変身メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)すれちがい変身メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(仮)すれちがい変身メッセージ2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)すれちがい変身メッセージ2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(仮)すれちがい変身メッセージ3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)すれちがい変身メッセージ3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}拾イ物ヲ 汝ニ提供シヨウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}拾イ物ヲ 汝ニ提供シヨウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}汝ノタメに我ガ用意シタ土産ダ{f801}大切ニ使ウガ良イ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}汝ノタメに我ガ用意シタ土産ダ{f801}大切ニ使ウガ良イ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}我ニハ不要ダガ 汝ナラバ…{f801}サア 受ケ取ルガ良イ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我ニハ不要ダガ 汝ナラバ…{f801}サア 受ケ取ルガ良イ{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

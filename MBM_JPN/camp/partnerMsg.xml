@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{f873}{0100}をメインパートナーに{f801}設定しますか?{f801}{ffff}</source>
+    <target>{f873}{0100}をメインパートナーに{f801}設定しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>メインパートナーを外しますか?{f801}{ffff}</source>
+    <target>メインパートナーを外しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f873}{0100}をメインパートナーに{f801}決定しました{f801}{ffff}</source>
+    <target>{f873}{0100}をメインパートナーに{f801}決定しました{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>メインパートナーを選択してください{f801}{ffff}</source>
+    <target>メインパートナーを選択してください{f801}{ffff}</target>
+  </entry>
+</mbm>

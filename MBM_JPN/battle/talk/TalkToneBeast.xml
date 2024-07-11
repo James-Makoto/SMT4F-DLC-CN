@@ -1,0 +1,1246 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}オレサマ オマエ マルカジリ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ オマエ マルカジリ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}オマエ 先ニ コウゲキ{f801}タップリ モラウ ゾ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ 先ニ コウゲキ{f801}タップリ モラウ ゾ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}グルルル…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}グルルル…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}オレサマ はーと ハライッパイ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ はーと ハライッパイ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}マズハ 供エ物 先…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}マズハ 供エ物 先…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}ヌゥ…オマエ すまほ イッパイ{f801}入レナイ{f801}{f802}ナカマ オアズケ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヌゥ…オマエ すまほ イッパイ{f801}入レナイ{f801}{f802}ナカマ オアズケ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}オレサマ {f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}コンゴトモ ヨロシク…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ {f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}コンゴトモ ヨロシク…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}ヌゥ…オマエ 弱イ{f801}オレサマ れべる 強イ{f801}{f802}サラバダ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヌゥ…オマエ 弱イ{f801}オレサマ れべる 強イ{f801}{f802}サラバダ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}ヌゥ…ドウホウ モウ ナカマ{f801}ソイツ 可愛ガレ{f801}{f802}サラバダ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヌゥ…ドウホウ モウ ナカマ{f801}ソイツ 可愛ガレ{f801}{f802}サラバダ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}オレサマ 旅ノトモ サガス{f801}狩リ ミナデ ヤロウ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ 旅ノトモ サガス{f801}狩リ ミナデ ヤロウ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}ヌゥ…オマエ すまほ イッパイ{f801}トモ 入レナイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヌゥ…オマエ すまほ イッパイ{f801}トモ 入レナイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}オレサマ 呼ブ声 聞コエタゾ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ 呼ブ声 聞コエタゾ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}ミナ ソレゾレノ道{f801}オレサマ ヒトリデ 狩リヤル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ミナ ソレゾレノ道{f801}オレサマ ヒトリデ 狩リヤル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}オレサマ ナカマ 忘レルナ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ ナカマ 忘レルナ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}オレサマ 狩リナカマ 紹介{f801}チョット 待テ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ 狩リナカマ 紹介{f801}チョット 待テ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}{f873}{0200}カラ 聞イタ{f801}手伝ッテ ヤル…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f873}{0200}カラ 聞イタ{f801}手伝ッテ ヤル…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}ソノ目…{f801}飢エタ ケモノ 一緒…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソノ目…{f801}飢エタ ケモノ 一緒…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}東京 恐ロシイ 森…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}東京 恐ロシイ 森…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}…マッカゴト 胃袋 入レ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…マッカゴト 胃袋 入レ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}ア ア…アオォォォォーン!?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ア ア…アオォォォォーン!?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}…ナゼ ニンゲン{f801}ズット 欲シガル!?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…ナゼ ニンゲン{f801}ズット 欲シガル!?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>{f871}{0100}オレサマ 自分 守ル…{f801}オマエ 牙 出サセタ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ 自分 守ル…{f801}オマエ 牙 出サセタ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f871}{0100}シマッタ!{f801}罠ニ ハマッタ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}シマッタ!{f801}罠ニ ハマッタ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f871}{0100}供エ物 欲シイカ{f801}ナラバ 交換 ヨコセ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}供エ物 欲シイカ{f801}ナラバ 交換 ヨコセ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f871}{0100}ヨシ…オレサマ{f801}供エ物 分ケテ ヤル!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヨシ…オレサマ{f801}供エ物 分ケテ ヤル!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}アオォォォォーン!{f801}オレサマ ゴキゲンッ!{f801}{f802}祭リ! 祭リ!{f801}供エ物 オマエモ 取レ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アオォォォォーン!{f801}オレサマ ゴキゲンッ!{f801}{f802}祭リ! 祭リ!{f801}供エ物 オマエモ 取レ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f871}{0100}オマエ イイヤツ!{f801}コレモ 持テ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ イイヤツ!{f801}コレモ 持テ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}オマエ 気合 ミセロ{f801}{f802}{f878}{0100}マッカ{f801}コレデ 決メテヤル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ 気合 ミセロ{f801}{f802}{f878}{0100}マッカ{f801}コレデ 決メテヤル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>{f871}{0100}{f872}{0100} {f878}{0100}個 供エロ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f872}{0100} {f878}{0100}個 供エロ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f871}{0100}{f878}{0100}マッカ 供エロ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f878}{0100}マッカ 供エロ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}オマエ えいちぴー{f801}少シ ヨコセ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ えいちぴー{f801}少シ ヨコセ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>{f871}{0100}オマエ えいちぴー{f801}マズマズ ヨコセ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ えいちぴー{f801}マズマズ ヨコセ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}オマエ えいちぴー{f801}多ク ヨコセ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ えいちぴー{f801}多ク ヨコセ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>{f871}{0100}オマエ えいちぴー{f801}スゴク ヨコセ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ えいちぴー{f801}スゴク ヨコセ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}オマエ えむぴー{f801}少シ ヨコセ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ えむぴー{f801}少シ ヨコセ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>{f871}{0100}オマエ えむぴー{f801}マズマズ ヨコセ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ えむぴー{f801}マズマズ ヨコセ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}オマエ えむぴー{f801}多ク ヨコセ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ えむぴー{f801}多ク ヨコセ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f871}{0100}オマエ えむぴー{f801}スゴク ヨコセ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ えむぴー{f801}スゴク ヨコセ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f871}{0100}オマエノ ナカマ…{f801}{f873}{0200} 命 供エロ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエノ ナカマ…{f801}{f873}{0200} 命 供エロ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f871}{0100}アレ 供エロ{f801}ワカル ナ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アレ 供エロ{f801}ワカル ナ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f871}{0100}オマエノ ミカタ…{f801}{f87e} えいちぴー ヨコセ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエノ ミカタ…{f801}{f87e} えいちぴー ヨコセ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f871}{0100}オマエ オレサマ 好ミ{f801}供エロ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ オレサマ 好ミ{f801}供エロ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}スゴイ! ピッタリダ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}スゴイ! ピッタリダ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>{f871}{0100}ソレ 満足デキナイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソレ 満足デキナイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}甘エテ イイカ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}甘エテ イイカ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>いいよ{f801}だめだ{f801}{f802}{ffff}</source>
+    <target>いいよ{f801}だめだ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>{f871}{0100}クウゥゥゥゥ〜ン…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}クウゥゥゥゥ〜ン…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>{f843}{0000}たちは{f801}悪魔の甘がみに癒された!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}たちは{f801}悪魔の甘がみに癒された!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>{f843}{0000}たちは{f801}悪魔の甘がみに かなり癒された!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}たちは{f801}悪魔の甘がみに かなり癒された!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}アオォォォォーン!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アオォォォォーン!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>{f843}{0000}は{f801}悪魔にかじられた!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}悪魔にかじられた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f843}{0000}は{f801}悪魔にかなり かじられた!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}悪魔にかなり かじられた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f871}{0100}オマエ 冷タイナ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ 冷タイナ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}オマエ 気ニ 入ッタ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ 気ニ 入ッタ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f871}{0100}ヌゥ… 仕方ナイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヌゥ… 仕方ナイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}オマエ ナゼ ウソツク?{f801}持ッテル 知ッテルゾ{f801}{f802}ヤラレタラ ヤリカエス!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ ナゼ ウソツク?{f801}持ッテル 知ッテルゾ{f801}{f802}ヤラレタラ ヤリカエス!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>{f871}{0100}オレサマ ツマラナイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ ツマラナイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}オマエ ゴマカス{f801}{f802}オレサマ ヤリカエス!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ ゴマカス{f801}{f802}オレサマ ヤリカエス!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>{f871}{0100}ヌゥ ナラバ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヌゥ ナラバ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}ヌゥ ソウカ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヌゥ ソウカ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>{f871}{0100}ガルル…ドコマデモ コトワル!{f801}オマエ ハガネノ はーと!{f801}{f802}オマエ 強イ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ガルル…ドコマデモ コトワル!{f801}オマエ ハガネノ はーと!{f801}{f802}オマエ 強イ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}オレサマ タイクツ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ タイクツ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>{f871}{0100}オマエ 何モ 持タナイ{f801}しんぷるナ ニンゲン{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ 何モ 持タナイ{f801}しんぷるナ ニンゲン{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}サラバダ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}サラバダ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>{f871}{0100}{f843}{0000}!{f801}マタ 遭ッタナ!{f801}{f802}オレサマ タクサン 喋ッタ{f801}オマエ モウ 知ッテル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}!{f801}マタ 遭ッタナ!{f801}{f802}オレサマ タクサン 喋ッタ{f801}オマエ モウ 知ッテル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}オレサマ ナカマ 考エテタ{f801}イイ再会 果タス!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ ナカマ 考エテタ{f801}イイ再会 果タス!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>{f871}{0100}ダカラ 助ケル{f801}コレ 大事 シロ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ダカラ 助ケル{f801}コレ 大事 シロ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}ダカラ 助ケル{f801}コレ 大事 シロ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ダカラ 助ケル{f801}コレ 大事 シロ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>{f871}{0100}ヌゥ オレサマ 退屈…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヌゥ オレサマ 退屈…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>{f871}{0100}{f843}{0000}…{f801}ヤハリ ココカ{f801}{f802}オマエノ 匂イ 覚エテル{f801}何度デモ マタ 会エル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}…{f801}ヤハリ ココカ{f801}{f802}オマエノ 匂イ 覚エテル{f801}何度デモ マタ 会エル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>{f871}{0100}…待テ!{f801}オレサマ モウ 勝テナイ!{f801}{f802}オマエ 従ウカラ{f801}命 粗末 シタクナイ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…待テ!{f801}オレサマ モウ 勝テナイ!{f801}{f802}オマエ 従ウカラ{f801}命 粗末 シタクナイ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>{f871}{0100}オマエ 命 知ッテル{f801}良カッタ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ 命 知ッテル{f801}良カッタ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>{f871}{0100}…ナラバ{f801}死ンデモ オマエ マルカジリ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…ナラバ{f801}死ンデモ オマエ マルカジリ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>悪魔は身構えている…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は身構えている…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>武器を降ろす{f801}こちらも身構える{f801}{f802}{ffff}</source>
+    <target>武器を降ろす{f801}こちらも身構える{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>{f871}{0100}武器 サキニ{f801}オロシタホウ 負ケ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}武器 サキニ{f801}オロシタホウ 負ケ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>{f871}{0100}オマエ 信用デキソウ{f801}話 ツヅケル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ 信用デキソウ{f801}話 ツヅケル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>{f871}{0100}ヌゥ…スキナシ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヌゥ…スキナシ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>{f871}{0100}待テ! 戦イタクナイ!{f801}コレ ヤル 許シテクレ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}待テ! 戦イタクナイ!{f801}コレ ヤル 許シテクレ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>{f871}{0100}ニンゲン イツモ{f801}恐ロシイ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニンゲン イツモ{f801}恐ロシイ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>悪魔は近づいてきた…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は近づいてきた…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>避ける{f801}武器を構える{f801}動じない{f801}{f802}{ffff}</source>
+    <target>避ける{f801}武器を構える{f801}動じない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>{f843}{0000}は 避けきった!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 避けきった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>{f871}{0100}ナゼ 避ケル?{f801}オレサマ 話サセロ{f801}{f802}オレサマ アクマ合体 シタイ{f801}デモ チョット コワイ…{f801}{f802}供エ物シテ 安心サセロ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ナゼ 避ケル?{f801}オレサマ 話サセロ{f801}{f802}オレサマ アクマ合体 シタイ{f801}デモ チョット コワイ…{f801}{f802}供エ物シテ 安心サセロ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>悪魔に追いつかれた…{f801}{f802}{ffff}</source>
+    <target>悪魔に追いつかれた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>{f871}{0100}ヌゥ…オマエ{f801}勘 スルドイ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヌゥ…オマエ{f801}勘 スルドイ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>{f871}{0100}待テ! 戦イタクナイ!{f801}オレサマ 命 オシイ!{f801}{f802}オレサマ ナカマ考エル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}待テ! 戦イタクナイ!{f801}オレサマ 命 オシイ!{f801}{f802}オレサマ ナカマ考エル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="116">
+    <source>{f871}{0100}勇敢ナ ニンゲン 好キ{f801}{f802}話 シテ ヤロウ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}勇敢ナ ニンゲン 好キ{f801}{f802}話 シテ ヤロウ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="117">
+    <source>{f871}{0100}勇敢ナ ニンゲン 好キ{f801}{f802}…デモ ホントニ ソウカ{f801}戦ワナイト ワカラナイ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}勇敢ナ ニンゲン 好キ{f801}{f802}…デモ ホントニ ソウカ{f801}戦ワナイト ワカラナイ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="119">
+    <source>悪魔は 立ち去ろうとしている…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は 立ち去ろうとしている…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="120">
+    <source>引きとめる{f801}無視する{f801}武器を構える{f801}{f802}{ffff}</source>
+    <target>引きとめる{f801}無視する{f801}武器を構える{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>{f871}{0100}ワカッテル{f801}オマエ ナカマ欲シイ ダロ?{f801}{f802}供エ物 シダイダ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワカッテル{f801}オマエ ナカマ欲シイ ダロ?{f801}{f802}供エ物 シダイダ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>悪魔は 無視して去って行った…{f801}{f802}{ffff}</source>
+    <target>悪魔は 無視して去って行った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>{f871}{0100}オマエ オレサマ カマエ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ オレサマ カマエ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="124">
+    <source>{f871}{0100}ニンゲン イツモ 1番キドリ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニンゲン イツモ 1番キドリ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="125">
+    <source>{f871}{0100}待テ! 戦イタクナイ!{f801}オレサマ 命 オシイ!{f801}{f802}オレサマ ナカマ考エル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}待テ! 戦イタクナイ!{f801}オレサマ 命 オシイ!{f801}{f802}オレサマ ナカマ考エル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="126">
+    <source>{f871}{0100}オマエ 命 ソマツ ダメ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ 命 ソマツ ダメ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="128">
+    <source>{f871}{0100}ニンゲン 祭リヤルゾ!{f801}オレサマ 楽シマセロ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニンゲン 祭リヤルゾ!{f801}オレサマ 楽シマセロ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="129">
+    <source>踊ってみる{f801}歌ってみる{f801}マッカを見せて誘う{f801}{f802}{ffff}</source>
+    <target>踊ってみる{f801}歌ってみる{f801}マッカを見せて誘う{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="130">
+    <source>{f843}{0000}は{f801}ダグザと一緒に踊ってみた…{f801}{f802}悪魔は 納得していない様子だ…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}ダグザと一緒に踊ってみた…{f801}{f802}悪魔は 納得していない様子だ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="131">
+    <source>{f843}{0000}は{f801}ダグザと一緒に踊ってみた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}ダグザと一緒に踊ってみた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="132">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ユカイ! ユカイ!{f801}オレサマ アオォォォォーン!{f801}{f802}褒美ニ ナカマ考エル{f801}アトハ 供エ物 シダイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ユカイ! ユカイ!{f801}オレサマ アオォォォォーン!{f801}{f802}褒美ニ ナカマ考エル{f801}アトハ 供エ物 シダイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="133">
+    <source>{f843}{0000}は{f801}ダグザと一緒に歌ってみた…{f801}{f802}悪魔は 納得していない様子だ…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}ダグザと一緒に歌ってみた…{f801}{f802}悪魔は 納得していない様子だ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="134">
+    <source>{f843}{0000}は{f801}ダグザと一緒に歌ってみた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}ダグザと一緒に歌ってみた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="135">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ユカイ! ユカイ!{f801}オレサマ アオォォォォーン!{f801}{f802}褒美ニ ナカマ考エル{f801}アトハ 供エ物 シダイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ユカイ! ユカイ!{f801}オレサマ アオォォォォーン!{f801}{f802}褒美ニ ナカマ考エル{f801}アトハ 供エ物 シダイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="136">
+    <source>{f871}{0100}ニンゲン イツモ ソレダ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニンゲン イツモ ソレダ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="137">
+    <source>{f871}{0100}アオォォォォーン!{f801}ソレヲ ヨコセ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アオォォォォーン!{f801}ソレヲ ヨコセ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="139">
+    <source>{f871}{0100}ヌゥ…見逃シテクレ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヌゥ…見逃シテクレ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="140">
+    <source>見逃す{f801}見逃さない{f801}{f802}{ffff}</source>
+    <target>見逃す{f801}見逃さない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="141">
+    <source>{f871}{0100}アリガトウ ニンゲン{f801}オマエ 見ドコロ アル{f801}{f802}ナカマ 欲シイカ?{f801}ソレナラ 供エ物 ヨコセ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アリガトウ ニンゲン{f801}オマエ 見ドコロ アル{f801}{f802}ナカマ 欲シイカ?{f801}ソレナラ 供エ物 ヨコセ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="142">
+    <source>{f871}{0100}コレハ 罠!{f801}オレサマ ハラ ヘッテル!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}コレハ 罠!{f801}オレサマ ハラ ヘッテル!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="143">
+    <source>{f871}{0100}オレサマ キゲン悪ルイ…{f801}グルルルルルルルルル…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ キゲン悪ルイ…{f801}グルルルルルルルルル…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="144">
+    <source>{f871}{0100}待テ! 戦イタクナイ!{f801}コレ ヤル 許シテクレ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}待テ! 戦イタクナイ!{f801}コレ ヤル 許シテクレ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="146">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}オマエ {f843}{0000}…{f801}噂 聞イテル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}オマエ {f843}{0000}…{f801}噂 聞イテル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="147">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="148">
+    <source>{f871}{0100}オマエ 関ワルト不吉{f801}ソウ 聞イタ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ 関ワルト不吉{f801}ソウ 聞イタ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="149">
+    <source>悪魔は去って行った…{f801}{f802}{ffff}</source>
+    <target>悪魔は去って行った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="151">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}ニンゲン 信用デキナイ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}ニンゲン 信用デキナイ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="152">
+    <source>その通りだ{f801}そんなことはない{f801}自分は信用できる人間だ{f801}{f802}{ffff}</source>
+    <target>その通りだ{f801}そんなことはない{f801}自分は信用できる人間だ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="153">
+    <source>{f871}{0100}オマエノコト 言ッテル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエノコト 言ッテル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="154">
+    <source>{f871}{0100}オレサマ イツモ タダシイ{f801}{f802}オマエ 見ルメ アル{f801}ナカマ 考エテイイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ イツモ タダシイ{f801}{f802}オマエ 見ルメ アル{f801}ナカマ 考エテイイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="155">
+    <source>{f871}{0100}オレサマ ウソツキ ヨバワリ{f801}コロス…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ ウソツキ ヨバワリ{f801}コロス…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="156">
+    <source>{f871}{0100}ソレモ ソウダナ{f801}{f802}オマエ 信用 シテミル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソレモ ソウダナ{f801}{f802}オマエ 信用 シテミル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="157">
+    <source>{f871}{0100}ムリ スルナッテ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ムリ スルナッテ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="158">
+    <source>{f871}{0100}ソウイウ 強気 嫌イジャナイ!{f801}早ク オレサマ 信用 サセロ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソウイウ 強気 嫌イジャナイ!{f801}早ク オレサマ 信用 サセロ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="160">
+    <source>{f871}{0100}オレサマ ニンゲン 興味アル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ ニンゲン 興味アル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="161">
+    <source>悪魔と どう接しますか?{f801}{f802}{ffff}</source>
+    <target>悪魔と どう接しますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="162">
+    <source>友好的に接する{f801}威圧的に接する{f801}{f802}{ffff}</source>
+    <target>友好的に接する{f801}威圧的に接する{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="163">
+    <source>{f871}{0100}オマエ オレサマ ぺっと扱イ{f801}オレサマ 野生!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ オレサマ ぺっと扱イ{f801}オレサマ 野生!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="164">
+    <source>{f871}{0100}オマエ ワキマエテル{f801}ニンゲン 我ラ 敬ウモノ{f801}{f802}ニンゲン ソウナラ{f801}我ラ 優シイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ ワキマエテル{f801}ニンゲン 我ラ 敬ウモノ{f801}{f802}ニンゲン ソウナラ{f801}我ラ 優シイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="165">
+    <source>{f871}{0100}ニンゲン ソウヤッテ{f801}何デモ 壊ス…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニンゲン ソウヤッテ{f801}何デモ 壊ス…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="166">
+    <source>{f871}{0100}タマニハ 支配サレル{f801}悪クナイ…{f801}{f802}オレサマ 強イニンゲン 従ウ{f801}オマエ ドウダ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}タマニハ 支配サレル{f801}悪クナイ…{f801}{f802}オレサマ 強イニンゲン 従ウ{f801}オマエ ドウダ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="168">
+    <source>悪魔は伸びをしている…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は伸びをしている…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="169">
+    <source>じっと見つめる{f801}武器を構える{f801}こちらも伸びをする{f801}{f802}{ffff}</source>
+    <target>じっと見つめる{f801}武器を構える{f801}こちらも伸びをする{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="170">
+    <source>{f871}{0100}スキ ダラケ ダゾ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}スキ ダラケ ダゾ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="171">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="172">
+    <source>{f871}{0100}ニンゲン 気ヅイテルゾ{f801}自然 甘ク見ルナ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニンゲン 気ヅイテルゾ{f801}自然 甘ク見ルナ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="173">
+    <source>{f871}{0100}待テ! 戦イタクナイ!{f801}オレサマ 命 オシイ!{f801}{f802}オレサマ ナカマ考エル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}待テ! 戦イタクナイ!{f801}オレサマ 命 オシイ!{f801}{f802}オレサマ ナカマ考エル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="174">
+    <source>{f871}{0100}スキ ダラケ ダゾ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}スキ ダラケ ダゾ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="175">
+    <source>{f871}{0100}オマエ オチャメ{f801}アオォォォォーン!{f801}{f802}コレ ヤル{f801}大事ニ シロ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ オチャメ{f801}アオォォォォーン!{f801}{f802}コレ ヤル{f801}大事ニ シロ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="177">
+    <source>{f871}{0100}ニンゲン 我ラガ 守ルモノ{f801}奪イ 壊シタ…{f801}{f802}ダカラ 今 苦シイ{f801}グフフ…イイ気味ダ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニンゲン 我ラガ 守ルモノ{f801}奪イ 壊シタ…{f801}{f802}ダカラ 今 苦シイ{f801}グフフ…イイ気味ダ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="178">
+    <source>そんなことはない{f801}その通りだ{f801}一緒に取り戻そう{f801}{f802}{ffff}</source>
+    <target>そんなことはない{f801}その通りだ{f801}一緒に取り戻そう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="179">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="180">
+    <source>{f871}{0100}オレサマ 他ノ アクマト 違ウ{f801}ニンゲン 見捨テナイ{f801}{f802}反省スルナラ 家来ニ シテヤル{f801}供エ物 シテミロ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ 他ノ アクマト 違ウ{f801}ニンゲン 見捨テナイ{f801}{f802}反省スルナラ 家来ニ シテヤル{f801}供エ物 シテミロ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="181">
+    <source>{f871}{0100}ソウ言ッテ マタ{f801}タクサン コロスノカ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソウ言ッテ マタ{f801}タクサン コロスノカ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="182">
+    <source>{f871}{0100}モウ 遅イ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}モウ 遅イ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="184">
+    <source>{f871}{0100}グウウウ…オマエ 血ノニオイ{f801}タクサン アクマ コロシタナ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}グウウウ…オマエ 血ノニオイ{f801}タクサン アクマ コロシタナ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="185">
+    <source>人外ハンターだから{f801}お前の方が臭い{f801}黙とうする{f801}{f802}{ffff}</source>
+    <target>人外ハンターだから{f801}お前の方が臭い{f801}黙とうする{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="186">
+    <source>{f871}{0100}ソウカ…{f801}デハ オレサマ 関ワラナイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソウカ…{f801}デハ オレサマ 関ワラナイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="187">
+    <source>{f871}{0100}ニンゲン 弱イカラ{f801}アクマ コロスシカ デキナイ{f801}{f802}オレサマ コロサレタクナイ{f801}ナカマ ナッテモイイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニンゲン 弱イカラ{f801}アクマ コロスシカ デキナイ{f801}{f802}オレサマ コロサレタクナイ{f801}ナカマ ナッテモイイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="188">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="189">
+    <source>{f871}{0100}理由 アルナラ 仕方ナイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}理由 アルナラ 仕方ナイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="190">
+    <source>{f871}{0100}カッコ ツケルナ{f801}オマエ イヤガラセカ?{f801}{f802}ワカッテタラ コロスナ{f801}オレサマ 怒ッタ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}カッコ ツケルナ{f801}オマエ イヤガラセカ?{f801}{f802}ワカッテタラ コロスナ{f801}オレサマ 怒ッタ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="192">
+    <source>{f871}{0100}オマエ チイサイ{f801}オレサマ デカイ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ チイサイ{f801}オレサマ デカイ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="193">
+    <source>なんの話?{f801}自分の方が大きい{f801}{f802}{ffff}</source>
+    <target>なんの話?{f801}自分の方が大きい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="194">
+    <source>{f871}{0100}オレサマ 気高イ{f801}ニンゲン チョロチョロ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ 気高イ{f801}ニンゲン チョロチョロ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="195">
+    <source>{f871}{0100}ウソダ! 信用デキナイ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ウソダ! 信用デキナイ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="196">
+    <source>{f871}{0100}オオキイノニ チイサイ…{f801}オレサマ スゴク 気ニナル{f801}{f802}オマエ ヨケレバ{f801}ナカマニ ナル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オオキイノニ チイサイ…{f801}オレサマ スゴク 気ニナル{f801}{f802}オマエ ヨケレバ{f801}ナカマニ ナル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="198">
+    <source>{f871}{0100}月ガ セマッテル…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}月ガ セマッテル…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="199">
+    <source>だから?{f801}そうだね{f801}{f802}{ffff}</source>
+    <target>だから?{f801}そうだね{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="200">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>{f871}{0100}オレサマノ ココロ{f801}モウ るなてぃっく!{f801}{f802}アオーーーーン!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマノ ココロ{f801}モウ るなてぃっく!{f801}{f802}アオーーーーン!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="202">
+    <source>{f871}{0100}神々ノ戦争 クル…{f801}{f802}アオォォォォーン!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}神々ノ戦争 クル…{f801}{f802}アオォォォォーン!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="203">
+    <source>悪魔は 一声鳴いて{f801}去って行った…{f801}{f802}{ffff}</source>
+    <target>悪魔は 一声鳴いて{f801}去って行った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="205">
+    <source>{f871}{0100}昔ノニンゲン 一緒ニ ヨク遊ンダ{f801}今ノニンゲン 一緒ニ ヨク戦ウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}昔ノニンゲン 一緒ニ ヨク遊ンダ{f801}今ノニンゲン 一緒ニ ヨク戦ウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="206">
+    <source>遊ぼう{f801}昔と今は違う{f801}悲しいね…{f801}{f802}{ffff}</source>
+    <target>遊ぼう{f801}昔と今は違う{f801}悲しいね…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="207">
+    <source>{f843}{0000}は ちょうど近くにあった{f801}骨を遠くへ投げた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は ちょうど近くにあった{f801}骨を遠くへ投げた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="208">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}アオォォォォーン!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}アオォォォォーン!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="209">
+    <source>悪魔は どこかへ去ってしまった…{f801}{f802}{ffff}</source>
+    <target>悪魔は どこかへ去ってしまった…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="210">
+    <source>{f871}{0100}モウ 遊ベナイ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}モウ 遊ベナイ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="211">
+    <source>{f871}{0100}ソウダ…万物ハ 流転スル{f801}オマエ タダシイ{f801}{f802}オレサマノ 未来ドッチダ?{f801}示シテ クレ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソウダ…万物ハ 流転スル{f801}オマエ タダシイ{f801}{f802}オレサマノ 未来ドッチダ?{f801}示シテ クレ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="212">
+    <source>{f871}{0100}違ウ…{f801}変ワッタノ ニンゲン{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}違ウ…{f801}変ワッタノ ニンゲン{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="213">
+    <source>{f871}{0100}ナゼ 悲シイ?{f801}{f802}オレサマ 戦イ 好キ{f801}アオォォォォーン!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ナゼ 悲シイ?{f801}{f802}オレサマ 戦イ 好キ{f801}アオォォォォーン!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="214">
+    <source>{f871}{0100}オレサマ 悲シイノカ?{f801}{f802}オマエ 不思議ナ ニンゲン{f801}少シ 様子 見ル…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ 悲シイノカ?{f801}{f802}オマエ 不思議ナ ニンゲン{f801}少シ 様子 見ル…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="216">
+    <source>{f871}{0100}人外ハンター…{f801}悪魔ノ肉ハ 美味イ ノカ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人外ハンター…{f801}悪魔ノ肉ハ 美味イ ノカ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="217">
+    <source>美味しい{f801}マズイ{f801}食べたことがない{f801}{f802}{ffff}</source>
+    <target>美味しい{f801}マズイ{f801}食べたことがない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="218">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="219">
+    <source>{f871}{0100}ニンゲン 食イ過ギ{f801}何デモ 食ベヨウトスル{f801}{f802}マズイ ナラ 食ウナ{f801}はーと だいえっと シロ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニンゲン 食イ過ギ{f801}何デモ 食ベヨウトスル{f801}{f802}マズイ ナラ 食ウナ{f801}はーと だいえっと シロ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="220">
+    <source>{f871}{0100}味 違ウ エネルギー得ル{f801}食ワナキャ デキナイ{f801}{f802}オレサマ ソレ 同ジ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}味 違ウ エネルギー得ル{f801}食ワナキャ デキナイ{f801}{f802}オレサマ ソレ 同ジ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="221">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="223">
+    <source>{f871}{0100}ニンゲン ミナ 同ジ顔{f801}ナゼダ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニンゲン ミナ 同ジ顔{f801}ナゼダ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="224">
+    <source>違う顔だ{f801}化粧のせいだ{f801}悪魔だって同じだ{f801}{f802}{ffff}</source>
+    <target>違う顔だ{f801}化粧のせいだ{f801}悪魔だって同じだ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="225">
+    <source>{f871}{0100}骨ニナッタラ ミナ 一緒{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}骨ニナッタラ ミナ 一緒{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="226">
+    <source>{f871}{0100}見分ケ ツカナイ{f801}ニンゲン 顔 ヒラベッタイ{f801}{f802}チンパンジー 赤チャン ミタイ{f801}フッフフフ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}見分ケ ツカナイ{f801}ニンゲン 顔 ヒラベッタイ{f801}{f802}チンパンジー 赤チャン ミタイ{f801}フッフフフ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="227">
+    <source>{f871}{0100}化粧 太古カラ 魔力ヤドス{f801}男 獲物カル 女 男カル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}化粧 太古カラ 魔力ヤドス{f801}男 獲物カル 女 男カル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="228">
+    <source>{f871}{0100}オマエモ 顔ニ 化粧{f801}{f802}…チガウ だぐざ{f801}だぐざ ヤサシイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエモ 顔ニ 化粧{f801}{f802}…チガウ だぐざ{f801}だぐざ ヤサシイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="229">
+    <source>{f871}{0100}ソウダ 顔 大事ジャナイ{f801}はーと ダ{f801}{f802}オマエ 何カ 供エロ{f801}はーと 確カメル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソウダ 顔 大事ジャナイ{f801}はーと ダ{f801}{f802}オマエ 何カ 供エロ{f801}はーと 確カメル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="230">
+    <source>{f871}{0100}アオーーーーン!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アオーーーーン!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="231">
+    <source>悪魔は一声鳴いて 去った…{f801}{f802}{ffff}</source>
+    <target>悪魔は一声鳴いて 去った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="233">
+    <source>{f871}{0100}ニンゲン 自ラ 不自由ツクル{f801}ソシテ 悩ム{f801}{f802}矛盾 ソノ脳ミソノ セイ{f801}ソンナモノ 捨テタラ ドウダ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニンゲン 自ラ 不自由ツクル{f801}ソシテ 悩ム{f801}{f802}矛盾 ソノ脳ミソノ セイ{f801}ソンナモノ 捨テタラ ドウダ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="234">
+    <source>分かった 捨てよう{f801}捨てられない{f801}余計なお世話だ{f801}{f802}{ffff}</source>
+    <target>分かった 捨てよう{f801}捨てられない{f801}余計なお世話だ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="235">
+    <source>{f871}{0100}イヤ…オレサマ イタダク{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}イヤ…オレサマ イタダク{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="236">
+    <source>{f871}{0100}ニゲンノ クセニ{f801}冗談 ワカラナイ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニゲンノ クセニ{f801}冗談 ワカラナイ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="237">
+    <source>{f871}{0100}ソレガ 矛盾{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソレガ 矛盾{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="238">
+    <source>{f871}{0100}ナラ 大事ニ シマットケ{f801}他ノアクマ 狙ッテルゾ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ナラ 大事ニ シマットケ{f801}他ノアクマ 狙ッテルゾ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="239">
+    <source>{f871}{0100}アオーーーーン!{f801}ワカラズヤ メ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アオーーーーン!{f801}ワカラズヤ メ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="240">
+    <source>{f871}{0100}オレサマ 世話ヤキ{f801}ナカマ 考エテヤル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ 世話ヤキ{f801}ナカマ 考エテヤル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="242">
+    <source>{f871}{0100}オマエ 死ヌノ 怖イカ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ 死ヌノ 怖イカ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="243">
+    <source>怖い{f801}怖くない{f801}もう死にたい{f801}{f802}{ffff}</source>
+    <target>怖い{f801}怖くない{f801}もう死にたい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="244">
+    <source>{f871}{0100}ソレ 当タリマエ{f801}オレサマモ 怖イ{f801}{f802}コレ 持ッテケ{f801}ノコリノ 命 大事ニナ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソレ 当タリマエ{f801}オレサマモ 怖イ{f801}{f802}コレ 持ッテケ{f801}ノコリノ 命 大事ニナ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="245">
+    <source>{f871}{0100}怖サ 知ッテルニンゲン 探シテタ{f801}オマエ マトモ 他 オカシイ{f801}{f802}デモ ナカマ タダデハ ムリ{f801}供エ物 ヨコセ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}怖サ 知ッテルニンゲン 探シテタ{f801}オマエ マトモ 他 オカシイ{f801}{f802}デモ ナカマ タダデハ ムリ{f801}供エ物 ヨコセ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="246">
+    <source>{f871}{0100}オマエ 命 知ラズ{f801}ソレ カエッテ 死ニヤスイ{f801}{f802}コレデ 身ヲ マモレ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ 命 知ラズ{f801}ソレ カエッテ 死ニヤスイ{f801}{f802}コレデ 身ヲ マモレ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="247">
+    <source>{f871}{0100}デハ エンリョナク 戦エル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}デハ エンリョナク 戦エル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="248">
+    <source>{f871}{0100}ダメダ オマエダケ 逃ゲルナ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ダメダ オマエダケ 逃ゲルナ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="249">
+    <source>{f871}{0100}不思議ナ ニンゲン…{f801}モウ少シ 生カシテ ミヨウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不思議ナ ニンゲン…{f801}モウ少シ 生カシテ ミヨウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="251">
+    <source>{f871}{0100}アクマノ チカラ ホシケレバ{f801}オレサマノ 手 トレ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アクマノ チカラ ホシケレバ{f801}オレサマノ 手 トレ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="252">
+    <source>手をとる{f801}お手をさせる{f801}それは手じゃなくて前足だ{f801}{f802}{ffff}</source>
+    <target>手をとる{f801}お手をさせる{f801}それは手じゃなくて前足だ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="253">
+    <source>{f871}{0100}コレガ『オテ』ダ 覚エタカ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}コレガ『オテ』ダ 覚エタカ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="254">
+    <source>{f871}{0100}…勇敢ダナ 認メテヤル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…勇敢ダナ 認メテヤル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="255">
+    <source>{f871}{0100}ニンゲン イツモ 1番キドリ{f801}哀レ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニンゲン イツモ 1番キドリ{f801}哀レ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="256">
+    <source>悪魔は お手をした!{f801}{f802}{ffff}</source>
+    <target>悪魔は お手をした!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="257">
+    <source>{f871}{0100}オマエノ手 温カイ…{f801}生キテル ショウコ{f801}{f802}オレサマ 冷タイ{f801}アクマノ ショウコ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエノ手 温カイ…{f801}生キテル ショウコ{f801}{f802}オレサマ 冷タイ{f801}アクマノ ショウコ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="258">
+    <source>{f871}{0100}オマエ バカジャナイ{f801}話 デキソウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ バカジャナイ{f801}話 デキソウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="259">
+    <source>{f871}{0100}ハンコウテキ ダナ{f801}悪イニンゲン オシオキダ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ハンコウテキ ダナ{f801}悪イニンゲン オシオキダ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="261">
+    <source>{f871}{0100}運試シ…{f801}{f802}オマエ ココ掘レ{f801}ハヤク 掘レ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}運試シ…{f801}{f802}オマエ ココ掘レ{f801}ハヤク 掘レ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="262">
+    <source>ここを掘ってみる{f801}あそこを掘ってみる{f801}掘らない{f801}{f802}{ffff}</source>
+    <target>ここを掘ってみる{f801}あそこを掘ってみる{f801}掘らない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="263">
+    <source>{f843}{0000}は 「ここ」を掘ってみた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 「ここ」を掘ってみた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="264">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ムウ ヤハリ 何カデタゾ!{f801}オマエ らっきー{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ムウ ヤハリ 何カデタゾ!{f801}オマエ らっきー{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="265">
+    <source>{f843}{0000}は 「ここ」を掘ってみた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 「ここ」を掘ってみた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="266">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}ムウ 何モ デナイカ{f801}オマエ あんらっきー{f801}{f802}{f813}{0a00}{0000}{0000}{0000}代ワリニ オレサマ{f801}ナカマ ナッテヤル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}ムウ 何モ デナイカ{f801}オマエ あんらっきー{f801}{f802}{f813}{0a00}{0000}{0000}{0000}代ワリニ オレサマ{f801}ナカマ ナッテヤル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="267">
+    <source>{f843}{0000}は 「ここ」を掘ってみた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 「ここ」を掘ってみた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="268">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ヨクヤッタ{f801}ソレ オマエノ 墓穴{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ヨクヤッタ{f801}ソレ オマエノ 墓穴{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="269">
+    <source>{f843}{0000}は 「あそこ」を掘ってみた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 「あそこ」を掘ってみた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="270">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ムウ ヤハリ 何カデタゾ!{f801}オマエ らっきー{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ムウ ヤハリ 何カデタゾ!{f801}オマエ らっきー{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="271">
+    <source>{f843}{0000}は 「あそこ」を掘ってみた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 「あそこ」を掘ってみた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="272">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}ムウ 何モ デナイカ{f801}オマエ あんらっきー{f801}{f802}{f813}{0a00}{0000}{0000}{0000}代ワリニ オレサマ{f801}ナカマ ナッテヤル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}ムウ 何モ デナイカ{f801}オマエ あんらっきー{f801}{f802}{f813}{0a00}{0000}{0000}{0000}代ワリニ オレサマ{f801}ナカマ ナッテヤル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="273">
+    <source>{f843}{0000}は 「あそこ」を掘ってみた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 「あそこ」を掘ってみた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="274">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ヨクヤッタ{f801}ソレ オマエノ 墓穴{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ヨクヤッタ{f801}ソレ オマエノ 墓穴{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="275">
+    <source>{f871}{0100}損シタナ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}損シタナ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="277">
+    <source>{f871}{0100}オレサマ ハラペコ{f801}ニンゲン ナントカシロ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ ハラペコ{f801}ニンゲン ナントカシロ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="278">
+    <source>食べ物を渡す{f801}酒を探す{f801}自分自身でも食え{f801}{f802}{ffff}</source>
+    <target>食べ物を渡す{f801}酒を探す{f801}自分自身でも食え{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="279">
+    <source>{f843}{0000}は 運悪く{f801}食べ物を持っていなかった…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 運悪く{f801}食べ物を持っていなかった…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="280">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}グルルル…{f801}オレサマ オマエ マルカジリ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}グルルル…{f801}オレサマ オマエ マルカジリ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="281">
+    <source>ダグザが偶然 食べ物を持っていた{f801}{f802}{ffff}</source>
+    <target>ダグザが偶然 食べ物を持っていた{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="282">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}コレハ 美味イ!{f801}オマエ イイぱーとなー 持ッテル{f801}{f802}オマエラ 気ニイッタ{f801}仲魔 考エテヤル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}コレハ 美味イ!{f801}オマエ イイぱーとなー 持ッテル{f801}{f802}オマエラ 気ニイッタ{f801}仲魔 考エテヤル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="283">
+    <source>{f843}{0000}は 運悪く{f801}酒を持っていなかった…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 運悪く{f801}酒を持っていなかった…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="284">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}グルルル…{f801}オレサマ オマエ マルカジリ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}グルルル…{f801}オレサマ オマエ マルカジリ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="285">
+    <source>{f871}{0100}オレサマ 酒ニ メガナイ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ 酒ニ メガナイ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="286">
+    <source>悪魔は 嬉しそうに酒を舐めた…{f801}{f802}{ffff}</source>
+    <target>悪魔は 嬉しそうに酒を舐めた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="287">
+    <source>{f871}{0100}オマエ 気ニイッタ{f801}仲魔 考エテヤル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ 気ニイッタ{f801}仲魔 考エテヤル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="288">
+    <source>{f871}{0100}オレサマ 食ウ 血肉 デキル{f801}ソレ食ウ マタ 血肉 デキル…{f801}{f802}オオオ…ムゲンニ 食エル!{f801}無限発電炉ヤマト ミタイダ!{f801}{f802}オマエ テンサイ!{f801}オレサマ モウ 食イッパグレナイ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ 食ウ 血肉 デキル{f801}ソレ食ウ マタ 血肉 デキル…{f801}{f802}オオオ…ムゲンニ 食エル!{f801}無限発電炉ヤマト ミタイダ!{f801}{f802}オマエ テンサイ!{f801}オレサマ モウ 食イッパグレナイ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="289">
+    <source>{f871}{0100}態度 気ニ入ラナイ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}態度 気ニ入ラナイ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="291">
+    <source>悪魔は {f843}{0000}を観察している…{f801}{f802}{ffff}</source>
+    <target>悪魔は {f843}{0000}を観察している…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="292">
+    <source>{f871}{0100}&lt;速&gt; 研ギスマサレテル!{f801}野生 ワスレテナイ{f801}{f802}オマエ ナカマ 欲シイカ?{f801}オレサマ ナル!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}&lt;速&gt; 研ギスマサレテル!{f801}野生 ワスレテナイ{f801}{f802}オマエ ナカマ 欲シイカ?{f801}オレサマ ナル!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="293">
+    <source>{f871}{0100}&lt;速&gt; ダメ…{f801}オマエ 都会ッコ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}&lt;速&gt; ダメ…{f801}オマエ 都会ッコ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="294">
+    <source>悪魔は 残念そうに去って行った…{f801}{f802}{ffff}</source>
+    <target>悪魔は 残念そうに去って行った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="296">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0a00}{0000}ナゼ 見ル?{f801}オレサマ ドウカ シタカ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0a00}{0000}ナゼ 見ル?{f801}オレサマ ドウカ シタカ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="297">
+    <source>かっこいい{f801}かわいい{f801}{f802}{ffff}</source>
+    <target>かっこいい{f801}かわいい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="298">
+    <source>{f871}{0100}当タリマエ オレサマ 強イ!{f801}{f802}オマエ 弱ソウ{f801}チカラ 貸シテ ヤロウカ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}当タリマエ オレサマ 強イ!{f801}{f802}オマエ 弱ソウ{f801}チカラ 貸シテ ヤロウカ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="299">
+    <source>{f871}{0100}クウーーーーーン!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}クウーーーーーン!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="300">
+    <source>悪魔は 恥ずかしそうに{f801}何かを置いて去った…{f801}{f802}{ffff}</source>
+    <target>悪魔は 恥ずかしそうに{f801}何かを置いて去った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="302">
+    <source>{f871}{0100}デハ ドウシテ 緑少ナイ?{f801}デカイ墓 タクサン 建テル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}デハ ドウシテ 緑少ナイ?{f801}デカイ墓 タクサン 建テル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="303">
+    <source>人類の発展のため{f801}外敵から身を守るため{f801}墓じゃなくてビルね{f801}{f802}{ffff}</source>
+    <target>人類の発展のため{f801}外敵から身を守るため{f801}墓じゃなくてビルね{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="304">
+    <source>{f871}{0100}ハッテン…{f801}オレサマモ ハッテンシタイ{f801}{f802}オマエ オレサマ ハッテンサセロ{f801}何カ 供エロ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ハッテン…{f801}オレサマモ ハッテンシタイ{f801}{f802}オマエ オレサマ ハッテンサセロ{f801}何カ 供エロ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="305">
+    <source>{f871}{0100}ニンゲン 牙ナイ 毛皮ナイ{f801}裸ダト ヨワイ{f801}{f802}ナゼカ ワカルカ?{f801}{f802}神サマ 食イヤスクシタ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニンゲン 牙ナイ 毛皮ナイ{f801}裸ダト ヨワイ{f801}{f802}ナゼカ ワカルカ?{f801}{f802}神サマ 食イヤスクシタ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="306">
+    <source>{f871}{0100}びる?{f801}意味 ワカラナイ{f801}{f802}アオーーーーン!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}びる?{f801}意味 ワカラナイ{f801}{f802}アオーーーーン!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="308">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0a00}{0000}クンクン…{f801}ドンナニオイ スル?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0a00}{0000}クンクン…{f801}ドンナニオイ スル?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="309">
+    <source>いい匂い{f801}獣の匂い{f801}嫌な臭い{f801}{f802}{ffff}</source>
+    <target>いい匂い{f801}獣の匂い{f801}嫌な臭い{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="310">
+    <source>{f871}{0100}オマエ ウソ ヘタ{f801}{f802}コレ サッキ食ッタ{f801}人外ハンターノ ニオイ{f801}{f802}オレサマ オカワリ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ ウソ ヘタ{f801}{f802}コレ サッキ食ッタ{f801}人外ハンターノ ニオイ{f801}{f802}オレサマ オカワリ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="311">
+    <source>{f871}{0100}ソレ オレサマノ 勲章!{f801}オマエ 鼻キク イイ!{f801}{f802}ケモノ同士 交渉シヨウ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソレ オレサマノ 勲章!{f801}オマエ 鼻キク イイ!{f801}{f802}ケモノ同士 交渉シヨウ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="312">
+    <source>{f871}{0100}意味 ワカラナイ{f801}オレサマ 帰ル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}意味 ワカラナイ{f801}オレサマ 帰ル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="314">
+    <source>{f871}{0100}オマエ マメツブヨリ チイサイ存在!{f801}フハハハハ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ マメツブヨリ チイサイ存在!{f801}フハハハハ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="315">
+    <source>そうかもしれない{f801}豆粒よりは大きい{f801}お前よりは大きい{f801}{f802}{ffff}</source>
+    <target>そうかもしれない{f801}豆粒よりは大きい{f801}お前よりは大きい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="316">
+    <source>{f871}{0100}マメツブ チイサイケド{f801}育テバ オオキクナル{f801}{f802}オマエ マダ 子供{f801}イズレ オオキクナル{f801}{f802}一緒ニ 育テバ イイ{f801}オレサマ モット オオキクナル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}マメツブ チイサイケド{f801}育テバ オオキクナル{f801}{f802}オマエ マダ 子供{f801}イズレ オオキクナル{f801}{f802}一緒ニ 育テバ イイ{f801}オレサマ モット オオキクナル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="317">
+    <source>{f871}{0100}ダカラ ドウシタ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ダカラ ドウシタ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="318">
+    <source>{f871}{0100}ソウ 怒ルナ{f801}チョット カラカッタ ダケ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソウ 怒ルナ{f801}チョット カラカッタ ダケ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="320">
+    <source>{f871}{0100}嵐 クルゾ{f801}オマエ 感ジル ダロ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}嵐 クルゾ{f801}オマエ 感ジル ダロ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="321">
+    <source>感じる{f801}感じない{f801}5人組の?{f801}{f802}{ffff}</source>
+    <target>感じる{f801}感じない{f801}5人組の?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="322">
+    <source>{f871}{0100}オレサマ 怖イ{f801}オマエ 連レテケ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマ 怖イ{f801}オマエ 連レテケ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="323">
+    <source>{f871}{0100}神々ノ戦争 ソノ嵐 クル…{f801}{f802}アオォォォォーン!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}神々ノ戦争 ソノ嵐 クル…{f801}{f802}アオォォォォーン!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="324">
+    <source>悪魔は 一声鳴いて{f801}去って行った…{f801}{f802}{ffff}</source>
+    <target>悪魔は 一声鳴いて{f801}去って行った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="325">
+    <source>{f871}{0100}オマエ ガ 嵐ダ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエ ガ 嵐ダ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="326">
+    <source>{f871}{0100}神々ノ戦争 ソノ嵐 クル…{f801}{f802}アオォォォォーン!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}神々ノ戦争 ソノ嵐 クル…{f801}{f802}アオォォォォーン!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="327">
+    <source>悪魔は 一声鳴いて{f801}去って行った…{f801}{f802}{ffff}</source>
+    <target>悪魔は 一声鳴いて{f801}去って行った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="328">
+    <source>{f871}{0100}古イ話 スルナ{f801}今 203X年 ダ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}古イ話 スルナ{f801}今 203X年 ダ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="330">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}{f843}{0000}!{f801}骨 拾ッテキタゾ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}{f843}{0000}!{f801}骨 拾ッテキタゾ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="331">
+    <source>悪魔は 骨をくわえて戻ってきた!{f801}{f802}{ffff}</source>
+    <target>悪魔は 骨をくわえて戻ってきた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="332">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}楽シイ! 楽シイ!{f801}オマエト 一緒ニ 行ク!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}楽シイ! 楽シイ!{f801}オマエト 一緒ニ 行ク!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="334">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0a00}{0000}ダカラ 食ベルノカ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0a00}{0000}ダカラ 食ベルノカ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="335">
+    <source>そうだ{f801}生きるため仕方なく…{f801}他に無いから{f801}{f802}{ffff}</source>
+    <target>そうだ{f801}生きるため仕方なく…{f801}他に無いから{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="336">
+    <source>{f871}{0100}悪魔ノ 乱獲 オモシロクナイ{f801}ニンゲン 減レバイイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}悪魔ノ 乱獲 オモシロクナイ{f801}ニンゲン 減レバイイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="337">
+    <source>{f871}{0100}ソレデイイ ソレ 自然{f801}{f802}泣イテ 笑ッテ 食ッテ 寝ル{f801}命 感謝シロ{f801}{f802}オマエ ナカマ欲シイ{f801}ソレモ 自然{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソレデイイ ソレ 自然{f801}{f802}泣イテ 笑ッテ 食ッテ 寝ル{f801}命 感謝シロ{f801}{f802}オマエ ナカマ欲シイ{f801}ソレモ 自然{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="338">
+    <source>{f871}{0100}アル{f801}ニンゲン 食エ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アル{f801}ニンゲン 食エ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="340">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}デハ 何食ッテ 生キテル?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}デハ 何食ッテ 生キテル?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="341">
+    <source>野菜{f801}悪魔以外の何か{f801}仙人だから霞{f801}{f802}{ffff}</source>
+    <target>野菜{f801}悪魔以外の何か{f801}仙人だから霞{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="342">
+    <source>{f871}{0100}東京ノ 野菜カ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}東京ノ 野菜カ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="343">
+    <source>{f871}{0100}オレサマノ 知ラナイ物カ?{f801}ニンゲン ぐるめ{f801}{f802}オレサマ ぐるめ ナリタイ{f801}オマエ 気ニイッタ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オレサマノ 知ラナイ物カ?{f801}ニンゲン ぐるめ{f801}{f802}オレサマ ぐるめ ナリタイ{f801}オマエ 気ニイッタ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="344">
+    <source>{f871}{0100}センニン?{f801}{f802}オマエ ヒトリ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}センニン?{f801}{f802}オマエ ヒトリ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="346">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="347">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="348">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="349">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="350">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="351">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="352">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="353">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="354">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="355">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="356">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="357">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="358">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="359">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="360">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="361">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="362">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="363">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="364">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="365">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="366">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

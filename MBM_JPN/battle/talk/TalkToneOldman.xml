@@ -1,0 +1,1482 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}すまんが仲魔になぞ ならぬぞ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}すまんが仲魔になぞ ならぬぞ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}攻撃しといて交渉か…{f801}悪ガキぢゃのぉ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}攻撃しといて交渉か…{f801}悪ガキぢゃのぉ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}そうぢゃのぉ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そうぢゃのぉ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}…契約成立ぢゃな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…契約成立ぢゃな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}まずは ワシに貢いでみぃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}まずは ワシに貢いでみぃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}そのスマホ 定員過多ぢゃよ{f801}{f802}ワシの椅子が無いのぉ…{f801}寂しいのぉ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そのスマホ 定員過多ぢゃよ{f801}{f802}ワシの椅子が無いのぉ…{f801}寂しいのぉ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}ワシは {f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}コンゴトモ ヨロシク…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシは {f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}コンゴトモ ヨロシク…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}しかしオマエさん{f801}ワシよりレベルが低いのぉ{f801}{f802}我らは 弱い者には従えん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}しかしオマエさん{f801}ワシよりレベルが低いのぉ{f801}{f802}我らは 弱い者には従えん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}おや オマエさんのスマホには{f801}ワシの同族がおるのか{f801}{f802}ひとつ よろしくしてやってくれ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}おや オマエさんのスマホには{f801}ワシの同族がおるのか{f801}{f802}ひとつ よろしくしてやってくれ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}せっかくの機会ぢゃ{f801}他の悪魔にも声を掛けてみよう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}せっかくの機会ぢゃ{f801}他の悪魔にも声を掛けてみよう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}…ぢゃが スマホの定員が一杯ぢゃの{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…ぢゃが スマホの定員が一杯ぢゃの{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}何やら 賑やかそうなので{f801}ワシもまぜろ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}何やら 賑やかそうなので{f801}ワシもまぜろ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}ほぅ…師走かのぉ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほぅ…師走かのぉ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}…さて ワシのことも忘れんでくれよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…さて ワシのことも忘れんでくれよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}オマエさんを特別扱いして{f801}ワシの知己を紹介してやろう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさんを特別扱いして{f801}ワシの知己を紹介してやろう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}人間よ 精進しておるか{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人間よ 精進しておるか{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}なんぢゃ? 小遣いがほしいと?{f801}はて 困ったのぉ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}なんぢゃ? 小遣いがほしいと?{f801}はて 困ったのぉ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}東京のヤングは怖いのぉ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}東京のヤングは怖いのぉ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}遊ぶ金ほしさか? 今は反省しとるか?{f801}もう遅いわぃ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}遊ぶ金ほしさか? 今は反省しとるか?{f801}もう遅いわぃ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}ふ ふがぁぁぁーッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ふ ふがぁぁぁーッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}これ以上 罪を重ねるな!{f801}里の親御さんが泣いとるぞッ!?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}これ以上 罪を重ねるな!{f801}里の親御さんが泣いとるぞッ!?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>{f871}{0100}悪ガキめ…{f801}いい加減 ブチギレようかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}悪ガキめ…{f801}いい加減 ブチギレようかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f871}{0100}…ふがぁッ!?{f801}嫌な予感のするシチュエーションぢゃ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…ふがぁッ!?{f801}嫌な予感のするシチュエーションぢゃ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f871}{0100}不用品同士の交換か?{f801}リサイクルとは感心ぢゃのぉ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不用品同士の交換か?{f801}リサイクルとは感心ぢゃのぉ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f871}{0100}ほれ コレを持って行け{f801}大切に使うんぢゃぞ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほれ コレを持って行け{f801}大切に使うんぢゃぞ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}がはははは…ッ{f801}ワシぁ今 なぜか気分が良い!{f801}{f802}ほぉーれ オマエさん{f801}お代は結構 持ってけ泥棒ッ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}がはははは…ッ{f801}ワシぁ今 なぜか気分が良い!{f801}{f802}ほぉーれ オマエさん{f801}お代は結構 持ってけ泥棒ッ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f871}{0100}お釣りぢゃ{f801}子供が遠慮するもんぢゃない{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}お釣りぢゃ{f801}子供が遠慮するもんぢゃない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}齢を重ねると話が長くなっていかんな{f801}一発でビシィーーッとキメるかのぉ{f801}{f802}{f878}{0100}マッカ{f801}さあ どうぢゃ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}齢を重ねると話が長くなっていかんな{f801}一発でビシィーーッとキメるかのぉ{f801}{f802}{f878}{0100}マッカ{f801}さあ どうぢゃ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>{f871}{0100}{f872}{0100} {f878}{0100}個 貰おうかのぉ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f872}{0100} {f878}{0100}個 貰おうかのぉ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f871}{0100}{f878}{0100}マッカ 貰おうかのぉ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f878}{0100}マッカ 貰おうかのぉ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}オマエさんのHPを{f801}少しばかり 頂こうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさんのHPを{f801}少しばかり 頂こうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>{f871}{0100}オマエさんのHPを{f801}そこそこ 頂こうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさんのHPを{f801}そこそこ 頂こうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}オマエさんのHPを{f801}かなり 頂こうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさんのHPを{f801}かなり 頂こうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>{f871}{0100}オマエさんのHPを{f801}ごっそり 頂こうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさんのHPを{f801}ごっそり 頂こうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}オマエさんのMPを{f801}少しばかり 頂こうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさんのMPを{f801}少しばかり 頂こうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>{f871}{0100}オマエさんのMPを{f801}そこそこ 頂こうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさんのMPを{f801}そこそこ 頂こうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}オマエさんのMPを{f801}かなり 頂こうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさんのMPを{f801}かなり 頂こうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f871}{0100}オマエさんのMPを{f801}ごっそり 頂こうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさんのMPを{f801}ごっそり 頂こうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f871}{0100}オマエさんの仲魔…{f801}{f873}{0200}の命が 欲しいのぉ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさんの仲魔…{f801}{f873}{0200}の命が 欲しいのぉ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f871}{0100}フム アレを寄こせ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フム アレを寄こせ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f871}{0100}オマエさんの友人…{f801}{f87e}のHPが 欲しいのぉ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさんの友人…{f801}{f87e}のHPが 欲しいのぉ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f871}{0100}ワシが喜びそうなものを寄こせ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシが喜びそうなものを寄こせ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}ほぅ…やるわい!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほぅ…やるわい!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>{f871}{0100}そんなものは 要らんなぁ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そんなものは 要らんなぁ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}あの日の魔性を{f801}解放しても良いかのぉ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あの日の魔性を{f801}解放しても良いかのぉ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>良い{f801}だめだ{f801}{f802}{ffff}</source>
+    <target>良い{f801}だめだ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>{f871}{0100}ホッホゥ! この感覚ぢゃよ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ホッホゥ! この感覚ぢゃよ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>{f843}{0000}は{f801}若さをもらった!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}若さをもらった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>{f843}{0000}は{f801}かなり 若さをもらった!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}かなり 若さをもらった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}ホッホゥ! 血を浴びさせろ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ホッホゥ! 血を浴びさせろ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>{f843}{0000}は{f801}若さを 奪われた!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}若さを 奪われた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f843}{0000}は悪魔に{f801}かなり 若さを奪われた!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は悪魔に{f801}かなり 若さを奪われた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f871}{0100}そうか 残念ぢゃよ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そうか 残念ぢゃよ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}よろしい 満足したぞ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}よろしい 満足したぞ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f871}{0100}ならば…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ならば…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}持っているものを出さんとは{f801}意地の悪い奴め…{f801}{f802}年寄りをナメるなよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}持っているものを出さんとは{f801}意地の悪い奴め…{f801}{f802}年寄りをナメるなよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>{f871}{0100}ワシの気持ちは{f801}萎えてシワシワぢゃわい…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシの気持ちは{f801}萎えてシワシワぢゃわい…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}狡すっからしいガキぢゃ{f801}お仕置きしてやろう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}狡すっからしいガキぢゃ{f801}お仕置きしてやろう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>{f871}{0100}そうか…残念ぢゃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そうか…残念ぢゃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}魔石が無くては 始まらんのぉ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}魔石が無くては 始まらんのぉ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>{f871}{0100}あくまで 応じぬというのぢゃな?{f801}{f802}…オヌシ 手強い交渉相手ぢゃの{f801}ここは ワシが譲ろう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あくまで 応じぬというのぢゃな?{f801}{f802}…オヌシ 手強い交渉相手ぢゃの{f801}ここは ワシが譲ろう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}つまらんのぉ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}つまらんのぉ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>{f871}{0100}何も持たぬ主義か…{f801}シンプルで良いのぉ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}何も持たぬ主義か…{f801}シンプルで良いのぉ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}さて 帰るかのぉ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}さて 帰るかのぉ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>{f871}{0100}{f843}{0000}か{f801}オマエさんとは 随分話したのぉ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}か{f801}オマエさんとは 随分話したのぉ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}仲魔になってやろう{f801}オマエさんからは 貢ぎ物は取らぬ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}仲魔になってやろう{f801}オマエさんからは 貢ぎ物は取らぬ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>{f871}{0100}生きてりゃ 金も掛かろう{f801}ワシがひと肌脱ごうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}生きてりゃ 金も掛かろう{f801}ワシがひと肌脱ごうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}なに 我らは茶飲み友達{f801}貢ぎ物の残りをお裾分けぢゃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}なに 我らは茶飲み友達{f801}貢ぎ物の残りをお裾分けぢゃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>{f871}{0100}発展の無い会話ぢゃ…{f801}もっと未来を見据えんか{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}発展の無い会話ぢゃ…{f801}もっと未来を見据えんか{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>{f871}{0100}おお {f843}{0000}{f801}ココにおったかぁ…!{f801}{f802}すまんな アチコチ徘徊したわぃ{f801}さて また同行しようかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}おお {f843}{0000}{f801}ココにおったかぁ…!{f801}{f802}すまんな アチコチ徘徊したわぃ{f801}さて また同行しようかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>{f871}{0100}うむ ワシの負けぢゃ…{f801}さぁ 煮るなり焼くなり好きにしろ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}うむ ワシの負けぢゃ…{f801}さぁ 煮るなり焼くなり好きにしろ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>{f871}{0100}ほぅ ワシに情けを掛けるのか?{f801}{f802}よろしい…{f801}オマエさんの情けに報いよう!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほぅ ワシに情けを掛けるのか?{f801}{f802}よろしい…{f801}オマエさんの情けに報いよう!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>{f871}{0100}そうぢゃ 遠慮なくやれ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そうぢゃ 遠慮なくやれ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>悪魔は身構えている…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は身構えている…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>武器を降ろす{f801}こちらも身構える{f801}{f802}{ffff}</source>
+    <target>武器を降ろす{f801}こちらも身構える{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>{f871}{0100}…甘いのぉ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…甘いのぉ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>{f871}{0100}ほぅ 肝が据わっておる{f801}少し話してみようかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほぅ 肝が据わっておる{f801}少し話してみようかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>{f871}{0100}不信心者め!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不信心者め!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>{f871}{0100}待て! 戦う気はないんぢゃ!{f801}コレで 勘弁してくれ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}待て! 戦う気はないんぢゃ!{f801}コレで 勘弁してくれ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}まったく 人間は恐ろしい…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}まったく 人間は恐ろしい…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>悪魔は近づいてきた…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は近づいてきた…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>避ける{f801}武器を構える{f801}動じない{f801}{f802}{ffff}</source>
+    <target>避ける{f801}武器を構える{f801}動じない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>{f843}{0000}は 避けきった!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 避けきった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>{f871}{0100}これ なぜ避ける?{f801}{f802}仲魔になって欲しいのぢゃろ?{f801}遠慮せず 貢がんか{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}これ なぜ避ける?{f801}{f802}仲魔になって欲しいのぢゃろ?{f801}遠慮せず 貢がんか{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>悪魔に追いつかれた…{f801}{f802}{ffff}</source>
+    <target>悪魔に追いつかれた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>{f871}{0100}…愚か者め!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…愚か者め!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>{f871}{0100}ひぇ! 命だけは{f801}どうか助けておくれ…!{f801}{f802}オヌシが望むなら{f801}仲魔にでも何でも なってやるから…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ひぇ! 命だけは{f801}どうか助けておくれ…!{f801}{f802}オヌシが望むなら{f801}仲魔にでも何でも なってやるから…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="116">
+    <source>{f871}{0100}ほぅ 肝が据わっておる{f801}少し話してみようかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほぅ 肝が据わっておる{f801}少し話してみようかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="117">
+    <source>{f871}{0100}ほぅ 肝が据わっておる…{f801}{f802}…などと 褒められると思ったか?{f801}不信心者め{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほぅ 肝が据わっておる…{f801}{f802}…などと 褒められると思ったか?{f801}不信心者め{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="119">
+    <source>悪魔は手招きしている…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は手招きしている…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="120">
+    <source>近づく{f801}手招きし返す{f801}武器を構える{f801}{f802}{ffff}</source>
+    <target>近づく{f801}手招きし返す{f801}武器を構える{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>{f871}{0100}馬鹿め! 引っかかりおったな!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}馬鹿め! 引っかかりおったな!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>{f871}{0100}丁度 人間にコレを{f801}与えてやろうと思ってなぁ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}丁度 人間にコレを{f801}与えてやろうと思ってなぁ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>{f871}{0100}大切にしろよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}大切にしろよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="124">
+    <source>{f871}{0100}丁度 人間にワシの力を{f801}貸してやろうと思ってなぁ{f801}{f802}試させてもらおうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}丁度 人間にワシの力を{f801}貸してやろうと思ってなぁ{f801}{f802}試させてもらおうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="125">
+    <source>{f871}{0100}ワシに来いと言うのか{f801}失敬なヤツぢゃ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシに来いと言うのか{f801}失敬なヤツぢゃ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="126">
+    <source>{f871}{0100}まぁ たまには人間と話してみるかのぉ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}まぁ たまには人間と話してみるかのぉ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="127">
+    <source>{f871}{0100}フン 人間になぞ{f801}ハナから期待しとらんわ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フン 人間になぞ{f801}ハナから期待しとらんわ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="128">
+    <source>悪魔に隙を突かれた…{f801}{f802}{ffff}</source>
+    <target>悪魔に隙を突かれた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="129">
+    <source>{f871}{0100}ひぇ! 命だけは{f801}どうか助けておくれ…!{f801}{f802}オヌシが望むなら{f801}仲魔にでも何でも なってやるから…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ひぇ! 命だけは{f801}どうか助けておくれ…!{f801}{f802}オヌシが望むなら{f801}仲魔にでも何でも なってやるから…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="131">
+    <source>悪魔は 立ち去ろうとしている…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は 立ち去ろうとしている…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="132">
+    <source>引きとめる{f801}無視する{f801}武器を構える{f801}{f802}{ffff}</source>
+    <target>引きとめる{f801}無視する{f801}武器を構える{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="133">
+    <source>{f871}{0100}フム 善き心掛けぢゃ{f801}少し鍛えてやろうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フム 善き心掛けぢゃ{f801}少し鍛えてやろうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="134">
+    <source>{f871}{0100}すまんの 急いでおるんぢゃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}すまんの 急いでおるんぢゃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="135">
+    <source>{f871}{0100}そんな 冷たくする事もなかろう{f801}少しワシの話に付き合え{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そんな 冷たくする事もなかろう{f801}少しワシの話に付き合え{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="136">
+    <source>{f871}{0100}そんな 冷たくする事もなかろう{f801}悪魔にはやさしくするもんぢゃぞ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そんな 冷たくする事もなかろう{f801}悪魔にはやさしくするもんぢゃぞ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="137">
+    <source>{f871}{0100}ひぇ! 命だけは{f801}どうか助けておくれ…!{f801}{f802}オヌシが望むなら{f801}仲魔にでも何でも なってやるから…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ひぇ! 命だけは{f801}どうか助けておくれ…!{f801}{f802}オヌシが望むなら{f801}仲魔にでも何でも なってやるから…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="138">
+    <source>{f871}{0100}そんなに死にたければ{f801}その望み 叶えてやるわい{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そんなに死にたければ{f801}その望み 叶えてやるわい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="140">
+    <source>悪魔は 知らんふりしている…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は 知らんふりしている…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="141">
+    <source>声をかける{f801}興味を引く{f801}武器で脅す{f801}{f802}{ffff}</source>
+    <target>声をかける{f801}興味を引く{f801}武器で脅す{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="142">
+    <source>{f871}{0100}ワシに関わるな!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシに関わるな!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="143">
+    <source>{f871}{0100}ほぅ 挨拶のできる感心な子供ぢゃ{f801}{f802}貢ぎ物次第では{f801}仲魔になってやろうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほぅ 挨拶のできる感心な子供ぢゃ{f801}{f802}貢ぎ物次第では{f801}仲魔になってやろうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="144">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="145">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="146">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="147">
+    <source>{f871}{0100}ひぇ! 命だけは{f801}どうか助けておくれ…!{f801}{f802}オヌシが望むなら{f801}仲魔にでも何でも なってやるから…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ひぇ! 命だけは{f801}どうか助けておくれ…!{f801}{f802}オヌシが望むなら{f801}仲魔にでも何でも なってやるから…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="148">
+    <source>{f871}{0100}年寄りをナメるなよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}年寄りをナメるなよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="150">
+    <source>{f871}{0100}頼む お願いだから見逃してくれぇ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}頼む お願いだから見逃してくれぇ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="151">
+    <source>見逃す{f801}見逃さない{f801}{f802}{ffff}</source>
+    <target>見逃す{f801}見逃さない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="152">
+    <source>{f871}{0100}ありがたや…{f801}コレは ワシの気持ちぢゃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ありがたや…{f801}コレは ワシの気持ちぢゃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="153">
+    <source>悪魔は去って行った…{f801}{f802}{ffff}</source>
+    <target>悪魔は去って行った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="154">
+    <source>{f871}{0100}馬鹿め! 引っかかりおったな!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}馬鹿め! 引っかかりおったな!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="155">
+    <source>{f871}{0100}年寄りをナメるなよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}年寄りをナメるなよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="156">
+    <source>{f871}{0100}ひぇ! 命だけは{f801}どうか助けておくれ…!{f801}{f802}オヌシが望むなら{f801}仲魔にでも何でも なってやるから…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ひぇ! 命だけは{f801}どうか助けておくれ…!{f801}{f802}オヌシが望むなら{f801}仲魔にでも何でも なってやるから…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="158">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}オマエさんは確か {f843}{0000}…{f801}噂は いろいろ聞いておるぞ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}オマエさんは確か {f843}{0000}…{f801}噂は いろいろ聞いておるぞ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="159">
+    <source>{f871}{0100}キサマが重ねた 悪行の数々に{f801}天罰を下してやる{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}キサマが重ねた 悪行の数々に{f801}天罰を下してやる{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="160">
+    <source>{f871}{0100}どうぢゃ ワシを仲魔にせんか?{f801}嫌と言うてもついてくぞ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}どうぢゃ ワシを仲魔にせんか?{f801}嫌と言うてもついてくぞ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="161">
+    <source>{f871}{0100}オマエさんとは 関わり合わん!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさんとは 関わり合わん!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="162">
+    <source>悪魔は去って行った…{f801}{f802}{ffff}</source>
+    <target>悪魔は去って行った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="164">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}フン…人間なぞ信用できんわ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}フン…人間なぞ信用できんわ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="165">
+    <source>その通りだ{f801}そんなことはない{f801}自分は信用できる人間だ{f801}{f802}{ffff}</source>
+    <target>その通りだ{f801}そんなことはない{f801}自分は信用できる人間だ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="166">
+    <source>{f871}{0100}オヌシも同じぢゃろ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オヌシも同じぢゃろ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="167">
+    <source>{f871}{0100}気が合うのぉ!{f801}一緒に世直しと洒落込むか{f801}{f802}さぁ もっと気の合うところを{f801}見せとくれ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}気が合うのぉ!{f801}一緒に世直しと洒落込むか{f801}{f802}さぁ もっと気の合うところを{f801}見せとくれ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="168">
+    <source>{f871}{0100}そう思うのは自由ぢゃな?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そう思うのは自由ぢゃな?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="169">
+    <source>{f871}{0100}ほぅ…ならばワシを{f801}ワシを信用させてみぃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほぅ…ならばワシを{f801}ワシを信用させてみぃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="170">
+    <source>{f871}{0100}そう言う人間を沢山見てきたが{f801}いずれも ダメぢゃったよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そう言う人間を沢山見てきたが{f801}いずれも ダメぢゃったよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="171">
+    <source>{f871}{0100}そこまで言うなら{f801}ワシを信用させてみぃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そこまで言うなら{f801}ワシを信用させてみぃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="173">
+    <source>{f871}{0100}ホッホッホッ…{f801}ワシは人間に興味があるんぢゃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ホッホッホッ…{f801}ワシは人間に興味があるんぢゃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="174">
+    <source>悪魔とどう接しますか?{f801}{f802}{ffff}</source>
+    <target>悪魔とどう接しますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="175">
+    <source>友好的に接する{f801}威圧的に接する{f801}{f802}{ffff}</source>
+    <target>友好的に接する{f801}威圧的に接する{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="176">
+    <source>{f871}{0100}どうにも怪しいのぉ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}どうにも怪しいのぉ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="177">
+    <source>{f871}{0100}フム 感心な子供ぢゃ{f801}{f802}オヌシの心付け次第では{f801}仲魔になってやらぬ事もない{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フム 感心な子供ぢゃ{f801}{f802}オヌシの心付け次第では{f801}仲魔になってやらぬ事もない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="178">
+    <source>{f871}{0100}なんぢゃ その態度は!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}なんぢゃ その態度は!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="179">
+    <source>{f871}{0100}フム 自由な子供ぢゃ{f801}気に入った{f801}{f802}オヌシの心付け次第では{f801}仲魔になってやらぬ事もない{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フム 自由な子供ぢゃ{f801}気に入った{f801}{f802}オヌシの心付け次第では{f801}仲魔になってやらぬ事もない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="181">
+    <source>悪魔は顔をしかめている…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は顔をしかめている…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="182">
+    <source>丁寧にお辞儀をする{f801}気さくに話しかける{f801}自分も顔をしかめる{f801}{f802}{ffff}</source>
+    <target>丁寧にお辞儀をする{f801}気さくに話しかける{f801}自分も顔をしかめる{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="183">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="184">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="185">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="187">
+    <source>{f871}{0100}はて…ここらに落とし物をしてのぉ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}はて…ここらに落とし物をしてのぉ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="188">
+    <source>一緒に探そう{f801}あたりを見回す{f801}何を落としたのか聞く{f801}{f802}{ffff}</source>
+    <target>一緒に探そう{f801}あたりを見回す{f801}何を落としたのか聞く{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="189">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="190">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="191">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="193">
+    <source>{f871}{0100}困ったのぅ…{f801}ハァ…困った{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}困ったのぅ…{f801}ハァ…困った{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="194">
+    <source>どうした?{f801}一緒に困る{f801}元気づける{f801}{f802}{ffff}</source>
+    <target>どうした?{f801}一緒に困る{f801}元気づける{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="195">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="196">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="197">
+    <source>{f871}{0100}そうか 元気づけてくれるか{f801}たっぷり欲張らせてもらおうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そうか 元気づけてくれるか{f801}たっぷり欲張らせてもらおうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="199">
+    <source>{f871}{0100}なんぢゃ 人間の子供か{f801}{f802}何百年も生きとりゃ{f801}見慣れて 欠伸が出るわい{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}なんぢゃ 人間の子供か{f801}{f802}何百年も生きとりゃ{f801}見慣れて 欠伸が出るわい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="200">
+    <source>お年なんですね{f801}昔は若かったんですか?{f801}自分は珍しい人間だ{f801}{f802}{ffff}</source>
+    <target>お年なんですね{f801}昔は若かったんですか?{f801}自分は珍しい人間だ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="202">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="203">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="205">
+    <source>{f871}{0100}まったく 騒々しい…{f801}ヤングはすぐに騒ぐから好かん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}まったく 騒々しい…{f801}ヤングはすぐに騒ぐから好かん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="206">
+    <source>ごめんなさい…{f801}うるさかった?{f801}若さの特権だ{f801}{f802}{ffff}</source>
+    <target>ごめんなさい…{f801}うるさかった?{f801}若さの特権だ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="207">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="208">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="209">
+    <source>{f871}{0100}なに…? バカさの特権?{f801}{f802}ワシぁ バカは嫌いぢゃよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}なに…? バカさの特権?{f801}{f802}ワシぁ バカは嫌いぢゃよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="211">
+    <source>{f871}{0100}ワシと話して オヌシは何を得る?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシと話して オヌシは何を得る?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="212">
+    <source>賢くなる{f801}仲魔を得る{f801}暇がつぶせる{f801}{f802}{ffff}</source>
+    <target>賢くなる{f801}仲魔を得る{f801}暇がつぶせる{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="213">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="214">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="215">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="217">
+    <source>{f871}{0100}おぅい そこの人間{f801}ワシを楽しませてみろ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}おぅい そこの人間{f801}ワシを楽しませてみろ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="218">
+    <source>踊る{f801}酒を渡す{f801}断る{f801}{f802}{ffff}</source>
+    <target>踊る{f801}酒を渡す{f801}断る{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="219">
+    <source>{f843}{0000}は 上手く踊れた!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 上手く踊れた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="220">
+    <source>{f871}{0100}ホッホッホッ…面白い人間ぢゃ{f801}いやぁ 愉快 愉快{f801}{f802}褒美にコレをやろう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ホッホッホッ…面白い人間ぢゃ{f801}いやぁ 愉快 愉快{f801}{f802}褒美にコレをやろう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="221">
+    <source>{f871}{0100}また 楽しませておくれ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}また 楽しませておくれ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="222">
+    <source>{f843}{0000}は 上手く踊れなかった…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 上手く踊れなかった…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="223">
+    <source>{f871}{0100}なんぢゃい つまらん人間ぢゃのぉ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}なんぢゃい つまらん人間ぢゃのぉ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="224">
+    <source>{f843}{0000}は ちょうど酒を持っていた!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は ちょうど酒を持っていた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="225">
+    <source>{f871}{0100}ゴクゴクゴク…{f801}{f802}{f813}{0a00}{0000}{0000}{0000}美味いのぉ…{f801}いやぁ 愉快 愉快{f801}{f802}興が乗った勢いで{f801}オヌシに力を貸してやるとしよう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ゴクゴクゴク…{f801}{f802}{f813}{0a00}{0000}{0000}{0000}美味いのぉ…{f801}いやぁ 愉快 愉快{f801}{f802}興が乗った勢いで{f801}オヌシに力を貸してやるとしよう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="226">
+    <source>{f871}{0100}なんぢゃい 気が利かんのぉ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}なんぢゃい 気が利かんのぉ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="227">
+    <source>{f871}{0100}罰当たりな人間ぢゃ…{f801}懲らしめてくれよう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}罰当たりな人間ぢゃ…{f801}懲らしめてくれよう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="229">
+    <source>{f871}{0100}最近の人間はなっておらん{f801}そう思わんか?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}最近の人間はなっておらん{f801}そう思わんか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="230">
+    <source>思う{f801}思わない{f801}何がなってない?{f801}{f802}{ffff}</source>
+    <target>思う{f801}思わない{f801}何がなってない?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="231">
+    <source>{f871}{0100}オヌシも その片棒担ぎぢゃろう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オヌシも その片棒担ぎぢゃろう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="232">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="233">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="234">
+    <source>{f871}{0100}自然と他者を慮らん{f801}己が生かされている事を忘れておる{f801}{f802}オヌシのように傲慢な者ばかり{f801}これも 時代の流れかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}自然と他者を慮らん{f801}己が生かされている事を忘れておる{f801}{f802}オヌシのように傲慢な者ばかり{f801}これも 時代の流れかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="236">
+    <source>{f871}{0100}オヌシ…{f801}さてはワシと同族ぢゃな?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オヌシ…{f801}さてはワシと同族ぢゃな?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="237">
+    <source>違う{f801}わかります?{f801}一緒にされたら迷惑だ{f801}{f802}{ffff}</source>
+    <target>違う{f801}わかります?{f801}一緒にされたら迷惑だ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="238">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="239">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="240">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="242">
+    <source>{f843}{0000}は 踊ってみた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 踊ってみた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="243">
+    <source>{f871}{0100}鬱陶しい小僧ぢゃ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}鬱陶しい小僧ぢゃ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="244">
+    <source>{f871}{0100}ほぅ 面白い人間ぢゃわい{f801}少し試してやろうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほぅ 面白い人間ぢゃわい{f801}少し試してやろうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="246">
+    <source>{f871}{0100}悪魔召喚プログラム…{f801}ありゃ一体 どういう仕組みぢゃ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}悪魔召喚プログラム…{f801}ありゃ一体 どういう仕組みぢゃ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="247">
+    <source>デジタルで悪魔を召喚{f801}説明してもわからないと思う{f801}自分もわからない{f801}{f802}{ffff}</source>
+    <target>デジタルで悪魔を召喚{f801}説明してもわからないと思う{f801}自分もわからない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="248">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="249">
+    <source>{f871}{0100}フム…フェルマーに智慧を授けて以後{f801}学問から離れとるからのぉ{f801}{f802}テクノロジーとやらは{f801}チンプンカンプンぢゃわい{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フム…フェルマーに智慧を授けて以後{f801}学問から離れとるからのぉ{f801}{f802}テクノロジーとやらは{f801}チンプンカンプンぢゃわい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="250">
+    <source>{f871}{0100}なんぢゃと!?{f801}古よりある神をナメるなよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}なんぢゃと!?{f801}古よりある神をナメるなよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="251">
+    <source>{f871}{0100}分からん仕組みを使っておるのか{f801}いつの時代も 人間は業突張りぢゃのぉ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}分からん仕組みを使っておるのか{f801}いつの時代も 人間は業突張りぢゃのぉ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="253">
+    <source>{f871}{0100}おぉ そこの人間よ…{f801}どうか 助けておくれ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}おぉ そこの人間よ…{f801}どうか 助けておくれ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="254">
+    <source>助ける{f801}助けない{f801}事情を聞く{f801}{f802}{ffff}</source>
+    <target>助ける{f801}助けない{f801}事情を聞く{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="255">
+    <source>{f843}{0000}は{f801}悪魔を上手く助けられなかった…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}悪魔を上手く助けられなかった…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="256">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}フム…結果はどうあれ{f801}その心掛けは善しとする{f801}{f802}もう一度 機会を与えよう{f801}ワシを貢ぎ物で 満足させてみぃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}フム…結果はどうあれ{f801}その心掛けは善しとする{f801}{f802}もう一度 機会を与えよう{f801}ワシを貢ぎ物で 満足させてみぃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="257">
+    <source>{f843}{0000}は{f801}悪魔を上手く助けた!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}悪魔を上手く助けた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="258">
+    <source>{f871}{0100}そうか…オヌシもいわゆる{f801}忙しい人間か?{f801}{f802}凡人は忙しいと言って好機を失い{f801}賢人は道端のゴミさえ拾う{f801}{f802}オヌシ 損したのぉ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そうか…オヌシもいわゆる{f801}忙しい人間か?{f801}{f802}凡人は忙しいと言って好機を失い{f801}賢人は道端のゴミさえ拾う{f801}{f802}オヌシ 損したのぉ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="259">
+    <source>{f871}{0100}神と人間ごときが{f801}対等だなどと思い上がるな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}神と人間ごときが{f801}対等だなどと思い上がるな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="261">
+    <source>{f871}{0100}オマエさん{f801}なぜ ワシを仲魔にしたいんぢゃ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさん{f801}なぜ ワシを仲魔にしたいんぢゃ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="262">
+    <source>御利益がありそうだから{f801}お前しか残ってなかった{f801}保護しようと思ったから{f801}{f802}{ffff}</source>
+    <target>御利益がありそうだから{f801}お前しか残ってなかった{f801}保護しようと思ったから{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="263">
+    <source>{f871}{0100}さては…ワシの遺産を狙っておるな?{f801}それはいかんぞい{f801}{f802}お巡りさ〜ん!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}さては…ワシの遺産を狙っておるな?{f801}それはいかんぞい{f801}{f802}お巡りさ〜ん!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="264">
+    <source>{f871}{0100}今どき 感心な子供ぢゃ{f801}仲魔になってやろうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}今どき 感心な子供ぢゃ{f801}仲魔になってやろうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="265">
+    <source>{f871}{0100}他の悪魔は殺してしまったのか!?{f801}{f802}ひ…ひぇぇぇー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}他の悪魔は殺してしまったのか!?{f801}{f802}ひ…ひぇぇぇー!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="266">
+    <source>{f871}{0100}残り物には福があるぞい{f801}試してみぃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}残り物には福があるぞい{f801}試してみぃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="267">
+    <source>{f871}{0100}なんぢゃと クズノハさん{f801}ワシゃボケとらんわ ヒジリさん!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}なんぢゃと クズノハさん{f801}ワシゃボケとらんわ ヒジリさん!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="268">
+    <source>{f871}{0100}左様 ワシもオマエさんも保護が必要{f801}誰もがこの世界の彷徨い人ぢゃからな{f801}{f802}よし 旅の共はオマエさんに決めたわい{f801}{f802}…勿論 最終ヂャッジは貢ぎ物次第ぢゃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}左様 ワシもオマエさんも保護が必要{f801}誰もがこの世界の彷徨い人ぢゃからな{f801}{f802}よし 旅の共はオマエさんに決めたわい{f801}{f802}…勿論 最終ヂャッジは貢ぎ物次第ぢゃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="270">
+    <source>{f871}{0100}ところでオマエさん…{f801}ジジイを殺してへーきなの?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ところでオマエさん…{f801}ジジイを殺してへーきなの?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="271">
+    <source>平気だ{f801}平気じゃない{f801}{f802}{ffff}</source>
+    <target>平気だ{f801}平気じゃない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="272">
+    <source>{f871}{0100}ほほぅ そうかそうか{f801}{f802}ちなみにワシは{f801}コゾウを殺してへーきだぞ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほほぅ そうかそうか{f801}{f802}ちなみにワシは{f801}コゾウを殺してへーきだぞ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="273">
+    <source>{f843}{0000}は 悪魔の平手打ちを食らった{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 悪魔の平手打ちを食らった{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="274">
+    <source>悪魔はやる気だ!{f801}{f802}{ffff}</source>
+    <target>悪魔はやる気だ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="275">
+    <source>{f871}{0100}ぢゃあ 人外ハンターの使命とやらで{f801}悪魔を殺すのぢゃな?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ぢゃあ 人外ハンターの使命とやらで{f801}悪魔を殺すのぢゃな?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="277">
+    <source>{f871}{0100}ワシも信仰されなくなって久しい…{f801}{f802}…ところで ワシは誰ぢゃったかの?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシも信仰されなくなって久しい…{f801}{f802}…ところで ワシは誰ぢゃったかの?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="278">
+    <source>{f873}{0100}{f801}{f843}{0000}{f801}わからない{f801}{f802}{ffff}</source>
+    <target>{f873}{0100}{f801}{f843}{0000}{f801}わからない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="279">
+    <source>{f871}{0100}おお…{f801}甦る…力が漲るぞぃ…!{f801}{f802}人間が仲魔を求める時{f801}ワシはいつもその名で呼ばれた…{f801}{f802}オヌシに貸せる力も取り戻してみせよう{f801}さぁ 我が名の下に貢げ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}おお…{f801}甦る…力が漲るぞぃ…!{f801}{f802}人間が仲魔を求める時{f801}ワシはいつもその名で呼ばれた…{f801}{f802}オヌシに貸せる力も取り戻してみせよう{f801}さぁ 我が名の下に貢げ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="280">
+    <source>{f871}{0100}良い名ぢゃ 気に入った!{f801}{f802}ワシは今より {f843}{0000}と{f801}名乗る事にしようかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}良い名ぢゃ 気に入った!{f801}{f802}ワシは今より {f843}{0000}と{f801}名乗る事にしようかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="281">
+    <source>{f871}{0100}ホッホッホッ…それで良い{f801}真の信仰において 名など不要{f801}{f802}ワシは名など呼ばれずとも{f801}オヌシと共にあろう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ホッホッホッ…それで良い{f801}真の信仰において 名など不要{f801}{f802}ワシは名など呼ばれずとも{f801}オヌシと共にあろう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="282">
+    <source>{f871}{0100}ならば オヌシの名を寄こせ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ならば オヌシの名を寄こせ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="284">
+    <source>{f843}{0000}は 歌ってみた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 歌ってみた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="285">
+    <source>{f871}{0100}やかましい小僧ぢゃ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}やかましい小僧ぢゃ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="286">
+    <source>{f871}{0100}ほぅ 面白い人間ぢゃわい{f801}少し試してやろうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほぅ 面白い人間ぢゃわい{f801}少し試してやろうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="288">
+    <source>{f843}{0000}は マッカをちらつかせた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は マッカをちらつかせた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="289">
+    <source>{f871}{0100}下らん小僧ぢゃ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}下らん小僧ぢゃ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="290">
+    <source>{f871}{0100}ヒッヒッヒ…{f801}話が早くて助かるわい!{f801}{f802}ほれ 仲魔になってほしけりゃ{f801}出すもん出してみぃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヒッヒッヒ…{f801}話が早くて助かるわい!{f801}{f802}ほれ 仲魔になってほしけりゃ{f801}出すもん出してみぃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="292">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}人間にしては礼儀がなっとるのぅ{f801}こんなところで何をしとる?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}人間にしては礼儀がなっとるのぅ{f801}こんなところで何をしとる?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="293">
+    <source>仕事をしてる{f801}仲魔を探してる{f801}{f802}{ffff}</source>
+    <target>仕事をしてる{f801}仲魔を探してる{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="294">
+    <source>{f871}{0100}そりゃご苦労な事ぢゃ{f801}どれ ワシも一仕事しようかしらん{f801}{f802}なに 人間の命を刈り取る仕事ぢゃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そりゃご苦労な事ぢゃ{f801}どれ ワシも一仕事しようかしらん{f801}{f802}なに 人間の命を刈り取る仕事ぢゃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="295">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="297">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}ほぅ こんなところで{f801}見つかるものかのぉ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}ほぅ こんなところで{f801}見つかるものかのぉ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="298">
+    <source>目の前にいる{f801}きっと見つかるはず{f801}{f802}{ffff}</source>
+    <target>目の前にいる{f801}きっと見つかるはず{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="299">
+    <source>{f871}{0100}ワシが仲魔ぢゃと?{f801}オマエさんからは まだ何も貰っとらんぞ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシが仲魔ぢゃと?{f801}オマエさんからは まだ何も貰っとらんぞ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="300">
+    <source>{f871}{0100}そうかの{f801}せいぜい頑張る事ぢゃな{f801}{f802}なんなら ワシを説得してみてもえぇぞ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そうかの{f801}せいぜい頑張る事ぢゃな{f801}{f802}なんなら ワシを説得してみてもえぇぞ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="302">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}わずらわしいと思えば 人間の子供か{f801}ワシは独りになりたい気分なんぢゃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}わずらわしいと思えば 人間の子供か{f801}ワシは独りになりたい気分なんぢゃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="303">
+    <source>肩たたきしましょうか?{f801}仲魔になってください{f801}{f802}{ffff}</source>
+    <target>肩たたきしましょうか?{f801}仲魔になってください{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="304">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="305">
+    <source>{f871}{0100}カーッ! 子供は空気が読めんから好かん{f801}午後のティータイムが台無しぢゃ!{f801}{f802}オヌシ 出直してくる事ぢゃな?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}カーッ! 子供は空気が読めんから好かん{f801}午後のティータイムが台無しぢゃ!{f801}{f802}オヌシ 出直してくる事ぢゃな?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="307">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ほぅ…若いモンにしては感心ぢゃ{f801}ところでワシの肩がどこか わかるのか?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ほぅ…若いモンにしては感心ぢゃ{f801}ところでワシの肩がどこか わかるのか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="308">
+    <source>たぶん…{f801}わからない{f801}{f802}{ffff}</source>
+    <target>たぶん…{f801}わからない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="309">
+    <source>{f871}{0100}ここぢゃ ここ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ここぢゃ ここ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="310">
+    <source>悪魔は突然 殴りかかってきた!{f801}{f802}{ffff}</source>
+    <target>悪魔は突然 殴りかかってきた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="311">
+    <source>{f871}{0100}そうぢゃろう{f801}所詮 悪魔と人間は相容れん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そうぢゃろう{f801}所詮 悪魔と人間は相容れん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="313">
+    <source>{f871}{0100}なんぢゃ ワシに敬礼しとるのか?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}なんぢゃ ワシに敬礼しとるのか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="314">
+    <source>敬礼などしてない{f801}そうだ{f801}{f802}{ffff}</source>
+    <target>敬礼などしてない{f801}そうだ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="315">
+    <source>{f871}{0100}ほぅ…敬礼でなければ{f801}最敬礼ぢゃな?{f801}{f802}そこまでされたら 応えてやるか{f801}ひとつワシが 仲魔になってやろう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほぅ…敬礼でなければ{f801}最敬礼ぢゃな?{f801}{f802}そこまでされたら 応えてやるか{f801}ひとつワシが 仲魔になってやろう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="316">
+    <source>{f871}{0100}そんな顔をして すねとるのかぁ?{f801}子供ぢゃのぉ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そんな顔をして すねとるのかぁ?{f801}子供ぢゃのぉ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="318">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}一緒に探してくれるのか?{f801}何て親切な人間ぢゃ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}一緒に探してくれるのか?{f801}何て親切な人間ぢゃ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="319">
+    <source>困った時はお互いさま{f801}老人には手を貸すべき{f801}{f802}{ffff}</source>
+    <target>困った時はお互いさま{f801}老人には手を貸すべき{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="320">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="321">
+    <source>{f871}{0100}感心な子供じゃのぉ{f801}さぁ近くへおいで 褒美をやろう{f801}{f802}…褒美はこれぢゃ!{f801}ひとをジジイ扱いしおって!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}感心な子供じゃのぉ{f801}さぁ近くへおいで 褒美をやろう{f801}{f802}…褒美はこれぢゃ!{f801}ひとをジジイ扱いしおって!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="323">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}そうか ワシもお前さんを{f801}助けられれば よいのぢゃが…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}そうか ワシもお前さんを{f801}助けられれば よいのぢゃが…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="324">
+    <source>気持ちだけで十分{f801}仲魔になってほしい{f801}{f802}{ffff}</source>
+    <target>気持ちだけで十分{f801}仲魔になってほしい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="325">
+    <source>{f871}{0100}気持ちをオマエさんにやったら{f801}仲魔になるしかないのぉ…{f801}{f802}ならば まずは貰うもんを{f801}貰おうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}気持ちをオマエさんにやったら{f801}仲魔になるしかないのぉ…{f801}{f802}ならば まずは貰うもんを{f801}貰おうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="326">
+    <source>{f871}{0100}それはできんぞ{f801}落し物が見つかるまではな…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}それはできんぞ{f801}落し物が見つかるまではな…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="328">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}おぉ いつぞやの子供か{f801}落し物は見つかったぞ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}おぉ いつぞやの子供か{f801}落し物は見つかったぞ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="329">
+    <source>{f871}{0100}ほれ…ハートぢゃよ{f801}バリバリ戦った頃の 熱々の自分ぢゃ{f801}{f802}オヌシについて行き{f801}ワシは青春を取り戻そうと思う{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほれ…ハートぢゃよ{f801}バリバリ戦った頃の 熱々の自分ぢゃ{f801}{f802}オヌシについて行き{f801}ワシは青春を取り戻そうと思う{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="331">
+    <source>{f871}{0100}オマエさんも 何か落としたのか?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさんも 何か落としたのか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="332">
+    <source>そうだ{f801}お前の落し物を探してる{f801}{f802}{ffff}</source>
+    <target>そうだ{f801}お前の落し物を探してる{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="333">
+    <source>{f871}{0100}もしかして コレか?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}もしかして コレか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="334">
+    <source>悪魔は ダイナマイトを差し出した!{f801}{f802}{ffff}</source>
+    <target>悪魔は ダイナマイトを差し出した!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="335">
+    <source>{f871}{0100}ホッホッホ…引っかかりおった{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ホッホッホ…引っかかりおった{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="336">
+    <source>{f871}{0100}と…年寄りをだます詐欺ぢゃな!?{f801}{f802}まったく 危険な時代ぢゃ…{f801}恐ろしい…恐ろしい…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}と…年寄りをだます詐欺ぢゃな!?{f801}{f802}まったく 危険な時代ぢゃ…{f801}恐ろしい…恐ろしい…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="338">
+    <source>{f871}{0100}何故 それを聞きたがるのぢゃ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}何故 それを聞きたがるのぢゃ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="339">
+    <source>一緒に探そうと思って{f801}先に拾おうと思って{f801}{f802}{ffff}</source>
+    <target>一緒に探そうと思って{f801}先に拾おうと思って{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="340">
+    <source>{f871}{0100}と…年寄りをだます詐欺ぢゃな!?{f801}{f802}まったく 危険な時代ぢゃ…{f801}恐ろしい…恐ろしい…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}と…年寄りをだます詐欺ぢゃな!?{f801}{f802}まったく 危険な時代ぢゃ…{f801}恐ろしい…恐ろしい…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="341">
+    <source>{f871}{0100}フム 正直でよろしい{f801}青春時代は ガッツクぐらいが丁度いい{f801}{f802}どれ ワシもひとつ{f801}ガッツクかのぉ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フム 正直でよろしい{f801}青春時代は ガッツクぐらいが丁度いい{f801}{f802}どれ ワシもひとつ{f801}ガッツクかのぉ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="343">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}どうしたも こうしたもない{f801}ワシの話を聞いてくれるか?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}どうしたも こうしたもない{f801}ワシの話を聞いてくれるか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="344">
+    <source>聞く{f801}聞かない{f801}{f802}{ffff}</source>
+    <target>聞く{f801}聞かない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="345">
+    <source>{f871}{0100}あの世へ 一緒に行ってくれる者が{f801}おらんのぢゃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あの世へ 一緒に行ってくれる者が{f801}おらんのぢゃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="346">
+    <source>{f871}{0100}そうか{f801}ぢゃ 困り続けるとしよう…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そうか{f801}ぢゃ 困り続けるとしよう…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="348">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}子供のクセに{f801}景気の悪い顔をしとるのぉ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}子供のクセに{f801}景気の悪い顔をしとるのぉ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="349">
+    <source>真似してるだけだ{f801}こっちにもいろいろある{f801}{f802}{ffff}</source>
+    <target>真似してるだけだ{f801}こっちにもいろいろある{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="350">
+    <source>{f871}{0100}ホッホッホ…面白い子供ぢゃ{f801}どれ 交渉に付き合ってやるか{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ホッホッホ…面白い子供ぢゃ{f801}どれ 交渉に付き合ってやるか{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="351">
+    <source>{f871}{0100}人間もいろいろ大変ぢゃからのぉ{f801}コレで元気を出せ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人間もいろいろ大変ぢゃからのぉ{f801}コレで元気を出せ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="353">
+    <source>{f871}{0100}ワシを年寄り扱いするでない{f801}人間が短命なんぢゃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシを年寄り扱いするでない{f801}人間が短命なんぢゃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="354">
+    <source>ごめんなさい…{f801}でも お年寄りだ{f801}{f802}{ffff}</source>
+    <target>ごめんなさい…{f801}でも お年寄りだ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="355">
+    <source>{f871}{0100}信用できんな{f801}ワシの若さを見せてやる{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}信用できんな{f801}ワシの若さを見せてやる{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="356">
+    <source>{f871}{0100}どうぢゃ ワシも満更ではなかろう?{f801}では 授業料を貰おうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}どうぢゃ ワシも満更ではなかろう?{f801}では 授業料を貰おうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="357">
+    <source>{f871}{0100}悪魔を見た目で判断するのは{f801}人間の悪い習性ぢゃな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}悪魔を見た目で判断するのは{f801}人間の悪い習性ぢゃな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="359">
+    <source>{f871}{0100}何じゃと? ワシゃ今でも若いわい{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}何じゃと? ワシゃ今でも若いわい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="360">
+    <source>昔からその姿?{f801}これからもっと年寄りに?{f801}{f802}{ffff}</source>
+    <target>昔からその姿?{f801}これからもっと年寄りに?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="361">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="362">
+    <source>{f871}{0100}失礼なガキぢゃな!{f801}次に会うても 声をかけてくるなよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}失礼なガキぢゃな!{f801}次に会うても 声をかけてくるなよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="364">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}さて どうぢゃったかのぉ?{f801}まぁ どんな姿だろうとワシはワシぢゃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}さて どうぢゃったかのぉ?{f801}まぁ どんな姿だろうとワシはワシぢゃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="365">
+    <source>じゃあ 悪魔合体しても…{f801}じゃあ 姿が変っても…{f801}{f802}{ffff}</source>
+    <target>じゃあ 悪魔合体しても…{f801}じゃあ 姿が変っても…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="366">
+    <source>{f871}{0100}合体ぢゃと…!?{f801}{f802}ええのぉ 合体!{f801}{f802}もう 合体の事で頭が一杯ぢゃ…{f801}さっさと 交渉を始めるぞ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}合体ぢゃと…!?{f801}{f802}ええのぉ 合体!{f801}{f802}もう 合体の事で頭が一杯ぢゃ…{f801}さっさと 交渉を始めるぞ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="367">
+    <source>{f871}{0100}そうぢゃ リアルでも電脳でも{f801}ワシは性格が変わらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そうぢゃ リアルでも電脳でも{f801}ワシは性格が変わらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="369">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}オヌシ あの失礼なガキぢゃな?{f801}声をかけるなと言ったはずぢゃぞ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}オヌシ あの失礼なガキぢゃな?{f801}声をかけるなと言ったはずぢゃぞ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="370">
+    <source>お前が忘れられない{f801}ごめんなさい…{f801}{f802}{ffff}</source>
+    <target>お前が忘れられない{f801}ごめんなさい…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="371">
+    <source>{f871}{0100}ほぅ…ときめきか?{f801}{f802}ワシも捨てたもんぢゃないの{f801}たまには 人間の味方でもしてやるか{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほぅ…ときめきか?{f801}{f802}ワシも捨てたもんぢゃないの{f801}たまには 人間の味方でもしてやるか{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="372">
+    <source>{f871}{0100}イジらしいのぉ…{f801}{f802}…ぢゃが 誰にでもいい顔しようとする{f801}その根性が気に入らん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}イジらしいのぉ…{f801}{f802}…ぢゃが 誰にでもいい顔しようとする{f801}その根性が気に入らん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="374">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ほぅ…どう珍しいんぢゃ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ほぅ…どう珍しいんぢゃ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="375">
+    <source>少年人外ハンター{f801}悪魔が大好き{f801}{f802}{ffff}</source>
+    <target>少年人外ハンター{f801}悪魔が大好き{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="376">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="377">
+    <source>{f871}{0100}ワシらとオヌシらの興味の源は{f801}ひとつに繋がっておるからの{f801}{f802}ぢゃから ワシの興味が分かろう?{f801}皆まで言わせず さっさと出せ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシらとオヌシらの興味の源は{f801}ひとつに繋がっておるからの{f801}{f802}ぢゃから ワシの興味が分かろう?{f801}皆まで言わせず さっさと出せ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="379">
+    <source>{f871}{0100}ワシを狩る気か?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシを狩る気か?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="380">
+    <source>どうしよう?{f801}狩る{f801}{f802}{ffff}</source>
+    <target>どうしよう?{f801}狩る{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="381">
+    <source>{f871}{0100}一瞬の迷いが死を招くと言うな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}一瞬の迷いが死を招くと言うな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="382">
+    <source>{f871}{0100}これ 若いオマエさんが{f801}殺生を重ねる事もなかろう{f801}{f802}コレで 気を鎮めなさい{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}これ 若いオマエさんが{f801}殺生を重ねる事もなかろう{f801}{f802}コレで 気を鎮めなさい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="384">
+    <source>{f871}{0100}ごめんで済んだら閻魔はいらん{f801}ワシがその閻魔ぢゃと なぜ見て判らん?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ごめんで済んだら閻魔はいらん{f801}ワシがその閻魔ぢゃと なぜ見て判らん?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="385">
+    <source>見てもわからない{f801}言われてみれば…{f801}{f802}{ffff}</source>
+    <target>見てもわからない{f801}言われてみれば…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="386">
+    <source>{f871}{0100}人間だったら それもそうかの{f801}よくよく見れば 悪気もなさそうぢゃ{f801}{f802}態度次第では 許してやろう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人間だったら それもそうかの{f801}よくよく見れば 悪気もなさそうぢゃ{f801}{f802}態度次第では 許してやろう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="387">
+    <source>{f871}{0100}言われてわかるものか!{f801}このお調子者め!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}言われてわかるものか!{f801}このお調子者め!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="389">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}銃声やら悲鳴やら{f801}うるさいどころの騒ぎぢゃないわい{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}銃声やら悲鳴やら{f801}うるさいどころの騒ぎぢゃないわい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="390">
+    <source>ごめんなさい…{f801}人違いだ{f801}{f802}{ffff}</source>
+    <target>ごめんなさい…{f801}人違いだ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="391">
+    <source>{f871}{0100}なぜ 謝る?{f801}そういう事には ワシも誘えば良いのぢゃ{f801}{f802}さて ひと暴れする前に{f801}貰うものを貰っとくか{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}なぜ 謝る?{f801}そういう事には ワシも誘えば良いのぢゃ{f801}{f802}さて ひと暴れする前に{f801}貰うものを貰っとくか{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="392">
+    <source>{f871}{0100}いや オマエぢゃよ{f801}血の臭いがぷんぷんする{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}いや オマエぢゃよ{f801}血の臭いがぷんぷんする{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="394">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ワシの知性にあやかれるとな{f801}なぜ そう賢くなりたい?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ワシの知性にあやかれるとな{f801}なぜ そう賢くなりたい?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="395">
+    <source>人間の習性だから{f801}得した気分になれる{f801}{f802}{ffff}</source>
+    <target>人間の習性だから{f801}得した気分になれる{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="396">
+    <source>{f871}{0100}智が何をもたらすか知らんのぢゃな{f801}{f802}智は富を生む{f801}ワシはオマエさんからガッポリぢゃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}智が何をもたらすか知らんのぢゃな{f801}{f802}智は富を生む{f801}ワシはオマエさんからガッポリぢゃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="397">
+    <source>{f871}{0100}ワシゃ そんなにレアーな存在かの?{f801}{f802}ならば オヌシの智と富で{f801}ワシをゲットするが良い{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシゃ そんなにレアーな存在かの?{f801}{f802}ならば オヌシの智と富で{f801}ワシをゲットするが良い{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="399">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}話が早くてよろしい{f801}ワシを得て どうする気ぢゃ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}話が早くてよろしい{f801}ワシを得て どうする気ぢゃ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="400">
+    <source>強くなる{f801}友とする{f801}{f802}{ffff}</source>
+    <target>強くなる{f801}友とする{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="401">
+    <source>{f871}{0100}ほぅ なかなか分かっておるな{f801}とことん強くなり 己の果てを知るが良い{f801}{f802}オヌシに力を貸したくなった{f801}貢ぎ物次第ぢゃがな…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ほぅ なかなか分かっておるな{f801}とことん強くなり 己の果てを知るが良い{f801}{f802}オヌシに力を貸したくなった{f801}貢ぎ物次第ぢゃがな…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="402">
+    <source>{f871}{0100}友を戦場で矢面に立たせ{f801}挙句 悪魔合体で使い捨てるか?{f801}{f802}オヌシの友は{f801}さぞや苦労しておるだろうな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}友を戦場で矢面に立たせ{f801}挙句 悪魔合体で使い捨てるか?{f801}{f802}オヌシの友は{f801}さぞや苦労しておるだろうな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="404">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}寂しい人生を送っとるんぢゃのぉ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}寂しい人生を送っとるんぢゃのぉ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="405">
+    <source>そんなことはない{f801}そうだ{f801}{f802}{ffff}</source>
+    <target>そんなことはない{f801}そうだ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="406">
+    <source>{f871}{0100}なに 遠慮するな{f801}寂しい人生に終止符を与えてやる{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}なに 遠慮するな{f801}寂しい人生に終止符を与えてやる{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="407">
+    <source>{f871}{0100}ワシに愚痴られても困るわい…{f801}そんなに寂しけりゃ 一緒にいてやるよ{f801}{f802}ぢゃから まずは出すもん出さんか{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシに愚痴られても困るわい…{f801}そんなに寂しけりゃ 一緒にいてやるよ{f801}{f802}ぢゃから まずは出すもん出さんか{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="409">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ならばこの世界を 変えてくれるか?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ならばこの世界を 変えてくれるか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="410">
+    <source>変える{f801}変えない{f801}{f802}{ffff}</source>
+    <target>変える{f801}変えない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="411">
+    <source>{f871}{0100}ずいぶん 大それた事を語る人間ぢゃ{f801}その夢に滅ぼされんようにのぉ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ずいぶん 大それた事を語る人間ぢゃ{f801}その夢に滅ぼされんようにのぉ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="412">
+    <source>{f871}{0100}成すがまま…か{f801}{f802}ならば ワシも成すがまま{f801}オヌシの仲魔となろう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}成すがまま…か{f801}{f802}ならば ワシも成すがまま{f801}オヌシの仲魔となろう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="414">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}なっておらぬぢゃろう{f801}ワシらはいつだって人間を見ておる{f801}{f802}人間はとかく ワシらの存在を否定する{f801}オヌシはどうぢゃ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}なっておらぬぢゃろう{f801}ワシらはいつだって人間を見ておる{f801}{f802}人間はとかく ワシらの存在を否定する{f801}オヌシはどうぢゃ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="415">
+    <source>否定しない{f801}否定する{f801}{f802}{ffff}</source>
+    <target>否定しない{f801}否定する{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="416">
+    <source>{f871}{0100}フム 信心が厚くてよろしい{f801}{f802}…ときに オヌシがワシの御利益を{f801}求めているのを知っておるぞ?{f801}{f802}ワシをもっと肯定してくれまいか?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フム 信心が厚くてよろしい{f801}{f802}…ときに オヌシがワシの御利益を{f801}求めているのを知っておるぞ?{f801}{f802}ワシをもっと肯定してくれまいか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="417">
+    <source>{f871}{0100}ならば ワシは去るのみ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ならば ワシは去るのみ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="419">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}おや 違ったか…ぢゃが{f801}魂がそれを決める事もあるぞ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0100}{0000}おや 違ったか…ぢゃが{f801}魂がそれを決める事もあるぞ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="420">
+    <source>魂が同族なのか?{f801}前世が悪魔ということ?{f801}{f802}{ffff}</source>
+    <target>魂が同族なのか?{f801}前世が悪魔ということ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="421">
+    <source>{f871}{0100}なかなか賢いのぉ{f801}オマエさんとワシの絆は確かなようぢゃ{f801}{f802}よろしい{f801}魂の同族よ 共に行こうかの{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}なかなか賢いのぉ{f801}オマエさんとワシの絆は確かなようぢゃ{f801}{f802}よろしい{f801}魂の同族よ 共に行こうかの{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="422">
+    <source>{f871}{0100}そりゃ 漫画の読みすぎぢゃよ{f801}しっかり現実を見るのぢゃな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そりゃ 漫画の読みすぎぢゃよ{f801}しっかり現実を見るのぢゃな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="424">
+    <source>{f871}{0100}オヌシの背後には 悪魔がおる{f801}人の魂の匂いがせん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オヌシの背後には 悪魔がおる{f801}人の魂の匂いがせん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="425">
+    <source>悪魔などいない{f801}実は…{f801}{f802}{ffff}</source>
+    <target>悪魔などいない{f801}実は…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="426">
+    <source>{f871}{0100}ウソまでついて人間ぶりたいとは{f801}オヌシは妙な生き物ぢゃの{f801}{f802}俄然 オヌシに興味が湧いたわい{f801}仲魔になってやろうかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ウソまでついて人間ぶりたいとは{f801}オヌシは妙な生き物ぢゃの{f801}{f802}俄然 オヌシに興味が湧いたわい{f801}仲魔になってやろうかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="427">
+    <source>{f871}{0100}ワシを騙そうとしておったのか?{f801}それは許せんのぉ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシを騙そうとしておったのか?{f801}それは許せんのぉ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="429">
+    <source>{f871}{0100}そりゃ 悪かったのぉ{f801}ワシの勘違いぢゃったか?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そりゃ 悪かったのぉ{f801}ワシの勘違いぢゃったか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="430">
+    <source>自分は悪魔じゃない{f801}年寄りはこれだから…{f801}おわびに仲魔になって{f801}{f802}{ffff}</source>
+    <target>自分は悪魔じゃない{f801}年寄りはこれだから…{f801}おわびに仲魔になって{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="431">
+    <source>{f871}{0100}わかった わかった{f801}そういう事にしておいてやるわい{f801}{f802}ダグザによろしくな…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}わかった わかった{f801}そういう事にしておいてやるわい{f801}{f802}ダグザによろしくな…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="432">
+    <source>{f871}{0100}オヌシは 自分が見とるものが{f801}全てと思うておるぢゃろぉ?{f801}{f802}年寄りをナメるなよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オヌシは 自分が見とるものが{f801}全てと思うておるぢゃろぉ?{f801}{f802}年寄りをナメるなよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="433">
+    <source>{f871}{0100}オマエさんに支配されるなんぞ{f801}ワシゃご免じゃよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オマエさんに支配されるなんぞ{f801}ワシゃご免じゃよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="435">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ほぅ…そのスマホとかいう代物に{f801}召喚の儀式を代行させるのぢゃな?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}ほぅ…そのスマホとかいう代物に{f801}召喚の儀式を代行させるのぢゃな?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="436">
+    <source>そうだ{f801}違う{f801}自分もわからない{f801}{f802}{ffff}</source>
+    <target>そうだ{f801}違う{f801}自分もわからない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="437">
+    <source>{f871}{0100}ますます興味深いのぉ…{f801}{f802}ワシも呼び出してみてくれんか?{f801}スマホからズバッと{f801}{f802}オマエさんが望めば{f801}仲魔にでも何でもなってやるから{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ますます興味深いのぉ…{f801}{f802}ワシも呼び出してみてくれんか?{f801}スマホからズバッと{f801}{f802}オマエさんが望めば{f801}仲魔にでも何でもなってやるから{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="438">
+    <source>{f871}{0100}ぢゃあ 超能力か!?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ぢゃあ 超能力か!?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="439">
+    <source>{f871}{0100}分からん仕組みを使っておるのか{f801}いつの時代も 人間は業突張りぢゃのぉ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}分からん仕組みを使っておるのか{f801}いつの時代も 人間は業突張りぢゃのぉ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="440">
+    <source>{f871}{0100}そうぢゃろう{f801}人間に理解できる範囲など限られとる{f801}{f802}故に 我ら神がある{f801}共に行って 助けてやろう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そうぢゃろう{f801}人間に理解できる範囲など限られとる{f801}{f802}故に 我ら神がある{f801}共に行って 助けてやろう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="442">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}フム…感心な子供ぢゃ{f801}実はオヌシを試させてもらった{f801}{f802}して 褒美はどれが良い?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}フム…感心な子供ぢゃ{f801}実はオヌシを試させてもらった{f801}{f802}して 褒美はどれが良い?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="443">
+    <source>仲魔{f801}アイテム{f801}お前の命{f801}{f802}{ffff}</source>
+    <target>仲魔{f801}アイテム{f801}お前の命{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="444">
+    <source>{f871}{0100}よろしい その望みを叶えてやろう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}よろしい その望みを叶えてやろう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="445">
+    <source>{f871}{0100}よろしい その望みを叶えてやろう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}よろしい その望みを叶えてやろう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="446">
+    <source>{f871}{0100}これからも 励めよ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}これからも 励めよ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="447">
+    <source>{f871}{0100}よろしい その望みを叶えてやろう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}よろしい その望みを叶えてやろう{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="449">
+    <source>{f871}{0100}フムフム…{f801}オマエさんは 立派な仕事人ぢゃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フムフム…{f801}オマエさんは 立派な仕事人ぢゃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="450">
+    <source>{f871}{0100}ワシも仕事に徹し{f801}人間を狩るとしようかしらん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワシも仕事に徹し{f801}人間を狩るとしようかしらん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="451">
+    <source>{f871}{0100}ならば 仕事人同士{f801}ビジネスの話をするかのぉ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ならば 仕事人同士{f801}ビジネスの話をするかのぉ{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

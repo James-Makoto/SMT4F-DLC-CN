@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f812}マザーハーロット{0000}テスト{f801}{f802}{ffff}</source>
+    <target>{f812}マザーハーロット{0000}テスト{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>マザーハーロットの信者が{f801}戦いに割って入ってきた{f801}{ffff}</source>
+    <target>マザーハーロットの信者が{f801}戦いに割って入ってきた{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f812}信者の男{0000}{f87a}{3500}マザー!{f801}ここは我らにおまかせを{f801}{f802}マザーは実体化したばかり{f801}ご自愛していただかないと{f801}{f802}さあ コチラへ!{f801}{ffff}</source>
+    <target>{f812}信者の男{0000}{f87a}{3500}マザー!{f801}ここは我らにおまかせを{f801}{f802}マザーは実体化したばかり{f801}ご自愛していただかないと{f801}{f802}さあ コチラへ!{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>信者の男はマザーハーロットを{f801}連れていってしまった…{f801}{ffff}</source>
+    <target>信者の男はマザーハーロットを{f801}連れていってしまった…{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f812}信者の男{0000}{f87a}{3500}再び出でよ! バビロニアの神々よ{f801}{f802}母なる女神の守護を{f801}担うのだ!{f801}{ffff}</source>
+    <target>{f812}信者の男{0000}{f87a}{3500}再び出でよ! バビロニアの神々よ{f801}{f802}母なる女神の守護を{f801}担うのだ!{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>テスト{f801}{f802}{ffff}</source>
+    <target>テスト{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>テスト{f801}{f802}{ffff}</source>
+    <target>テスト{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>テスト{f801}{f802}{ffff}</source>
+    <target>テスト{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f812}マザーハーロット{0000}テストしぬ{f801}{f802}{ffff}</source>
+    <target>{f812}マザーハーロット{0000}テストしぬ{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

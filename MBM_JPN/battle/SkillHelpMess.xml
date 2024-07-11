@@ -1,0 +1,2002 @@
+<mbm>
+  <entry id="1">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/即死{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/即死{f801}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/能力低下付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/能力低下付加{f801}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/混乱{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/混乱{f801}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f87d}{0e00}属性で攻撃を行う{f801}対象/{f87d}{0f00} 威力/相手属性で変化{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で攻撃を行う{f801}対象/{f87d}{0f00} 威力/相手属性で変化{f801}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f87d}{0e00}属性で攻撃を行う{f801}対象/{f87d}{0f00} 威力/相手属性で変化{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で攻撃を行う{f801}対象/{f87d}{0f00} 威力/相手属性で変化{f801}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>{f87d}{0e00}属性で攻撃を行う{f801}対象/{f87d}{0f00} 威力/相手属性で変化{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で攻撃を行う{f801}対象/{f87d}{0f00} 威力/相手属性で変化{f801}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f87d}{0e00}属性で相手のHPを吸収する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で相手のHPを吸収する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>{f87d}{0e00}属性で相手のMPを吸収する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で相手のMPを吸収する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>{f87d}{0e00}属性で相手のHP・MPを吸収する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で相手のHP・MPを吸収する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>状態異常「睡眠」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「睡眠」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>状態異常「睡眠」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「睡眠」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>状態異常「毒」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「毒」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>状態異常「毒」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「毒」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>状態異常「緊縛」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「緊縛」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>状態異常「緊縛」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「緊縛」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>状態異常「混乱」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「混乱」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>状態異常「混乱」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「混乱」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>状態異常「風邪」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「風邪」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>状態異常「風邪」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「風邪」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>不特定の状態異常を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>不特定の状態異常を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>不特定の状態異常を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>不特定の状態異常を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>{f87d}{0e00}属性でMPを減少させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性でMPを減少させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>{f87d}{0e00}属性でMPを減少させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性でMPを減少させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>{f87d}{0e00}属性で所持金を減少させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で所持金を減少させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>{f87d}{0e00}属性で所持金を減少させる{f801}対象/{f87d}{0f00} 効果/大{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で所持金を減少させる{f801}対象/{f87d}{0f00} 効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="75">
+    <source>{f87d}{0e00}属性でHPを1にする{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性でHPを1にする{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="76">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1〜5回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1〜5回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="77">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/風邪状態をHP1に{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/風邪状態をHP1に{f801}{ffff}</target>
+  </entry>
+  <entry id="78">
+    <source>魔法攻撃力を上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>魔法攻撃力を上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="79">
+    <source>状態異常「魅了」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「魅了」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="80">
+    <source>状態異常「魅了」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「魅了」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="81">
+    <source>HPを回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>HPを回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="82">
+    <source>HPを大きく回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>HPを大きく回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="83">
+    <source>HPを全回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>HPを全回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="84">
+    <source>HPを回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>HPを回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="85">
+    <source>HPを大きく回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>HPを大きく回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="86">
+    <source>HPを全回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>HPを全回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="87">
+    <source>HPを全回復する{f801}対象/{f87d}{0f00} ニヤリ時/状態異常回復{f801}{ffff}</source>
+    <target>HPを全回復する{f801}対象/{f87d}{0f00} ニヤリ時/状態異常回復{f801}{ffff}</target>
+  </entry>
+  <entry id="88">
+    <source>「睡眠・混乱・緊縛・魅了・魔封・めまい」を回復{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>「睡眠・混乱・緊縛・魅了・魔封・めまい」を回復{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="89">
+    <source>「睡眠・混乱・緊縛・魅了・魔封・めまい」を回復{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>「睡眠・混乱・緊縛・魅了・魔封・めまい」を回復{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="90">
+    <source>状態異常「毒・風邪」を回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「毒・風邪」を回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="91">
+    <source>{f87d}{0e00}属性で大威力の攻撃を2〜4回行う{f801}対象/{f87d}{0f00} 付加/烙印{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を2〜4回行う{f801}対象/{f87d}{0f00} 付加/烙印{f801}{ffff}</target>
+  </entry>
+  <entry id="92">
+    <source>不利な状態異常を全て回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>不利な状態異常を全て回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="93">
+    <source>HPが0の状態をHP半分で復活させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>HPが0の状態をHP半分で復活させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="94">
+    <source>HPが0の状態をHP全快で復活させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>HPが0の状態をHP全快で復活させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="95">
+    <source>自分の全HPと引換に味方を復活&amp;全快{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>自分の全HPと引換に味方を復活&amp;全快{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="96">
+    <source>{f87d}{0e00}属性で大威力の攻撃を2〜4回行う{f801}対象/{f87d}{0f00} ニヤリ時/防御力低下付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を2〜4回行う{f801}対象/{f87d}{0f00} ニヤリ時/防御力低下付加{f801}{ffff}</target>
+  </entry>
+  <entry id="97">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="98">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="99">
+    <source>状態異常「魔封」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「魔封」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>状態異常「魔封」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「魔封」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>物理攻撃力を上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>物理攻撃力を上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>命中・回避率を上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>命中・回避率を上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>防御力を上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>防御力を上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>攻撃力・防御力・命中・回避率を上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>攻撃力・防御力・命中・回避率を上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>能力上昇効果を消去する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>能力上昇効果を消去する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>攻撃力を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>攻撃力を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>命中・回避率を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>命中・回避率を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>防御力を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>防御力を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>攻撃力・防御力・命中・回避率を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>攻撃力・防御力・命中・回避率を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>能力低下効果を消去する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>能力低下効果を消去する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>能力上昇および低下の効果を消去する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>能力上昇および低下の効果を消去する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>攻撃力・防御力を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>攻撃力・防御力を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>攻撃力・命中・回避率を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>攻撃力・命中・回避率を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>防御力・命中・回避率を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>防御力・命中・回避率を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>攻撃力を上昇させ 防御力を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>攻撃力を上昇させ 防御力を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="116">
+    <source>次に行う物理・銃攻撃が必中クリティカル{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次に行う物理・銃攻撃が必中クリティカル{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="117">
+    <source>状態異常の数で威力の変化する攻撃を1回行う {f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常の数で威力の変化する攻撃を1回行う {f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="118">
+    <source>次の自ターンまで物理・銃攻撃を反射する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次の自ターンまで物理・銃攻撃を反射する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="119">
+    <source>次の自ターンまで魔法攻撃を反射する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次の自ターンまで魔法攻撃を反射する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="120">
+    <source>破魔または呪殺を1度だけ無効にする{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>破魔または呪殺を1度だけ無効にする{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>次に物理・銃攻撃を行う際 威力を2倍超に{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次に物理・銃攻撃を行う際 威力を2倍超に{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>次に魔法攻撃を行う際 威力を2倍超に{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次に魔法攻撃を行う際 威力を2倍超に{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>攻撃力・防御力・命中・回避率を上昇させる{f801}対象/{f87d}{0f00} 付加/HPが1に{f801}{ffff}</source>
+    <target>攻撃力・防御力・命中・回避率を上昇させる{f801}対象/{f87d}{0f00} 付加/HPが1に{f801}{ffff}</target>
+  </entry>
+  <entry id="124">
+    <source>仲魔を召喚 または帰還させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>仲魔を召喚 または帰還させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="125">
+    <source>仲魔を召喚・帰還&amp;HPが0の状態を復活{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>仲魔を召喚・帰還&amp;HPが0の状態を復活{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="126">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/全能力低下 ニヤリ時/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/全能力低下 ニヤリ時/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="127">
+    <source>レベルが高い仲魔をストックから召喚し直す{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>レベルが高い仲魔をストックから召喚し直す{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="128">
+    <source>HPを回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>HPを回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="129">
+    <source>HPを大きく回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>HPを大きく回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="130">
+    <source>HPを回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>HPを回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="131">
+    <source>HPを大きく回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>HPを大きく回復する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="132">
+    <source>「ニヤリ」を付加する{f801}対象/{f87d}{0f00} 条件/状態異常時使用不可{f801}{ffff}</source>
+    <target>「ニヤリ」を付加する{f801}対象/{f87d}{0f00} 条件/状態異常時使用不可{f801}{ffff}</target>
+  </entry>
+  <entry id="133">
+    <source>「ニヤリ」を解除する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>「ニヤリ」を解除する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="134">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/混乱 ニヤリ時/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/混乱 ニヤリ時/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="135">
+    <source>{f87d}{0e00}属性で対象のHPの66%のダメージを与える{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で対象のHPの66%のダメージを与える{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="136">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="137">
+    <source>逃走可能なバトルから確実に逃走する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>逃走可能なバトルから確実に逃走する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="138">
+    <source>バトル中 最大HPを上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>バトル中 最大HPを上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="139">
+    <source>攻撃力・魔法攻撃力を最大まで上昇させ「ニヤリ」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>攻撃力・魔法攻撃力を最大まで上昇させ「ニヤリ」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="140">
+    <source>効果中 低レベル悪魔とのバトルを{f801}回避することができる{f801}{ffff}</source>
+    <target>効果中 低レベル悪魔とのバトルを{f801}回避することができる{f801}{ffff}</target>
+  </entry>
+  <entry id="141">
+    <source>仲間を呼び出す{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>仲間を呼び出す{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="142">
+    <source>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="143">
+    <source>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="144">
+    <source>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="145">
+    <source>攻撃力・魔法攻撃力を最低まで低下させる{f801}対象/{f87d}{0f00} 付加/魔封{f801}{ffff}</source>
+    <target>攻撃力・魔法攻撃力を最低まで低下させる{f801}対象/{f87d}{0f00} 付加/魔封{f801}{ffff}</target>
+  </entry>
+  <entry id="146">
+    <source>防御力を最低まで低下させる{f801}対象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</source>
+    <target>防御力を最低まで低下させる{f801}対象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</target>
+  </entry>
+  <entry id="147">
+    <source>回避・命中を最低まで低下させる{f801}対象/{f87d}{0f00} 付加/烙印{f801}{ffff}</source>
+    <target>回避・命中を最低まで低下させる{f801}対象/{f87d}{0f00} 付加/烙印{f801}{ffff}</target>
+  </entry>
+  <entry id="148">
+    <source>「睡眠」状態の対象を即死させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>「睡眠」状態の対象を即死させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="149">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/毒・緊縛・魅了{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/毒・緊縛・魅了{f801}{ffff}</target>
+  </entry>
+  <entry id="150">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</target>
+  </entry>
+  <entry id="151">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高 命中/低{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="152">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高 命中/低{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="153">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高 命中/低{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="154">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高 命中/低{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="155">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高 命中/低{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="156">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高 命中/低{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="157">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="158">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="159">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="160">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="161">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="162">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="163">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="164">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="165">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="166">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="167">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="168">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="169">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/攻撃力低下{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/攻撃力低下{f801}{ffff}</target>
+  </entry>
+  <entry id="170">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</target>
+  </entry>
+  <entry id="171">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00} 付加/混乱{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00} 付加/混乱{f801}{ffff}</target>
+  </entry>
+  <entry id="172">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/迷子{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/迷子{f801}{ffff}</target>
+  </entry>
+  <entry id="173">
+    <source>{f87d}{0e00}属性で中威力の攻撃を2〜4回行う{f801}対象/{f87d}{0f00} 付加/めまい{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を2〜4回行う{f801}対象/{f87d}{0f00} 付加/めまい{f801}{ffff}</target>
+  </entry>
+  <entry id="174">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/風邪{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/風邪{f801}{ffff}</target>
+  </entry>
+  <entry id="175">
+    <source>{f87d}{0e00}属性で中威力の攻撃を2回行う{f801}対象/{f87d}{0f00} 付加/魔封{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を2回行う{f801}対象/{f87d}{0f00} 付加/魔封{f801}{ffff}</target>
+  </entry>
+  <entry id="176">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/毒{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/毒{f801}{ffff}</target>
+  </entry>
+  <entry id="177">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="178">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</target>
+  </entry>
+  <entry id="179">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/毒{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/毒{f801}{ffff}</target>
+  </entry>
+  <entry id="180">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="181">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="182">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="183">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="184">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="185">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="186">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="187">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="188">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</target>
+  </entry>
+  <entry id="189">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/毒{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/毒{f801}{ffff}</target>
+  </entry>
+  <entry id="190">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</target>
+  </entry>
+  <entry id="191">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/混乱{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/混乱{f801}{ffff}</target>
+  </entry>
+  <entry id="192">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</target>
+  </entry>
+  <entry id="193">
+    <source>{f87d}{0e00}属性で中威力の攻撃を2〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を2〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="194">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1〜5回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1〜5回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="195">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</target>
+  </entry>
+  <entry id="196">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</target>
+  </entry>
+  <entry id="197">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/めまい{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/めまい{f801}{ffff}</target>
+  </entry>
+  <entry id="198">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/めまい付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/めまい付加{f801}{ffff}</target>
+  </entry>
+  <entry id="199">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/めまい{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/めまい{f801}{ffff}</target>
+  </entry>
+  <entry id="200">
+    <source>{f87d}{0e00}属性で中威力の攻撃を2回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を2回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>{f87d}{0e00}属性で中威力の攻撃を4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="202">
+    <source>{f87d}{0e00}属性で中威力の攻撃を6回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を6回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="203">
+    <source>{f87d}{0e00}属性で中威力の攻撃を8回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を8回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="204">
+    <source>{f87d}{0e00}属性で中威力の攻撃を10回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を10回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="205">
+    <source>{f87d}{0e00}属性で中威力の攻撃を12回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を12回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="206">
+    <source>{f87d}{0e00}属性で中威力の攻撃を14回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を14回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="207">
+    <source>ダミー{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>ダミー{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="208">
+    <source>ターン終了時まで火炎属性の攻撃が貫通化{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>ターン終了時まで火炎属性の攻撃が貫通化{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="209">
+    <source>ターン終了時まで氷結属性の攻撃が貫通化{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>ターン終了時まで氷結属性の攻撃が貫通化{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="210">
+    <source>ターン終了時まで電撃属性の攻撃が貫通化{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>ターン終了時まで電撃属性の攻撃が貫通化{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="211">
+    <source>ターン終了時まで衝撃属性の攻撃が貫通化{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>ターン終了時まで衝撃属性の攻撃が貫通化{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="212">
+    <source>次の敵ターンでプレスアイコンを1つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次の敵ターンでプレスアイコンを1つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="213">
+    <source>次の敵ターンでプレスアイコンを1つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次の敵ターンでプレスアイコンを1つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="214">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="215">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="216">
+    <source>アサヒが通常攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>アサヒが通常攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="217">
+    <source>アサヒが通常攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>アサヒが通常攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="218">
+    <source>アサヒが通常攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>アサヒが通常攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="219">
+    <source>アサヒが通常攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>アサヒが通常攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="220">
+    <source>アサヒが通常攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>アサヒが通常攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="221">
+    <source>即死攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>即死攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="222">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="223">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</target>
+  </entry>
+  <entry id="224">
+    <source>{f87d}{0e00}属性で小威力の攻撃を2回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を2回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="225">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/能力上昇消去{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/能力上昇消去{f801}{ffff}</target>
+  </entry>
+  <entry id="226">
+    <source>「ニヤリ」を付加する{f801}対象/{f87d}{0f00} 条件/状態異常時使用不可{f801}{ffff}</source>
+    <target>「ニヤリ」を付加する{f801}対象/{f87d}{0f00} 条件/状態異常時使用不可{f801}{ffff}</target>
+  </entry>
+  <entry id="227">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="228">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/HP吸収・貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/HP吸収・貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="229">
+    <source>{f87d}{0e00}属性で中威力の攻撃を2回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を2回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="230">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/能力上昇消去・貫通{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/能力上昇消去・貫通{f801}{ffff}</target>
+  </entry>
+  <entry id="231">
+    <source>{f87d}{0e00}属性で中威力の攻撃を6回行う{f801}対象/{f87d}{0f00} 付加/貫通効果 命中/低{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を6回行う{f801}対象/{f87d}{0f00} 付加/貫通効果 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="232">
+    <source>次の自ターンまで食いしばり効果を付加する{f801}対象/{f87d}{0f00} 確率/中{f801}{ffff}</source>
+    <target>次の自ターンまで食いしばり効果を付加する{f801}対象/{f87d}{0f00} 確率/中{f801}{ffff}</target>
+  </entry>
+  <entry id="233">
+    <source>次の自ターンまで状態異常無効を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次の自ターンまで状態異常無効を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="234">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/防御力低下・貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/防御力低下・貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="235">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 威力/状態異常者に大{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 威力/状態異常者に大{f801}{ffff}</target>
+  </entry>
+  <entry id="236">
+    <source>次の自ターンまで弱点属性の攻撃を吸収する{f801}対象/{f87d}{0f00} 吸収時/全能力上昇・ニヤリ{f801}{ffff}</source>
+    <target>次の自ターンまで弱点属性の攻撃を吸収する{f801}対象/{f87d}{0f00} 吸収時/全能力上昇・ニヤリ{f801}{ffff}</target>
+  </entry>
+  <entry id="237">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/威力上昇{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/威力上昇{f801}{ffff}</target>
+  </entry>
+  <entry id="238">
+    <source>状態異常「毒・風邪・緊縛」を付加する{f801}対象/{f87d}{0f00} 付加/攻撃力低下{f801}{ffff}</source>
+    <target>状態異常「毒・風邪・緊縛」を付加する{f801}対象/{f87d}{0f00} 付加/攻撃力低下{f801}{ffff}</target>
+  </entry>
+  <entry id="239">
+    <source>状態異常「睡眠・混乱・魅了」を付加する{f801}対象/{f87d}{0f00} 付加/防御力低下{f801}{ffff}</source>
+    <target>状態異常「睡眠・混乱・魅了」を付加する{f801}対象/{f87d}{0f00} 付加/防御力低下{f801}{ffff}</target>
+  </entry>
+  <entry id="240">
+    <source>戦闘開始時一定確率で物理属性の攻撃を行う{f801}対象/敵単体 付加/即死・貫通効果{f801}{ffff}</source>
+    <target>戦闘開始時一定確率で物理属性の攻撃を行う{f801}対象/敵単体 付加/即死・貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="241">
+    <source>敵ターン中一定確率で物理属性の攻撃を行う{f801}対象/敵単体 付加/即死・貫通効果{f801}{ffff}</source>
+    <target>敵ターン中一定確率で物理属性の攻撃を行う{f801}対象/敵単体 付加/即死・貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="242">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/命中・回避低下{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/命中・回避低下{f801}{ffff}</target>
+  </entry>
+  <entry id="243">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/めまい{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/めまい{f801}{ffff}</target>
+  </entry>
+  <entry id="244">
+    <source>状態異常「めまい」を付加する{f801}対象/{f87d}{0f00} 付加/命中・回避率低下{f801}{ffff}</source>
+    <target>状態異常「めまい」を付加する{f801}対象/{f87d}{0f00} 付加/命中・回避率低下{f801}{ffff}</target>
+  </entry>
+  <entry id="245">
+    <source>状態異常「魅了」を付加する{f801}対象/{f87d}{0f00} 付加/攻撃力低下{f801}{ffff}</source>
+    <target>状態異常「魅了」を付加する{f801}対象/{f87d}{0f00} 付加/攻撃力低下{f801}{ffff}</target>
+  </entry>
+  <entry id="246">
+    <source>{f87d}{0e00}属性で中威力の攻撃を3回行う{f801}対象/{f87d}{0f00} 付加/ニヤリ解除{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を3回行う{f801}対象/{f87d}{0f00} 付加/ニヤリ解除{f801}{ffff}</target>
+  </entry>
+  <entry id="247">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/能力上昇消去{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/能力上昇消去{f801}{ffff}</target>
+  </entry>
+  <entry id="248">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="249">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="250">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/防御力低下付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/防御力低下付加{f801}{ffff}</target>
+  </entry>
+  <entry id="251">
+    <source>ダミー{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>ダミー{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="252">
+    <source>{f87d}{0e00}属性で大威力の攻撃を2〜3回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を2〜3回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="253">
+    <source>次に弱点攻撃を受けた際 弱点が変化する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次に弱点攻撃を受けた際 弱点が変化する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="254">
+    <source>状態異常「魅了」を付加する{f801}対象/{f87d}{0f00} 付加/防御力を最低まで低下{f801}{ffff}</source>
+    <target>状態異常「魅了」を付加する{f801}対象/{f87d}{0f00} 付加/防御力を最低まで低下{f801}{ffff}</target>
+  </entry>
+  <entry id="255">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="256">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 威力/相手の破魔相性で変化{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 威力/相手の破魔相性で変化{f801}{ffff}</target>
+  </entry>
+  <entry id="257">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="258">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を2回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を2回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="259">
+    <source>防御力・命中・回避率を最大まで上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>防御力・命中・回避率を最大まで上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="260">
+    <source>次にダメージを受けた際、被ダメージ値そのまま敵全体に与える{f801}対象/{f87d}{0f00} ニヤリ時/反撃効果継続{f801}{ffff}</source>
+    <target>次にダメージを受けた際、被ダメージ値そのまま敵全体に与える{f801}対象/{f87d}{0f00} ニヤリ時/反撃効果継続{f801}{ffff}</target>
+  </entry>
+  <entry id="261">
+    <source>次にダメージを受けた際、被ダメージ値そのまま敵全体に与える{f801}対象/{f87d}{0f00} ニヤリ時/反撃効果継続{f801}{ffff}</source>
+    <target>次にダメージを受けた際、被ダメージ値そのまま敵全体に与える{f801}対象/{f87d}{0f00} ニヤリ時/反撃効果継続{f801}{ffff}</target>
+  </entry>
+  <entry id="262">
+    <source>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="263">
+    <source>{f87d}{0e00}属性で中威力の攻撃を2回行う{f801}対象/{f87d}{0f00} 付加/混乱{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を2回行う{f801}対象/{f87d}{0f00} 付加/混乱{f801}{ffff}</target>
+  </entry>
+  <entry id="264">
+    <source>{f87d}{0e00}属性で対象のHPの50%のダメージを与える{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で対象のHPの50%のダメージを与える{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="265">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/混乱{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/混乱{f801}{ffff}</target>
+  </entry>
+  <entry id="266">
+    <source>ランダムで対象1体をストックに戻す{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>ランダムで対象1体をストックに戻す{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="267">
+    <source>敵全体のHPを半分にする{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>敵全体のHPを半分にする{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="268">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/命中・回避率低下{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/命中・回避率低下{f801}{ffff}</target>
+  </entry>
+  <entry id="269">
+    <source>{f87d}{0e00}属性で2回攻撃を行う{f801}対象/{f87d}{0f00} 付加/防御力低下{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で2回攻撃を行う{f801}対象/{f87d}{0f00} 付加/防御力低下{f801}{ffff}</target>
+  </entry>
+  <entry id="270">
+    <source>必中の即死攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>必中の即死攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="271">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="272">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="273">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="274">
+    <source>次の敵ターンでプレスアイコンを3つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次の敵ターンでプレスアイコンを3つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="275">
+    <source>次の敵ターンでプレスアイコンを3つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次の敵ターンでプレスアイコンを3つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="276">
+    <source>攻撃力・防御力・命中・回避率を上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>攻撃力・防御力・命中・回避率を上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="277">
+    <source>状態異常の数で威力の変化する攻撃を1回行う {f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常の数で威力の変化する攻撃を1回行う {f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="278">
+    <source>状態異常「睡眠」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「睡眠」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="279">
+    <source>状態異常「混乱」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「混乱」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="280">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00} 付加/混乱{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1〜3回行う{f801}対象/{f87d}{0f00} 付加/混乱{f801}{ffff}</target>
+  </entry>
+  <entry id="281">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/めまい{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/めまい{f801}{ffff}</target>
+  </entry>
+  <entry id="282">
+    <source>状態異常「魅了」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「魅了」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="283">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/睡眠{f801}{ffff}</target>
+  </entry>
+  <entry id="284">
+    <source>状態異常「緊縛」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「緊縛」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="285">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高 命中/低{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="286">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高{f801}{ffff}</target>
+  </entry>
+  <entry id="287">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/毒・緊縛・魅了{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/毒・緊縛・魅了{f801}{ffff}</target>
+  </entry>
+  <entry id="288">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高{f801}{ffff}</target>
+  </entry>
+  <entry id="289">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="290">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/毒{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/毒{f801}{ffff}</target>
+  </entry>
+  <entry id="291">
+    <source>一定ターン、デカジャを無効化する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>一定ターン、デカジャを無効化する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="292">
+    <source>{f87d}{0e00}属性で攻撃を1回行い、HPを1にする{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で攻撃を1回行い、HPを1にする{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="293">
+    <source>{f87d}{0e00}属性で相手のMPを吸収する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で相手のMPを吸収する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="294">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="295">
+    <source>補助効果を全て無効化する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>補助効果を全て無効化する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="296">
+    <source>{f87d}{0e00}属性で中威力の攻撃{f801}対象/{f87d}{0f00} 付加/緊縛・混乱・魅了{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃{f801}対象/{f87d}{0f00} 付加/緊縛・混乱・魅了{f801}{ffff}</target>
+  </entry>
+  <entry id="297">
+    <source>即死攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>即死攻撃を行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="298">
+    <source>魔攻を大きく上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>魔攻を大きく上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="299">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/迷子{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/迷子{f801}{ffff}</target>
+  </entry>
+  <entry id="300">
+    <source>ランダムで対象1体をストックに戻す{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>ランダムで対象1体をストックに戻す{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="301">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/烙印{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/烙印{f801}{ffff}</target>
+  </entry>
+  <entry id="302">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="303">
+    <source>テトラカーンの効果を打ち消す{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>テトラカーンの効果を打ち消す{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="304">
+    <source>補助効果を全て無効化する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>補助効果を全て無効化する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="305">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="306">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="307">
+    <source>{f87d}{0e00}属性で中威力の攻撃{f801}対象/{f87d}{0f00} 付加/緊縛・混乱・魅了{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃{f801}対象/{f87d}{0f00} 付加/緊縛・混乱・魅了{f801}{ffff}</target>
+  </entry>
+  <entry id="308">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="309">
+    <source>マカラカーンの効果を打ち消す{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>マカラカーンの効果を打ち消す{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="310">
+    <source>{f87d}{0e00}属性で大威力の攻撃を6〜10回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を6〜10回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="311">
+    <source>{f87d}{0e00}属性で相手のMPを吸収する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で相手のMPを吸収する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="312">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="313">
+    <source>{f87d}{0e00}属性で中威力の貫通攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/ランダムで相性低下{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の貫通攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/ランダムで相性低下{f801}{ffff}</target>
+  </entry>
+  <entry id="314">
+    <source>{f87d}{0e00}属性で中威力の攻撃を2回行う{f801}対象/{f87d}{0f00} 付加/命中・回避率低下{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を2回行う{f801}対象/{f87d}{0f00} 付加/命中・回避率低下{f801}{ffff}</target>
+  </entry>
+  <entry id="315">
+    <source>攻撃力・防御力・命中・回避率を上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>攻撃力・防御力・命中・回避率を上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="316">
+    <source>{f87d}{0e00}属性で中威力の貫通攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/ランダムで相性低下{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の貫通攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/ランダムで相性低下{f801}{ffff}</target>
+  </entry>
+  <entry id="317">
+    <source>次の敵ターンでプレスアイコンを2つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次の敵ターンでプレスアイコンを2つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="318">
+    <source>次の敵ターンでプレスアイコンを2つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次の敵ターンでプレスアイコンを2つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="319">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="320">
+    <source>{f87d}{0e00}属性で中威力の攻撃を2回行う{f801}対象/{f87d}{0f00} 付加/ニヤリ解除{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を2回行う{f801}対象/{f87d}{0f00} 付加/ニヤリ解除{f801}{ffff}</target>
+  </entry>
+  <entry id="321">
+    <source>プレスターンアイコンを3つ増やす{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>プレスターンアイコンを3つ増やす{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="322">
+    <source>{f87d}{0e00}属性で大威力の攻撃を2〜3回行う{f801}対象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を2〜3回行う{f801}対象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</target>
+  </entry>
+  <entry id="323">
+    <source>攻撃力・防御力・命中・回避率を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>攻撃力・防御力・命中・回避率を低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="324">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/ダメージ2倍{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/ダメージ2倍{f801}{ffff}</target>
+  </entry>
+  <entry id="325">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="326">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/防御力低下{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/防御力低下{f801}{ffff}</target>
+  </entry>
+  <entry id="327">
+    <source>{f87d}{0e00}属性で大威力の貫通攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の貫通攻撃を1回行う{f801}対象/{f87d}{0f00} クリティカル率/高{f801}{ffff}</target>
+  </entry>
+  <entry id="328">
+    <source>{f87d}{0e00}属性で大威力の攻撃を4回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を4回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="329">
+    <source>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="330">
+    <source>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="331">
+    <source>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="332">
+    <source>{f87d}{0e00}属性で大威力の攻撃を4回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を4回行う{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="333">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 効果/自分の氷結相性弱点化{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 効果/自分の氷結相性弱点化{f801}{ffff}</target>
+  </entry>
+  <entry id="334">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 効果/自分の火炎相性弱点化{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 効果/自分の火炎相性弱点化{f801}{ffff}</target>
+  </entry>
+  <entry id="335">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 効果/自分の衝撃相性弱点化{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 効果/自分の衝撃相性弱点化{f801}{ffff}</target>
+  </entry>
+  <entry id="336">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 効果/自分の電撃相性弱点化{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 効果/自分の電撃相性弱点化{f801}{ffff}</target>
+  </entry>
+  <entry id="337">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1〜5回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1〜5回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="338">
+    <source>{f87d}{0e00}属性の攻撃を行う YHVHに効果大{f801}対象/{f87d}{0f00} 付加/ランダムで相性低下{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性の攻撃を行う YHVHに効果大{f801}対象/{f87d}{0f00} 付加/ランダムで相性低下{f801}{ffff}</target>
+  </entry>
+  <entry id="339">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="340">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="341">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</target>
+  </entry>
+  <entry id="342">
+    <source>{f87d}{0e00}属性で小威力の攻撃を2回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を2回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="343">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/能力上昇消去{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/能力上昇消去{f801}{ffff}</target>
+  </entry>
+  <entry id="344">
+    <source>次に魔法攻撃を行う際 威力を2倍超に{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</source>
+    <target>次に魔法攻撃を行う際 威力を2倍超に{f801}対象/{f87d}{0f00} 付加/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="345">
+    <source>{f87d}{0e00}属性で相手のHP・MPを吸収する{f801}対象/{f87d}{0f00} ニヤリ時/威力上昇{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で相手のHP・MPを吸収する{f801}対象/{f87d}{0f00} ニヤリ時/威力上昇{f801}{ffff}</target>
+  </entry>
+  <entry id="346">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/防御低下・ニヤリ時即死{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/防御低下・ニヤリ時即死{f801}{ffff}</target>
+  </entry>
+  <entry id="347">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/防御・命中・回避低下{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/防御・命中・回避低下{f801}{ffff}</target>
+  </entry>
+  <entry id="348">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</target>
+  </entry>
+  <entry id="349">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="350">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="351">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="352">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="353">
+    <source>{f87d}{0e00}属性で大威力の攻撃を4〜6回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を4〜6回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="354">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</target>
+  </entry>
+  <entry id="355">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="356">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="357">
+    <source>全能力を最大まで上昇させ、「ニヤリ」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>全能力を最大まで上昇させ、「ニヤリ」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="358">
+    <source>全能力を最低まで低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>全能力を最低まで低下させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="359">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="360">
+    <source>{f87d}{0e00}属性で大威力の攻撃を3〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を3〜4回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="361">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/威力上昇{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/威力上昇{f801}{ffff}</target>
+  </entry>
+  <entry id="362">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="363">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="364">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 条件/ニヤリ時のみ使用可能{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 条件/ニヤリ時のみ使用可能{f801}{ffff}</target>
+  </entry>
+  <entry id="365">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 条件/ニヤリ時のみ使用可能{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 条件/ニヤリ時のみ使用可能{f801}{ffff}</target>
+  </entry>
+  <entry id="366">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="367">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="368">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="369">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="370">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="371">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="372">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="373">
+    <source>物理攻撃と銃攻撃を1ターン反射する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>物理攻撃と銃攻撃を1ターン反射する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="374">
+    <source>状態異常以外の魔法攻撃を1ターン反射する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常以外の魔法攻撃を1ターン反射する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="375">
+    <source>能力上昇効果を消去する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>能力上昇効果を消去する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="376">
+    <source>能力低下効果を消去する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>能力低下効果を消去する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="377">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="378">
+    <source>状態異常「魅了」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>状態異常「魅了」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="379">
+    <source>{f87d}{0e00}属性で大威力の攻撃を2〜4回行う{f801}対象/{f87d}{0f00} 付加/めまい{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を2〜4回行う{f801}対象/{f87d}{0f00} 付加/めまい{f801}{ffff}</target>
+  </entry>
+  <entry id="380">
+    <source>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>何も効果はない{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="381">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="382">
+    <source>次の敵ターンでプレスアイコンを3つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次の敵ターンでプレスアイコンを3つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="383">
+    <source>次の敵ターンでプレスアイコンを3つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>次の敵ターンでプレスアイコンを3つ減らす{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="384">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/烙印{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/烙印{f801}{ffff}</target>
+  </entry>
+  <entry id="385">
+    <source>{f87d}{0e00}属性で大威力の攻撃を6〜10回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を6〜10回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="386">
+    <source>{f87d}{0e00}属性で相手のMPを吸収する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で相手のMPを吸収する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="387">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="388">
+    <source>全能力を最大まで上昇させ、「ニヤリ」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>全能力を最大まで上昇させ、「ニヤリ」を付加する{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="389">
+    <source>全能力を最低まで低下させる{f801}対象/{f87d}{0f00} 付加/魔封{f801}{ffff}</source>
+    <target>全能力を最低まで低下させる{f801}対象/{f87d}{0f00} 付加/魔封{f801}{ffff}</target>
+  </entry>
+  <entry id="390">
+    <source>プレスターンアイコンを2つ増やす{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>プレスターンアイコンを2つ増やす{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="391">
+    <source>状態異常「混乱」を付加する{f801}対象/{f87d}{0f00} 付加/全能力低下{f801}{ffff}</source>
+    <target>状態異常「混乱」を付加する{f801}対象/{f87d}{0f00} 付加/全能力低下{f801}{ffff}</target>
+  </entry>
+  <entry id="392">
+    <source>{f87d}{0e00}属性で大威力の攻撃を4〜12回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を4〜12回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="393">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/即死{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/即死{f801}{ffff}</target>
+  </entry>
+  <entry id="394">
+    <source>{f87d}{0e00}属性で中威力の攻撃を1〜5回行う{f801}対象/{f87d}{0f00} 付加/混乱・貫通効果{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で中威力の攻撃を1〜5回行う{f801}対象/{f87d}{0f00} 付加/混乱・貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="395">
+    <source>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で特大威力の攻撃を1回行う{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="396">
+    <source>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/魔封 命中/低{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で大威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/魔封 命中/低{f801}{ffff}</target>
+  </entry>
+  <entry id="397">
+    <source>命中・回避率を大きく上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>命中・回避率を大きく上昇させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+  </entry>
+  <entry id="398">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 効果/状態異常に貫通大威力{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 効果/状態異常に貫通大威力{f801}{ffff}</target>
+  </entry>
+  <entry id="399">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} ニヤリ時/即死付加{f801}{ffff}</target>
+  </entry>
+  <entry id="400">
+    <source>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/魅了{f801}{ffff}</source>
+    <target>{f87d}{0e00}属性で小威力の攻撃を1回行う{f801}対象/{f87d}{0f00} 付加/魅了{f801}{ffff}</target>
+  </entry>
+  <entry id="401">
+    <source>物理属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>物理属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="402">
+    <source>物理属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</source>
+    <target>物理属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="403">
+    <source>物理属性攻撃を反射する{f801}対象/自分{f801}{ffff}</source>
+    <target>物理属性攻撃を反射する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="404">
+    <source>物理属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</source>
+    <target>物理属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="405">
+    <source>銃属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>銃属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="406">
+    <source>銃属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</source>
+    <target>銃属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="407">
+    <source>銃属性攻撃を反射する{f801}対象/自分{f801}{ffff}</source>
+    <target>銃属性攻撃を反射する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="408">
+    <source>銃属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</source>
+    <target>銃属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="409">
+    <source>火炎属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>火炎属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="410">
+    <source>火炎属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</source>
+    <target>火炎属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="411">
+    <source>火炎属性攻撃を反射する{f801}対象/自分{f801}{ffff}</source>
+    <target>火炎属性攻撃を反射する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="412">
+    <source>火炎属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</source>
+    <target>火炎属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="413">
+    <source>氷結属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>氷結属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="414">
+    <source>氷結属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</source>
+    <target>氷結属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="415">
+    <source>氷結属性攻撃を反射する{f801}対象/自分{f801}{ffff}</source>
+    <target>氷結属性攻撃を反射する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="416">
+    <source>氷結属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</source>
+    <target>氷結属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="417">
+    <source>電撃属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>電撃属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="418">
+    <source>電撃属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</source>
+    <target>電撃属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="419">
+    <source>電撃属性攻撃を反射する{f801}対象/自分{f801}{ffff}</source>
+    <target>電撃属性攻撃を反射する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="420">
+    <source>電撃属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</source>
+    <target>電撃属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="421">
+    <source>衝撃属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>衝撃属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="422">
+    <source>衝撃属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</source>
+    <target>衝撃属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="423">
+    <source>衝撃属性攻撃を反射する{f801}対象/自分{f801}{ffff}</source>
+    <target>衝撃属性攻撃を反射する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="424">
+    <source>衝撃属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</source>
+    <target>衝撃属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="425">
+    <source>呪殺属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>呪殺属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="426">
+    <source>呪殺属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</source>
+    <target>呪殺属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="427">
+    <source>破魔属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>破魔属性攻撃に対する耐性を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="428">
+    <source>破魔属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</source>
+    <target>破魔属性攻撃を無効化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="429">
+    <source>状態異常「睡眠・混乱・魅了・魔封」を無効化する{f801}対象/自分{f801}{ffff}</source>
+    <target>状態異常「睡眠・混乱・魅了・魔封」を無効化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="430">
+    <source>状態異常「毒・緊縛・風邪・めまい」を無効化する{f801}対象/自分{f801}{ffff}</source>
+    <target>状態異常「毒・緊縛・風邪・めまい」を無効化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="431">
+    <source>物理属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>物理属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="432">
+    <source>物理属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</source>
+    <target>物理属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="433">
+    <source>銃属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>銃属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="434">
+    <source>銃属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</source>
+    <target>銃属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="435">
+    <source>火炎属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>火炎属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="436">
+    <source>火炎属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</source>
+    <target>火炎属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="437">
+    <source>氷結属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>氷結属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="438">
+    <source>氷結属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</source>
+    <target>氷結属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="439">
+    <source>電撃属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>電撃属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="440">
+    <source>電撃属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</source>
+    <target>電撃属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="441">
+    <source>衝撃属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>衝撃属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="442">
+    <source>衝撃属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</source>
+    <target>衝撃属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="443">
+    <source>回復魔法の効果を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>回復魔法の効果を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="444">
+    <source>回復魔法の効果を強化する{f801}対象/自分 効果/大{f801}{ffff}</source>
+    <target>回復魔法の効果を強化する{f801}対象/自分 効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="445">
+    <source>自分のHPが0になったとき {f801}1回だけHP1で復活する{f801}{ffff}</source>
+    <target>自分のHPが0になったとき {f801}1回だけHP1で復活する{f801}{ffff}</target>
+  </entry>
+  <entry id="446">
+    <source>自分のHPが0になったとき {f801}1回だけHP全快で復活する{f801}{ffff}</source>
+    <target>自分のHPが0になったとき {f801}1回だけHP全快で復活する{f801}{ffff}</target>
+  </entry>
+  <entry id="447">
+    <source>物理または銃属性攻撃に対し 確率で反撃{f801}条件/自分が攻撃された際{f801}{ffff}</source>
+    <target>物理または銃属性攻撃に対し 確率で反撃{f801}条件/自分が攻撃された際{f801}{ffff}</target>
+  </entry>
+  <entry id="448">
+    <source>物理または銃属性攻撃に対し 確率で反撃{f801}条件/自分が攻撃された際 威力/大{f801}{ffff}</source>
+    <target>物理または銃属性攻撃に対し 確率で反撃{f801}条件/自分が攻撃された際 威力/大{f801}{ffff}</target>
+  </entry>
+  <entry id="449">
+    <source>物理または銃属性攻撃に対し 確率で反撃{f801}条件/味方の誰かが攻撃された際{f801}{ffff}</source>
+    <target>物理または銃属性攻撃に対し 確率で反撃{f801}条件/味方の誰かが攻撃された際{f801}{ffff}</target>
+  </entry>
+  <entry id="450">
+    <source>物理または銃属性攻撃に対し 確率で反撃{f801}条件/味方の誰かが攻撃された際 威力/大{f801}{ffff}</source>
+    <target>物理または銃属性攻撃に対し 確率で反撃{f801}条件/味方の誰かが攻撃された際 威力/大{f801}{ffff}</target>
+  </entry>
+  <entry id="451">
+    <source>バトル勝利時 自分のHPが回復する{f801}{ffff}</source>
+    <target>バトル勝利時 自分のHPが回復する{f801}{ffff}</target>
+  </entry>
+  <entry id="452">
+    <source>バトル勝利時 自分のMPが回復する{f801}{ffff}</source>
+    <target>バトル勝利時 自分のMPが回復する{f801}{ffff}</target>
+  </entry>
+  <entry id="453">
+    <source>バトル勝利時 自分のHP・MPが全快する{f801}{ffff}</source>
+    <target>バトル勝利時 自分のHP・MPが全快する{f801}{ffff}</target>
+  </entry>
+  <entry id="454">
+    <source>一定距離歩くごとに自分のHPが小回復する{f801}条件/ストックの中にいる間は無効{f801}{ffff}</source>
+    <target>一定距離歩くごとに自分のHPが小回復する{f801}条件/ストックの中にいる間は無効{f801}{ffff}</target>
+  </entry>
+  <entry id="455">
+    <source>一定距離歩くごとに自分のMPが小回復する{f801}条件/ストックの中にいる間は無効{f801}{ffff}</source>
+    <target>一定距離歩くごとに自分のMPが小回復する{f801}条件/ストックの中にいる間は無効{f801}{ffff}</target>
+  </entry>
+  <entry id="456">
+    <source>プレイヤーの仲魔が迷子になったとき{f801}100%阻止し 再びパーティに戻す{f801}{ffff}</source>
+    <target>プレイヤーの仲魔が迷子になったとき{f801}100%阻止し 再びパーティに戻す{f801}{ffff}</target>
+  </entry>
+  <entry id="457">
+    <source>敵から狙われづらくなる{f801}{ffff}</source>
+    <target>敵から狙われづらくなる{f801}{ffff}</target>
+  </entry>
+  <entry id="458">
+    <source>戦闘開始時一定確率で物理属性の攻撃を行う{f801}対象/敵単体 付加/即死・貫通効果{f801}{ffff}</source>
+    <target>戦闘開始時一定確率で物理属性の攻撃を行う{f801}対象/敵単体 付加/即死・貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="459">
+    <source>敵ターン中一定確率で物理属性の攻撃を行う{f801}対象/敵単体 付加/即死・貫通効果{f801}{ffff}</source>
+    <target>敵ターン中一定確率で物理属性の攻撃を行う{f801}対象/敵単体 付加/即死・貫通効果{f801}{ffff}</target>
+  </entry>
+  <entry id="460">
+    <source>弱点を突かれるたびに全能力上昇{f801}{ffff}</source>
+    <target>弱点を突かれるたびに全能力上昇{f801}{ffff}</target>
+  </entry>
+  <entry id="461">
+    <source>最大HPを上昇させる{f801}対象/自分 効果/小{f801}{ffff}</source>
+    <target>最大HPを上昇させる{f801}対象/自分 効果/小{f801}{ffff}</target>
+  </entry>
+  <entry id="462">
+    <source>最大HPを上昇させる{f801}対象/自分 効果/中{f801}{ffff}</source>
+    <target>最大HPを上昇させる{f801}対象/自分 効果/中{f801}{ffff}</target>
+  </entry>
+  <entry id="463">
+    <source>最大HPを上昇させる{f801}対象/自分 効果/大{f801}{ffff}</source>
+    <target>最大HPを上昇させる{f801}対象/自分 効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="464">
+    <source>最大MPを上昇させる{f801}対象/自分 効果/小{f801}{ffff}</source>
+    <target>最大MPを上昇させる{f801}対象/自分 効果/小{f801}{ffff}</target>
+  </entry>
+  <entry id="465">
+    <source>最大MPを上昇させる{f801}対象/自分 効果/中{f801}{ffff}</source>
+    <target>最大MPを上昇させる{f801}対象/自分 効果/中{f801}{ffff}</target>
+  </entry>
+  <entry id="466">
+    <source>最大MPを上昇させる{f801}対象/自分 効果/大{f801}{ffff}</source>
+    <target>最大MPを上昇させる{f801}対象/自分 効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="467">
+    <source>呪殺属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>呪殺属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="468">
+    <source>呪殺属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</source>
+    <target>呪殺属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="469">
+    <source>破魔属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>破魔属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="470">
+    <source>破魔属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</source>
+    <target>破魔属性攻撃時の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="471">
+    <source>回復・補助アイテムが使用可能になる{f801}対象/自分{f801}{ffff}</source>
+    <target>回復・補助アイテムが使用可能になる{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="472">
+    <source>全ての属性の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</source>
+    <target>全ての属性の攻撃力を強化する{f801}対象/自分 効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="473">
+    <source>呪殺属性攻撃を反射する{f801}対象/自分{f801}{ffff}</source>
+    <target>呪殺属性攻撃を反射する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="474">
+    <source>呪殺属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</source>
+    <target>呪殺属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="475">
+    <source>攻撃アイテムが使用可能になる{f801}対象/自分{f801}{ffff}</source>
+    <target>攻撃アイテムが使用可能になる{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="476">
+    <source>破魔属性攻撃を反射する{f801}対象/自分{f801}{ffff}</source>
+    <target>破魔属性攻撃を反射する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="477">
+    <source>バトル勝利時 自分のHPが小回復する{f801}{ffff}</source>
+    <target>バトル勝利時 自分のHPが小回復する{f801}{ffff}</target>
+  </entry>
+  <entry id="478">
+    <source>バトル勝利時 自分のMPが小回復する{f801}{ffff}</source>
+    <target>バトル勝利時 自分のMPが小回復する{f801}{ffff}</target>
+  </entry>
+  <entry id="479">
+    <source>攻撃時に敵の破魔吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</source>
+    <target>攻撃時に敵の破魔吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</target>
+  </entry>
+  <entry id="480">
+    <source>攻撃時に敵の呪殺吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</source>
+    <target>攻撃時に敵の呪殺吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</target>
+  </entry>
+  <entry id="481">
+    <source>破魔属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</source>
+    <target>破魔属性攻撃を吸収する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+  <entry id="482">
+    <source>状態変化になりにくくなる{f801}{ffff}</source>
+    <target>状態変化になりにくくなる{f801}{ffff}</target>
+  </entry>
+  <entry id="483">
+    <source>取得経験値を多く入手する{f801}{ffff}</source>
+    <target>取得経験値を多く入手する{f801}{ffff}</target>
+  </entry>
+  <entry id="484">
+    <source>取得経験値を多く入手する{f801}効果/大{f801}{ffff}</source>
+    <target>取得経験値を多く入手する{f801}効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="485">
+    <source>命中・回避率を上昇させる{f801}{ffff}</source>
+    <target>命中・回避率を上昇させる{f801}{ffff}</target>
+  </entry>
+  <entry id="486">
+    <source>命中・回避率を上昇させる{f801}効果/大{f801}{ffff}</source>
+    <target>命中・回避率を上昇させる{f801}効果/大{f801}{ffff}</target>
+  </entry>
+  <entry id="487">
+    <source>クリティカル発生率を上昇させる{f801}{ffff}</source>
+    <target>クリティカル発生率を上昇させる{f801}{ffff}</target>
+  </entry>
+  <entry id="488">
+    <source>攻撃時に敵の物理吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</source>
+    <target>攻撃時に敵の物理吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</target>
+  </entry>
+  <entry id="489">
+    <source>攻撃時に敵の銃吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</source>
+    <target>攻撃時に敵の銃吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</target>
+  </entry>
+  <entry id="490">
+    <source>攻撃時に敵の火炎吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</source>
+    <target>攻撃時に敵の火炎吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</target>
+  </entry>
+  <entry id="491">
+    <source>攻撃時に敵の氷結吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</source>
+    <target>攻撃時に敵の氷結吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</target>
+  </entry>
+  <entry id="492">
+    <source>攻撃時に敵の電撃吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</source>
+    <target>攻撃時に敵の電撃吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</target>
+  </entry>
+  <entry id="493">
+    <source>攻撃時に敵の衝撃吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</source>
+    <target>攻撃時に敵の衝撃吸収・反射・無効・耐性を{f801}貫通して無効化する{f801}{ffff}</target>
+  </entry>
+  <entry id="494">
+    <source>全属性の威力を強化し{f801}貫通効果が付加される{f801}{ffff}</source>
+    <target>全属性の威力を強化し{f801}貫通効果が付加される{f801}{ffff}</target>
+  </entry>
+  <entry id="495">
+    <source>回復魔法の効果を大きく強化する{f801}{ffff}</source>
+    <target>回復魔法の効果を大きく強化する{f801}{ffff}</target>
+  </entry>
+  <entry id="496">
+    <source>銃属性の威力を強化し{f801}貫通効果が付加される{f801}{ffff}</source>
+    <target>銃属性の威力を強化し{f801}貫通効果が付加される{f801}{ffff}</target>
+  </entry>
+  <entry id="497">
+    <source>魔法攻撃の威力を大きく強化する{f801}{ffff}</source>
+    <target>魔法攻撃の威力を大きく強化する{f801}{ffff}</target>
+  </entry>
+  <entry id="498">
+    <source>物理属性の威力を大きく強化する{f801}{ffff}</source>
+    <target>物理属性の威力を大きく強化する{f801}{ffff}</target>
+  </entry>
+  <entry id="499">
+    <source>物理属性の攻撃に貫通効果が付加される{f801}闇討ちの発動率アップ{f801}{ffff}</source>
+    <target>物理属性の攻撃に貫通効果が付加される{f801}闇討ちの発動率アップ{f801}{ffff}</target>
+  </entry>
+  <entry id="500">
+    <source>万能属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</source>
+    <target>万能属性攻撃時の攻撃力を強化する{f801}対象/自分{f801}{ffff}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,294 @@
+<mbm>
+  <entry id="0">
+    <source>これ{f816}以上{f817}いじょう{f818} {f873}{0600}を{f801}{f816}守{f817}まも{f818}ることができない!{f801}{f802}{ffff}</source>
+    <target>これ{f816}以上{f817}いじょう{f818} {f873}{0600}を{f801}{f816}守{f817}まも{f818}ることができない!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>逃げ出した・・・{f801}{f802}{ffff}</source>
+    <target>逃げ出した・・・{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>逃げられない!{f801}{f802}{ffff}</source>
+    <target>逃げられない!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>新手が現れた!{f801}{f802}{ffff}</source>
+    <target>新手が現れた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>全滅した・・・{f801}{f802}{ffff}</source>
+    <target>全滅した・・・{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>このバトルは逃げられない!{f801}{f802}{ffff}</source>
+    <target>このバトルは逃げられない!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>オートバトル実行中・・・ Bボタンでキャンセル {f801}{f802}{ffff}</source>
+    <target>オートバトル実行中・・・ Bボタンでキャンセル {f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>弱点オート実行中・・・ Bボタンでキャンセル  {f801}{f802}{ffff}</source>
+    <target>弱点オート実行中・・・ Bボタンでキャンセル  {f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>先制攻撃 成功!{f801}{f802}{ffff}</source>
+    <target>先制攻撃 成功!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f873}{0600}はぼーっとしている{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}はぼーっとしている{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f873}{0600}は自分が制御できない!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は自分が制御できない!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f873}{0600}は眠っている{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は眠っている{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f873}{0600}は身動きが取れない!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は身動きが取れない!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f873}{0600}はムダ話をしている{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}はムダ話をしている{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f873}{0600}は長々とムダ話をしている{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は長々とムダ話をしている{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f873}{0600}はまだムダ話をしている{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}はまだムダ話をしている{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f873}{0600}は運気上昇中!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は運気上昇中!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f873}{0600}はピンチに行動回数増加!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}はピンチに行動回数増加!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f873}{0600}は冴えて命中・回避率アップ!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は冴えて命中・回避率アップ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f873}{0600}は風邪で動きが鈍っている!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は風邪で動きが鈍っている!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f873}{0600}は毒に侵されている!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は毒に侵されている!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>残された仲魔は一生懸命がんばっている・・・{f801}{f802}{ffff}</source>
+    <target>残された仲魔は一生懸命がんばっている・・・{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f873}{0600}はどこかへ吹き飛ばされた!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}はどこかへ吹き飛ばされた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>仲魔は吹き飛ばされた!{f801}{f802}{ffff}</source>
+    <target>仲魔は吹き飛ばされた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f843}{0000}は倒れた!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は倒れた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f873}{0600}はニヤリと笑った・・・{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}はニヤリと笑った・・・{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f873}{0600}は食いしばった!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は食いしばった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f873}{0600}は不屈の闘志で復活した!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は不屈の闘志で復活した!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f873}{0600}に風邪が伝染した!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}に風邪が伝染した!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>効果が無かった!{f801}{f802}{ffff}</source>
+    <target>効果が無かった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>みんなの心に余裕が生まれた!{f801}{f802}{ffff}</source>
+    <target>みんなの心に余裕が生まれた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f873}{0600}は魔法威力が上昇中!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は魔法威力が上昇中!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>即死効果が発動した!{f801}{f802}{ffff}</source>
+    <target>即死効果が発動した!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>みんな ニヤリと笑った・・・{f801}{f802}{ffff}</source>
+    <target>みんな ニヤリと笑った・・・{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>守護壁が中和されて消えた!{f801}{f802}{ffff}</source>
+    <target>守護壁が中和されて消えた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>守護壁に攻撃が反射された!{f801}{f802}{ffff}</source>
+    <target>守護壁に攻撃が反射された!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f873}{0600}に烙印が押されている・・・{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}に烙印が押されている・・・{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>相性を貫通した!{f801}{f802}{ffff}</source>
+    <target>相性を貫通した!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f873}{0600}はクラクラしている{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}はクラクラしている{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f873}{0600}はウットリしている{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}はウットリしている{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f873}{0600}はメロメロしている{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}はメロメロしている{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f873}{0600}はムラムラしている{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}はムラムラしている{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f873}{0600}は{f873}{0700}をどついた{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は{f873}{0700}をどついた{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f873}{0600}は自分をどついた{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は自分をどついた{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f873}{0600}は仲間をどついた{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は仲間をどついた{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>{f873}{0600}は様子を見ている・・・{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は様子を見ている・・・{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f873}{0600}は召喚に失敗した{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は召喚に失敗した{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>仲魔は命令をボイコットした!{f801}{f802}{ffff}</source>
+    <target>仲魔は命令をボイコットした!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>パートナーたちの怒涛の攻撃!!{f801}{ffff}</source>
+    <target>パートナーたちの怒涛の攻撃!!{f801}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>しかし スキルは封じられている!{f801}{ffff}</source>
+    <target>しかし スキルは封じられている!{f801}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>{f873}{0600}は敵の攻撃に備えている{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は敵の攻撃に備えている{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f872}{0800}は絶大な効果を発揮した!{f801}{f802}{ffff}</source>
+    <target>{f872}{0800}は絶大な効果を発揮した!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>{f873}{0600}は行動に割り込んだ!{f801}{ffff}</source>
+    <target>{f873}{0600}は行動に割り込んだ!{f801}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f873}{0600}が勝手に割り込んできた!{f801}{ffff}</source>
+    <target>{f873}{0600}が勝手に割り込んできた!{f801}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f873}{0600}は我慢のフホホイで耐えた!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は我慢のフホホイで耐えた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>全能力アップ!{f801}{f802}{ffff}</source>
+    <target>全能力アップ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f873}{0600}は迷子を阻止した!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}は迷子を阻止した!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>パートナーは戦闘から離脱中・・・{f801}{f802}{ffff}</source>
+    <target>パートナーは戦闘から離脱中・・・{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>パートナーは戦闘に復帰した!{f801}{f802}{ffff}</source>
+    <target>パートナーは戦闘に復帰した!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>パートナーたちの連続攻撃!{f801}{ffff}</source>
+    <target>パートナーたちの連続攻撃!{f801}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>パートナーたちの疾風怒濤の攻撃!!{f801}{ffff}</source>
+    <target>パートナーたちの疾風怒濤の攻撃!!{f801}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f873}{0600}はスキルを封じられている!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}はスキルを封じられている!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>{f873}{0600}に効果はなかった!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}に効果はなかった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>ミトラ菩薩の全能力アップ!{f801}{f802}{ffff}</source>
+    <target>ミトラ菩薩の全能力アップ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>効果は最大まで発揮済み!{f801}{f802}{ffff}</source>
+    <target>効果は最大まで発揮済み!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f873}{0600}の{f873}{0700}耐性ダウン!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}の{f873}{0700}耐性ダウン!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>これ以上下がらない!{f801}{f802}{ffff}</source>
+    <target>これ以上下がらない!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>蘇りの大秘宝を使って復活しますか?{f801}{ffff}</source>
+    <target>蘇りの大秘宝を使って復活しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>蘇りの大秘宝によって守られた!{f801}{ffff}</source>
+    <target>蘇りの大秘宝によって守られた!{f801}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>{f873}{0600}は{f873}{0700}弱点に変化した!{f801}{ffff}</source>
+    <target>{f873}{0600}は{f873}{0700}弱点に変化した!{f801}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>悪魔召喚プログラムが機能していない・・・{f801}{ffff}</source>
+    <target>悪魔召喚プログラムが機能していない・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>仲魔は命令を理解できなかった{f801}{ffff}</source>
+    <target>仲魔は命令を理解できなかった{f801}{ffff}</target>
+  </entry>
+</mbm>

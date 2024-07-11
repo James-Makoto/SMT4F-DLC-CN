@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>パートナートピックを閲覧します{f801}{ffff}</source>
+    <target>パートナートピックを閲覧します{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>パートナートピックを閲覧しています{f801}{ffff}</source>
+    <target>パートナートピックを閲覧しています{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f872}{0100}を{f878}{0100}個入手した{f801}{ffff}</source>
+    <target>{f872}{0100}を{f878}{0100}個入手した{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>プレゼントを受け取りますか?{f801}{ffff}</source>
+    <target>プレゼントを受け取りますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>プレゼントを捨ててしまっても{f801}よろしいですか?{f801}{ffff}</source>
+    <target>プレゼントを捨ててしまっても{f801}よろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>プレゼントを捨てました{f801}{ffff}</source>
+    <target>プレゼントを捨てました{f801}{ffff}</target>
+  </entry>
+</mbm>

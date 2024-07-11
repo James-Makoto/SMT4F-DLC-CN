@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}ソシテ 全テハ 死ニ絶エタ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソシテ 全テハ 死ニ絶エタ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}助太刀ハ 果タサレタ…{f801}オビタダシキ 死ヲ伴イテ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}助太刀ハ 果タサレタ…{f801}オビタダシキ 死ヲ伴イテ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}コノ目デ シカト見届ケタ…{f801}生キテ往ク サムライ達ノ 戦イヲ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}コノ目デ シカト見届ケタ…{f801}生キテ往ク サムライ達ノ 戦イヲ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)すれちがい変身メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)すれちがい変身メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(仮)すれちがい変身メッセージ2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)すれちがい変身メッセージ2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(仮)すれちがい変身メッセージ3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)すれちがい変身メッセージ3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}死ガ 手渡ス コノ土産{f801}果タシテ ソノ命ヲ 守ルモノカ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}死ガ 手渡ス コノ土産{f801}果タシテ ソノ命ヲ 守ルモノカ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}命ノ土産ヲ 授ケヨウ{f801}サムライ達ノ 生ヲ守ッタ 品物ダ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}命ノ土産ヲ 授ケヨウ{f801}サムライ達ノ 生ヲ守ッタ 品物ダ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}死シタ 滅ビタ 消エ去ッタ{f801}ソシテ コノ土産ガ 残サレタ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}死シタ 滅ビタ 消エ去ッタ{f801}ソシテ コノ土産ガ 残サレタ…{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}他の はンター 食ッてきタ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}他の はンター 食ッてきタ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>悪魔はうれしそうに{f801}{f843}{0000}の下へ駆けよった!{f801}{f802}{ffff}</source>
+    <target>悪魔はうれしそうに{f801}{f843}{0000}の下へ駆けよった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}少シ 知ィ恵 つぃたー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}少シ 知ィ恵 つぃたー!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}宇ちゅウ 故郷…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}宇ちゅウ 故郷…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}{f843}{0000}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}木星で人類のルーツに遭遇してきました{f801}彼らは遙かカカ…ムム昔…シシシシシ{f801}{f802}あああああああああああああああ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}木星で人類のルーツに遭遇してきました{f801}彼らは遙かカカ…ムム昔…シシシシシ{f801}{f802}あああああああああああああああ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}{f843}{0000}…{f801}こレ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}…{f801}こレ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}べツ宇ちゅウ ホかイ道{f801}ロしや{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}べツ宇ちゅウ ホかイ道{f801}ロしや{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

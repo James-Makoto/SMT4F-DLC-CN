@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>テスト{f801}{ffff}</source>
+    <target>テスト{f801}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>ティルナノーグに転送されました{f801}{f802}ここでは 悪魔を倒すことで{f801}APアイテムを稼ぐことができます{f801}{ffff}</source>
+    <target>ティルナノーグに転送されました{f801}{f802}ここでは 悪魔を倒すことで{f801}APアイテムを稼ぐことができます{f801}{ffff}</target>
+  </entry>
+  <entry id="301">
+    <source>元の世界に帰りますか?{f801}{ffff}</source>
+    <target>元の世界に帰りますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="302">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+</mbm>

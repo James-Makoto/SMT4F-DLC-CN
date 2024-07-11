@@ -1,0 +1,34 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f843}{0000}は身動きとれない!{f801}{ffff}</source>
+    <target>{f843}{0000}は身動きとれない!{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f873}{3c00}はダメージをうけた{f801}{ffff}</source>
+    <target>{f873}{3c00}はダメージをうけた{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>ロウソクが減っていく…{f801}{ffff}</source>
+    <target>ロウソクが減っていく…{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>ウィッカーマンの炎がノゾミを襲う{f801}{ffff}</source>
+    <target>ウィッカーマンの炎がノゾミを襲う{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>天使の1体がノゾミを攻撃した!{f801}{ffff}</source>
+    <target>天使の1体がノゾミを攻撃した!{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>四門の玉にヒビが入る…{f801}{ffff}</source>
+    <target>四門の玉にヒビが入る…{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f873}{0500}ごとダメージを受けた!{f801}{ffff}</source>
+    <target>{f873}{0500}ごとダメージを受けた!{f801}{ffff}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="1">
+    <source>{f812}バロウズ{0000}{f87a}{0200}{f813}{0000}{0000}{d9ac}{0700}危険な悪魔の反応あり{f801}逃走も考えて{f801}{ffff}</source>
+    <target>{f812}バロウズ{0000}{f87a}{0200}{f813}{0000}{0000}{d9ac}{0700}危険な悪魔の反応あり{f801}逃走も考えて{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>ここに留まりますか?{f801}{ffff}</source>
+    <target>ここに留まりますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>本当に留まりますか?{f801}{ffff}</source>
+    <target>本当に留まりますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,302 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}排斥…ッ 排斥…ッ{f801}{f802}日本に…そぐわぬ…異分子は…{f801}すべて…抹殺…する…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}排斥…ッ 排斥…ッ{f801}{f802}日本に…そぐわぬ…異分子は…{f801}すべて…抹殺…する…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}だが…ストックが…満員…{f801}共闘は…ムリか…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}だが…ストックが…満員…{f801}共闘は…ムリか…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}俺は…{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}…{f801}今後とも…愛国…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}俺は…{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}…{f801}今後とも…愛国…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}だが…貴様…{f801}愛国…レベルが…足りん…{f801}{f802}それでは…仲魔に…なれん…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}だが…貴様…{f801}愛国…レベルが…足りん…{f801}{f802}それでは…仲魔に…なれん…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}よく…見ると…{f801}俺の…同志が…仲魔に…いるか…{f801}{f802}同志と…共に…{f801}国を…愛するの…だ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}よく…見ると…{f801}俺の…同志が…仲魔に…いるか…{f801}{f802}同志と…共に…{f801}国を…愛するの…だ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}他に…同志は…いないの…か…?{f801}誘って…みるぞ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}他に…同志は…いないの…か…?{f801}誘って…みるぞ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}だが…ストックが…足りん…{f801}共闘は…ムリか…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}だが…ストックが…足りん…{f801}共闘は…ムリか…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}待て…同志…ッ{f801}俺も…共に…戦うぞ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}待て…同志…ッ{f801}俺も…共に…戦うぞ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}構わん…ッ 少数精鋭…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}構わん…ッ 少数精鋭…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}では…俺も…仲魔に…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}では…俺も…仲魔に…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}代わりに…俺の…同志を…{f801}紹介…しよう…{f801}{f802}テロルな…奴ら…ばかりだ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}代わりに…俺の…同志を…{f801}紹介…しよう…{f801}{f802}テロルな…奴ら…ばかりだ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}同志が…いると…聞いて…きた…{f801}貴様が…そうなの…か…?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}同志が…いると…聞いて…きた…{f801}貴様が…そうなの…か…?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}我らが…愛国の…資金を…{f801}どうして…貴様…などに…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我らが…愛国の…資金を…{f801}どうして…貴様…などに…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}いつか…処刑して…やる…{f801}この国を…良くする…ため…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}いつか…処刑して…やる…{f801}この国を…良くする…ため…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}国を…良くする…ため…{f801}処刑…ッ 処刑…ッ 処刑…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}国を…良くする…ため…{f801}処刑…ッ 処刑…ッ 処刑…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}な…なぜだァァァァァ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}な…なぜだァァァァァ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}やめろ…この…国賊…め…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}やめろ…この…国賊…め…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>{f871}{0100}うお…ォォォォォ…ッ!{f801}処 刑 実 行 ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}うお…ォォォォォ…ッ!{f801}処 刑 実 行 ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f871}{0100}俺を…捕縛して…どうする…気だ…{f801}愛国の…資金を…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}俺を…捕縛して…どうする…気だ…{f801}愛国の…資金を…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f871}{0100}この…愛国者に…{f801}物資を…求める…のか…{f801}{f802}ならば…物資を…よこせ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}この…愛国者に…{f801}物資を…求める…のか…{f801}{f802}ならば…物資を…よこせ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f871}{0100}さあ…物資だ…{f801}これで…愛国の…戦い…を…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}さあ…物資だ…{f801}これで…愛国の…戦い…を…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}貴様は…愛国者…か…{f801}ならば…惜しみなく…与えよう…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}貴様は…愛国者…か…{f801}ならば…惜しみなく…与えよう…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f871}{0100}この…物資も…役立てろ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}この…物資も…役立てろ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>{f871}{0100}{f804}{0100}{f872}{0100}{f804}{0000}を{f804}{0100}{f878}{0100}個{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0100}{f872}{0100}{f804}{0000}を{f804}{0100}{f878}{0100}個{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f871}{0100}{f804}{0100}{f878}{0100}マッカ{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0100}{f878}{0100}マッカ{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}貴様の…{f804}{0100}生命力{f804}{0000}を…{f801}{f804}{0100}少しだけ{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}貴様の…{f804}{0100}生命力{f804}{0000}を…{f801}{f804}{0100}少しだけ{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>{f871}{0100}貴様の…{f804}{0100}生命力{f804}{0000}を…{f801}{f804}{0100}そこそこ{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}貴様の…{f804}{0100}生命力{f804}{0000}を…{f801}{f804}{0100}そこそこ{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}貴様の…{f804}{0100}生命力{f804}{0000}を…{f801}{f804}{0100}かなり{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}貴様の…{f804}{0100}生命力{f804}{0000}を…{f801}{f804}{0100}かなり{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>{f871}{0100}貴様の…{f804}{0100}生命力{f804}{0000}を…{f801}{f804}{0100}死ぬほど{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}貴様の…{f804}{0100}生命力{f804}{0000}を…{f801}{f804}{0100}死ぬほど{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}貴様の…{f804}{0100}精神力{f804}{0000}を…{f801}{f804}{0100}少しだけ{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}貴様の…{f804}{0100}精神力{f804}{0000}を…{f801}{f804}{0100}少しだけ{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>{f871}{0100}貴様の…{f804}{0100}精神力{f804}{0000}を…{f801}{f804}{0100}そこそこ{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}貴様の…{f804}{0100}精神力{f804}{0000}を…{f801}{f804}{0100}そこそこ{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}貴様の…{f804}{0100}精神力{f804}{0000}を…{f801}{f804}{0100}かなり{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}貴様の…{f804}{0100}精神力{f804}{0000}を…{f801}{f804}{0100}かなり{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f871}{0100}貴様の…{f804}{0100}精神力{f804}{0000}を…{f801}{f804}{0100}死ぬほど{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}貴様の…{f804}{0100}精神力{f804}{0000}を…{f801}{f804}{0100}死ぬほど{f804}{0000}…譲渡せよ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f871}{0100}貴様の…仲魔…{f801}{f804}{0100}{f873}{0200}の命{f804}{0000}を…譲渡せよ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}貴様の…仲魔…{f801}{f804}{0100}{f873}{0200}の命{f804}{0000}を…譲渡せよ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f871}{0100}{f804}{0100}アレ{f804}{0000}を…譲渡せよ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0100}アレ{f804}{0000}を…譲渡せよ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f871}{0100}俺が…欲しい…物資…{f801}愛国者…なら…分かる…はず…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}俺が…欲しい…物資…{f801}愛国者…なら…分かる…はず…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}なかなかの…愛国心…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}なかなかの…愛国心…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>{f871}{0100}その…程度の…愛国心…か…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}その…程度の…愛国心…か…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}よし…このくらい…だな…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}よし…このくらい…だな…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f871}{0100}拒否…だと…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}拒否…だと…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}出し惜しみ…したな…?{f801}愛国を…見くびった…な…?{f801}{f802}処刑…ッ 処刑…ッ 処刑…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}出し惜しみ…したな…?{f801}愛国を…見くびった…な…?{f801}{f802}処刑…ッ 処刑…ッ 処刑…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>{f871}{0100}もう…いい…{f801}貴様には…失望…した…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}もう…いい…{f801}貴様には…失望…した…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}ごまかした…な…?{f801}愛国を…見くびった…な…?{f801}{f802}処刑…ッ 処刑…ッ 処刑…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ごまかした…な…?{f801}愛国を…見くびった…な…?{f801}{f802}処刑…ッ 処刑…ッ 処刑…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>{f871}{0100}役立たず…め…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}役立たず…め…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}魔石…なくして…国は…愛せぬ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}魔石…なくして…国は…愛せぬ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>{f871}{0100}要求を…ひたすら…拒む…{f801}これも…また…愛国心…か…{f801}{f802}素晴らし…い…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}要求を…ひたすら…拒む…{f801}これも…また…愛国心…か…{f801}{f802}素晴らし…い…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}要求を…ひたすら…呑む…{f801}愛国…たりえぬ…軟弱…{f801}{f802}目障り…だ…失せろ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}要求を…ひたすら…呑む…{f801}愛国…たりえぬ…軟弱…{f801}{f802}目障り…だ…失せろ…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>{f871}{0100}何ら…物資を…持たず…{f801}貴様は…愛国の…戦い…を…{f801}{f802}素晴らし…い…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}何ら…物資を…持たず…{f801}貴様は…愛国の…戦い…を…{f801}{f802}素晴らし…い…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}よし…撤収…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}よし…撤収…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>{f871}{0100}同志…{f843}{0000}…{f801}また…会えた…な…{f801}{f802}どうだ…愛国…しているか…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}同志…{f843}{0000}…{f801}また…会えた…な…{f801}{f802}どうだ…愛国…しているか…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}本来…ならば…断るが…{f801}同志の…頼みと…あらば…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}本来…ならば…断るが…{f801}同志の…頼みと…あらば…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>{f871}{0100}愛国の…戦いの…ため…{f801}資金も…必要…だろう…{f801}{f802}これを…持って…いけ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}愛国の…戦いの…ため…{f801}資金も…必要…だろう…{f801}{f802}これを…持って…いけ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}愛国の…戦いの…ため…{f801}物資も…必要…だろう…{f801}{f802}これを…持って…いけ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}愛国の…戦いの…ため…{f801}物資も…必要…だろう…{f801}{f802}これを…持って…いけ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>{f871}{0100}いくら…愛国者…でも…{f801}同じ…会話は…飽きる…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}いくら…愛国者…でも…{f801}同じ…会話は…飽きる…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>{f871}{0100}やっと…見つけた…ぞ…{f801}同志…{f843}{0000}…{f801}{f802}また…共に…往こう…{f801}愛国者の…戦場に…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}やっと…見つけた…ぞ…{f801}同志…{f843}{0000}…{f801}{f802}また…共に…往こう…{f801}愛国者の…戦場に…ッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>{f871}{0100}殺さないで…くれ…{f801}同じ…愛国者…ではない…か…{f801}{f802}何でも…要求を…呑む…{f801}言って…みるが…いい…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}殺さないで…くれ…{f801}同じ…愛国者…ではない…か…{f801}{f802}何でも…要求を…呑む…{f801}言って…みるが…いい…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>{f871}{0100}愛国者に…二言は…ない…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}愛国者に…二言は…ない…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>{f871}{0100}愛国に…殉ずる…ッ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}愛国に…殉ずる…ッ!{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

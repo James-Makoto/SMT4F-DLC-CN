@@ -1,0 +1,286 @@
+<mbm>
+  <entry id="0">
+    <source>「{f811}{2800}」{f801}を受注しました{f801}{ffff}</source>
+    <target>「{f811}{2800}」{f801}を受注しました{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>「{f811}{2800}」{f801}を達成しました!{f801}{ffff}</source>
+    <target>「{f811}{2800}」{f801}を達成しました!{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>「{f811}{2800}」{f801}をギブアップしました{f801}{ffff}</source>
+    <target>「{f811}{2800}」{f801}をギブアップしました{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f873}{0100}、残り{f878}{0100}体です{f801}{ffff}</source>
+    <target>{f873}{0100}、残り{f878}{0100}体です{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>ゲストが参加します{f801}{ffff}</source>
+    <target>ゲストが参加します{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>同行者が離脱しました{f801}{ffff}</source>
+    <target>同行者が離脱しました{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>同行者が一時的に離脱しました{f801}{ffff}</source>
+    <target>同行者が一時的に離脱しました{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>再び 仲間と共に往くことにした{f801}{ffff}</source>
+    <target>再び 仲間と共に往くことにした{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f872}{0100}を渡しますか?{f801}{ffff}</source>
+    <target>{f872}{0100}を渡しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f872}{0100}を{f878}{0100}個渡しますか?{f801}{ffff}</source>
+    <target>{f872}{0100}を{f878}{0100}個渡しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f873}{0100}を渡しますか?{f801}{ffff}</source>
+    <target>{f873}{0100}を渡しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>納品をやめました{f801}{ffff}</source>
+    <target>納品をやめました{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f811}{2800}は明晰状態になった!{f801}{ffff}</source>
+    <target>{f811}{2800}は明晰状態になった!{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f843}{0000}は回復した{f801}{ffff}</source>
+    <target>{f843}{0000}は回復した{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f843}{0000}たちは回復した{f801}{ffff}</source>
+    <target>{f843}{0000}たちは回復した{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>「{f811}{2800}」{f801}が破棄されました{f801}{ffff}</source>
+    <target>「{f811}{2800}」{f801}が破棄されました{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>???{f801}{ffff}</source>
+    <target>???{f801}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f872}{0100}×{f878}{0100}{f801}を納品する{f801}{ffff}</source>
+    <target>{f872}{0100}×{f878}{0100}{f801}を納品する{f801}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}を納品する{f801}{ffff}</source>
+    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}を納品する{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} を納品する{f801}{ffff}</source>
+    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} を納品する{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400} を納品する{f801}{ffff}</source>
+    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400} を納品する{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f873}{0100}×{f878}{0100}{f801}を討伐する{f801}{ffff}</source>
+    <target>{f873}{0100}×{f878}{0100}{f801}を討伐する{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}を討伐する{f801}{ffff}</source>
+    <target>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}を討伐する{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} を討伐する{f801}{ffff}</source>
+    <target>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} を討伐する{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} {f873}{0400}×{f878}{0400} を討伐する{f801}{ffff}</source>
+    <target>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} {f873}{0400}×{f878}{0400} を討伐する{f801}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f872}{0100}×{f878}{0100} を見せる{f801}{ffff}</source>
+    <target>{f872}{0100}×{f878}{0100} を見せる{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}を見せる{f801}{ffff}</source>
+    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}を見せる{f801}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} を見せる{f801}{ffff}</source>
+    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} を見せる{f801}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400} を見せる{f801}{ffff}</source>
+    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400} を見せる{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>{f873}{0100}×{f878}{0100}{f801}を見せる{f801}{ffff}</source>
+    <target>{f873}{0100}×{f878}{0100}{f801}を見せる{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}を見せる{f801}{ffff}</source>
+    <target>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}を見せる{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} を見せる{f801}{ffff}</source>
+    <target>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} を見せる{f801}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} {f873}{0400}×{f878}{0400} を見せる{f801}{ffff}</source>
+    <target>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} {f873}{0400}×{f878}{0400} を見せる{f801}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>「{f811}{2800}」{f801}を受注しますか?{f801}{ffff}</source>
+    <target>「{f811}{2800}」{f801}を受注しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>「{f811}{2800}」{f801}をギブアップしますか?{f801}{ffff}</source>
+    <target>「{f811}{2800}」{f801}をギブアップしますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>受注中のクエストをギブアップして{f801}このクエストを受注しますか?{f801}{ffff}</source>
+    <target>受注中のクエストをギブアップして{f801}このクエストを受注しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>「{f811}{2800}」{f801}を受注しました{f801}{ffff}</source>
+    <target>「{f811}{2800}」{f801}を受注しました{f801}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>このクエストは現在受注できません{f801}{ffff}</source>
+    <target>このクエストは現在受注できません{f801}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>納品クエストは{f801}受注する必要がありません{f801}{ffff}</source>
+    <target>納品クエストは{f801}受注する必要がありません{f801}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f812}バロウズ{0000}{f87a}{0100}{f813}{0100}{0000}{851a}{0600}このクエスト いまのレベルでは危険よ{f801}それでも挑戦する?{f801}{ffff}</source>
+    <target>{f812}バロウズ{0000}{f87a}{0100}{f813}{0100}{0000}{851a}{0600}このクエスト いまのレベルでは危険よ{f801}それでも挑戦する?{f801}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>デーモンDNAが{f878}{0100}個以上の仲魔を連れてくる{f801}{ffff}</source>
+    <target>デーモンDNAが{f878}{0100}個以上の仲魔を連れてくる{f801}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>デーモンDNA {f811}{2900}{f801}を所持している仲魔を連れてくる{f801}{ffff}</source>
+    <target>デーモンDNA {f811}{2900}{f801}を所持している仲魔を連れてくる{f801}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>DNA {f811}{2900}{f801}{f811}{2a00} を所持する仲魔を連れてくる{f801}{ffff}</source>
+    <target>DNA {f811}{2900}{f801}{f811}{2a00} を所持する仲魔を連れてくる{f801}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>DNA {f811}{2900} {f811}{2a00}{f801}{f811}{2b00} を所持する仲魔を連れてくる{f801}{ffff}</source>
+    <target>DNA {f811}{2900} {f811}{2a00}{f801}{f811}{2b00} を所持する仲魔を連れてくる{f801}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>DNA {f811}{2900} {f811}{2a00}{f801}{f811}{2b00} {f811}{2c00} の所持悪魔を見せる{f801}{ffff}</source>
+    <target>DNA {f811}{2900} {f811}{2a00}{f801}{f811}{2b00} {f811}{2c00} の所持悪魔を見せる{f801}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f873}{0100} を納品する{f801}{ffff}</source>
+    <target>{f873}{0100} を納品する{f801}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>{f873}{0100} {f873}{0200}{f801}を納品する{f801}{ffff}</source>
+    <target>{f873}{0100} {f873}{0200}{f801}を納品する{f801}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>{f873}{0100} {f873}{0200}{f801}{f873}{0300} を納品する{f801}{ffff}</source>
+    <target>{f873}{0100} {f873}{0200}{f801}{f873}{0300} を納品する{f801}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>{f873}{0100} {f873}{0200}{f801}{f873}{0300} {f873}{0400} を納品する{f801}{ffff}</source>
+    <target>{f873}{0100} {f873}{0200}{f801}{f873}{0300} {f873}{0400} を納品する{f801}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>このクエストを受注すると{f801}バトルへ移行します よろしいですか?{f801}{ffff}</source>
+    <target>このクエストを受注すると{f801}バトルへ移行します よろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>このクエストは達成済みです{f801}{ffff}</source>
+    <target>このクエストは達成済みです{f801}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>{f872}{0100}×{f878}{0100}{f801}を集める{f801}{ffff}</source>
+    <target>{f872}{0100}×{f878}{0100}{f801}を集める{f801}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}を集める{f801}{ffff}</source>
+    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}を集める{f801}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} を集める{f801}{ffff}</source>
+    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} を集める{f801}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400} を集める{f801}{ffff}</source>
+    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400} を集める{f801}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f873}{0100} {f873}{0200}が仲魔になった{f801}{ffff}</source>
+    <target>{f873}{0100} {f873}{0200}が仲魔になった{f801}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>このクエストを受注すると{f801}別の場所へ移行します よろしいですか?{f801}{ffff}</source>
+    <target>このクエストを受注すると{f801}別の場所へ移行します よろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>{f843}{0000}は{f801}要求物を納品した{f801}{ffff}</source>
+    <target>{f843}{0000}は{f801}要求物を納品した{f801}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f843}{0000}は{f801}要求物を全て納品した{f801}{ffff}</source>
+    <target>{f843}{0000}は{f801}要求物を全て納品した{f801}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>ギブアップすると受注前の{f801}場所へ戻ります よろしいですか?{f801}{ffff}</source>
+    <target>ギブアップすると受注前の{f801}場所へ戻ります よろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>受注中のクエストデータが見つかりません{f801}クエストをキャンセルします{f801}{ffff}</source>
+    <target>受注中のクエストデータが見つかりません{f801}クエストをキャンセルします{f801}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>受注中のクエストデータを読み込めません{f801}でした 受注をキャンセルします{f801}{ffff}</source>
+    <target>受注中のクエストデータを読み込めません{f801}でした 受注をキャンセルします{f801}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>受注前の場所へ戻ります{f801}{ffff}</source>
+    <target>受注前の場所へ戻ります{f801}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>このクエストを受注すると{f801}別の場所へ移行します よろしいですか?{f801}{ffff}</source>
+    <target>このクエストを受注すると{f801}別の場所へ移行します よろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>元の場所に戻り{f801}クエストをキャンセルしました{f801}{ffff}</source>
+    <target>元の場所に戻り{f801}クエストをキャンセルしました{f801}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>{f811}{2900}を{f801}{f811}{2a00}{f811}{2b00}以上達成する{f801}{ffff}</source>
+    <target>{f811}{2900}を{f801}{f811}{2a00}{f811}{2b00}以上達成する{f801}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>実績クエストは{f801}受注する必要がありません{f801}{ffff}</source>
+    <target>実績クエストは{f801}受注する必要がありません{f801}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>このクエストを受注すると{f801}バトルへ移行します{f801}{f802}「{f811}{2800}」{f801}を受注しますか?{f801}{ffff}</source>
+    <target>このクエストを受注すると{f801}バトルへ移行します{f801}{f802}「{f811}{2800}」{f801}を受注しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>アイテムを入手しますか?{f801}{ffff}</source>
+    <target>アイテムを入手しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>{f872}{0100}を{f878}{0100}個{f801}入手しました{f801}{ffff}</source>
+    <target>{f872}{0100}を{f878}{0100}個{f801}入手しました{f801}{ffff}</target>
+  </entry>
+</mbm>

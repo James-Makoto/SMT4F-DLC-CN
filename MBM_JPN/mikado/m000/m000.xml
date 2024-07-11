@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>儀式前常駐テスト{f801}{ffff}</source>
+    <target>儀式前常駐テスト{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>アキュラ像広場に行って{f801}ガントレットの儀式を受けますか?{f801}{ffff}</source>
+    <target>アキュラ像広場に行って{f801}ガントレットの儀式を受けますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+</mbm>

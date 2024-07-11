@@ -1,0 +1,394 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>今の状態では{f801}この悪魔と交渉できない{f801}{f802}{ffff}</source>
+    <target>今の状態では{f801}この悪魔と交渉できない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>この相手には{f801}スカウトが通用しないようだ{f801}{f802}{ffff}</source>
+    <target>この相手には{f801}スカウトが通用しないようだ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f843}{0000}の言葉は届かない{f801}もはや仲間とは思っていないようだ{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}の言葉は届かない{f801}もはや仲間とは思っていないようだ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f843}{0000}は交渉を試みた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は交渉を試みた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f843}{0000}は{f801}さっきまで仲間だった者に声をかけた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}さっきまで仲間だった者に声をかけた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f843}{0000}は{f801}悪魔との交渉を試みた…{f801}{f802}しかし この物体とは{f801}会話することができなかった!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}悪魔との交渉を試みた…{f801}{f802}しかし この物体とは{f801}会話することができなかった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f843}{0000}は{f801}悪魔との交渉を試みた…{f801}{f802}ダメだ 相手は耳を貸そうとしない!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}悪魔との交渉を試みた…{f801}{f802}ダメだ 相手は耳を貸そうとしない!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f843}{0000}は{f801}悪魔との交渉を試みた…{f801}{f802}ダメだ 相手に言葉が通じない!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}悪魔との交渉を試みた…{f801}{f802}ダメだ 相手に言葉が通じない!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f843}{0000}は{f801}相手に交渉を試みた…{f801}{f802}ダメだ 相手に話し合う気がない!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}相手に交渉を試みた…{f801}{f802}ダメだ 相手に話し合う気がない!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f843}{0000}は{f801}軍勢に声をかけた…{f801}{f802}ダメだ 話がまとまらない!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}軍勢に声をかけた…{f801}{f802}ダメだ 話がまとまらない!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f843}{0000}は{f801}シェーシャとの交渉を試みた…{f801}{f802}ダメだ 相手に言葉が通じない!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}シェーシャとの交渉を試みた…{f801}{f802}ダメだ 相手に言葉が通じない!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f843}{0000}は{f801}シェーシャとの交渉を試みた…{f801}{f802}ダメだ 相手に話し合う気がない!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}シェーシャとの交渉を試みた…{f801}{f802}ダメだ 相手に話し合う気がない!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f843}{0000}は{f801}悪魔との交渉を試みた…{f801}{f802}しかし YHVHの支配下にある者に{f801}{f843}{0000}の声は届かない{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}悪魔との交渉を試みた…{f801}{f802}しかし YHVHの支配下にある者に{f801}{f843}{0000}の声は届かない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f843}{0000}はYHVHに{f801}声をかけようとしたが 言葉が出ない!{f801}{f802}≪言葉≫そのものであるYHVHに対して{f801}交渉を可能にする言葉など存在しない!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}はYHVHに{f801}声をかけようとしたが 言葉が出ない!{f801}{f802}≪言葉≫そのものであるYHVHに対して{f801}交渉を可能にする言葉など存在しない!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f843}{0000}は{f801}悪魔との会話を試みた…{f801}{f802}しかし 悪魔は我を忘れている!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}悪魔との会話を試みた…{f801}{f802}しかし 悪魔は我を忘れている!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f843}{0000}は{f801}悪魔との交渉を試みた…{f801}{f802}しかし 高次元の存在であるこの悪魔に{f801}{f843}{0000}の言語は通じなかった{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}悪魔との交渉を試みた…{f801}{f802}しかし 高次元の存在であるこの悪魔に{f801}{f843}{0000}の言語は通じなかった{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f812}ナバール{0000}{f81b}{4930}{3033}{3034}{3900}{0000}{0000}黙れ 私は絶対に許さんぞ…!{f801}{f802}{ffff}</source>
+    <target>{f812}ナバール{0000}{f81b}{4930}{3033}{3034}{3900}{0000}{0000}黙れ 私は絶対に許さんぞ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f812}ノゾミ{0000}{f81b}{4930}{3034}{3035}{3100}{0000}{0000}無駄よ 容赦はしないわ{f801}{f802}{ffff}</source>
+    <target>{f812}ノゾミ{0000}{f81b}{4930}{3034}{3035}{3100}{0000}{0000}無駄よ 容赦はしないわ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f812}ハレルヤ{0000}{f81b}{4930}{3035}{3036}{3300}{0000}{0000}やめろ 聞きたくない…!{f801}{f802}{ffff}</source>
+    <target>{f812}ハレルヤ{0000}{f81b}{4930}{3035}{3036}{3300}{0000}{0000}やめろ 聞きたくない…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f812}ガストン{0000}{f81b}{4930}{3036}{3037}{3500}{0000}{0000}フン…{f801}{f802}{ffff}</source>
+    <target>{f812}ガストン{0000}{f81b}{4930}{3036}{3037}{3500}{0000}{0000}フン…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f812}イザボー{0000}{f81b}{4930}{3038}{3034}{3500}{0000}{0000}黙って! 手加減はしなくてよ{f801}{f802}{ffff}</source>
+    <target>{f812}イザボー{0000}{f81b}{4930}{3038}{3034}{3500}{0000}{0000}黙って! 手加減はしなくてよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f812}トキ{0000}{f81b}{4930}{3037}{3036}{3000}{0000}{0000}仕方…ないね 主様…{f801}{f802}{ffff}</source>
+    <target>{f812}トキ{0000}{f81b}{4930}{3037}{3036}{3000}{0000}{0000}仕方…ないね 主様…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>だがストックが一杯で{f801}仲魔にできない…{f801}{f802}{ffff}</source>
+    <target>だがストックが一杯で{f801}仲魔にできない…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>だがレベルが足りず{f801}仲魔にできない…{f801}{f802}{ffff}</source>
+    <target>だがレベルが足りず{f801}仲魔にできない…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>先に攻撃したせいで{f801}交渉する気はないようだ…{f801}{f802}{ffff}</source>
+    <target>先に攻撃したせいで{f801}交渉する気はないようだ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f843}{0000}の声で{f801}相手は眠りから覚めたようだ…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}の声で{f801}相手は眠りから覚めたようだ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f843}{0000}は{f801}仲魔になるよう交渉を持ちかけた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}仲魔になるよう交渉を持ちかけた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f843}{0000}は{f801}資金提供するよう交渉を持ちかけた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}資金提供するよう交渉を持ちかけた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f843}{0000}は{f801}アイテムを譲るよう交渉を持ちかけた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}アイテムを譲るよう交渉を持ちかけた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>悪魔は気に入ったようだ{f801}{f802}{ffff}</source>
+    <target>悪魔は気に入ったようだ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>効果抜群!{f801}悪魔の心をガッチリつかんだ!{f801}{f802}{ffff}</source>
+    <target>効果抜群!{f801}悪魔の心をガッチリつかんだ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>悪魔は気に入らないようだ{f801}{f802}{ffff}</source>
+    <target>悪魔は気に入らないようだ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>悪魔は熱っぽい目で{f801}{f843}{0000}を見つめている…{f801}{f802}{ffff}</source>
+    <target>悪魔は熱っぽい目で{f801}{f843}{0000}を見つめている…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}が{f801}仲魔になった!{f801}{f802}{ffff}</source>
+    <target>{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}が{f801}仲魔になった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>悪魔は{f801}周りに声をかけてみた…{f801}{f802}{ffff}</source>
+    <target>悪魔は{f801}周りに声をかけてみた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f873}{0100}が{f801}名乗りをあげた!{f801}{f802}{ffff}</source>
+    <target>{f873}{0100}が{f801}名乗りをあげた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>しかし どの悪魔も{f801}名乗りをあげなかった…{f801}{f802}{ffff}</source>
+    <target>しかし どの悪魔も{f801}名乗りをあげなかった…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f873}{0100}の{f801}パラメータがアップした!{f801}{f802}{ffff}</source>
+    <target>{f873}{0100}の{f801}パラメータがアップした!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f873}{0100}のパラメータが{f801}通常より多めにアップした!{f801}{f802}{ffff}</source>
+    <target>{f873}{0100}のパラメータが{f801}通常より多めにアップした!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f873}{0100}のパラメータが{f801}通常よりもかなりアップした!{f801}{f802}{ffff}</source>
+    <target>{f873}{0100}のパラメータが{f801}通常よりもかなりアップした!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f873}{0100}は{f801}{f804}{0500}{f877}{0100}{f804}{0000}を習得した!{f801}{f802}{ffff}</source>
+    <target>{f873}{0100}は{f801}{f804}{0500}{f877}{0100}{f804}{0000}を習得した!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f843}{0000}は あらゆる手段で{f801}資金の提供を求めた{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は あらゆる手段で{f801}資金の提供を求めた{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f843}{0000}は{f801}{f878}{0100}マッカ出させた!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}{f878}{0100}マッカ出させた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>さらに{f801}{f878}{0100}マッカ出させた!{f801}{f802}{ffff}</source>
+    <target>さらに{f801}{f878}{0100}マッカ出させた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>さらに資金提供を求める{f801}手を引いておく{f801}{f802}{ffff}</source>
+    <target>さらに資金提供を求める{f801}手を引いておく{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f843}{0000}は{f801}マッカを手に そそくさと離れた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}マッカを手に そそくさと離れた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>フリンが価格を吊り上げたことで{f801}{f878}{0100}マッカ出させた!{f801}{f802}{ffff}</source>
+    <target>フリンが価格を吊り上げたことで{f801}{f878}{0100}マッカ出させた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>さらに フリンが{f801}{f878}{0100}マッカ出させた!{f801}{f802}{ffff}</source>
+    <target>さらに フリンが{f801}{f878}{0100}マッカ出させた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>相手は身動きできない!{f801}たっぷり資金提供してもらえそうだ{f801}{f802}{ffff}</source>
+    <target>相手は身動きできない!{f801}たっぷり資金提供してもらえそうだ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>{f843}{0000}は{f801}ひとしきり資金提供してもらった{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}ひとしきり資金提供してもらった{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f843}{0000}は{f801}総額{f878}{0100}マッカせしめた{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}総額{f878}{0100}マッカせしめた{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>{f843}{0000}は{f801}総額{f878}{0100}マッカせしめた{f801}{f802}しかし 相手をキレさせてしまった!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}総額{f878}{0100}マッカせしめた{f801}{f802}しかし 相手をキレさせてしまった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f843}{0000}は{f801}1マッカも得ることができなかった…{f801}{f802}しかも 相手をキレさせてしまった!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}1マッカも得ることができなかった…{f801}{f802}しかも 相手をキレさせてしまった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>相手は混乱している!{f801}大盤振る舞いだ!{f801}{f802}{ffff}</source>
+    <target>相手は混乱している!{f801}大盤振る舞いだ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>応じる{f801}断る{f801}ごまかす{f801}{f802}{ffff}</source>
+    <target>応じる{f801}断る{f801}ごまかす{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>応じる{f801}断る{f801}ごまかす{f801}切り上げる{f801}{f802}{ffff}</source>
+    <target>応じる{f801}断る{f801}ごまかす{f801}切り上げる{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>応じる{f801}断る{f801}{f802}{ffff}</source>
+    <target>応じる{f801}断る{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>持ってない{f801}ごまかす{f801}{f802}{ffff}</source>
+    <target>持ってない{f801}ごまかす{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>持ってない{f801}ごまかす{f801}切り上げる{f801}{f802}{ffff}</source>
+    <target>持ってない{f801}ごまかす{f801}切り上げる{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>こいつで決める{f801}普通に交渉する{f801}{f802}{ffff}</source>
+    <target>こいつで決める{f801}普通に交渉する{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>応じる{f801}断る{f801}{f802}{ffff}</source>
+    <target>応じる{f801}断る{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>アレを渡す{f801}やめておく{f801}{f802}{ffff}</source>
+    <target>アレを渡す{f801}やめておく{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>アイテム{f801}マッカ{f801}HP{f801}MP{f801}{f802}{ffff}</source>
+    <target>アイテム{f801}マッカ{f801}HP{f801}MP{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>{f843}{0000}は{f801}要求を適当にごまかした…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}要求を適当にごまかした…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>悪魔はもらった気になった!{f801}{f802}{ffff}</source>
+    <target>悪魔はもらった気になった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>しかし悪魔に見破られた!{f801}{f802}{ffff}</source>
+    <target>しかし悪魔に見破られた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f843}{0000}は{f801}強引に話を切り上げた!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}強引に話を切り上げた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>仲魔の{f873}{0200}は{f801}悪魔に命を奪われた…{f801}{f802}{ffff}</source>
+    <target>仲魔の{f873}{0200}は{f801}悪魔に命を奪われた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f843}{0000}は{f87e}のHPを{f801}悪魔に捧げた{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f87e}のHPを{f801}悪魔に捧げた{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>効果抜群!{f801}悪魔はすごく満足した!{f801}{f802}{ffff}</source>
+    <target>効果抜群!{f801}悪魔はすごく満足した!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>効果抜群!{f801}悪魔は なぜか満足してしまった!{f801}{f802}{ffff}</source>
+    <target>効果抜群!{f801}悪魔は なぜか満足してしまった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>{f843}{0000}は{f801}要求されたアイテムを持っていなかった!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}要求されたアイテムを持っていなかった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>しかし{f843}{0000}は{f801}要求物を持っていなかった!{f801}{f802}{ffff}</source>
+    <target>しかし{f843}{0000}は{f801}要求物を持っていなかった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>{f804}{0500}{f873}{0100}{f804}{0000}が{f801}迷子から帰ってきた!{f801}{f802}{ffff}</source>
+    <target>{f804}{0500}{f873}{0100}{f804}{0000}が{f801}迷子から帰ってきた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="75">
+    <source>さらに{f873}{0100}は{f801}おみやげを持っていた…{f801}{f802}{ffff}</source>
+    <target>さらに{f873}{0100}は{f801}おみやげを持っていた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="76">
+    <source>仲魔になれ{f801}アイテムをよこせ{f801}金をよこせ{f801}くたばれ{f801}{f802}{ffff}</source>
+    <target>仲魔になれ{f801}アイテムをよこせ{f801}金をよこせ{f801}くたばれ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="77">
+    <source>契約書をよこせ{f801}アイテムをよこせ{f801}金をよこせ{f801}くたばれ{f801}{f802}{ffff}</source>
+    <target>契約書をよこせ{f801}アイテムをよこせ{f801}金をよこせ{f801}くたばれ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="78">
+    <source>悪魔は{f801}必死に何かを訴えている…{f801}{f802}しかし{f843}{0000}には{f801}何が何だか よく分からなかった!{f801}{f802}{ffff}</source>
+    <target>悪魔は{f801}必死に何かを訴えている…{f801}{f802}しかし{f843}{0000}には{f801}何が何だか よく分からなかった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="79">
+    <source>悪魔はとても友好的だ{f801}顔なじみと思われているらしい{f801}{f802}{ffff}</source>
+    <target>悪魔はとても友好的だ{f801}顔なじみと思われているらしい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="80">
+    <source>同じ会話に飽きてしまっているようだ…{f801}{f802}{ffff}</source>
+    <target>同じ会話に飽きてしまっているようだ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="81">
+    <source>同じ会話に苛立ちを感じているようだ…{f801}{f802}{ffff}</source>
+    <target>同じ会話に苛立ちを感じているようだ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="82">
+    <source>悪魔は去っていった…{f801}{f802}{ffff}</source>
+    <target>悪魔は去っていった…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="83">
+    <source>悪魔は死んでしまった…{f801}{f802}{ffff}</source>
+    <target>悪魔は死んでしまった…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="84">
+    <source>悪魔は{f801}驚いて逃げてしまった…{f801}{f802}{ffff}</source>
+    <target>悪魔は{f801}驚いて逃げてしまった…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="85">
+    <source>{f843}{0000}は{f801}{f872}{0100}を手に入れた!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}{f872}{0100}を手に入れた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="86">
+    <source>{f843}{0000}は{f801}{f872}{0100}を{f878}{0100}個取られた!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}{f872}{0100}を{f878}{0100}個取られた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="87">
+    <source>{f843}{0000}は{f801}{f878}{0100}マッカ手に入れた!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}{f878}{0100}マッカ手に入れた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="88">
+    <source>{f843}{0000}は{f801}{f878}{0100}マッカ取られた!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}{f878}{0100}マッカ取られた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="89">
+    <source>{f843}{0000}は{f801}{f878}{0100}マッカ返してもらった!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は{f801}{f878}{0100}マッカ返してもらった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="90">
+    <source>{f804}{0500}妖精ナパイア{f804}{0000}は{f801}旅先で他の悪魔と合体して…{f801}{f802}{ffff}</source>
+    <target>{f804}{0500}妖精ナパイア{f804}{0000}は{f801}旅先で他の悪魔と合体して…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="91">
+    <source>{f804}{0500}夜魔モコイ{f804}{0000}になって{f801}帰ってきた!{f801}{f802}{ffff}</source>
+    <target>{f804}{0500}夜魔モコイ{f804}{0000}になって{f801}帰ってきた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="92">
+    <source>{f812}ジャックフロスト’s{0000}早くするホー{f801}{f802}{ffff}</source>
+    <target>{f812}ジャックフロスト’s{0000}早くするホー{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="93">
+    <source>フォントテスト1{f801}{f804}{0100}フォントテスト1{f801}{f802}{ffff}</source>
+    <target>フォントテスト1{f801}{f804}{0100}フォントテスト1{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="94">
+    <source>フォントテスト2{f801}{f804}{0200}フォントテスト2{f801}{f802}{ffff}</source>
+    <target>フォントテスト2{f801}{f804}{0200}フォントテスト2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="95">
+    <source>フォントテスト3{f801}{f804}{0300}フォントテスト3{f801}{f802}{ffff}</source>
+    <target>フォントテスト3{f801}{f804}{0300}フォントテスト3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="96">
+    <source>フォントテスト4{f801}{f804}{0400}フォントテスト4{f801}{f802}{ffff}</source>
+    <target>フォントテスト4{f801}{f804}{0400}フォントテスト4{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="97">
+    <source>フォントテスト5{f801}{f804}{0500}フォントテスト5{f801}{f802}{ffff}</source>
+    <target>フォントテスト5{f801}{f804}{0500}フォントテスト5{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

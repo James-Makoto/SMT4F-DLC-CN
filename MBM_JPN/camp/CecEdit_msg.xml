@@ -1,0 +1,138 @@
+<mbm>
+  <entry id="0">
+    <source>カードの添付タイプを選んでください{f801}どちらにしますか?{f801}{ffff}</source>
+    <target>カードの添付タイプを選んでください{f801}どちらにしますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>成長タイプ{f801}無差別合体タイプ{f801}{ffff}</source>
+    <target>成長タイプ{f801}無差別合体タイプ{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>添付する仲魔を選択して下さい{f801}{ffff}</source>
+    <target>添付する仲魔を選択して下さい{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>カードを作成しました この内容で{f801}すれちがうユーザーに送信します{f801}{ffff}</source>
+    <target>カードを作成しました この内容で{f801}すれちがうユーザーに送信します{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>この仲魔は添付することができません{f801}{ffff}</source>
+    <target>この仲魔は添付することができません{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>この仲魔を添付しますか?{f801}{ffff}</source>
+    <target>この仲魔を添付しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>添付できる仲魔がいません{f801}このままカードを送信します{f801}{ffff}</source>
+    <target>添付できる仲魔がいません{f801}このままカードを送信します{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>召喚中の仲魔を添付すると{f801}パーティから外れます{f801}{f802}この仲魔を添付しますか?{f801}{ffff}</source>
+    <target>召喚中の仲魔を添付すると{f801}パーティから外れます{f801}{f802}この仲魔を添付しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>すれちがうユーザーに向けた{f801}ひとことメッセージを選んでください{f801}{ffff}</source>
+    <target>すれちがうユーザーに向けた{f801}ひとことメッセージを選んでください{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>このメッセージでよろしいですか?{f801}{ffff}</source>
+    <target>このメッセージでよろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>この仲魔は既に添付されています{f801}どうしますか?{f801}{ffff}</source>
+    <target>この仲魔は既に添付されています{f801}どうしますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>添付できる仲魔がいません{f801}{ffff}</source>
+    <target>添付できる仲魔がいません{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>あなたの称号を選んでください{f801}{ffff}</source>
+    <target>あなたの称号を選んでください{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>この称号でよろしいですか?{f801}{ffff}</source>
+    <target>この称号でよろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>添付する装備を設定してください{f801}{ffff}</source>
+    <target>添付する装備を設定してください{f801}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>この装備で送信しますか?{f801}{ffff}</source>
+    <target>この装備で送信しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>編集内容を保存する{f801}保存しないで終わる{f801}編集を続ける{f801}{ffff}</source>
+    <target>編集内容を保存する{f801}保存しないで終わる{f801}編集を続ける{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>添付するポーズを選んでください{f801}{ffff}</source>
+    <target>添付するポーズを選んでください{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>このポーズでよろしいですか?{f801}{ffff}</source>
+    <target>このポーズでよろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>添付タイプを変える{f801}仲魔の添付をやめる{f801}{ffff}</source>
+    <target>添付タイプを変える{f801}仲魔の添付をやめる{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>ここではDDSカードの{f801}背景を選択することができます{f801}{ffff}</source>
+    <target>ここではDDSカードの{f801}背景を選択することができます{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>ここではDDSカードに表示する{f801}称号を選択することができます{f801}{ffff}</source>
+    <target>ここではDDSカードに表示する{f801}称号を選択することができます{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>ここではDDSカードに表示する{f801}名前を設定することができます{f801}{ffff}</source>
+    <target>ここではDDSカードに表示する{f801}名前を設定することができます{f801}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>ここではDDSカードに表示する{f801}装備を選択することができます{f801}{ffff}</source>
+    <target>ここではDDSカードに表示する{f801}装備を選択することができます{f801}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>ここではDDSカードに表示する{f801}ポーズを選択することができます{f801}{ffff}</source>
+    <target>ここではDDSカードに表示する{f801}ポーズを選択することができます{f801}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>ここではDDSカードに添付する{f801}仲魔を選択することができます{f801}{ffff}</source>
+    <target>ここではDDSカードに添付する{f801}仲魔を選択することができます{f801}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>ここではDDSカードに表示する{f801}メッセージを選択することができます{f801}{ffff}</source>
+    <target>ここではDDSカードに表示する{f801}メッセージを選択することができます{f801}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>カードの背景を選んでください{f801}{ffff}</source>
+    <target>カードの背景を選んでください{f801}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>この背景でよろしいですか?{f801}{ffff}</source>
+    <target>この背景でよろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+</mbm>

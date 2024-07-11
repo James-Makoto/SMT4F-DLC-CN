@@ -1,0 +1,94 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}コレゾ我ガ主ノ御心ナリ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}コレゾ我ガ主ノ御心ナリ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}更ナル力が我ニ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}更ナル力が我ニ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}主ヨ 我ヲ導キタマエ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}主ヨ 我ヲ導キタマエ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}容量オーバー…{f801}不要ナスキルヲ選択セヨ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}容量オーバー…{f801}不要ナスキルヲ選択セヨ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}{f804}{0500}{f877}{0100}{f804}{0000}ノ{f801}{f804}{0500}{f877}{0200}{f804}{0000}変更ヲ提案{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f877}{0100}{f804}{0000}ノ{f801}{f804}{0500}{f877}{0200}{f804}{0000}変更ヲ提案{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}了解シタ…汝ノ選択ニ従オウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}了解シタ…汝ノ選択ニ従オウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}了解シタ…汝ノ選択ニ従オウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}了解シタ…汝ノ選択ニ従オウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}(仮)変異選択メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異選択メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}(仮)変異OKメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異OKメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}(仮)変異NGメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異NGメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}(仮)変異完了メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異完了メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}(仮)変異レベル未達メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異レベル未達メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}ヲ譲渡スル{f801}コレモ主ノ御心ナリ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}ヲ譲渡スル{f801}コレモ主ノ御心ナリ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}…{f801}主ハ 汝ヲイツモ見テイルゾ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}…{f801}主ハ 汝ヲイツモ見テイルゾ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}…{f801}拾イ物ヲ譲ルモ 主ノ御心…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}…{f801}拾イ物ヲ譲ルモ 主ノ御心…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}我ニインプットサレタスキルヲ{f801}汝ニ託ソウ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我ニインプットサレタスキルヲ{f801}汝ニ託ソウ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}我ガスキルハ 汝ニ受ケ継ガレタ…{f801}上手ク使エ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我ガスキルハ 汝ニ受ケ継ガレタ…{f801}上手ク使エ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}我ハ{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}幾十万ノ目ヲ持ツ 神ノ代理ナリ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我ハ{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}幾十万ノ目ヲ持ツ 神ノ代理ナリ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}スキルを変異させる{f801}やめておく{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}スキルを変異させる{f801}やめておく{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>悪魔をハイレベルアップさせる{f801}やめておく{f801}{f802}{ffff}</source>
+    <target>悪魔をハイレベルアップさせる{f801}やめておく{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>これでいい{f801}考え直す{f801}{f802}{ffff}</source>
+    <target>これでいい{f801}考え直す{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f812}ミドー{0000}{f87a}{0100}…合体エラーが発生して{f801}予定と異なる悪魔ができたようだな{f801}{f802}{ffff}</source>
+    <target>{f812}ミドー{0000}{f87a}{0100}…合体エラーが発生して{f801}予定と異なる悪魔ができたようだな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>ダミー{f801}{f802}{ffff}</source>
+    <target>ダミー{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

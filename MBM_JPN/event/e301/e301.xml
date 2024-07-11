@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>テスト{f801}{ffff}</source>
+    <target>テスト{f801}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>ティルナノーグに転送されました{f801}{f802}ここでは 悪魔を倒すことで{f801}経験値アイテムを稼ぐことができます{f801}{ffff}</source>
+    <target>ティルナノーグに転送されました{f801}{f802}ここでは 悪魔を倒すことで{f801}経験値アイテムを稼ぐことができます{f801}{ffff}</target>
+  </entry>
+  <entry id="301">
+    <source>感想を 送りますか?{f801}{ffff}</source>
+    <target>感想を 送りますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="302">
+    <source>いいね{f801}ないな{f801}送らない{f801}{ffff}</source>
+    <target>いいね{f801}ないな{f801}送らない{f801}{ffff}</target>
+  </entry>
+  <entry id="303">
+    <source>ご協力 ありがとうございました{f801}…と 返信が来た{f801}{ffff}</source>
+    <target>ご協力 ありがとうございました{f801}…と 返信が来た{f801}{ffff}</target>
+  </entry>
+</mbm>

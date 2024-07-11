@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}国を巡りて 修行の道{f801}磨きし腕を 御国に捧げん…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}国を巡りて 修行の道{f801}磨きし腕を 御国に捧げん…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}鍛えて極めし この影の技が{f801}サムライの窮地を救いたり{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}鍛えて極めし この影の技が{f801}サムライの窮地を救いたり{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}御国のいずこ 使命のために戦わば{f801}サムライ達の心はひとつ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}御国のいずこ 使命のために戦わば{f801}サムライ達の心はひとつ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)すれちがい変身メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)すれちがい変身メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(仮)すれちがい変身メッセージ2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)すれちがい変身メッセージ2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(仮)すれちがい変身メッセージ3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)すれちがい変身メッセージ3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}旅の土産を授けよう{f801}これも全て 御国あってこそ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}旅の土産を授けよう{f801}これも全て 御国あってこそ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}留守の間 苦戦はなかったか?{f801}この土産を役立てるがよい{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}留守の間 苦戦はなかったか?{f801}この土産を役立てるがよい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}この土産を授けよう{f801}旅先に得た品 何かしらの縁だ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}この土産を授けよう{f801}旅先に得た品 何かしらの縁だ{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

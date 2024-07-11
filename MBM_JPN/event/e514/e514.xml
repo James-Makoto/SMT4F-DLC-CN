@@ -1,0 +1,98 @@
+<mbm>
+  <entry id="1">
+    <source>{f843}{0000}は{f801}扉に刺さっているピラーを引き抜いた{f801}{ffff}</source>
+    <target>{f843}{0000}は{f801}扉に刺さっているピラーを引き抜いた{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f843}{0000}は{f801}扉に刺さっているピラーを引き抜いた{f801}{ffff}</source>
+    <target>{f843}{0000}は{f801}扉に刺さっているピラーを引き抜いた{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f843}{0000}は{f801}扉に刺さっているピラーを引き抜いた{f801}{ffff}</source>
+    <target>{f843}{0000}は{f801}扉に刺さっているピラーを引き抜いた{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f843}{0000}は{f801}扉に刺さっているピラーを引き抜いた{f801}{ffff}</source>
+    <target>{f843}{0000}は{f801}扉に刺さっているピラーを引き抜いた{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f843}{0000}は{f801}扉に刺さっているピラーを引き抜いた{f801}{ffff}</source>
+    <target>{f843}{0000}は{f801}扉に刺さっているピラーを引き抜いた{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f843}{0000}は{f801}ピラーを引き抜いた{f801}{ffff}</source>
+    <target>{f843}{0000}は{f801}ピラーを引き抜いた{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f843}{0000}は{f801}ピラーを引き抜いた{f801}{ffff}</source>
+    <target>{f843}{0000}は{f801}ピラーを引き抜いた{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f843}{0000}は{f801}扉に刺さっているピラーを引き抜いた{f801}{ffff}</source>
+    <target>{f843}{0000}は{f801}扉に刺さっているピラーを引き抜いた{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>ピラーを引き抜いたことで{f801}扉が開放された{f801}{ffff}</source>
+    <target>ピラーを引き抜いたことで{f801}扉が開放された{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>ピラーを引き抜いたことで{f801}扉が開放された{f801}{ffff}</source>
+    <target>ピラーを引き抜いたことで{f801}扉が開放された{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>ピラーを引き抜いたことで{f801}扉が開放された{f801}{ffff}</source>
+    <target>ピラーを引き抜いたことで{f801}扉が開放された{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>ピラーを引き抜いたことで{f801}扉が開放された{f801}{ffff}</source>
+    <target>ピラーを引き抜いたことで{f801}扉が開放された{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>ピラーを引き抜いたことで{f801}扉が開放された{f801}{ffff}</source>
+    <target>ピラーを引き抜いたことで{f801}扉が開放された{f801}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>ピラーがなくなったことで{f801}どこかの扉が開放されたようだ…{f801}{ffff}</source>
+    <target>ピラーがなくなったことで{f801}どこかの扉が開放されたようだ…{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>ピラーがなくなったことで{f801}どこかの扉が開放されたようだ…{f801}{ffff}</source>
+    <target>ピラーがなくなったことで{f801}どこかの扉が開放されたようだ…{f801}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>ピラーを引き抜いたことで{f801}扉が開放された{f801}{ffff}</source>
+    <target>ピラーを引き抜いたことで{f801}扉が開放された{f801}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>≪{f872}{0100}≫を入手した{f801}{ffff}</source>
+    <target>≪{f872}{0100}≫を入手した{f801}{ffff}</target>
+  </entry>
+  <entry id="202">
+    <source>≪{f872}{0200}≫を入手した{f801}{ffff}</source>
+    <target>≪{f872}{0200}≫を入手した{f801}{ffff}</target>
+  </entry>
+  <entry id="203">
+    <source>≪{f872}{0300}≫を入手した{f801}{ffff}</source>
+    <target>≪{f872}{0300}≫を入手した{f801}{ffff}</target>
+  </entry>
+  <entry id="204">
+    <source>≪{f872}{0400}≫を入手した{f801}{ffff}</source>
+    <target>≪{f872}{0400}≫を入手した{f801}{ffff}</target>
+  </entry>
+  <entry id="205">
+    <source>≪{f872}{0500}≫を入手した{f801}{ffff}</source>
+    <target>≪{f872}{0500}≫を入手した{f801}{ffff}</target>
+  </entry>
+  <entry id="206">
+    <source>≪{f872}{0600}≫を入手した{f801}{ffff}</source>
+    <target>≪{f872}{0600}≫を入手した{f801}{ffff}</target>
+  </entry>
+  <entry id="207">
+    <source>≪{f872}{0700}≫を入手した{f801}{ffff}</source>
+    <target>≪{f872}{0700}≫を入手した{f801}{ffff}</target>
+  </entry>
+  <entry id="208">
+    <source>≪{f872}{0800}≫を入手した{f801}{ffff}</source>
+    <target>≪{f872}{0800}≫を入手した{f801}{ffff}</target>
+  </entry>
+</mbm>

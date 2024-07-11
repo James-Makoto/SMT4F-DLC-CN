@@ -1,0 +1,158 @@
+<mbm>
+  <entry id="0">
+    <source>セーブデータを初期化します{f801}{ffff}</source>
+    <target>セーブデータを初期化します{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>セーブデータを初期化しています{f801}{ffff}</source>
+    <target>セーブデータを初期化しています{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>セーブデータを初期化しました{f801}{ffff}</source>
+    <target>セーブデータを初期化しました{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>セーブデータが破損しているため{f801}初期化します{f801}{ffff}</source>
+    <target>セーブデータが破損しているため{f801}初期化します{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>セーブデータにアクセスできません{f801}{ffff}</source>
+    <target>セーブデータにアクセスできません{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>セーブデータを初期化できませんでした{f801}{ffff}</source>
+    <target>セーブデータを初期化できませんでした{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>セーブデータが破損していたため{f801}削除しました{f801}{ffff}</source>
+    <target>セーブデータが破損していたため{f801}削除しました{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>セーブデータが破損していたため{f801}初期化します{f801}{ffff}</source>
+    <target>セーブデータが破損していたため{f801}初期化します{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>SDカードを認識できませんでした{f801}{ffff}</source>
+    <target>SDカードを認識できませんでした{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>追加データが破損しています{f801}追加データを作成し直します{f801}{ffff}</source>
+    <target>追加データが破損しています{f801}追加データを作成し直します{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>SDカードを認識できませんでした{f801}{ffff}</source>
+    <target>SDカードを認識できませんでした{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>追加データが破損しています{f801}追加データを作成し直します{f801}{ffff}</source>
+    <target>追加データが破損しています{f801}追加データを作成し直します{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>SDカードを認識できませんでした{f801}{ffff}</source>
+    <target>SDカードを認識できませんでした{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>SDカードが書き込み禁止に{f801}なっています{f801}{ffff}</source>
+    <target>SDカードが書き込み禁止に{f801}なっています{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>SDカードを認識できませんでした{f801}{ffff}</source>
+    <target>SDカードを認識できませんでした{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>真・女神転生{8757} FINALの{f801}追加データが見つかりません{f801}{f802}真・女神転生{8757} FINALの{f801}追加データを新規に作成します{f801}{ffff}</source>
+    <target>真・女神転生{8757} FINALの{f801}追加データが見つかりません{f801}{f802}真・女神転生{8757} FINALの{f801}追加データを新規に作成します{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>追加データを作成しています{f801}※この処理には時間がかかる場合があります{f801}{ffff}</source>
+    <target>追加データを作成しています{f801}※この処理には時間がかかる場合があります{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>追加データを作成しました{f801}{ffff}</source>
+    <target>追加データを作成しました{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>SDカードに必要な空き容量がありません{f801}追加データの作成に失敗しました{f801}{ffff}</source>
+    <target>SDカードに必要な空き容量がありません{f801}追加データの作成に失敗しました{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>エラーが発生し、作成が途中で中断されました{f801}追加データの作成に失敗しました{f801}{ffff}</source>
+    <target>エラーが発生し、作成が途中で中断されました{f801}追加データの作成に失敗しました{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>SDカードが書き込み禁止になっています{f801}追加データの作成に失敗しました{f801}{ffff}</source>
+    <target>SDカードが書き込み禁止になっています{f801}追加データの作成に失敗しました{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>SDカードアクセス中にエラーが発生しました{f801}追加データの作成に失敗しました{f801}{ffff}</source>
+    <target>SDカードアクセス中にエラーが発生しました{f801}追加データの作成に失敗しました{f801}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>SDカードの処理に失敗しました{f801}{ffff}</source>
+    <target>SDカードの処理に失敗しました{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>SDカードを認識できませんでした{f801}追加データの作成に失敗しました{f801}{ffff}</source>
+    <target>SDカードを認識できませんでした{f801}追加データの作成に失敗しました{f801}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>真・女神転生{8757} FINALの{f801}追加データが見つかりませんでした{f801}{ffff}</source>
+    <target>真・女神転生{8757} FINALの{f801}追加データが見つかりませんでした{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>データが破損していたため削除しました{f801}もう一度セーブしてください{f801}{ffff}</source>
+    <target>データが破損していたため削除しました{f801}もう一度セーブしてください{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>SDカードへの書き込みに失敗しました{f801}もう一度セーブしてください{f801}{ffff}</source>
+    <target>SDカードへの書き込みに失敗しました{f801}もう一度セーブしてください{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>SDカードが書き込み禁止に{f801}なっています{f801}{ffff}</source>
+    <target>SDカードが書き込み禁止に{f801}なっています{f801}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>SDカードを認識できませんでした{f801}SDカードへの書き込みに失敗しました{f801}{ffff}</source>
+    <target>SDカードを認識できませんでした{f801}SDカードへの書き込みに失敗しました{f801}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>SDカードに必要な空き容量がありません{f801}SDカードへの書き込みに失敗しました{f801}{ffff}</source>
+    <target>SDカードに必要な空き容量がありません{f801}SDカードへの書き込みに失敗しました{f801}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>SDカードを認識できませんでした{f801}{ffff}</source>
+    <target>SDカードを認識できませんでした{f801}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>データがありません{f801}{ffff}</source>
+    <target>データがありません{f801}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>データが破損しています{f801}読み込みに失敗しました{f801}{ffff}</source>
+    <target>データが破損しています{f801}読み込みに失敗しました{f801}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>SDカードのデータが{f801}破損していたため削除しました{f801}{ffff}</source>
+    <target>SDカードのデータが{f801}破損していたため削除しました{f801}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>スロット{f811}{0000}のSDカードのデータが{f801}破損していたため削除しました{f801}{ffff}</source>
+    <target>スロット{f811}{0000}のSDカードのデータが{f801}破損していたため削除しました{f801}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>体験版のデータがありません{f801}{ffff}</source>
+    <target>体験版のデータがありません{f801}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>追加データが壊れています{f801}{f802}壊れた追加データはニンテンドー{f801}3DS本体設定で削除できます{f801}{ffff}</source>
+    <target>追加データが壊れています{f801}{f802}壊れた追加データはニンテンドー{f801}3DS本体設定で削除できます{f801}{ffff}</target>
+  </entry>
+  <entry id="999">
+    <source>SDカードが認識できません{f801}{f802}本体の電源を切りSDカードを{f801}さし直してからもういちど試してください{f801}{ffff}</source>
+    <target>SDカードが認識できません{f801}{f802}本体の電源を切りSDカードを{f801}さし直してからもういちど試してください{f801}{ffff}</target>
+  </entry>
+  <entry id="1000">
+    <source>SDカードが認識できません{f801}{f802}本体の電源を切りSDカードを{f801}さし直してからもういちど試してください{f801}{ffff}</source>
+    <target>SDカードが認識できません{f801}{f802}本体の電源を切りSDカードを{f801}さし直してからもういちど試してください{f801}{ffff}</target>
+  </entry>
+</mbm>

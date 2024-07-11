@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>テストマップ{8001}MSG000{8001}{ffff}</source>
+    <target>テストマップ{8001}MSG000{8001}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>テストマップ{8001}MSG001{8001}{ffff}</source>
+    <target>テストマップ{8001}MSG001{8001}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>テストマップ{8001}MSG002{8001}{ffff}</source>
+    <target>テストマップ{8001}MSG002{8001}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>ミカド城城下町に移動しますか?{8001}{ffff}</source>
+    <target>ミカド城城下町に移動しますか?{8001}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>はい{8001}いいえ{8001}{ffff}</source>
+    <target>はい{8001}いいえ{8001}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>ラージマップに移動しますか?{8001}{ffff}</source>
+    <target>ラージマップに移動しますか?{8001}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>マップ(新宿)に移動しますか?{8001}{ffff}</source>
+    <target>マップ(新宿)に移動しますか?{8001}{ffff}</target>
+  </entry>
+</mbm>

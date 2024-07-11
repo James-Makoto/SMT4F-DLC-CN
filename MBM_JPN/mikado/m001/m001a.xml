@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{8012}住人1{0000}こんにちは{8001}{ffff}</source>
+    <target>{8012}住人1{0000}こんにちは{8001}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{8012}住人2{0000}おはよう{8001}{ffff}</source>
+    <target>{8012}住人2{0000}おはよう{8001}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{8012}住人3{0000}さよなら{8001}{ffff}</source>
+    <target>{8012}住人3{0000}さよなら{8001}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>ミカド城に移動しますか?{8001}{ffff}</source>
+    <target>ミカド城に移動しますか?{8001}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>はい{8001}いいえ{8001}{ffff}</source>
+    <target>はい{8001}いいえ{8001}{ffff}</target>
+  </entry>
+</mbm>

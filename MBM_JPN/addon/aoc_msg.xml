@@ -1,0 +1,98 @@
+<mbm>
+  <entry id="1">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>ここから先はインターネットへの{f801}接続が必要です よろしいですか?{f801}{ffff}</source>
+    <target>ここから先はインターネットへの{f801}接続が必要です よろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>終了しますか?{f801}{ffff}</source>
+    <target>終了しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f872}{0100}{f801}を購入しますか?{f801}{ffff}</source>
+    <target>{f872}{0100}{f801}を購入しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f872}{0100}{f801}を削除しますか?{f801}{ffff}</source>
+    <target>{f872}{0100}{f801}を削除しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f872}{0100}{f801}を再受信しますか?{f801}{ffff}</source>
+    <target>{f872}{0100}{f801}を再受信しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>SDカードを抜かないでください{f801}{ffff}</source>
+    <target>SDカードを抜かないでください{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>コンテンツの削除が完了しました{f801}{ffff}</source>
+    <target>コンテンツの削除が完了しました{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>パスワード入力を行いますか?{f801}{ffff}</source>
+    <target>パスワード入力を行いますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>パスワードが間違っています{f801}{ffff}</source>
+    <target>パスワードが間違っています{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>ダウンロード番号の入力{f801}{ffff}</source>
+    <target>ダウンロード番号の入力{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>ダウンロードカードをお持ちの場合はこちらで{f801}記載されたダウンロード番号の入力が行えます{f801}{ffff}</source>
+    <target>ダウンロードカードをお持ちの場合はこちらで{f801}記載されたダウンロード番号の入力が行えます{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>ダウンロード番号の入力を行いますか?{f801}{ffff}</source>
+    <target>ダウンロード番号の入力を行いますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>『注意事項』{f801}ここでは真・女神転生{8757} FINAL{f801}の追加コンテンツを購入することができます{f801}本編を進めることでプレイ可能になるコンテンツ{f801}もありますので 購入の際は各コンテンツの説明{f801}をご確認ください{f801}また 購入した追加コンテンツは{f801}すべてのセーブデータで遊ぶことができます{f801}{ffff}</source>
+    <target>『注意事項』{f801}ここでは真・女神転生{8757} FINAL{f801}の追加コンテンツを購入することができます{f801}本編を進めることでプレイ可能になるコンテンツ{f801}もありますので 購入の際は各コンテンツの説明{f801}をご確認ください{f801}また 購入した追加コンテンツは{f801}すべてのセーブデータで遊ぶことができます{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>ここから先は{f801}タッチ操作で項目をえらんでください{f801}{ffff}</source>
+    <target>ここから先は{f801}タッチ操作で項目をえらんでください{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>購入したいコンテンツをえらんでください{f801}{ffff}</source>
+    <target>購入したいコンテンツをえらんでください{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>近日サービスを開始致します{f801}お楽しみに!{f801}{ffff}</source>
+    <target>近日サービスを開始致します{f801}お楽しみに!{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>ブロック{f801}{ffff}</source>
+    <target>ブロック{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>無料{f801}{ffff}</source>
+    <target>無料{f801}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>接続中{f801}{ffff}</source>
+    <target>接続中{f801}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>少しお待ちください{f801}{ffff}</source>
+    <target>少しお待ちください{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>準備中{f801}{ffff}</source>
+    <target>準備中{f801}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>削除中{f801}{ffff}</source>
+    <target>削除中{f801}{ffff}</target>
+  </entry>
+  <entry id="190">
+    <source>追加コンテンツを読み込んでいます{f801}SDカードを抜きさししないでください{f801}{ffff}</source>
+    <target>追加コンテンツを読み込んでいます{f801}SDカードを抜きさししないでください{f801}{ffff}</target>
+  </entry>
+</mbm>

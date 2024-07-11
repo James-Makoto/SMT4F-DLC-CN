@@ -1,0 +1,94 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}(仮)スキル習得メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル習得メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}(仮)スキル習得メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル習得メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}(仮)スキル習得メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル習得メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)スキル入れ替えメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル入れ替えメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(仮)スキル変化選択メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル変化選択メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(仮)スキル変化OKメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル変化OKメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}(仮)スキル変化NGメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル変化NGメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}(仮)変異選択メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異選択メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}(仮)変異OKメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異OKメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}(仮)変異NGメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異NGメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}(仮)変異完了メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異完了メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}(仮)変異レベル未達メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異レベル未達メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}(仮)ギフトイベントメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)ギフトイベントメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}(仮)ギフトイベントメッセージ2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)ギフトイベントメッセージ2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}(仮)ギフトイベントメッセージ3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)ギフトイベントメッセージ3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}(仮)ウィスパースキルメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)ウィスパースキルメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}(仮)ウィスパースキル終了確認{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)ウィスパースキル終了確認{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}(仮)合体後よろしくメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)合体後よろしくメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}スキルを変異させる{f801}やめておく{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}スキルを変異させる{f801}やめておく{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>悪魔をハイレベルアップさせる{f801}やめておく{f801}{f802}{ffff}</source>
+    <target>悪魔をハイレベルアップさせる{f801}やめておく{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>これでいい{f801}考え直す{f801}{f802}{ffff}</source>
+    <target>これでいい{f801}考え直す{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f812}ミドー{0000}{f87a}{0100}…合体エラーが発生して{f801}予定と異なる悪魔ができたようだな{f801}{f802}{ffff}</source>
+    <target>{f812}ミドー{0000}{f87a}{0100}…合体エラーが発生して{f801}予定と異なる悪魔ができたようだな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>ダミー{f801}{f802}{ffff}</source>
+    <target>ダミー{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

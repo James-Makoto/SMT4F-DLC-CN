@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>{8012}鎧を着た男たち{0000}・・・・・・{8001}{ffff}</source>
+    <target>{8012}鎧を着た男たち{0000}・・・・・・{8001}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{8012}武器防具屋{0000}準備中{8001}{ffff}</source>
+    <target>{8012}武器防具屋{0000}準備中{8001}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{8012}道具屋{0000}準備中{8001}{ffff}</source>
+    <target>{8012}道具屋{0000}準備中{8001}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>ミカド城に移動しますか?{8001}{ffff}</source>
+    <target>ミカド城に移動しますか?{8001}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>はい{8001}いいえ{8001}{ffff}</source>
+    <target>はい{8001}いいえ{8001}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>ナラクの中に入りますか?{8001}{ffff}</source>
+    <target>ナラクの中に入りますか?{8001}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>地下東京に行きますか?{8001}{ffff}</source>
+    <target>地下東京に行きますか?{8001}{ffff}</target>
+  </entry>
+</mbm>

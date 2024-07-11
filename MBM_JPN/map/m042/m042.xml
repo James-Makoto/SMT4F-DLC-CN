@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>扉は固く閉ざされている{f801}{ffff}</source>
+    <target>扉は固く閉ざされている{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>扉は固く閉ざされている{f801}{f802}今この扉を開けることは{f801}できないようだ{f801}{ffff}</source>
+    <target>扉は固く閉ざされている{f801}{f802}今この扉を開けることは{f801}できないようだ{f801}{ffff}</target>
+  </entry>
+</mbm>

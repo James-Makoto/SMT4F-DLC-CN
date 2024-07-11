@@ -1,0 +1,630 @@
+<mbm>
+  <entry id="0">
+    <source>よろしくお願いします{f801}{ffff}</source>
+    <target>よろしくお願いします{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>おつかれさまです{f801}{ffff}</source>
+    <target>おつかれさまです{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>ご苦労さまです{f801}{ffff}</source>
+    <target>ご苦労さまです{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>はじめまして! 今後ともよろしく!{f801}{ffff}</source>
+    <target>はじめまして! 今後ともよろしく!{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>いつもすれちがってくれて ありがとう!{f801}{ffff}</source>
+    <target>いつもすれちがってくれて ありがとう!{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>お気に入りの相棒を紹介するぜ{f801}{ffff}</source>
+    <target>お気に入りの相棒を紹介するぜ{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>これが自慢の仲魔です!{f801}{ffff}</source>
+    <target>これが自慢の仲魔です!{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>ウチの子 カワイイでしょ?{f801}{ffff}</source>
+    <target>ウチの子 カワイイでしょ?{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>カッコイイ悪魔って言ったらコイツだろ?{f801}{ffff}</source>
+    <target>カッコイイ悪魔って言ったらコイツだろ?{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>俺の仲魔を見ろッ!{f801}{ffff}</source>
+    <target>俺の仲魔を見ろッ!{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>僕の仲魔は一味違う!{f801}{ffff}</source>
+    <target>僕の仲魔は一味違う!{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>未熟な仲魔ですが よろしくお願いします{f801}{ffff}</source>
+    <target>未熟な仲魔ですが よろしくお願いします{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>強くなってくれるといいなぁ〜{f801}{ffff}</source>
+    <target>強くなってくれるといいなぁ〜{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>ビシバシ鍛えてやってください!{f801}{ffff}</source>
+    <target>ビシバシ鍛えてやってください!{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>この仲魔 まだまだ成長するぜ{f801}{ffff}</source>
+    <target>この仲魔 まだまだ成長するぜ{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>一分一秒 この瞬間にも成長する!{f801}{ffff}</source>
+    <target>一分一秒 この瞬間にも成長する!{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>どんな仲魔になるのか お楽しみ!{f801}{ffff}</source>
+    <target>どんな仲魔になるのか お楽しみ!{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>お互いの仲魔で より高みを目指そう!{f801}{ffff}</source>
+    <target>お互いの仲魔で より高みを目指そう!{f801}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>さあ 無差別合体しよう!{f801}{ffff}</source>
+    <target>さあ 無差別合体しよう!{f801}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>よぉし 行こうナナシ!{f801}{ffff}</source>
+    <target>よぉし 行こうナナシ!{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>ぬぐぅッ!?{f801}{ffff}</source>
+    <target>ぬぐぅッ!?{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>いい画 撮っちゃうよ{f801}{ffff}</source>
+    <target>いい画 撮っちゃうよ{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>行こうぜ リーダー!{f801}{ffff}</source>
+    <target>行こうぜ リーダー!{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>ナンバーワンはこの私だッ!{f801}{ffff}</source>
+    <target>ナンバーワンはこの私だッ!{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>これも任務だ…{f801}{ffff}</source>
+    <target>これも任務だ…{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>いつでも往けましてよ{f801}{ffff}</source>
+    <target>いつでも往けましてよ{f801}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>命に代えてでも守りたいものが沢山ある{f801}{ffff}</source>
+    <target>命に代えてでも守りたいものが沢山ある{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>なってねぇな{f801}{ffff}</source>
+    <target>なってねぇな{f801}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>チッ…下らん茶番だ 吐き気がする{f801}{ffff}</source>
+    <target>チッ…下らん茶番だ 吐き気がする{f801}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>ボクは君たちの光だ{f801}{ffff}</source>
+    <target>ボクは君たちの光だ{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>ダメ エラーが出ちゃう…!{f801}{ffff}</source>
+    <target>ダメ エラーが出ちゃう…!{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>オレサマ オマエ マルカジリ{f801}{ffff}</source>
+    <target>オレサマ オマエ マルカジリ{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>最大値{f801}{ffff}</source>
+    <target>最大値{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>ダミー{f801}{ffff}</source>
+    <target>ダミー{f801}{ffff}</target>
+  </entry>
+  <entry id="200">
+    <source>すみません 次は悪魔を設定します!{f801}{ffff}</source>
+    <target>すみません 次は悪魔を設定します!{f801}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>とりあえず すれちがい通信に参加{f801}{ffff}</source>
+    <target>とりあえず すれちがい通信に参加{f801}{ffff}</target>
+  </entry>
+  <entry id="202">
+    <source>すれちがい通信のテストです{f801}{ffff}</source>
+    <target>すれちがい通信のテストです{f801}{ffff}</target>
+  </entry>
+  <entry id="203">
+    <source>様子見させてください{f801}{ffff}</source>
+    <target>様子見させてください{f801}{ffff}</target>
+  </entry>
+  <entry id="204">
+    <source>最大値{f801}{ffff}</source>
+    <target>最大値{f801}{ffff}</target>
+  </entry>
+  <entry id="300">
+    <source>迷彩{f801}{ffff}</source>
+    <target>迷彩{f801}{ffff}</target>
+  </entry>
+  <entry id="301">
+    <source>ホワイト{f801}{ffff}</source>
+    <target>ホワイト{f801}{ffff}</target>
+  </entry>
+  <entry id="302">
+    <source>ブラック{f801}{ffff}</source>
+    <target>ブラック{f801}{ffff}</target>
+  </entry>
+  <entry id="303">
+    <source>自室{f801}{ffff}</source>
+    <target>自室{f801}{ffff}</target>
+  </entry>
+  <entry id="304">
+    <source>幼馴染の部屋{f801}{ffff}</source>
+    <target>幼馴染の部屋{f801}{ffff}</target>
+  </entry>
+  <entry id="305">
+    <source>人外ハンター商会{f801}{ffff}</source>
+    <target>人外ハンター商会{f801}{ffff}</target>
+  </entry>
+  <entry id="306">
+    <source>東京{f801}{ffff}</source>
+    <target>東京{f801}{ffff}</target>
+  </entry>
+  <entry id="307">
+    <source>戦場{f801}{ffff}</source>
+    <target>戦場{f801}{ffff}</target>
+  </entry>
+  <entry id="308">
+    <source>東のミカド国{f801}{ffff}</source>
+    <target>東のミカド国{f801}{ffff}</target>
+  </entry>
+  <entry id="309">
+    <source>背景最大値{f801}{ffff}</source>
+    <target>背景最大値{f801}{ffff}</target>
+  </entry>
+  <entry id="400">
+    <source>立ち姿1{f801}{ffff}</source>
+    <target>立ち姿1{f801}{ffff}</target>
+  </entry>
+  <entry id="401">
+    <source>立ち姿2{f801}{ffff}</source>
+    <target>立ち姿2{f801}{ffff}</target>
+  </entry>
+  <entry id="402">
+    <source>立ち姿3{f801}{ffff}</source>
+    <target>立ち姿3{f801}{ffff}</target>
+  </entry>
+  <entry id="403">
+    <source>立ち姿4{f801}{ffff}</source>
+    <target>立ち姿4{f801}{ffff}</target>
+  </entry>
+  <entry id="404">
+    <source>走る{f801}{ffff}</source>
+    <target>走る{f801}{ffff}</target>
+  </entry>
+  <entry id="405">
+    <source>スマホ操作{f801}{ffff}</source>
+    <target>スマホ操作{f801}{ffff}</target>
+  </entry>
+  <entry id="406">
+    <source>構え1{f801}{ffff}</source>
+    <target>構え1{f801}{ffff}</target>
+  </entry>
+  <entry id="407">
+    <source>構え2{f801}{ffff}</source>
+    <target>構え2{f801}{ffff}</target>
+  </entry>
+  <entry id="408">
+    <source>構え3{f801}{ffff}</source>
+    <target>構え3{f801}{ffff}</target>
+  </entry>
+  <entry id="409">
+    <source>しゃがみ姿{f801}{ffff}</source>
+    <target>しゃがみ姿{f801}{ffff}</target>
+  </entry>
+  <entry id="410">
+    <source>座る{f801}{ffff}</source>
+    <target>座る{f801}{ffff}</target>
+  </entry>
+  <entry id="411">
+    <source>ポーズ最大値{f801}{ffff}</source>
+    <target>ポーズ最大値{f801}{ffff}</target>
+  </entry>
+  <entry id="500">
+    <source>ダミー文0{f801}{ffff}</source>
+    <target>ダミー文0{f801}{ffff}</target>
+  </entry>
+  <entry id="501">
+    <source>まだまだひよっ子のハンター見習い{f801}いつになったら一人前と認められるのか…{f801}{ffff}</source>
+    <target>まだまだひよっ子のハンター見習い{f801}いつになったら一人前と認められるのか…{f801}{ffff}</target>
+  </entry>
+  <entry id="502">
+    <source>新たな時代を担う期待のルーキー{f801}秘めたる力はいかほどか{f801}{ffff}</source>
+    <target>新たな時代を担う期待のルーキー{f801}秘めたる力はいかほどか{f801}{ffff}</target>
+  </entry>
+  <entry id="503">
+    <source>人外ハンター商会の下っ端{f801}どんな仕事も嫌な顔せずにやりましょう{f801}{ffff}</source>
+    <target>人外ハンター商会の下っ端{f801}どんな仕事も嫌な顔せずにやりましょう{f801}{ffff}</target>
+  </entry>
+  <entry id="504">
+    <source>立派な人外ハンター商会の一員{f801}悪魔と戦って じゃんじゃん仲魔を集めよう{f801}{ffff}</source>
+    <target>立派な人外ハンター商会の一員{f801}悪魔と戦って じゃんじゃん仲魔を集めよう{f801}{ffff}</target>
+  </entry>
+  <entry id="505">
+    <source>火事と喧嘩は東京の華{f801}ケンカの仲裁なら任せてくれ{f801}{ffff}</source>
+    <target>火事と喧嘩は東京の華{f801}ケンカの仲裁なら任せてくれ{f801}{ffff}</target>
+  </entry>
+  <entry id="506">
+    <source>手のひらの上で踊らされる者{f801}自分の意志に関わらず災厄は降りかかる{f801}{ffff}</source>
+    <target>手のひらの上で踊らされる者{f801}自分の意志に関わらず災厄は降りかかる{f801}{ffff}</target>
+  </entry>
+  <entry id="507">
+    <source>悪魔に生かされていることがバレてしまった{f801}おかげさまで今日も元気です{f801}{ffff}</source>
+    <target>悪魔に生かされていることがバレてしまった{f801}おかげさまで今日も元気です{f801}{ffff}</target>
+  </entry>
+  <entry id="508">
+    <source>希望の星フリンの奪還に成功した{f801}これで東京の未来は安泰に違いない{f801}{ffff}</source>
+    <target>希望の星フリンの奪還に成功した{f801}これで東京の未来は安泰に違いない{f801}{ffff}</target>
+  </entry>
+  <entry id="509">
+    <source>東のミカド国の牢屋から脱獄した{f801}悪魔の力があればトンネルを掘る必要もない{f801}{ffff}</source>
+    <target>東のミカド国の牢屋から脱獄した{f801}悪魔の力があればトンネルを掘る必要もない{f801}{ffff}</target>
+  </entry>
+  <entry id="510">
+    <source>最終戦争を終結に導いた{f801}これからは人間の時代だ{f801}{ffff}</source>
+    <target>最終戦争を終結に導いた{f801}これからは人間の時代だ{f801}{ffff}</target>
+  </entry>
+  <entry id="511">
+    <source>ミトラを倒し 現世との繋がりを保った{f801}月が満ちる時は近い…{f801}{ffff}</source>
+    <target>ミトラを倒し 現世との繋がりを保った{f801}月が満ちる時は近い…{f801}{ffff}</target>
+  </entry>
+  <entry id="512">
+    <source>YHVHを撃破して真の自由を手に入れた{f801}人間として示した答えの形{f801}{ffff}</source>
+    <target>YHVHを撃破して真の自由を手に入れた{f801}人間として示した答えの形{f801}{ffff}</target>
+  </entry>
+  <entry id="513">
+    <source>YHVHを撃破して新たな宇宙を創世した{f801}新たな神として示した答えの形{f801}{ffff}</source>
+    <target>YHVHを撃破して新たな宇宙を創世した{f801}新たな神として示した答えの形{f801}{ffff}</target>
+  </entry>
+  <entry id="514">
+    <source>今日の安寧が明日も続く世界を望み{f801}メルカバーに与し その手で東京を葬った{f801}{ffff}</source>
+    <target>今日の安寧が明日も続く世界を望み{f801}メルカバーに与し その手で東京を葬った{f801}{ffff}</target>
+  </entry>
+  <entry id="515">
+    <source>強い者が望むだけ変えられる世界を望み{f801}ルシファーに与し 新たな命を得た{f801}{ffff}</source>
+    <target>強い者が望むだけ変えられる世界を望み{f801}ルシファーに与し 新たな命を得た{f801}{ffff}</target>
+  </entry>
+  <entry id="516">
+    <source>他者を慮る行動を取った{f801}仲間との間に絆が生まれた{f801}{ffff}</source>
+    <target>他者を慮る行動を取った{f801}仲間との間に絆が生まれた{f801}{ffff}</target>
+  </entry>
+  <entry id="517">
+    <source>他者を慮る行動を頻繁に取った{f801}仲間との絆が育まれた{f801}{ffff}</source>
+    <target>他者を慮る行動を頻繁に取った{f801}仲間との絆が育まれた{f801}{ffff}</target>
+  </entry>
+  <entry id="518">
+    <source>他者を慮る行動を積極的に取った{f801}この絆は誰にも壊せない{f801}{ffff}</source>
+    <target>他者を慮る行動を積極的に取った{f801}この絆は誰にも壊せない{f801}{ffff}</target>
+  </entry>
+  <entry id="519">
+    <source>他者を省みない行動を取った{f801}魔神の傀儡としての一歩を踏み出した{f801}{ffff}</source>
+    <target>他者を省みない行動を取った{f801}魔神の傀儡としての一歩を踏み出した{f801}{ffff}</target>
+  </entry>
+  <entry id="520">
+    <source>他者を省みない行動を頻繁に取った{f801}魔神の懐刀として認められた{f801}{ffff}</source>
+    <target>他者を省みない行動を頻繁に取った{f801}魔神の懐刀として認められた{f801}{ffff}</target>
+  </entry>
+  <entry id="521">
+    <source>他者を省みない行動を積極的に取った{f801}魔神の後継として新たな道を歩み始めた{f801}{ffff}</source>
+    <target>他者を省みない行動を積極的に取った{f801}魔神の後継として新たな道を歩み始めた{f801}{ffff}</target>
+  </entry>
+  <entry id="522">
+    <source>悪魔を100体倒した{f801}人外ハンターとして申し分ない戦果だ{f801}{ffff}</source>
+    <target>悪魔を100体倒した{f801}人外ハンターとして申し分ない戦果だ{f801}{ffff}</target>
+  </entry>
+  <entry id="523">
+    <source>悪魔を1000体倒した{f801}もはや歴史に名を残すレベルの英雄と言える{f801}{ffff}</source>
+    <target>悪魔を1000体倒した{f801}もはや歴史に名を残すレベルの英雄と言える{f801}{ffff}</target>
+  </entry>
+  <entry id="524">
+    <source>8体の魔人を倒した{f801}どれも恐ろしく強い者たちであった{f801}{ffff}</source>
+    <target>8体の魔人を倒した{f801}どれも恐ろしく強い者たちであった{f801}{ffff}</target>
+  </entry>
+  <entry id="525">
+    <source>現世と黄泉比良坂を10往復した{f801}傀儡の命に限りなどない{f801}{ffff}</source>
+    <target>現世と黄泉比良坂を10往復した{f801}傀儡の命に限りなどない{f801}{ffff}</target>
+  </entry>
+  <entry id="526">
+    <source>悪魔合体でエラーが発生した{f801}失敗は成功の元…こんなことでくじけるな{f801}{ffff}</source>
+    <target>悪魔合体でエラーが発生した{f801}失敗は成功の元…こんなことでくじけるな{f801}{ffff}</target>
+  </entry>
+  <entry id="527">
+    <source>特殊合体悪魔を30種作成した{f801}ここまで来るのに どれだけのマッカを…{f801}{ffff}</source>
+    <target>特殊合体悪魔を30種作成した{f801}ここまで来るのに どれだけのマッカを…{f801}{ffff}</target>
+  </entry>
+  <entry id="528">
+    <source>悪魔全書登録率30%達成{f801}仲魔集めは順調だ{f801}{ffff}</source>
+    <target>悪魔全書登録率30%達成{f801}仲魔集めは順調だ{f801}{ffff}</target>
+  </entry>
+  <entry id="529">
+    <source>悪魔全書登録率60%達成{f801}ここまでやればミドーも満足だろう{f801}{ffff}</source>
+    <target>悪魔全書登録率60%達成{f801}ここまでやればミドーも満足だろう{f801}{ffff}</target>
+  </entry>
+  <entry id="530">
+    <source>悪魔全書を完成させた{f801}もはや知らない悪魔など存在しない{f801}{ffff}</source>
+    <target>悪魔全書を完成させた{f801}もはや知らない悪魔など存在しない{f801}{ffff}</target>
+  </entry>
+  <entry id="531">
+    <source>スカウトに100回成功した{f801}彼に口説けぬ悪魔はいない{f801}{ffff}</source>
+    <target>スカウトに100回成功した{f801}彼に口説けぬ悪魔はいない{f801}{ffff}</target>
+  </entry>
+  <entry id="532">
+    <source>悪魔会話に10回失敗した{f801}悪魔を完全に理解することなどできない{f801}{ffff}</source>
+    <target>悪魔会話に10回失敗した{f801}悪魔を完全に理解することなどできない{f801}{ffff}</target>
+  </entry>
+  <entry id="533">
+    <source>仲魔と50回トークした{f801}キミと仲魔は厚い信頼で結ばれている{f801}{ffff}</source>
+    <target>仲魔と50回トークした{f801}キミと仲魔は厚い信頼で結ばれている{f801}{ffff}</target>
+  </entry>
+  <entry id="534">
+    <source>仲魔を削除した{f801}時には冷徹な判断も必要である{f801}{ffff}</source>
+    <target>仲魔を削除した{f801}時には冷徹な判断も必要である{f801}{ffff}</target>
+  </entry>
+  <entry id="535">
+    <source>逃走に10回成功した{f801}三十六計逃げるに如かず{f801}{ffff}</source>
+    <target>逃走に10回成功した{f801}三十六計逃げるに如かず{f801}{ffff}</target>
+  </entry>
+  <entry id="536">
+    <source>逃走に10回失敗した{f801}現実からは逃れられない{f801}{ffff}</source>
+    <target>逃走に10回失敗した{f801}現実からは逃れられない{f801}{ffff}</target>
+  </entry>
+  <entry id="537">
+    <source>戦闘で500回ニヤリ状態になった{f801}一度戦闘が始まると笑いが止まらない{f801}{ffff}</source>
+    <target>戦闘で500回ニヤリ状態になった{f801}一度戦闘が始まると笑いが止まらない{f801}{ffff}</target>
+  </entry>
+  <entry id="538">
+    <source>トレードに10回成功した{f801}これなら店を開いてもやっていけそうだ{f801}{ffff}</source>
+    <target>トレードに10回成功した{f801}これなら店を開いてもやっていけそうだ{f801}{ffff}</target>
+  </entry>
+  <entry id="539">
+    <source>ファンドに100回成功した{f801}あくまで強奪ではなく厚意である{f801}{ffff}</source>
+    <target>ファンドに100回成功した{f801}あくまで強奪ではなく厚意である{f801}{ffff}</target>
+  </entry>
+  <entry id="540">
+    <source>1度に1000以上のダメージを与えた{f801}もう並の相手では相手にならない{f801}{ffff}</source>
+    <target>1度に1000以上のダメージを与えた{f801}もう並の相手では相手にならない{f801}{ffff}</target>
+  </entry>
+  <entry id="541">
+    <source>1度に10000以上のダメージを与えた{f801}全力で敵を屠る それがすべてだ{f801}{ffff}</source>
+    <target>1度に10000以上のダメージを与えた{f801}全力で敵を屠る それがすべてだ{f801}{ffff}</target>
+  </entry>
+  <entry id="542">
+    <source>アシストアタックが10回発生した{f801}持つべきは心強いパートナーである{f801}{ffff}</source>
+    <target>アシストアタックが10回発生した{f801}持つべきは心強いパートナーである{f801}{ffff}</target>
+  </entry>
+  <entry id="543">
+    <source>主人公の【力】が装備品抜きで200を超えた{f801}少し筋トレしすぎたかもしれない{f801}{ffff}</source>
+    <target>主人公の【力】が装備品抜きで200を超えた{f801}少し筋トレしすぎたかもしれない{f801}{ffff}</target>
+  </entry>
+  <entry id="544">
+    <source>主人公の【技】が装備品抜きで200を超えた{f801}我ながら見事なワザマエである{f801}{ffff}</source>
+    <target>主人公の【技】が装備品抜きで200を超えた{f801}我ながら見事なワザマエである{f801}{ffff}</target>
+  </entry>
+  <entry id="545">
+    <source>主人公の【魔】が装備品抜きで200を超えた{f801}腹の底から沸々と力が漲る{f801}{ffff}</source>
+    <target>主人公の【魔】が装備品抜きで200を超えた{f801}腹の底から沸々と力が漲る{f801}{ffff}</target>
+  </entry>
+  <entry id="546">
+    <source>主人公の【速】が装備品抜きで200を超えた{f801}まさに疾風のごとし{f801}{ffff}</source>
+    <target>主人公の【速】が装備品抜きで200を超えた{f801}まさに疾風のごとし{f801}{ffff}</target>
+  </entry>
+  <entry id="547">
+    <source>主人公の【運】が装備品抜きで200を超えた{f801}今ならなんでも成功する気がする{f801}{ffff}</source>
+    <target>主人公の【運】が装備品抜きで200を超えた{f801}今ならなんでも成功する気がする{f801}{ffff}</target>
+  </entry>
+  <entry id="548">
+    <source>すべての人外ハンター商会で食事をした{f801}いずれも食えたものではな…独特な味だった{f801}{ffff}</source>
+    <target>すべての人外ハンター商会で食事をした{f801}いずれも食えたものではな…独特な味だった{f801}{ffff}</target>
+  </entry>
+  <entry id="549">
+    <source>チャレンジクエストを10回クリアした{f801}どんな依頼もドンと来い{f801}{ffff}</source>
+    <target>チャレンジクエストを10回クリアした{f801}どんな依頼もドンと来い{f801}{ffff}</target>
+  </entry>
+  <entry id="550">
+    <source>チャレンジクエストを50回クリアした{f801}どんな依頼も彼にかかればパパっと解決{f801}{ffff}</source>
+    <target>チャレンジクエストを50回クリアした{f801}どんな依頼も彼にかかればパパっと解決{f801}{ffff}</target>
+  </entry>
+  <entry id="551">
+    <source>所持金が1000000マッカを超えた{f801}そろそろ持ち運ぶのがツラい…{f801}{ffff}</source>
+    <target>所持金が1000000マッカを超えた{f801}そろそろ持ち運ぶのがツラい…{f801}{ffff}</target>
+  </entry>
+  <entry id="552">
+    <source>買い物に計100000マッカ以上使った{f801}買いたいと思った時が買いどきなのだ{f801}{ffff}</source>
+    <target>買い物に計100000マッカ以上使った{f801}買いたいと思った時が買いどきなのだ{f801}{ffff}</target>
+  </entry>
+  <entry id="553">
+    <source>悪魔会話で計100000マッカ以上貢いだ{f801}好きな悪魔のためなら金に糸目は付けない{f801}{ffff}</source>
+    <target>悪魔会話で計100000マッカ以上貢いだ{f801}好きな悪魔のためなら金に糸目は付けない{f801}{ffff}</target>
+  </entry>
+  <entry id="554">
+    <source>アサヒをパートナーに 10回戦闘した{f801}戦闘の息もバッチリだ{f801}{ffff}</source>
+    <target>アサヒをパートナーに 10回戦闘した{f801}戦闘の息もバッチリだ{f801}{ffff}</target>
+  </entry>
+  <entry id="555">
+    <source>アサヒをパートナーに 100回戦闘した{f801}欠けてはならない大切な存在だ{f801}{ffff}</source>
+    <target>アサヒをパートナーに 100回戦闘した{f801}欠けてはならない大切な存在だ{f801}{ffff}</target>
+  </entry>
+  <entry id="556">
+    <source>ナバールをパートナーに 10回戦闘した{f801}見えてしまうのだから仕方がない{f801}{ffff}</source>
+    <target>ナバールをパートナーに 10回戦闘した{f801}見えてしまうのだから仕方がない{f801}{ffff}</target>
+  </entry>
+  <entry id="557">
+    <source>ナバールをパートナーに 100回戦闘した{f801}面倒なので弟子ということにしておこう{f801}{ffff}</source>
+    <target>ナバールをパートナーに 100回戦闘した{f801}面倒なので弟子ということにしておこう{f801}{ffff}</target>
+  </entry>
+  <entry id="558">
+    <source>ノゾミをパートナーに 10回戦闘した{f801}まだまだ子供扱いみたいだ{f801}{ffff}</source>
+    <target>ノゾミをパートナーに 10回戦闘した{f801}まだまだ子供扱いみたいだ{f801}{ffff}</target>
+  </entry>
+  <entry id="559">
+    <source>ノゾミをパートナーに 100回戦闘した{f801}お互いに信頼し合っているのが分かる{f801}{ffff}</source>
+    <target>ノゾミをパートナーに 100回戦闘した{f801}お互いに信頼し合っているのが分かる{f801}{ffff}</target>
+  </entry>
+  <entry id="560">
+    <source>ガストンをパートナーに 10回戦闘した{f801}厄介だが戦闘能力は申し分ない{f801}{ffff}</source>
+    <target>ガストンをパートナーに 10回戦闘した{f801}厄介だが戦闘能力は申し分ない{f801}{ffff}</target>
+  </entry>
+  <entry id="561">
+    <source>ガストンをパートナーに 100回戦闘した{f801}分かり合えれば この上ない戦友だ{f801}{ffff}</source>
+    <target>ガストンをパートナーに 100回戦闘した{f801}分かり合えれば この上ない戦友だ{f801}{ffff}</target>
+  </entry>
+  <entry id="562">
+    <source>ハレルヤをパートナーに 10回戦闘した{f801}とても慕ってくれているのが分かる{f801}{ffff}</source>
+    <target>ハレルヤをパートナーに 10回戦闘した{f801}とても慕ってくれているのが分かる{f801}{ffff}</target>
+  </entry>
+  <entry id="563">
+    <source>ハレルヤをパートナーに 100回戦闘した{f801}互いに力を認め合った気の置けない相棒だ{f801}{ffff}</source>
+    <target>ハレルヤをパートナーに 100回戦闘した{f801}互いに力を認め合った気の置けない相棒だ{f801}{ffff}</target>
+  </entry>
+  <entry id="564">
+    <source>トキをパートナーに 10回戦闘した{f801}信頼はされてないが信用はされているようだ{f801}{ffff}</source>
+    <target>トキをパートナーに 10回戦闘した{f801}信頼はされてないが信用はされているようだ{f801}{ffff}</target>
+  </entry>
+  <entry id="565">
+    <source>トキをパートナーに 100回戦闘した{f801}彼女はいつもそばで こっちを見ている…{f801}{ffff}</source>
+    <target>トキをパートナーに 100回戦闘した{f801}彼女はいつもそばで こっちを見ている…{f801}{ffff}</target>
+  </entry>
+  <entry id="566">
+    <source>イザボーをパートナーに 10回戦闘した{f801}戦闘の腕を買ってくれているようだ{f801}{ffff}</source>
+    <target>イザボーをパートナーに 10回戦闘した{f801}戦闘の腕を買ってくれているようだ{f801}{ffff}</target>
+  </entry>
+  <entry id="567">
+    <source>イザボーをパートナーに 100回戦闘した{f801}とても期待してくれているのが分かる{f801}{ffff}</source>
+    <target>イザボーをパートナーに 100回戦闘した{f801}とても期待してくれているのが分かる{f801}{ffff}</target>
+  </entry>
+  <entry id="568">
+    <source>先制攻撃に100回成功した{f801}武器の間合いは掴んだ{f801}{ffff}</source>
+    <target>先制攻撃に100回成功した{f801}武器の間合いは掴んだ{f801}{ffff}</target>
+  </entry>
+  <entry id="569">
+    <source>先制攻撃に500回成功した{f801}道も自分の手で斬りひらく{f801}{ffff}</source>
+    <target>先制攻撃に500回成功した{f801}道も自分の手で斬りひらく{f801}{ffff}</target>
+  </entry>
+  <entry id="570">
+    <source>トラップホールに10回以上かかった{f801}避けようなんてないだろう…?{f801}{ffff}</source>
+    <target>トラップホールに10回以上かかった{f801}避けようなんてないだろう…?{f801}{ffff}</target>
+  </entry>
+  <entry id="571">
+    <source>マップオブジェクトを50回破壊した{f801}いくらでも破壊の権化となろう{f801}{ffff}</source>
+    <target>マップオブジェクトを50回破壊した{f801}いくらでも破壊の権化となろう{f801}{ffff}</target>
+  </entry>
+  <entry id="572">
+    <source>行方不明者報告を10回行った{f801}アプリのためではない あくまで善意だ{f801}{ffff}</source>
+    <target>行方不明者報告を10回行った{f801}アプリのためではない あくまで善意だ{f801}{ffff}</target>
+  </entry>
+  <entry id="573">
+    <source>ヒスイの守刀で霊晶の破壊回数と{f801}敵の撃退回数の合計が100回を超えた{f801}{ffff}</source>
+    <target>ヒスイの守刀で霊晶の破壊回数と{f801}敵の撃退回数の合計が100回を超えた{f801}{ffff}</target>
+  </entry>
+  <entry id="574">
+    <source>総移動距離が42.195kmを超えた{f801}走った距離は裏切らない{f801}{ffff}</source>
+    <target>総移動距離が42.195kmを超えた{f801}走った距離は裏切らない{f801}{ffff}</target>
+  </entry>
+  <entry id="575">
+    <source>総移動距離が100kmを超えた{f801}足が丈夫なのもダグザの影響だろうか{f801}{ffff}</source>
+    <target>総移動距離が100kmを超えた{f801}足が丈夫なのもダグザの影響だろうか{f801}{ffff}</target>
+  </entry>
+  <entry id="576">
+    <source>別の世界の記憶を引き継いだ証{f801}サムライの教義を忘れるな{f801}{ffff}</source>
+    <target>別の世界の記憶を引き継いだ証{f801}サムライの教義を忘れるな{f801}{ffff}</target>
+  </entry>
+  <entry id="577">
+    <source>別の世界の記憶を引き継いだ証{f801}かつてのキミは世界に秩序をもたらした{f801}{ffff}</source>
+    <target>別の世界の記憶を引き継いだ証{f801}かつてのキミは世界に秩序をもたらした{f801}{ffff}</target>
+  </entry>
+  <entry id="578">
+    <source>別の世界の記憶を引き継いだ証{f801}かつてのキミは世界に混沌をもたらした{f801}{ffff}</source>
+    <target>別の世界の記憶を引き継いだ証{f801}かつてのキミは世界に混沌をもたらした{f801}{ffff}</target>
+  </entry>
+  <entry id="579">
+    <source>別の世界の記憶を引き継いだ証{f801}かつてのキミは世界に新たな道を示した{f801}{ffff}</source>
+    <target>別の世界の記憶を引き継いだ証{f801}かつてのキミは世界に新たな道を示した{f801}{ffff}</target>
+  </entry>
+  <entry id="580">
+    <source>別の世界の記憶を引き継いだ証{f801}かつてのキミは世界を無に還した{f801}{ffff}</source>
+    <target>別の世界の記憶を引き継いだ証{f801}かつてのキミは世界を無に還した{f801}{ffff}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}白鳥のバスで 時空を超えてきたよー{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}白鳥のバスで 時空を超えてきたよー{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}どこの宇宙も みんな戦ってるから{f801}ボクはひとりで 星の王子様ゴッコ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}どこの宇宙も みんな戦ってるから{f801}ボクはひとりで 星の王子様ゴッコ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}はー 帰ってきちゃったなー{f801}このキモチのために 旅をしてるなー{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}はー 帰ってきちゃったなー{f801}このキモチのために 旅をしてるなー{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}いろんな悪魔と合体して{f801}いろんなボクになったとさー{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}いろんな悪魔と合体して{f801}いろんなボクになったとさー{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}わっ…もしかして {f843}{0000}!?{f801}一瞬ダレだか わからなかったよー{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}わっ…もしかして {f843}{0000}!?{f801}一瞬ダレだか わからなかったよー{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}ただいまー{f801}何があったかは ボクのナイショ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ただいまー{f801}何があったかは ボクのナイショ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}はい 宇宙名物{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}はい 宇宙名物{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}{f843}{0000}のために{f801}行きの空港で買ったお土産{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}のために{f801}行きの空港で買ったお土産{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}はい ハバナ産のお土産{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}はい ハバナ産のお土産{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

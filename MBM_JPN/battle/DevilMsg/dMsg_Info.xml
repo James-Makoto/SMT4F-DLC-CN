@@ -1,0 +1,94 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}スキル 咲いたよ〜{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}スキル 咲いたよ〜{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}{f843}{0000}は このスキル{f801}使ってみたい?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}は このスキル{f801}使ってみたい?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}コイツは 新しいジャーニーに最適だー{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}コイツは 新しいジャーニーに最適だー{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}重いと軽い{f801}どっちがナマケモノ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}重いと軽い{f801}どっちがナマケモノ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}{f804}{0500}{f877}{0100}{f804}{0000}を {f804}{0500}{f877}{0200}{f804}{0000}に{f801}そーしたら 花火出るかな?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f877}{0100}{f804}{0000}を {f804}{0500}{f877}{0200}{f804}{0000}に{f801}そーしたら 花火出るかな?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}くるくる ぽん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}くるくる ぽん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}ガオー! なめんなー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ガオー! なめんなー!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}新しい自分に 追いつかれちゃった…{f801}降参だね?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}新しい自分に 追いつかれちゃった…{f801}降参だね?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}くるくるるーー{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}くるくるるーー{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}キミ 今の自分が一番好き?{f801}まだ見ぬ自分も知らないくせに…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}キミ 今の自分が一番好き?{f801}まだ見ぬ自分も知らないくせに…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}世界が変わった気がするね{f801}ボクが変わっただけなのに{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}世界が変わった気がするね{f801}ボクが変わっただけなのに{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}わっ! 新しい自分が追いかけてくる!{f801}あわわ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}わっ! 新しい自分が追いかけてくる!{f801}あわわ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}を キミに…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}を キミに…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000} 拾ったよ{f801}どこに落ちてたかは ヒミツだよー{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000} 拾ったよ{f801}どこに落ちてたかは ヒミツだよー{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}大切な{f804}{0500}{f872}{0100}{f804}{0000} あげるね{f801}だから 大切じゃなくなっちゃったー{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}大切な{f804}{0500}{f872}{0100}{f804}{0000} あげるね{f801}だから 大切じゃなくなっちゃったー{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}キミも悪魔になってみる?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}キミも悪魔になってみる?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}わかったかなモシ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}わかったかなモシ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}!{f801}こんごとも ヨロシク!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}!{f801}こんごとも ヨロシク!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}スキルを変異させる{f801}やめておく{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}スキルを変異させる{f801}やめておく{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>悪魔をハイレベルアップさせる{f801}やめておく{f801}{f802}{ffff}</source>
+    <target>悪魔をハイレベルアップさせる{f801}やめておく{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>これでいい{f801}考え直す{f801}{f802}{ffff}</source>
+    <target>これでいい{f801}考え直す{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f812}ミドー{0000}{f87a}{0100}…合体エラーが発生して{f801}予定と異なる悪魔ができたようだな{f801}{f802}{ffff}</source>
+    <target>{f812}ミドー{0000}{f87a}{0100}…合体エラーが発生して{f801}予定と異なる悪魔ができたようだな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>ダミー{f801}{f802}{ffff}</source>
+    <target>ダミー{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

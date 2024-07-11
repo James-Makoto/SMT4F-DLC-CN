@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>どこへ行きますか?{f801}{ffff}</source>
+    <target>どこへ行きますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f812}バロウズ{0000}どこへ行きますか?{f801}{ffff}</source>
+    <target>{f812}バロウズ{0000}どこへ行きますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>行きます{f801}{ffff}</source>
+    <target>行きます{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f812}バロウズ{0000}ではいきましょう{f801}{ffff}</source>
+    <target>{f812}バロウズ{0000}ではいきましょう{f801}{ffff}</target>
+  </entry>
+</mbm>

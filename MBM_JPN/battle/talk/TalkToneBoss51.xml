@@ -1,0 +1,302 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}悪ィけど 俺がお前を求めてんだ{f801}お前に求められることに興味はねえよ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}悪ィけど 俺がお前を求めてんだ{f801}お前に求められることに興味はねえよ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}へーえ? つまりぃ?{f801}俺からカネが欲しいってか?{f801}{f802}ひゃはははは! 面白いじゃねえの{f801}いいぜ やってみな!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}へーえ? つまりぃ?{f801}俺からカネが欲しいってか?{f801}{f802}ひゃはははは! 面白いじゃねえの{f801}いいぜ やってみな!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}好き放題やりやがったな…{f801}ヤられた事はヤり返す主義だぜ 俺は!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好き放題やりやがったな…{f801}ヤられた事はヤり返す主義だぜ 俺は!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}身の程知りな ニンゲン!{f801}俺をユスった罪は重いぜ!?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}身の程知りな ニンゲン!{f801}俺をユスった罪は重いぜ!?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}うおっとぉ…!?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}うおっとぉ…!?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}はぁ…っ{f801}ニンゲンにしちゃぁやるねえ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}はぁ…っ{f801}ニンゲンにしちゃぁやるねえ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>{f871}{0100}あーー! ヤメだヤメだ!{f801}付き合ってられるか クソが!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あーー! ヤメだヤメだ!{f801}付き合ってられるか クソが!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f871}{0100}エゲつねぇなあ{f801}断れない状況でソレを言うかよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}エゲつねぇなあ{f801}断れない状況でソレを言うかよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f871}{0100}ひゃはははは! 遊ぶねえニンゲン{f801}いいぜ 付き合ってやるよ{f801}{f802}俺のモンが欲しいんなら{f801}お前も相応の物を捧げてみな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ひゃはははは! 遊ぶねえニンゲン{f801}いいぜ 付き合ってやるよ{f801}{f802}俺のモンが欲しいんなら{f801}お前も相応の物を捧げてみな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f871}{0100}特別にコイツをやるよ{f801}これでお前も満足したろ?{f801}{f802}それじゃあ 始めようぜ{f801}最高にゴキゲンなバトルの続きをさ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}特別にコイツをやるよ{f801}これでお前も満足したろ?{f801}{f802}それじゃあ 始めようぜ{f801}最高にゴキゲンなバトルの続きをさ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}素直だねえ ニンゲン!{f801}嫌いじゃねーぜ そういうの!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}素直だねえ ニンゲン!{f801}嫌いじゃねーぜ そういうの!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f871}{0100}さあ 好きなだけ持って行きな!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}さあ 好きなだけ持って行きな!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}ダラダラやってもサガるだけだろ?{f801}一発でキメちまおうぜ{f801}{f802}{f878}{0100}マッカ!{f801}さあ 出してみな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ダラダラやってもサガるだけだろ?{f801}一発でキメちまおうぜ{f801}{f802}{f878}{0100}マッカ!{f801}さあ 出してみな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>{f871}{0100}{f872}{0100}を{f878}{0100}個寄越しな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f872}{0100}を{f878}{0100}個寄越しな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f871}{0100}{f878}{0100}マッカもらうぜ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f878}{0100}マッカもらうぜ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}テメエの生命力を{f801}ちぃっと 寄越しな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}テメエの生命力を{f801}ちぃっと 寄越しな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>{f871}{0100}テメエの生命力を{f801}そこそこ 寄越しな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}テメエの生命力を{f801}そこそこ 寄越しな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}テメエの生命力を{f801}かなり 寄越しな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}テメエの生命力を{f801}かなり 寄越しな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>{f871}{0100}テメエの生命力を{f801}死ぬほど 寄越しな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}テメエの生命力を{f801}死ぬほど 寄越しな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}テメエの精神力を{f801}ちぃっと 寄越しな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}テメエの精神力を{f801}ちぃっと 寄越しな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>{f871}{0100}テメエの精神力を{f801}そこそこ 寄越しな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}テメエの精神力を{f801}そこそこ 寄越しな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}テメエの精神力を{f801}かなり 寄越しな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}テメエの精神力を{f801}かなり 寄越しな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f871}{0100}テメエの精神力を{f801}死ぬほど 寄越しな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}テメエの精神力を{f801}死ぬほど 寄越しな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f871}{0100}テメエの仲魔…{f801}{f873}{0200}の命をもらうぜ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}テメエの仲魔…{f801}{f873}{0200}の命をもらうぜ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f871}{0100}テメエのアレをもらおうか{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}テメエのアレをもらおうか{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f871}{0100}俺が欲しいモノ…分かるよな?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}俺が欲しいモノ…分かるよな?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}ビンゴだ!{f801}よぉく分かってんじゃねえか{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ビンゴだ!{f801}よぉく分かってんじゃねえか{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>{f871}{0100}ったく サゲてくれるぜ{f801}ツマんねーんだよ お前{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ったく サゲてくれるぜ{f801}ツマんねーんだよ お前{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}いいねえ いいねえ{f801}悪くないぜ お前!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}いいねえ いいねえ{f801}悪くないぜ お前!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f871}{0100}へぇ? そう来るワケだ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}へぇ? そう来るワケだ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}ツマんねえんだよ お前{f801}せめてバトって楽しませろや!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ツマんねえんだよ お前{f801}せめてバトって楽しませろや!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>{f871}{0100}…ああ そうかよ{f801}じゃあ もう要らねえわ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…ああ そうかよ{f801}じゃあ もう要らねえわ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}ダウトだ{f801}{f802}俺は遊ぶのは好きだけどよぉ…{f801}遊ばれるのは趣味じゃねえんだわ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ダウトだ{f801}{f802}俺は遊ぶのは好きだけどよぉ…{f801}遊ばれるのは趣味じゃねえんだわ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>{f871}{0100}あぁん? 持ってねえのかよ{f801}クソッ サガっちまうなあ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あぁん? 持ってねえのかよ{f801}クソッ サガっちまうなあ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}あぁん? 魔石も持ってねえのかよ{f801}クソッ サガっちまうなあ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あぁん? 魔石も持ってねえのかよ{f801}クソッ サガっちまうなあ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>{f871}{0100}ひゃははは! 俺にモノを出せっつって{f801}テメェでは出す気ゼロかよ!{f801}{f802}この俺相手にその身勝手さ!{f801}久々に笑わせてもらったぜ? 大満足だ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ひゃははは! 俺にモノを出せっつって{f801}テメェでは出す気ゼロかよ!{f801}{f802}この俺相手にその身勝手さ!{f801}久々に笑わせてもらったぜ? 大満足だ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}…もらうモンはもらったが{f801}なんか ノらねえなあ{f801}{f802}やっぱこの取引ナシにしようぜ{f801}さあ バトって行こうや!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…もらうモンはもらったが{f801}なんか ノらねえなあ{f801}{f802}やっぱこの取引ナシにしようぜ{f801}さあ バトって行こうや!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>{f871}{0100}は? これもナイ?{f801}あれもそれもこれもナイ?{f801}{f802}ひゃははは! それでよく取引なんざ{f801}言い出したもんだぜ!{f801}{f802}そのバカなクソ度胸 悪くねえよ?{f801}久々に大満足だ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}は? これもナイ?{f801}あれもそれもこれもナイ?{f801}{f802}ひゃははは! それでよく取引なんざ{f801}言い出したもんだぜ!{f801}{f802}そのバカなクソ度胸 悪くねえよ?{f801}久々に大満足だ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>{f871}{0100}またその話かい?{f801}サガっちまうなあ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}またその話かい?{f801}サガっちまうなあ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,62 @@
+<mbm>
+  <entry id="0">
+    <source>宙に浮いていた塊が展開して{f801}抽送弁が解放された{f801}{ffff}</source>
+    <target>宙に浮いていた塊が展開して{f801}抽送弁が解放された{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>扉は固く閉ざされている{f801}{ffff}</source>
+    <target>扉は固く閉ざされている{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>第1{f801}{ffff}</source>
+    <target>第1{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>第1経路{f801}{ffff}</source>
+    <target>第1経路{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>第2経路{f801}{ffff}</source>
+    <target>第2経路{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>第3経路{f801}{ffff}</source>
+    <target>第3経路{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>第4経路{f801}{ffff}</source>
+    <target>第4経路{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>第5経路{f801}{ffff}</source>
+    <target>第5経路{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>第6経路{f801}{ffff}</source>
+    <target>第6経路{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>ここ以外の抽送弁が{f801}解放されていないようだ…{f801}{f802}移送先となる抽送弁が解放されないと{f801}他の場所へ移送することはできない{f801}{ffff}</source>
+    <target>ここ以外の抽送弁が{f801}解放されていないようだ…{f801}{f802}移送先となる抽送弁が解放されないと{f801}他の場所へ移送することはできない{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>扉は固く閉ざされており{f801}今の状態では開けることはできない…{f801}{ffff}</source>
+    <target>扉は固く閉ざされており{f801}今の状態では開けることはできない…{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>扉が緩んでおり 中に入れそうだ…{f801}{ffff}</source>
+    <target>扉が緩んでおり 中に入れそうだ…{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>宙に浮いていた塊に触れると{f801}中に収まっていた物が螺旋を描き展開された{f801}{f802}どうやらこれは 物体を特定の場所へと{f801}抽送する≪弁≫の役割があったようだ…{f801}{f802}何処かで同様の塊を解放させられれば{f801}その場所まで移送してくれるだろう{f801}{ffff}</source>
+    <target>宙に浮いていた塊に触れると{f801}中に収まっていた物が螺旋を描き展開された{f801}{f802}どうやらこれは 物体を特定の場所へと{f801}抽送する≪弁≫の役割があったようだ…{f801}{f802}何処かで同様の塊を解放させられれば{f801}その場所まで移送してくれるだろう{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>{f812}警備のハンター{0000}{f81b}{4930}{3237}{3030}{3900}{0000}{0000}入口付近は俺らがいるから安全だが{f801}奥に行くと まだ悪魔がはびこってる…{f801}{f802}奥に行く時は気を付けてくれよな{f801}{ffff}</source>
+    <target>{f812}警備のハンター{0000}{f81b}{4930}{3237}{3030}{3900}{0000}{0000}入口付近は俺らがいるから安全だが{f801}奥に行くと まだ悪魔がはびこってる…{f801}{f802}奥に行く時は気を付けてくれよな{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>{f812}観光気分の女性{0000}{f81b}{4930}{3138}{3031}{3100}{0000}{0000}物見遊山で来てみたのだけれど{f801}宇宙の卵…想像以上ね!{f801}{ffff}</source>
+    <target>{f812}観光気分の女性{0000}{f81b}{4930}{3138}{3031}{3100}{0000}{0000}物見遊山で来てみたのだけれど{f801}宇宙の卵…想像以上ね!{f801}{ffff}</target>
+  </entry>
+</mbm>

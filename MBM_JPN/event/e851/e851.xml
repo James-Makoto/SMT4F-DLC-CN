@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>テスト{f801}{ffff}</source>
+    <target>テスト{f801}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>デビルマーケットに転送されました{f801}{f802}ここでは マッカで仲魔を{f801}購入することができます{f801}{ffff}</source>
+    <target>デビルマーケットに転送されました{f801}{f802}ここでは マッカで仲魔を{f801}購入することができます{f801}{ffff}</target>
+  </entry>
+  <entry id="301">
+    <source>元の世界に帰りますか?{f801}{ffff}</source>
+    <target>元の世界に帰りますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="302">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+</mbm>

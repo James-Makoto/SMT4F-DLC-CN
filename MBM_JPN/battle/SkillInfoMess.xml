@@ -1,0 +1,530 @@
+<mbm>
+  <entry id="41">
+    <source>全能力ダウン!{f801}{ffff}</source>
+    <target>全能力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>所持マッカが一部消えた!{f801}{ffff}</source>
+    <target>所持マッカが一部消えた!{f801}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>所持マッカが半分に減った!{f801}{ffff}</source>
+    <target>所持マッカが半分に減った!{f801}{ffff}</target>
+  </entry>
+  <entry id="77">
+    <source>風邪が悪化した!{f801}{ffff}</source>
+    <target>風邪が悪化した!{f801}{ffff}</target>
+  </entry>
+  <entry id="78">
+    <source>魔法攻撃力アップ!{f801}{ffff}</source>
+    <target>魔法攻撃力アップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="96">
+    <source>防御力ダウン!{f801}{ffff}</source>
+    <target>防御力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="97">
+    <source>相性を貫通した!{f801}{ffff}</source>
+    <target>相性を貫通した!{f801}{ffff}</target>
+  </entry>
+  <entry id="98">
+    <source>相性を貫通した!{f801}{ffff}</source>
+    <target>相性を貫通した!{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>物理攻撃力アップ!{f801}{ffff}</source>
+    <target>物理攻撃力アップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>命中・回避率アップ!{f801}{ffff}</source>
+    <target>命中・回避率アップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>防御力アップ!{f801}{ffff}</source>
+    <target>防御力アップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>全能力アップ!{f801}{ffff}</source>
+    <target>全能力アップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>能力アップの効果が消えた{f801}{ffff}</source>
+    <target>能力アップの効果が消えた{f801}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>攻撃力ダウン!{f801}{ffff}</source>
+    <target>攻撃力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>命中・回避率ダウン!{f801}{ffff}</source>
+    <target>命中・回避率ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>防御力ダウン!{f801}{ffff}</source>
+    <target>防御力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>全能力ダウン!{f801}{ffff}</source>
+    <target>全能力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>能力ダウンの効果が消えた{f801}{ffff}</source>
+    <target>能力ダウンの効果が消えた{f801}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>全ての能力が元に戻った{f801}{ffff}</source>
+    <target>全ての能力が元に戻った{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>攻撃力・防御力ダウン!{f801}{ffff}</source>
+    <target>攻撃力・防御力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>攻撃力・命中・回避率ダウン!{f801}{ffff}</source>
+    <target>攻撃力・命中・回避率ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>防御力・命中・回避率ダウン!{f801}{ffff}</source>
+    <target>防御力・命中・回避率ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>防御力ダウン 攻撃力アップ!{f801}{ffff}</source>
+    <target>防御力ダウン 攻撃力アップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="116">
+    <source>物理・銃の攻撃が一時的に必中クリティカル!{f801}{ffff}</source>
+    <target>物理・銃の攻撃が一時的に必中クリティカル!{f801}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>物理・銃の威力が一時的に大きくアップ!{f801}{ffff}</source>
+    <target>物理・銃の威力が一時的に大きくアップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>魔法威力が一時的に大きくアップ!{f801}{ffff}</source>
+    <target>魔法威力が一時的に大きくアップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>全能力アップ!{f801}{ffff}</source>
+    <target>全能力アップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="134">
+    <source>全能力ダウン!{f801}{ffff}</source>
+    <target>全能力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="138">
+    <source>最大HPが上昇!{f801}{ffff}</source>
+    <target>最大HPが上昇!{f801}{ffff}</target>
+  </entry>
+  <entry id="139">
+    <source>攻撃力が大きくアップ!{f801}{ffff}</source>
+    <target>攻撃力が大きくアップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="145">
+    <source>攻撃力が大きくダウン!{f801}{ffff}</source>
+    <target>攻撃力が大きくダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="146">
+    <source>防御力が大きくダウン!{f801}{ffff}</source>
+    <target>防御力が大きくダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="147">
+    <source>命中・回避率が大きくダウン!{f801}{ffff}</source>
+    <target>命中・回避率が大きくダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="169">
+    <source>攻撃力ダウン!{f801}{ffff}</source>
+    <target>攻撃力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>防御力が下がった!{f801}{ffff}</source>
+    <target>防御力が下がった!{f801}{ffff}</target>
+  </entry>
+  <entry id="202">
+    <source>命中・回避が下がった!{f801}{ffff}</source>
+    <target>命中・回避が下がった!{f801}{ffff}</target>
+  </entry>
+  <entry id="206">
+    <source>攻撃力が下がった!{f801}{ffff}</source>
+    <target>攻撃力が下がった!{f801}{ffff}</target>
+  </entry>
+  <entry id="207">
+    <source>防御力が下がった!{f801}{ffff}</source>
+    <target>防御力が下がった!{f801}{ffff}</target>
+  </entry>
+  <entry id="208">
+    <source>ターン終了時まで火炎属性が貫通化!{f801}{ffff}</source>
+    <target>ターン終了時まで火炎属性が貫通化!{f801}{ffff}</target>
+  </entry>
+  <entry id="209">
+    <source>ターン終了時まで氷結属性が貫通化!{f801}{ffff}</source>
+    <target>ターン終了時まで氷結属性が貫通化!{f801}{ffff}</target>
+  </entry>
+  <entry id="210">
+    <source>ターン終了時まで電撃属性が貫通化!{f801}{ffff}</source>
+    <target>ターン終了時まで電撃属性が貫通化!{f801}{ffff}</target>
+  </entry>
+  <entry id="211">
+    <source>ターン終了時まで衝撃属性が貫通化!{f801}{ffff}</source>
+    <target>ターン終了時まで衝撃属性が貫通化!{f801}{ffff}</target>
+  </entry>
+  <entry id="212">
+    <source>プレスアイコン減少!{f801}{ffff}</source>
+    <target>プレスアイコン減少!{f801}{ffff}</target>
+  </entry>
+  <entry id="213">
+    <source>{f873}{0600}は敵の攻撃にそなえた{f801}{ffff}</source>
+    <target>{f873}{0600}は敵の攻撃にそなえた{f801}{ffff}</target>
+  </entry>
+  <entry id="216">
+    <source>防御力が下がった!{f801}{ffff}</source>
+    <target>防御力が下がった!{f801}{ffff}</target>
+  </entry>
+  <entry id="217">
+    <source>命中・回避が下がった!{f801}{ffff}</source>
+    <target>命中・回避が下がった!{f801}{ffff}</target>
+  </entry>
+  <entry id="221">
+    <source>攻撃力が下がった!{f801}{ffff}</source>
+    <target>攻撃力が下がった!{f801}{ffff}</target>
+  </entry>
+  <entry id="223">
+    <source>全ての能力が下がった!{f801}{ffff}</source>
+    <target>全ての能力が下がった!{f801}{ffff}</target>
+  </entry>
+  <entry id="225">
+    <source>能力アップの効果が消えた{f801}{ffff}</source>
+    <target>能力アップの効果が消えた{f801}{ffff}</target>
+  </entry>
+  <entry id="226">
+    <source>{f873}{0600}はニヤリと笑った・・・{f801}{ffff}</source>
+    <target>{f873}{0600}はニヤリと笑った・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="230">
+    <source>能力アップの効果が消えた{f801}{ffff}</source>
+    <target>能力アップの効果が消えた{f801}{ffff}</target>
+  </entry>
+  <entry id="232">
+    <source>食いしばり効果がついた!{f801}{ffff}</source>
+    <target>食いしばり効果がついた!{f801}{ffff}</target>
+  </entry>
+  <entry id="233">
+    <source>状態異常予防効果がついた!{f801}{ffff}</source>
+    <target>状態異常予防効果がついた!{f801}{ffff}</target>
+  </entry>
+  <entry id="234">
+    <source>防御力ダウン!{f801}{ffff}</source>
+    <target>防御力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="235">
+    <source>最大HPが上昇!{f801}{ffff}</source>
+    <target>最大HPが上昇!{f801}{ffff}</target>
+  </entry>
+  <entry id="236">
+    <source>次の自ターンまで弱点に強くなった!{f801}{ffff}</source>
+    <target>次の自ターンまで弱点に強くなった!{f801}{ffff}</target>
+  </entry>
+  <entry id="237">
+    <source>MPの消費がしばらく無くなった!{f801}{ffff}</source>
+    <target>MPの消費がしばらく無くなった!{f801}{ffff}</target>
+  </entry>
+  <entry id="238">
+    <source>攻撃力ダウン!{f801}{ffff}</source>
+    <target>攻撃力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="239">
+    <source>防御力ダウン!{f801}{ffff}</source>
+    <target>防御力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="240">
+    <source>攻撃力が一時的に大きく強化!{f801}{ffff}</source>
+    <target>攻撃力が一時的に大きく強化!{f801}{ffff}</target>
+  </entry>
+  <entry id="244">
+    <source>命中・回避率ダウン!{f801}{ffff}</source>
+    <target>命中・回避率ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="245">
+    <source>攻撃力ダウン!{f801}{ffff}</source>
+    <target>攻撃力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="247">
+    <source>能力アップの効果が消えた{f801}{ffff}</source>
+    <target>能力アップの効果が消えた{f801}{ffff}</target>
+  </entry>
+  <entry id="250">
+    <source>防御力ダウン!{f801}{ffff}</source>
+    <target>防御力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="251">
+    <source>イザナミの精神が乱れ呪詛は形にならない・・・{f801}{ffff}</source>
+    <target>イザナミの精神が乱れ呪詛は形にならない・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="253">
+    <source>{f873}{0600}は弱点属性の攻撃に備えている{f801}{ffff}</source>
+    <target>{f873}{0600}は弱点属性の攻撃に備えている{f801}{ffff}</target>
+  </entry>
+  <entry id="254">
+    <source>防御力が大きくダウン!{f801}{ffff}</source>
+    <target>防御力が大きくダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="259">
+    <source>防御力・命中・回避率が大きくアップ!{f801}{ffff}</source>
+    <target>防御力・命中・回避率が大きくアップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="260">
+    <source>{f873}{0600}は全ての攻撃に身構えている{f801}{ffff}</source>
+    <target>{f873}{0600}は全ての攻撃に身構えている{f801}{ffff}</target>
+  </entry>
+  <entry id="262">
+    <source>{f873}{0600}は光に対抗する力を溜めている{f801}{ffff}</source>
+    <target>{f873}{0600}は光に対抗する力を溜めている{f801}{ffff}</target>
+  </entry>
+  <entry id="264">
+    <source>防御力ダウン!{f801}{ffff}</source>
+    <target>防御力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="266">
+    <source>仲魔がストックに押し戻された・・・{f801}{ffff}</source>
+    <target>仲魔がストックに押し戻された・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="268">
+    <source>命中・回避率ダウン!{f801}{ffff}</source>
+    <target>命中・回避率ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="269">
+    <source>防御力ダウン!{f801}{ffff}</source>
+    <target>防御力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="274">
+    <source>プレスアイコン減少!{f801}{ffff}</source>
+    <target>プレスアイコン減少!{f801}{ffff}</target>
+  </entry>
+  <entry id="275">
+    <source>{f873}{0600}は敵の攻撃にそなえた{f801}{ffff}</source>
+    <target>{f873}{0600}は敵の攻撃にそなえた{f801}{ffff}</target>
+  </entry>
+  <entry id="276">
+    <source>全能力アップ!{f801}{ffff}</source>
+    <target>全能力アップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="291">
+    <source>補助効果が打ち消されなくなった!{f801}{ffff}</source>
+    <target>補助効果が打ち消されなくなった!{f801}{ffff}</target>
+  </entry>
+  <entry id="295">
+    <source>全ての効果を打ち消した!{f801}{ffff}</source>
+    <target>全ての効果を打ち消した!{f801}{ffff}</target>
+  </entry>
+  <entry id="297">
+    <source>最も弱い者が息絶えた{f801}{ffff}</source>
+    <target>最も弱い者が息絶えた{f801}{ffff}</target>
+  </entry>
+  <entry id="298">
+    <source>魔法攻撃力が大きくアップ!{f801}{ffff}</source>
+    <target>魔法攻撃力が大きくアップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="300">
+    <source>仲魔がストックに押し戻された・・・{f801}{ffff}</source>
+    <target>仲魔がストックに押し戻された・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="303">
+    <source>テトラカーンの効果を打ち消した!{f801}{ffff}</source>
+    <target>テトラカーンの効果を打ち消した!{f801}{ffff}</target>
+  </entry>
+  <entry id="304">
+    <source>全ての効果を打ち消した!{f801}{ffff}</source>
+    <target>全ての効果を打ち消した!{f801}{ffff}</target>
+  </entry>
+  <entry id="309">
+    <source>マカラカーンの効果を打ち消した!{f801}{ffff}</source>
+    <target>マカラカーンの効果を打ち消した!{f801}{ffff}</target>
+  </entry>
+  <entry id="314">
+    <source>命中・回避率ダウン!{f801}{ffff}</source>
+    <target>命中・回避率ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="315">
+    <source>全能力アップ!{f801}{ffff}</source>
+    <target>全能力アップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="317">
+    <source>プレスアイコン減少!{f801}{ffff}</source>
+    <target>プレスアイコン減少!{f801}{ffff}</target>
+  </entry>
+  <entry id="318">
+    <source>{f873}{0600}は敵の攻撃にそなえた{f801}{ffff}</source>
+    <target>{f873}{0600}は敵の攻撃にそなえた{f801}{ffff}</target>
+  </entry>
+  <entry id="321">
+    <source>プレスターンアイコン増加!{f801}{ffff}</source>
+    <target>プレスターンアイコン増加!{f801}{ffff}</target>
+  </entry>
+  <entry id="323">
+    <source>全能力ダウン!{f801}{ffff}</source>
+    <target>全能力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="326">
+    <source>防御力ダウン!{f801}{ffff}</source>
+    <target>防御力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="328">
+    <source>{f873}{0600}の弱点が破魔属性に変化した!{f801}{ffff}</source>
+    <target>{f873}{0600}の弱点が破魔属性に変化した!{f801}{ffff}</target>
+  </entry>
+  <entry id="330">
+    <source>YHVHは様子を見ている{f801}{ffff}</source>
+    <target>YHVHは様子を見ている{f801}{ffff}</target>
+  </entry>
+  <entry id="331">
+    <source>YHVHは怒りに震えている{f801}{ffff}</source>
+    <target>YHVHは怒りに震えている{f801}{ffff}</target>
+  </entry>
+  <entry id="332">
+    <source>{f873}{0600}の弱点が呪殺属性に変化した!{f801}{ffff}</source>
+    <target>{f873}{0600}の弱点が呪殺属性に変化した!{f801}{ffff}</target>
+  </entry>
+  <entry id="333">
+    <source>{f873}{0600}の弱点が氷結属性に変化した!{f801}{ffff}</source>
+    <target>{f873}{0600}の弱点が氷結属性に変化した!{f801}{ffff}</target>
+  </entry>
+  <entry id="334">
+    <source>{f873}{0600}の弱点が火炎属性に変化した!{f801}{ffff}</source>
+    <target>{f873}{0600}の弱点が火炎属性に変化した!{f801}{ffff}</target>
+  </entry>
+  <entry id="335">
+    <source>{f873}{0600}の弱点が衝撃属性に変化した!{f801}{ffff}</source>
+    <target>{f873}{0600}の弱点が衝撃属性に変化した!{f801}{ffff}</target>
+  </entry>
+  <entry id="336">
+    <source>{f873}{0600}の弱点が電撃属性に変化した!{f801}{ffff}</source>
+    <target>{f873}{0600}の弱点が電撃属性に変化した!{f801}{ffff}</target>
+  </entry>
+  <entry id="343">
+    <source>能力アップの効果が消えた{f801}{ffff}</source>
+    <target>能力アップの効果が消えた{f801}{ffff}</target>
+  </entry>
+  <entry id="344">
+    <source>魔法威力が一時的に大きくアップし貫通化!{f801}{ffff}</source>
+    <target>魔法威力が一時的に大きくアップし貫通化!{f801}{ffff}</target>
+  </entry>
+  <entry id="346">
+    <source>防御力ダウン!{f801}{ffff}</source>
+    <target>防御力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="347">
+    <source>防御力・命中・回避率ダウン!{f801}{ffff}</source>
+    <target>防御力・命中・回避率ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="357">
+    <source>全能力が最大になった!{f801}{ffff}</source>
+    <target>全能力が最大になった!{f801}{ffff}</target>
+  </entry>
+  <entry id="358">
+    <source>全能力が最低になった!{f801}{ffff}</source>
+    <target>全能力が最低になった!{f801}{ffff}</target>
+  </entry>
+  <entry id="375">
+    <source>能力アップの効果が消えた{f801}{ffff}</source>
+    <target>能力アップの効果が消えた{f801}{ffff}</target>
+  </entry>
+  <entry id="376">
+    <source>能力ダウンの効果が消えた{f801}{ffff}</source>
+    <target>能力ダウンの効果が消えた{f801}{ffff}</target>
+  </entry>
+  <entry id="380">
+    <source>ヴィシュヌフリンの中でフリンが足掻いている!{f801}{ffff}</source>
+    <target>ヴィシュヌフリンの中でフリンが足掻いている!{f801}{ffff}</target>
+  </entry>
+  <entry id="382">
+    <source>プレスアイコン減少!{f801}{ffff}</source>
+    <target>プレスアイコン減少!{f801}{ffff}</target>
+  </entry>
+  <entry id="388">
+    <source>全能力が最大になった!{f801}{ffff}</source>
+    <target>全能力が最大になった!{f801}{ffff}</target>
+  </entry>
+  <entry id="389">
+    <source>全能力が最低になった!{f801}{ffff}</source>
+    <target>全能力が最低になった!{f801}{ffff}</target>
+  </entry>
+  <entry id="390">
+    <source>プレスターンアイコン増加!{f801}{ffff}</source>
+    <target>プレスターンアイコン増加!{f801}{ffff}</target>
+  </entry>
+  <entry id="391">
+    <source>全能力ダウン!{f801}{ffff}</source>
+    <target>全能力ダウン!{f801}{ffff}</target>
+  </entry>
+  <entry id="392">
+    <source>すれちがい悪魔5体が お助け攻撃!{f801}{ffff}</source>
+    <target>すれちがい悪魔5体が お助け攻撃!{f801}{ffff}</target>
+  </entry>
+  <entry id="393">
+    <source>すれちがい悪魔6体が お助け攻撃!{f801}{ffff}</source>
+    <target>すれちがい悪魔6体が お助け攻撃!{f801}{ffff}</target>
+  </entry>
+  <entry id="394">
+    <source>すれちがい悪魔7体が お助け攻撃!{f801}{ffff}</source>
+    <target>すれちがい悪魔7体が お助け攻撃!{f801}{ffff}</target>
+  </entry>
+  <entry id="395">
+    <source>すれちがい悪魔8体が お助け攻撃!{f801}{ffff}</source>
+    <target>すれちがい悪魔8体が お助け攻撃!{f801}{ffff}</target>
+  </entry>
+  <entry id="396">
+    <source>すれちがい悪魔9体が お助け攻撃!{f801}{ffff}</source>
+    <target>すれちがい悪魔9体が お助け攻撃!{f801}{ffff}</target>
+  </entry>
+  <entry id="397">
+    <source>命中・回避率アップ!{f801}{ffff}</source>
+    <target>命中・回避率アップ!{f801}{ffff}</target>
+  </entry>
+  <entry id="398">
+    <source>すれちがい悪魔11体が お助け攻撃!{f801}{ffff}</source>
+    <target>すれちがい悪魔11体が お助け攻撃!{f801}{ffff}</target>
+  </entry>
+  <entry id="399">
+    <source>すれちがい悪魔12体が お助け攻撃!{f801}{ffff}</source>
+    <target>すれちがい悪魔12体が お助け攻撃!{f801}{ffff}</target>
+  </entry>
+  <entry id="457">
+    <source>エネルギー充填!{f801}{ffff}</source>
+    <target>エネルギー充填!{f801}{ffff}</target>
+  </entry>
+  <entry id="458">
+    <source>エネルギー減少!{f801}{ffff}</source>
+    <target>エネルギー減少!{f801}{ffff}</target>
+  </entry>
+  <entry id="459">
+    <source>スキル使用者が即死!{f801}{ffff}</source>
+    <target>スキル使用者が即死!{f801}{ffff}</target>
+  </entry>
+  <entry id="460">
+    <source>ゴアの体に力がみなぎる!{f801}{ffff}</source>
+    <target>ゴアの体に力がみなぎる!{f801}{ffff}</target>
+  </entry>
+  <entry id="1000">
+    <source>効果は最大まで発揮済み!{f801}{ffff}</source>
+    <target>効果は最大まで発揮済み!{f801}{ffff}</target>
+  </entry>
+  <entry id="1001">
+    <source>貧乏過ぎてこれ以上マッカを奪えない!{f801}{ffff}</source>
+    <target>貧乏過ぎてこれ以上マッカを奪えない!{f801}{ffff}</target>
+  </entry>
+  <entry id="1002">
+    <source>これ以上吸えない・・・{f801}{ffff}</source>
+    <target>これ以上吸えない・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="1003">
+    <source>光の壁が中和されて消えた!{f801}{ffff}</source>
+    <target>光の壁が中和されて消えた!{f801}{ffff}</target>
+  </entry>
+  <entry id="1004">
+    <source>光の壁に攻撃が反射された!{f801}{ffff}</source>
+    <target>光の壁に攻撃が反射された!{f801}{ffff}</target>
+  </entry>
+  <entry id="1005">
+    <source>HPは減らなかった・・・{f801}{ffff}</source>
+    <target>HPは減らなかった・・・{f801}{ffff}</target>
+  </entry>
+</mbm>

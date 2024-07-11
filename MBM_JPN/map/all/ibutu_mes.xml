@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{f812}バロウズ{0000}サーチ開始します{f801}{ffff}</source>
+    <target>{f812}バロウズ{0000}サーチ開始します{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>今は遺物反応はない…{f801}{ffff}</source>
+    <target>今は遺物反応はない…{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>この先は悪魔が張った結界になっている…{f801}進むか戻るか 慎重に考えよう{f801}{ffff}</source>
+    <target>この先は悪魔が張った結界になっている…{f801}進むか戻るか 慎重に考えよう{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>進む{f801}戻る{f801}{ffff}</source>
+    <target>進む{f801}戻る{f801}{ffff}</target>
+  </entry>
+</mbm>

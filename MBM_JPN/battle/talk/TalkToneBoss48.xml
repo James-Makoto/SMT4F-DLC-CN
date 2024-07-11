@@ -1,0 +1,302 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}我を身が内に引き入れたいと申すか{f801}少年よ それはやぶさかではない{f801}{f802}されど今は試練の時{f801}この火を受け入れる力をまずは見せよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我を身が内に引き入れたいと申すか{f801}少年よ それはやぶさかではない{f801}{f802}されど今は試練の時{f801}この火を受け入れる力をまずは見せよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}資金提供…?{f801}汝は一体 何を成すつもりだ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}資金提供…?{f801}汝は一体 何を成すつもりだ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}試練を前に このような手に出るとは{f801}予想もせなんだぞ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}試練を前に このような手に出るとは{f801}予想もせなんだぞ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}人よ…{f801}その暴虐の報いを 受けるがいい!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人よ…{f801}その暴虐の報いを 受けるがいい!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}うぬっ…!?{f801}これが 人の力か…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}うぬっ…!?{f801}これが 人の力か…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}ここまでしてマッカを求めるのが{f801}人の性だというのか…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ここまでしてマッカを求めるのが{f801}人の性だというのか…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>{f871}{0100}笑止!{f801}これ以上の蛮行は 許さぬぞ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}笑止!{f801}これ以上の蛮行は 許さぬぞ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f871}{0100}身動き出来ぬ者に 資金提供…!?{f801}人はそこまでするというのか…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}身動き出来ぬ者に 資金提供…!?{f801}人はそこまでするというのか…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f871}{0100}試練を前にして 物質を欲するか{f801}…面白い では我の求めに応えよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}試練を前にして 物質を欲するか{f801}…面白い では我の求めに応えよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f871}{0100}これを汝に授けよう{f801}…では 試練を続けようか{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}これを汝に授けよう{f801}…では 試練を続けようか{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}フフフ 試練を受く人よ{f801}その助けをしてやろう!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フフフ 試練を受く人よ{f801}その助けをしてやろう!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f871}{0100}おお…そうだ これも使うといい{f801}人よ 我が試練を見事越えるのだぞ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}おお…そうだ これも使うといい{f801}人よ 我が試練を見事越えるのだぞ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}我は 時を無用に重ねることは好まぬ{f801}一度で全てを決めようではないか{f801}{f802}{f878}{0100}マッカを差し出せ{f801}如何か?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我は 時を無用に重ねることは好まぬ{f801}一度で全てを決めようではないか{f801}{f802}{f878}{0100}マッカを差し出せ{f801}如何か?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>{f871}{0100}{f872}{0100}を{f878}{0100}個 差し出せ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f872}{0100}を{f878}{0100}個 差し出せ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f871}{0100}{f878}{0100}マッカ 差し出せ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f878}{0100}マッカ 差し出せ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}汝の生命力を{f801}少々 差し出せ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}汝の生命力を{f801}少々 差し出せ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>{f871}{0100}汝の生命力を{f801}相応に 差し出せ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}汝の生命力を{f801}相応に 差し出せ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}汝の生命力を{f801}たっぷりと 差し出せ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}汝の生命力を{f801}たっぷりと 差し出せ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>{f871}{0100}汝の生命力を{f801}思い切り 差し出せ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}汝の生命力を{f801}思い切り 差し出せ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}汝の精神力を{f801}少々 差し出せ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}汝の精神力を{f801}少々 差し出せ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>{f871}{0100}汝の精神力を{f801}相応に 差し出せ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}汝の精神力を{f801}相応に 差し出せ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}汝の精神力を{f801}たっぷりと 差し出せ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}汝の精神力を{f801}たっぷりと 差し出せ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f871}{0100}汝の精神力を{f801}思い切り 差し出せ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}汝の精神力を{f801}思い切り 差し出せ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f871}{0100}汝の仲魔…{f801}{f873}{0200}の命を差し出せ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}汝の仲魔…{f801}{f873}{0200}の命を差し出せ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f871}{0100}そうさな…{f801}汝のそれを 我に差し出せ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}そうさな…{f801}汝のそれを 我に差し出せ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f871}{0100}汝に 我の求める物が分かるか?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}汝に 我の求める物が分かるか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}人よ 正解だ{f801}汝は求めるところに応えてくれた{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人よ 正解だ{f801}汝は求めるところに応えてくれた{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>{f871}{0100}人よ 間違いだ{f801}汝は何も分かっておらぬ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人よ 間違いだ{f801}汝は何も分かっておらぬ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}良いだろう{f801}人よ 君は十分に応えた{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}良いだろう{f801}人よ 君は十分に応えた{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f871}{0100}…我の求めを拒むか{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…我の求めを拒むか{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}思ったよりもつまらぬ時間だったな{f801}…では 試練を続けるぞ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}思ったよりもつまらぬ時間だったな{f801}…では 試練を続けるぞ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>{f871}{0100}…これ以上は 無益なことか{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…これ以上は 無益なことか{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}憐れむべき人よ…{f801}このプロメテウスを欺けると思ったか!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}憐れむべき人よ…{f801}このプロメテウスを欺けると思ったか!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>{f871}{0100}持たぬのであらば 仕方ないが…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}持たぬのであらば 仕方ないが…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}魔石を持たぬのであらば 仕方ない…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}魔石を持たぬのであらば 仕方ない…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>{f871}{0100}自ら差し出すものは一切ないと言うのか{f801}フフフ…面白いな{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}自ら差し出すものは一切ないと言うのか{f801}フフフ…面白いな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}…求められるがままにただ頷いていれば{f801}自らの望みが叶うと信じているのか?{f801}{f802}そのような精神に出せるものなどない{f801}さあ 試練を続けるぞ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…求められるがままにただ頷いていれば{f801}自らの望みが叶うと信じているのか?{f801}{f802}そのような精神に出せるものなどない{f801}さあ 試練を続けるぞ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>{f871}{0100}何も持たずに 他者にねだるか{f801}…憐れむべき人よ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}何も持たずに 他者にねだるか{f801}…憐れむべき人よ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>{f871}{0100}またその話か…{f801}人よ 飽きぬのか?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}またその話か…{f801}人よ 飽きぬのか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

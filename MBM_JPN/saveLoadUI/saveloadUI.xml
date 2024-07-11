@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>このゲームデータに上書きします{f801}よろしいですか?{f801}{ffff}</source>
+    <target>このゲームデータに上書きします{f801}よろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>セーブ中です カードを抜いたり{f801}電源を切ったりしないでください{f801}{ffff}</source>
+    <target>セーブ中です カードを抜いたり{f801}電源を切ったりしないでください{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>セーブが完了しました{f801}{ffff}</source>
+    <target>セーブが完了しました{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>セーブに失敗しました{f801}{ffff}</source>
+    <target>セーブに失敗しました{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>ロード中です カードを抜いたり{f801}電源を切ったりしないでください{f801}{ffff}</source>
+    <target>ロード中です カードを抜いたり{f801}電源を切ったりしないでください{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>ロードが完了しました{f801}{ffff}</source>
+    <target>ロードが完了しました{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>ロードに失敗しました{f801}{ffff}</source>
+    <target>ロードに失敗しました{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>セーブします{f801}よろしいですか?{f801}{ffff}</source>
+    <target>セーブします{f801}よろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>このスロットにセーブすると{f801}{f804}{0500}セーブデータがSDカードに保存されます。{f804}{0000}{f801}ご注意ください。{f801}{ffff}</source>
+    <target>このスロットにセーブすると{f801}{f804}{0500}セーブデータがSDカードに保存されます。{f804}{0000}{f801}ご注意ください。{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>ここではSDカードに保存されている{f801}セーブデータをロードできます{f801}{ffff}</source>
+    <target>ここではSDカードに保存されている{f801}セーブデータをロードできます{f801}{ffff}</target>
+  </entry>
+</mbm>

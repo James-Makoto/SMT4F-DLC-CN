@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}フシャーッ! フシャシャーッ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フシャーッ! フシャシャーッ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}フシャシャーッ! フシャーッ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フシャシャーッ! フシャーッ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}フゥゥゥーッ!{f801}フシャーッ! フシャーッ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フゥゥゥーッ!{f801}フシャーッ! フシャーッ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}シャーッ! シャーッ!{f801}フシャシャシャーッ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}シャーッ! シャーッ!{f801}フシャシャシャーッ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}フシャシャシャーッ!{f801}シャーッ! シャーッ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フシャシャシャーッ!{f801}シャーッ! シャーッ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}シャーッ! フシャシャーッ!{f801}シャシャーッ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}シャーッ! フシャシャーッ!{f801}シャシャーッ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}フォッ フォッ フォッ…{f801}フォフォフォーッ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フォッ フォッ フォッ…{f801}フォフォフォーッ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}フォフォフォーッ!{f801}フォッ フォッ フォッ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フォフォフォーッ!{f801}フォッ フォッ フォッ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}フォッ…!{f801}フォフォッ…! フォーッ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}フォッ…!{f801}フォフォッ…! フォーッ!{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

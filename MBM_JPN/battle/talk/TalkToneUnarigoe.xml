@@ -1,0 +1,646 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>悪魔には 話す気が無い!{f801}{f802}{ffff}</source>
+    <target>悪魔には 話す気が無い!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>悪魔は 交渉前に攻撃されたことを{f801}気にしているようだ…{f801}{f802}{ffff}</source>
+    <target>悪魔は 交渉前に攻撃されたことを{f801}気にしているようだ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>悪魔は 何か言いたそうだ…{f801}{f802}{ffff}</source>
+    <target>悪魔は 何か言いたそうだ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}ナかマ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ナかマ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}くレ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}くレ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>悪魔は 寂しそうに一声唸り{f801}去って行った…{f801}{f802}{ffff}</source>
+    <target>悪魔は 寂しそうに一声唸り{f801}去って行った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>悪魔の声が あなたの頭の中に{f801}直接響く…{f801}{f802}「私は {f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}今後とも 宜しく」{f801}{f802}{ffff}</source>
+    <target>悪魔の声が あなたの頭の中に{f801}直接響く…{f801}{f802}「私は {f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}今後とも 宜しく」{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>悪魔は 寂しそうに一声唸り{f801}去って行った…{f801}{f802}{ffff}</source>
+    <target>悪魔は 寂しそうに一声唸り{f801}去って行った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}悪魔は 楽しそうに去って行った…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}悪魔は 楽しそうに去って行った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>悪魔は 別の悪魔を{f801}道連れにしようとしている…{f801}{f802}{ffff}</source>
+    <target>悪魔は 別の悪魔を{f801}道連れにしようとしている…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>悪魔は 残念がっている{f801}{f802}{ffff}</source>
+    <target>悪魔は 残念がっている{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}ギュっぎュッギュっギュっギュっギュッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ギュっぎュッギュっギュっギュっギュッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}あああああああああああああああ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あああああああああああああああ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>悪魔は 別の悪魔を{f801}あなたに紹介しようとしている…{f801}{f802}{ffff}</source>
+    <target>悪魔は 別の悪魔を{f801}あなたに紹介しようとしている…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>悪魔は ボーっとしている…{f801}{f802}{ffff}</source>
+    <target>悪魔は ボーっとしている…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}あああああああああああああああ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あああああああああああああああ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}ガきノ皮は イいニオい{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ガきノ皮は イいニオい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}寒イ! 寒い!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}寒イ! 寒い!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}熱い! 熱イ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}熱い! 熱イ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>{f871}{0100}苦シい! 苦シい!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}苦シい! 苦シい!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f871}{0100}ギュっぎュッギュっギュっギュっギュッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ギュっぎュッギュっギュっギュっギュッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>悪魔は 何か言いたそうだ…{f801}{f802}{ffff}</source>
+    <target>悪魔は 何か言いたそうだ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f871}{0100}こレ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}こレ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}{f878}{0100}マッカ{f801}ソけつ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f878}{0100}マッカ{f801}ソけつ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>{f871}{0100}{f872}{0100} {f878}{0100}ツ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f872}{0100} {f878}{0100}ツ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f871}{0100}{f878}{0100}マッカ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f878}{0100}マッカ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}HP ま…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}HP ま…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>{f871}{0100}HP ぼ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}HP ぼ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}HP ろ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}HP ろ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>{f871}{0100}HP し…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}HP し…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}MP ま…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}MP ま…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>{f871}{0100}MP ぼ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}MP ぼ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}MP ろ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}MP ろ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f871}{0100}MP し…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}MP し…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>悪魔は {f873}{0200}の命を{f801}要求している{f801}{f802}{ffff}</source>
+    <target>悪魔は {f873}{0200}の命を{f801}要求している{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f871}{0100}アレ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アレ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>悪魔は {f87e}のHPを{f801}要求している{f801}{f802}{ffff}</source>
+    <target>悪魔は {f87e}のHPを{f801}要求している{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f871}{0100}どレ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}どレ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}いイ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}いイ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>いいよ{f801}だめだ{f801}{f802}{ffff}</source>
+    <target>いいよ{f801}だめだ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>{f843}{0000}たちの心を{f801}なぜか 悪魔が励ました!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}たちの心を{f801}なぜか 悪魔が励ました!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>{f843}{0000}たちの心を{f801}なぜか 悪魔がすごく励ました!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}たちの心を{f801}なぜか 悪魔がすごく励ました!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}ギュっぎュッギュっギュっギュっギュッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ギュっぎュッギュっギュっギュっギュッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>{f843}{0000}の心を{f801}悪魔の絶望が蝕んだ!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}の心を{f801}悪魔の絶望が蝕んだ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f843}{0000}の心を{f801}悪魔の絶望が ひどく蝕んだ!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}の心を{f801}悪魔の絶望が ひどく蝕んだ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f871}{0100}脳みソ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}脳みソ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}………{f801}{f802}ガきノ肉は やワらかくテ 美味イ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}ガきノ肉は やワらかくテ 美味イ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}………{f801}{f802}ガきノ骨は ジゅーしぃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}ガきノ骨は ジゅーしぃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}さらバ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}さらバ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>{f871}{0100}{f843}{0000}…{f801}{f802}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}…{f801}{f802}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}ウれしイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ウれしイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>{f871}{0100}マッか{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}マッか{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}こレ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}こレ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>悪魔は こちらを見ている…{f801}{f802}悪魔はうれしそうに{f801}{f843}{0000}の下へ駆けよった!{f801}{f802}{ffff}</source>
+    <target>悪魔は こちらを見ている…{f801}{f802}悪魔はうれしそうに{f801}{f843}{0000}の下へ駆けよった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>{f871}{0100}…もウ 死ニたく ナい…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…もウ 死ニたく ナい…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>悪魔は うれしそうに一声唸った{f801}{f802}{ffff}</source>
+    <target>悪魔は うれしそうに一声唸った{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>{f871}{0100}ニんゲンに なリたイ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニんゲンに なリたイ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>悪魔は身構えている…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は身構えている…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>武器を降ろす{f801}こちらも身構える{f801}{f802}{ffff}</source>
+    <target>武器を降ろす{f801}こちらも身構える{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>{f871}{0100}ガきノ肉は やワらかくテ 美味イ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ガきノ肉は やワらかくテ 美味イ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>{f871}{0100}寒イ! 寒い!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}寒イ! 寒い!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>{f871}{0100}コれ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}コれ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>悪魔は近づいてきた…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は近づいてきた…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>避ける{f801}武器を構える{f801}動じない{f801}{f802}{ffff}</source>
+    <target>避ける{f801}武器を構える{f801}動じない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>{f843}{0000}は 避けきった!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 避けきった!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>悪魔は悲しそうに{f801}{f843}{0000}を見つめている{f801}{f802}{ffff}</source>
+    <target>悪魔は悲しそうに{f801}{f843}{0000}を見つめている{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>悪魔に追いつかれた…{f801}{f802}{ffff}</source>
+    <target>悪魔に追いつかれた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>{f871}{0100}ギュっぎュッギュっギュっギュっギュッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ギュっぎュッギュっギュっギュっギュッ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>{f871}{0100}もウ 死ニたく ナい…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}もウ 死ニたく ナい…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>{f871}{0100}熱い! 熱イ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}熱い! 熱イ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="116">
+    <source>{f871}{0100}脳みソ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}脳みソ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="118">
+    <source>悪魔は手招きしている…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は手招きしている…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="119">
+    <source>近づく{f801}手招きし返す{f801}武器を構える{f801}{f802}{ffff}</source>
+    <target>近づく{f801}手招きし返す{f801}武器を構える{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="120">
+    <source>{f871}{0100}ガきノ血は キれいデ 美味イ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ガきノ血は キれいデ 美味イ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>悪魔は 何かを差し出した…{f801}{f802}{ffff}</source>
+    <target>悪魔は 何かを差し出した…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>{f871}{0100}あああああああああああああああ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あああああああああああああああ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="124">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="125">
+    <source>{f871}{0100}ニんゲンに なリたイ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニんゲンに なリたイ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="126">
+    <source>{f871}{0100}あああああああああああああああ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あああああああああああああああ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="128">
+    <source>悪魔は 立ち去ろうとしている…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は 立ち去ろうとしている…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="129">
+    <source>引きとめる{f801}無視する{f801}武器を構える{f801}{f802}{ffff}</source>
+    <target>引きとめる{f801}無視する{f801}武器を構える{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="130">
+    <source>{f871}{0100}ガきノ骨は ジゅーしぃ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ガきノ骨は ジゅーしぃ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="131">
+    <source>{f871}{0100}苦シい! 苦シい!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}苦シい! 苦シい!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="132">
+    <source>{f871}{0100}あああああああああああああああ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あああああああああああああああ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="133">
+    <source>{f871}{0100}………{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="134">
+    <source>悪魔は 手紙を差し出してきた…{f801}{f802}「こんド あっタら なカまに{f801}してクだちい」と書いてある{f801}{f802}{ffff}</source>
+    <target>悪魔は 手紙を差し出してきた…{f801}{f802}「こんド あっタら なカまに{f801}してクだちい」と書いてある{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="135">
+    <source>{f871}{0100}怖イぃぃぃ! 怖イぃぃぃ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}怖イぃぃぃ! 怖イぃぃぃ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="137">
+    <source>悪魔は ボーっとしている…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は ボーっとしている…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="138">
+    <source>声をかける{f801}興味を引く{f801}武器で脅す{f801}{f802}{ffff}</source>
+    <target>声をかける{f801}興味を引く{f801}武器で脅す{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="139">
+    <source>{f871}{0100}ガきノ皮は イいニオい{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ガきノ皮は イいニオい{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="140">
+    <source>{f871}{0100}あああああああああああああああ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あああああああああああああああ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="141">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="142">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="143">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="144">
+    <source>{f871}{0100}ニんゲンに なリたイ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニんゲンに なリたイ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="145">
+    <source>悪魔は 寂しそうに一声唸り{f801}去って行った…{f801}{f802}{ffff}</source>
+    <target>悪魔は 寂しそうに一声唸り{f801}去って行った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="147">
+    <source>{f871}{0100}{f843}{0000}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="148">
+    <source>{f871}{0100}ガきノ内臓は いイ苦ミ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ガきノ内臓は いイ苦ミ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="149">
+    <source>{f871}{0100}ニんゲンに なリたイ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ニんゲンに なリたイ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="150">
+    <source>{f871}{0100}怖イぃぃぃ! 怖イぃぃぃ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}怖イぃぃぃ! 怖イぃぃぃ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="151">
+    <source>悪魔は去って行った…{f801}{f802}{ffff}</source>
+    <target>悪魔は去って行った…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="153">
+    <source>悪魔は 笑っている…{f801}どうしますか?{f801}{f802}{ffff}</source>
+    <target>悪魔は 笑っている…{f801}どうしますか?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="154">
+    <source>一緒に笑う{f801}様子を見る{f801}武器を構える{f801}{f802}{ffff}</source>
+    <target>一緒に笑う{f801}様子を見る{f801}武器を構える{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="155">
+    <source>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="156">
+    <source>悪魔は突然 襲ってきた!{f801}{f802}{ffff}</source>
+    <target>悪魔は突然 襲ってきた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="157">
+    <source>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="158">
+    <source>{f871}{0100}あああああああああああああああ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あああああああああああああああ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="159">
+    <source>{f871}{0100}もウ 死ニたく ナい…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}もウ 死ニたく ナい…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="160">
+    <source>悪魔は キョトンとしている{f801}{f802}{ffff}</source>
+    <target>悪魔は キョトンとしている{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="162">
+    <source>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}{f843}{0000}…{f801}こんド 会エた ヨ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f813}{0a00}{0000}{0000}{0000}{f843}{0000}…{f801}こんド 会エた ヨ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="163">
+    <source>このメッセージは空白文です{f801}{f802}{ffff}</source>
+    <target>このメッセージは空白文です{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="165">
+    <source>{f843}{0000}は 踊ってみた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 踊ってみた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="166">
+    <source>悪魔は 問答無用で襲ってきた!{f801}{f802}{ffff}</source>
+    <target>悪魔は 問答無用で襲ってきた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="167">
+    <source>{f871}{0100}ルりぃイィ! ルりぃイィ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ルりぃイィ! ルりぃイィ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="169">
+    <source>{f843}{0000}は 歌ってみた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は 歌ってみた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="170">
+    <source>悪魔は 問答無用で襲ってきた!{f801}{f802}{ffff}</source>
+    <target>悪魔は 問答無用で襲ってきた!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="171">
+    <source>{f871}{0100}ルりぃイィ! ルりぃイィ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ルりぃイィ! ルりぃイィ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="173">
+    <source>{f843}{0000}は マッカをちらつかせた…{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}は マッカをちらつかせた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="174">
+    <source>悪魔は キョトンとしている{f801}{f802}{ffff}</source>
+    <target>悪魔は キョトンとしている{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="175">
+    <source>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アキゃきャキャきャきゃキャキャ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="177">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="178">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="179">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="180">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="181">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="182">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="183">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="184">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="185">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="186">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="187">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="188">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="189">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="190">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="191">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="192">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="193">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="194">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="195">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="196">
+    <source>リザーブ{f801}{f802}{ffff}</source>
+    <target>リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="197">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

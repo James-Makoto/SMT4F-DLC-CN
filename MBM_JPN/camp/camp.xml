@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>{f87d}{1000}{f801}通常攻撃/{f87d}{0400}属性×{f87d}{0300}回×{f87d}{0500}{f801}{f802}{ffff}</source>
+    <target>{f87d}{1000}{f801}通常攻撃/{f87d}{0400}属性×{f87d}{0300}回×{f87d}{0500}{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f87d}{1000}{f801}通常攻撃/{f87d}{0400}属性×{f87d}{0300}回×{f87d}{0500}{f801}{f802}{ffff}</source>
+    <target>{f87d}{1000}{f801}通常攻撃/{f87d}{0400}属性×{f87d}{0300}回×{f87d}{0500}{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>状態異常耐性/?{f801}通常攻撃/?属性×?回×?{f801}{f802}{ffff}</source>
+    <target>状態異常耐性/?{f801}通常攻撃/?属性×?回×?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f843}{0000}の周囲に力が渦巻き{f801}弱い悪魔を追い払えるようになった{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}の周囲に力が渦巻き{f801}弱い悪魔を追い払えるようになった{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>このスキル順に設定します{f801}よろしいですか?{f801}{ffff}</source>
+    <target>このスキル順に設定します{f801}よろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>編集が破棄されます{f801}よろしいですか?{f801}{ffff}</source>
+    <target>編集が破棄されます{f801}よろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>スキル順変更を終了します{f801}{ffff}</source>
+    <target>スキル順変更を終了します{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>結界を脱出しますが{f801}よろしいですか?{f801}{ffff}</source>
+    <target>結界を脱出しますが{f801}よろしいですか?{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>悪魔の気配が強くなった{f801}{f802}{ffff}</source>
+    <target>悪魔の気配が強くなった{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>悪魔の気配が強くなった{f801}{f802}{ffff}</source>
+    <target>悪魔の気配が強くなった{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>全状態異常無効{f801}通常攻撃/{f87d}{0400}属性×{f87d}{0300}回×{f87d}{0500}{f801}{f802}{ffff}</source>
+    <target>全状態異常無効{f801}通常攻撃/{f87d}{0400}属性×{f87d}{0300}回×{f87d}{0500}{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

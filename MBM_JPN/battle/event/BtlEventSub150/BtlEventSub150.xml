@@ -1,0 +1,78 @@
+<mbm>
+  <entry id="0">
+    <source>{f812}ヒロシ{0000}{f87a}{4e01}{f81b}{4331}{3439}{3030}{3100}{0000}{0000}ノア…{f801}今度こそ 静かに眠っておくれ{f801}{f802}{f81b}{4331}{3439}{3030}{3200}{0000}{0000}さーあ 指示してくれるかい?{f801}君の思うとおり 動いてみせるからさ{f801}{ffff}</source>
+    <target>{f812}ヒロシ{0000}{f87a}{4e01}{f81b}{4331}{3439}{3030}{3100}{0000}{0000}ノア…{f801}今度こそ 静かに眠っておくれ{f801}{f802}{f81b}{4331}{3439}{3030}{3200}{0000}{0000}さーあ 指示してくれるかい?{f801}君の思うとおり 動いてみせるからさ{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>はい{f801}いいえ{f801}もう協力は必要ない{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}もう協力は必要ない{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>ヒロシになんと指示しますか?{f801}{ffff}</source>
+    <target>ヒロシになんと指示しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>攻撃してくれ{f801}回復してくれ{f801}補助を頼む{f801}待機してもらう{f801}{ffff}</source>
+    <target>攻撃してくれ{f801}回復してくれ{f801}補助を頼む{f801}待機してもらう{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>ヒロシの手を借りますか?{f801}{ffff}</source>
+    <target>ヒロシの手を借りますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f843}{0000}はヒロシに指示を出さず{f801}戦い続ける…{f801}{ffff}</source>
+    <target>{f843}{0000}はヒロシに指示を出さず{f801}戦い続ける…{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f843}{0000}はヒロシに{f801}下がっているように告げた{f801}{ffff}</source>
+    <target>{f843}{0000}はヒロシに{f801}下がっているように告げた{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f843}{0000}たちは 回復した!{f801}{ffff}</source>
+    <target>{f843}{0000}たちは 回復した!{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f843}{0000}と仲魔の{f801}攻撃力が上がった!{f801}{ffff}</source>
+    <target>{f843}{0000}と仲魔の{f801}攻撃力が上がった!{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f843}{0000}と仲魔の{f801}防御力が上がった!{f801}{ffff}</source>
+    <target>{f843}{0000}と仲魔の{f801}防御力が上がった!{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f843}{0000}と仲魔の{f801}命中が上がった!{f801}{ffff}</source>
+    <target>{f843}{0000}と仲魔の{f801}命中が上がった!{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>ヒロシはイザナミを狙撃した!{f801}{ffff}</source>
+    <target>ヒロシはイザナミを狙撃した!{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>ヒロシのフラグオフだよ{f801}{ffff}</source>
+    <target>ヒロシのフラグオフだよ{f801}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>ヒロシのフラグそのまま{f801}{ffff}</source>
+    <target>ヒロシのフラグそのまま{f801}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f812}イザナミ{0000}{f81b}{4430}{3530}{3030}{3600}{0000}{0000}あなや…?{f801}{ffff}</source>
+    <target>{f812}イザナミ{0000}{f81b}{4430}{3530}{3030}{3600}{0000}{0000}あなや…?{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f812}ヒロシ{0000}{f81b}{4536}{3434}{3033}{3000}{0000}{0000}ノア…?{f801}{ffff}</source>
+    <target>{f812}ヒロシ{0000}{f81b}{4536}{3434}{3033}{3000}{0000}{0000}ノア…?{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>ヒロシの攻撃によって{f801}イザナミの精神が揺らぐのを感じる…{f801} {f801}{ffff}</source>
+    <target>ヒロシの攻撃によって{f801}イザナミの精神が揺らぐのを感じる…{f801} {f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>イザナミの表情から笑みが消えた!{f801}{ffff}</source>
+    <target>イザナミの表情から笑みが消えた!{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>イザナミからは笑みが消え{f801}その精神は乱れていく…{f801}{ffff}</source>
+    <target>イザナミからは笑みが消え{f801}その精神は乱れていく…{f801}{ffff}</target>
+  </entry>
+</mbm>

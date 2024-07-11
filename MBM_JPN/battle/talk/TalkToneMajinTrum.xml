@@ -1,0 +1,302 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}終末ノ音色ハ 既ニ轟イタ{f801}…汝ニハ 聞コエヌカ?{f801}{f802}押シ寄セルハ 壮麗ナル響キ…{f801}{f802}軋ミ 砕ケテ 奏デアイ{f801}刻ガ消エルハ 最終楽章…{f801}{f802}終焉ノ時ハ来タ{f801}汝 魔響ノ中ニ 消エルガヨイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}終末ノ音色ハ 既ニ轟イタ{f801}…汝ニハ 聞コエヌカ?{f801}{f802}押シ寄セルハ 壮麗ナル響キ…{f801}{f802}軋ミ 砕ケテ 奏デアイ{f801}刻ガ消エルハ 最終楽章…{f801}{f802}終焉ノ時ハ来タ{f801}汝 魔響ノ中ニ 消エルガヨイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}コノ魔人カラ コノ死カラ{f801}資金ヲ得ラレルト 思ッテイルノカ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}コノ魔人カラ コノ死カラ{f801}資金ヲ得ラレルト 思ッテイルノカ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}死中ニサエ 金ヲ見出ストハ…{f801}恐ルベキ 人間ノ執着ヨ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}死中ニサエ 金ヲ見出ストハ…{f801}恐ルベキ 人間ノ執着ヨ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}人間ヨ 魂ヲ金ニ縛ラレ{f801}悶エル指先デ 死ニ触レタ…{f801}{f802}ナラバ魂ヨ…!{f801}死ヲモッテ 解キ放タレヨ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人間ヨ 魂ヲ金ニ縛ラレ{f801}悶エル指先デ 死ニ触レタ…{f801}{f802}ナラバ魂ヨ…!{f801}死ヲモッテ 解キ放タレヨ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}クカカカカカ…ッ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}クカカカカカ…ッ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}マダヤルカ…{f801}死ノ淵ヲ弄ル コノ蛮行…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}マダヤルカ…{f801}死ノ淵ヲ弄ル コノ蛮行…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>{f871}{0100}………ッ!{f801}{f802}触レタゾ ソノ指先ガ…{f801}死ノ深奥ニ 核心ニ…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………ッ!{f801}{f802}触レタゾ ソノ指先ガ…{f801}死ノ深奥ニ 核心ニ…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f871}{0100}コノ魔人カラ コノ死カラ{f801}資金ヲ得ラレルト 思ッテイルノカ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}コノ魔人カラ コノ死カラ{f801}資金ヲ得ラレルト 思ッテイルノカ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f871}{0100}コノ世ニテ 私ガ取引スルモノハ{f801}タダヒトツ…{f801}{f802}…命ナリ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}コノ世ニテ 私ガ取引スルモノハ{f801}タダヒトツ…{f801}{f802}…命ナリ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f871}{0100}受ケ取ルガイイ{f801}死ヨリ持チ出シタ コノ宝ヲ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}受ケ取ルガイイ{f801}死ヨリ持チ出シタ コノ宝ヲ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}クカカカカカ…ッ!{f801}異ナルカナ 異ナルカナ!{f801}{f802}コノ死ガ ソノ手ニ{f801}宝ノ恵ミヲ与エルトハ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}クカカカカカ…ッ!{f801}異ナルカナ 異ナルカナ!{f801}{f802}コノ死ガ ソノ手ニ{f801}宝ノ恵ミヲ与エルトハ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f871}{0100}死ガ隠シ持ツ 更ナル宝ダ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}死ガ隠シ持ツ 更ナル宝ダ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}時ハ流レテ 惜シマルル…{f801}金ニテ刹那ニ 決メルベシ…{f801}{f802}{f804}{0100}{f878}{0100}マッカ{f804}{0000}{f801}コレニ 応ジルカ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}時ハ流レテ 惜シマルル…{f801}金ニテ刹那ニ 決メルベシ…{f801}{f802}{f804}{0100}{f878}{0100}マッカ{f804}{0000}{f801}コレニ 応ジルカ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>{f871}{0100}{f804}{0100}{f872}{0100}{f804}{0000}ヲ {f804}{0100}{f878}{0100}個{f804}{0000} 貰オウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0100}{f872}{0100}{f804}{0000}ヲ {f804}{0100}{f878}{0100}個{f804}{0000} 貰オウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f871}{0100}{f804}{0100}{f878}{0100}マッカ{f804}{0000} 貰オウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0100}{f878}{0100}マッカ{f804}{0000} 貰オウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}ソノ{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}少シバカリ{f804}{0000} 貰オウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソノ{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}少シバカリ{f804}{0000} 貰オウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>{f871}{0100}ソノ{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}程々ニ{f804}{0000} 貰オウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソノ{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}程々ニ{f804}{0000} 貰オウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}ソノ{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}多クヲ{f804}{0000} 貰オウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソノ{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}多クヲ{f804}{0000} 貰オウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>{f871}{0100}ソノ{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}死ヲ感ジル程ニ{f804}{0000} 貰オウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソノ{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}死ヲ感ジル程ニ{f804}{0000} 貰オウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}ソノ{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}少シバカリ{f804}{0000} 貰オウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソノ{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}少シバカリ{f804}{0000} 貰オウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>{f871}{0100}ソノ{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}程々ニ{f804}{0000} 貰オウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソノ{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}程々ニ{f804}{0000} 貰オウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}ソノ{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}多クヲ{f804}{0000} 貰オウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソノ{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}多クヲ{f804}{0000} 貰オウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>{f871}{0100}ソノ{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}死ヲ感ジル程ニ{f804}{0000} 貰オウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソノ{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}死ヲ感ジル程ニ{f804}{0000} 貰オウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f871}{0100}死ヲ…ソノ仲魔ヲ…!{f801}{f804}{0100}{f873}{0200}ノ命{f804}{0000}ヲ 貰オウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}死ヲ…ソノ仲魔ヲ…!{f801}{f804}{0100}{f873}{0200}ノ命{f804}{0000}ヲ 貰オウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>{f871}{0100}{f804}{0100}アレ{f804}{0000}ヲ 貰オウ{f801}ソウ {f804}{0100}アレ{f804}{0000}コソ 欲スルモノ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0100}アレ{f804}{0000}ヲ 貰オウ{f801}ソウ {f804}{0100}アレ{f804}{0000}コソ 欲スルモノ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>{f871}{0100}言葉ニサレヌ コノ渇キ…{f801}コレヲ潤スハ 何カ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}言葉ニサレヌ コノ渇キ…{f801}コレヲ潤スハ 何カ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}ソウダ ソレコソガ潤イ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソウダ ソレコソガ潤イ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>{f871}{0100}違ウ ソレハ渇キ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}違ウ ソレハ渇キ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}ソノ命ノ輝キ…{f801}少シバカリ 触レサセヨ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ソノ命ノ輝キ…{f801}少シバカリ 触レサセヨ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>{f871}{0100}いいだろう{f801}お前には触れさせない{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}いいだろう{f801}お前には触れさせない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>{f871}{0100}オオオ…素晴ラシイ…{f801}類稀ナル コノ命ヨ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オオオ…素晴ラシイ…{f801}類稀ナル コノ命ヨ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>{f871}{0100}魔人は{f843}{0000}に{f801}そっと触れた…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}魔人は{f843}{0000}に{f801}そっと触れた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>{f871}{0100}{f843}{0000}から{f801}生命力が抜けていった…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}から{f801}生命力が抜けていった…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}オオオ…素晴ラシイ…{f801}類稀ナル コノ命ヨ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オオオ…素晴ラシイ…{f801}類稀ナル コノ命ヨ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>{f871}{0100}魔人は{f843}{0000}に{f801}そっと触れた…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}魔人は{f843}{0000}に{f801}そっと触れた…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f871}{0100}{f843}{0000}は{f801}命を落としてしまった…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}は{f801}命を落としてしまった…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>{f871}{0100}…臆シタカ サムライ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…臆シタカ サムライ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}ヨクゾ貢イダ…{f801}今 充足ハ訪レタリ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヨクゾ貢イダ…{f801}今 充足ハ訪レタリ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>{f871}{0100}死ガ マタ一歩…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}死ガ マタ一歩…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}魔人ニ 出シ惜シムトハ…{f801}{f802}軽ンジラレシ ソノ命ニハ{f801}死コソ フサワシイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}魔人ニ 出シ惜シムトハ…{f801}{f802}軽ンジラレシ ソノ命ニハ{f801}死コソ フサワシイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>{f871}{0100}終ワリダ…{f801}交渉ノ命運ハ ココニ途切レタ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}終ワリダ…{f801}交渉ノ命運ハ ココニ途切レタ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}魔人ノ見詰メル先{f801}ゴマカシガ通ルト 思ッタカ…{f801}{f802}不誠実ナル ソノ命ニハ{f801}死コソ フサワシイ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}魔人ノ見詰メル先{f801}ゴマカシガ通ルト 思ッタカ…{f801}{f802}不誠実ナル ソノ命ニハ{f801}死コソ フサワシイ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>{f871}{0100}持ッテオラヌカ…{f801}空シキ命ヨ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}持ッテオラヌカ…{f801}空シキ命ヨ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}魔石ナクテハ 始マラヌ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}魔石ナクテハ 始マラヌ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>{f871}{0100}魔人ヲ 死ヲ{f801}ココマデ 拒ンデミセルトハ…{f801}{f802}ソノ命ノ強サ 見事ダ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}魔人ヲ 死ヲ{f801}ココマデ 拒ンデミセルトハ…{f801}{f802}ソノ命ノ強サ 見事ダ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}応ジルバカリカ{f801}コノ魔人ニ 従順ナル者ヨ{f801}{f802}モハヤ タダ死ニユク者カ…{f801}話ス価値モナイ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}応ジルバカリカ{f801}コノ魔人ニ 従順ナル者ヨ{f801}{f802}モハヤ タダ死ニユク者カ…{f801}話ス価値モナイ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>{f871}{0100}何モ持タズ 命ダケヲ携エテ{f801}魔人ニ向キ合ウトハ…{f801}{f802}コレゾ素晴ラシキ 生ノ姿ヨ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}何モ持タズ 命ダケヲ携エテ{f801}魔人ニ向キ合ウトハ…{f801}{f802}コレゾ素晴ラシキ 生ノ姿ヨ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>{f871}{0100}先程カラ 同ジ話バカリ…{f801}変化ヲ伴ワヌ 死セル思考ヨ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}先程カラ 同ジ話バカリ…{f801}変化ヲ伴ワヌ 死セル思考ヨ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>{f871}{0100}終焉ヲ告ゲル ラッパノ音色{f801}何者モ 逃レルコト叶ワヌ…{f801}{f802}サア {f843}{0000}…{f801}イマ再ビ コノ響キヲ携エヨ{f801}{f802}滅ビテ消エル コノ刻ノ中{f801}汝ノ音色ヲ 奏デテミセヨ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}終焉ヲ告ゲル ラッパノ音色{f801}何者モ 逃レルコト叶ワヌ…{f801}{f802}サア {f843}{0000}…{f801}イマ再ビ コノ響キヲ携エヨ{f801}{f802}滅ビテ消エル コノ刻ノ中{f801}汝ノ音色ヲ 奏デテミセヨ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

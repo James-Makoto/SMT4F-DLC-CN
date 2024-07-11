@@ -1,0 +1,94 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}新タナル技…{f801}マタ 新タナ死ガ生マレルゾ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}新タナル技…{f801}マタ 新タナ死ガ生マレルゾ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}死ノ恩寵ガ マタヒトツ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}死ノ恩寵ガ マタヒトツ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}コノ技ガ 殺メル命ヲ 数エヨウ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}コノ技ガ 殺メル命ヲ 数エヨウ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}ヒトツ 生マレタナラバ{f801}ヒトツ 葬ルガ 世ノナラワシ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ヒトツ 生マレタナラバ{f801}ヒトツ 葬ルガ 世ノナラワシ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}{f804}{0500}{f877}{0100}{f804}{0000}ヲ 葬リ{f801}{f804}{0500}{f877}{0200}{f804}{0000}ヲ 産ムカ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f877}{0100}{f804}{0000}ヲ 葬リ{f801}{f804}{0500}{f877}{0200}{f804}{0000}ヲ 産ムカ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}貴公ノ選択ハ 死ヲ運ビ{f801}生ノ変革ヲ モタラスダロウ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}貴公ノ選択ハ 死ヲ運ビ{f801}生ノ変革ヲ モタラスダロウ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}停滞ヲ選ブカ 死ヲ使役スル者…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}停滞ヲ選ブカ 死ヲ使役スル者…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}(仮)変異選択メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異選択メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}(仮)変異OKメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異OKメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}(仮)変異NGメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異NGメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}(仮)変異完了メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異完了メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}(仮)変異レベル未達メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異レベル未達メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}束ノ間ヲ 生キル者ヨ{f801}{f804}{0500}{f872}{0100}{f804}{0000}ヲ ヤロウ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}束ノ間ヲ 生キル者ヨ{f801}{f804}{0500}{f872}{0100}{f804}{0000}ヲ ヤロウ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}ヲ 授ケヨウ{f801}貴公ノ死ガ 近クニアルヨウニ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000}ヲ 授ケヨウ{f801}貴公ノ死ガ 近クニアルヨウニ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}死ト共ニ在ル者ヨ{f801}コノ{f804}{0500}{f872}{0100}{f804}{0000}ヲ 授ケル{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}死ト共ニ在ル者ヨ{f801}コノ{f804}{0500}{f872}{0100}{f804}{0000}ヲ 授ケル{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}我ノ言葉ハ 死ニ沈ム{f801}死ヲ嗤イ 己ノ糧トスルガ良イ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我ノ言葉ハ 死ニ沈ム{f801}死ヲ嗤イ 己ノ糧トスルガ良イ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}死ノ足音ハ 聞コエタカ?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}死ノ足音ハ 聞コエタカ?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}我ハ {f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}踊リ狂エ 人間ヨ…我コソガ 死ナノダ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我ハ {f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}踊リ狂エ 人間ヨ…我コソガ 死ナノダ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}スキルを変異させる{f801}やめておく{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}スキルを変異させる{f801}やめておく{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>悪魔をハイレベルアップさせる{f801}やめておく{f801}{f802}{ffff}</source>
+    <target>悪魔をハイレベルアップさせる{f801}やめておく{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>これでいい{f801}考え直す{f801}{f802}{ffff}</source>
+    <target>これでいい{f801}考え直す{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f812}ミドー{0000}{f87a}{0100}…合体エラーが発生して{f801}予定と異なる悪魔ができたようだな{f801}{f802}{ffff}</source>
+    <target>{f812}ミドー{0000}{f87a}{0100}…合体エラーが発生して{f801}予定と異なる悪魔ができたようだな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>ダミー{f801}{f802}{ffff}</source>
+    <target>ダミー{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

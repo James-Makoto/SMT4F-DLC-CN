@@ -1,0 +1,94 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}スキルしゅうとくー!{f801}もっと たたかわせろよな!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}スキルしゅうとくー!{f801}もっと たたかわせろよな!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}見て見て {f843}{0000}!{f801}すげーだろ? ニシシ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}見て見て {f843}{0000}!{f801}すげーだろ? ニシシ…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}キミを りっぱなハンターにしてやるよ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}キミを りっぱなハンターにしてやるよ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}スキルいっぱいかー{f801}どれか すてちゃおうぜー?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}スキルいっぱいかー{f801}どれか すてちゃおうぜー?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}よし {f804}{0500}{f877}{0100}{f804}{0000}を{f801}{f804}{0500}{f877}{0200}{f804}{0000}にヘンシンね!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}よし {f804}{0500}{f877}{0100}{f804}{0000}を{f801}{f804}{0500}{f877}{0200}{f804}{0000}にヘンシンね!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}まかせろー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}まかせろー!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}チッチッチ…{f801}キミ よわよわだね?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}チッチッチ…{f801}キミ よわよわだね?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}はい れべる あっぷぅー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}はい れべる あっぷぅー!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}キミ ノリのいいやつだなー!{f801}いっくぞー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}キミ ノリのいいやつだなー!{f801}いっくぞー!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}…ウガー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…ウガー!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}オイラ サイコーのキブンだよ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オイラ サイコーのキブンだよ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}ねくすとふぉーむ…{f801}5…4…3…2…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ねくすとふぉーむ…{f801}5…4…3…2…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000} やるよ{f801}しぬなよなー{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0500}{f872}{0100}{f804}{0000} やるよ{f801}しぬなよなー{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}{f843}{0000}!{f801}{f804}{0500}{f872}{0100}{f804}{0000}でげんきだせ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f843}{0000}!{f801}{f804}{0500}{f872}{0100}{f804}{0000}でげんきだせ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}とりあえず {f804}{0500}{f872}{0100}{f804}{0000}{f801}サイキョーのハンターになろうぜ!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}とりあえず {f804}{0500}{f872}{0100}{f804}{0000}{f801}サイキョーのハンターになろうぜ!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}アクマのチカラ おしえてやるぞー{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アクマのチカラ おしえてやるぞー{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}もっと おしえてもいいんだぜー?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}もっと おしえてもいいんだぜー?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}オイラ {f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}こんごとも ヨロシク!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}オイラ {f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}こんごとも ヨロシク!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}スキルを変異させる{f801}やめておく{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}スキルを変異させる{f801}やめておく{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>悪魔をハイレベルアップさせる{f801}やめておく{f801}{f802}{ffff}</source>
+    <target>悪魔をハイレベルアップさせる{f801}やめておく{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>これでいい{f801}考え直す{f801}{f802}{ffff}</source>
+    <target>これでいい{f801}考え直す{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f812}ミドー{0000}{f87a}{0100}…合体エラーが発生して{f801}予定と異なる悪魔ができたようだな{f801}{f802}{ffff}</source>
+    <target>{f812}ミドー{0000}{f87a}{0100}…合体エラーが発生して{f801}予定と異なる悪魔ができたようだな{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>ダミー{f801}{f802}{ffff}</source>
+    <target>ダミー{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

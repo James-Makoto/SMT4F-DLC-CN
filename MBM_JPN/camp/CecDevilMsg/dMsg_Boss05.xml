@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}和順わざるを摧き伏せ{f801}我 更なる高みへ手を伸ばさん{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}和順わざるを摧き伏せ{f801}我 更なる高みへ手を伸ばさん{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}我は国を巡り 技を磨いた…{f801}我が研鑚に終わりはない{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我は国を巡り 技を磨いた…{f801}我が研鑚に終わりはない{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}求めし覇道に果てはなく{f801}故に我 更なる修練を求む{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}求めし覇道に果てはなく{f801}故に我 更なる修練を求む{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)すれちがい変身メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)すれちがい変身メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(仮)すれちがい変身メッセージ2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)すれちがい変身メッセージ2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(仮)すれちがい変身メッセージ3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)すれちがい変身メッセージ3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}遠き地にて手に入れた土産だ{f801}貴様に譲渡しよう 役立てよ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}遠き地にて手に入れた土産だ{f801}貴様に譲渡しよう 役立てよ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}我が留守の間 苦労をかけた{f801}詫びとして 土産を受け取るが良い{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我が留守の間 苦労をかけた{f801}詫びとして 土産を受け取るが良い{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}旅先より入手した土産の品を持参した{f801}懐に納めるが良い…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}旅先より入手した土産の品を持参した{f801}懐に納めるが良い…{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

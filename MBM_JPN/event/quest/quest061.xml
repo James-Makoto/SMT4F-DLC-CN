@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>討伐クエスト{f801}クリア条件:{f801}{f873}{0100}を{f878}{0100}体倒す{f801}報酬:{f801}{f878}{0400}マッカ{f801}{ffff}</source>
+    <target>討伐クエスト{f801}クリア条件:{f801}{f873}{0100}を{f878}{0100}体倒す{f801}報酬:{f801}{f878}{0400}マッカ{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>追記テンプレ{f801}追記1ページ{f801}{ffff}</source>
+    <target>追記テンプレ{f801}追記1ページ{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>追記テンプレ{f801}追記2ページ{f801}{ffff}</source>
+    <target>追記テンプレ{f801}追記2ページ{f801}{ffff}</target>
+  </entry>
+</mbm>
