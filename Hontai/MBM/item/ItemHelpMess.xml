@@ -73,7 +73,7 @@
   </entry>
   <entry id="19">
     <source>获得程序点数10点{f801}現在AP/{f87d}{0000} 使用後/{f87d}{0100}{f801}{ffff}</source>
-    <target>获得程序点数10点{f801}現在AP/{f87d}{0000} 使用後/{f87d}{0100}{f801}{ffff}</target>
+    <target>获得程序点数10点{f801}当前AP/{f87d}{0000} 使用后/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="20">
     <source>回复对象微量HP{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
@@ -93,7 +93,7 @@
   </entry>
   <entry id="24">
     <source>获得程序点数20点{f801}現在AP/{f87d}{0000} 使用後/{f87d}{0100}{f801}{ffff}</source>
-    <target>获得程序点数20点{f801}現在AP/{f87d}{0000} 使用後/{f87d}{0100}{f801}{ffff}</target>
+    <target>获得程序点数20点{f801}当前AP/{f87d}{0000} 使用后/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="25">
     <source>解除对象所有负面状态{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
@@ -229,15 +229,15 @@
   </entry>
   <entry id="58">
     <source>悪魔的肉,HP{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
-    <target>悪魔的肉,HP{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</target>
+    <target>恶魔的肉,HP{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="59">
     <source>悪魔的肉,HP{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
-    <target>悪魔的肉,HP{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</target>
+    <target>恶魔的肉,HP{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="60">
     <source>悪魔的肉,HP{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
-    <target>悪魔的肉,HP{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</target>
+    <target>恶魔的肉,HP{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="61">
     <source>威/{f87d}{0200}×{f87d}{0300}次 {f87d}{0400}属性{f801}对象/{f87d}{0500} 付加/{f87d}{0600} 形状/小刀{f801}{ffff}</source>
@@ -2669,7 +2669,7 @@
   </entry>
   <entry id="668">
     <source>特殊効果/增加MP上限 効果/小{f801}{ffff}</source>
-    <target>特殊效果/增加MP上限 効果/小{f801}{ffff}</target>
+    <target>特殊效果/增加MP上限 效果/小{f801}{ffff}</target>
   </entry>
   <entry id="669">
     <source>特殊效果/{f87d}{0d00}{f801}{ffff}</source>
@@ -2725,7 +2725,7 @@
   </entry>
   <entry id="682">
     <source>特殊効果/强化回复技能效果 効果/大{f801}{ffff}</source>
-    <target>特殊效果/强化回复技能效果 効果/大{f801}{ffff}</target>
+    <target>特殊效果/强化回复技能效果 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="683">
     <source>特殊効果/移动一定距离后回复主角少量MP{f801}{ffff}</source>
@@ -2745,11 +2745,11 @@
   </entry>
   <entry id="687">
     <source>特殊効果/增加HP上限 効果/中{f801}{ffff}</source>
-    <target>特殊效果/增加HP上限 効果/中{f801}{ffff}</target>
+    <target>特殊效果/增加HP上限 效果/中{f801}{ffff}</target>
   </entry>
   <entry id="688">
     <source>特殊効果/增加MP上限 効果/中{f801}{ffff}</source>
-    <target>特殊效果/增加MP上限 効果/中{f801}{ffff}</target>
+    <target>特殊效果/增加MP上限 效果/中{f801}{ffff}</target>
   </entry>
   <entry id="689">
     <source>特殊效果/{f87d}{0d00}{f801}{ffff}</source>
@@ -2833,7 +2833,7 @@
   </entry>
   <entry id="709">
     <source>特殊効果/提高对軍勢的攻击力 効果/中{f801}{ffff}</source>
-    <target>特殊效果/提高对軍勢的攻击力 効果/中{f801}{ffff}</target>
+    <target>特殊效果/提高对军团的攻击力 效果/中{f801}{ffff}</target>
   </entry>
   <entry id="710">
     <source>特殊效果/{f87d}{0d00}{f801}{ffff}</source>
@@ -2845,11 +2845,11 @@
   </entry>
   <entry id="712">
     <source>特殊効果/增加HP上限 効果/大{f801}{ffff}</source>
-    <target>特殊效果/增加HP上限 効果/大{f801}{ffff}</target>
+    <target>特殊效果/增加HP上限 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="713">
     <source>特殊効果/增加MP上限 効果/大{f801}{ffff}</source>
-    <target>特殊效果/增加MP上限 効果/大{f801}{ffff}</target>
+    <target>特殊效果/增加MP上限 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="714">
     <source>特殊效果/{f87d}{0d00}{f801}{ffff}</source>
@@ -2865,19 +2865,19 @@
   </entry>
   <entry id="717">
     <source>特殊効果/强化火炎属性攻击力 効果/大{f801}{ffff}</source>
-    <target>特殊效果/强化火炎属性攻击力 効果/大{f801}{ffff}</target>
+    <target>特殊效果/强化火炎属性攻击力 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="718">
     <source>特殊効果/强化冰结属性攻击力 効果/大{f801}{ffff}</source>
-    <target>特殊效果/强化冰结属性攻击力 効果/大{f801}{ffff}</target>
+    <target>特殊效果/强化冰结属性攻击力 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="719">
     <source>特殊効果/强化电击属性攻击力 効果/大{f801}{ffff}</source>
-    <target>特殊效果/强化电击属性攻击力 効果/大{f801}{ffff}</target>
+    <target>特殊效果/强化电击属性攻击力 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="720">
     <source>特殊効果/强化冲击属性攻击力 効果/大{f801}{ffff}</source>
-    <target>特殊效果/强化冲击属性攻击力 効果/大{f801}{ffff}</target>
+    <target>特殊效果/强化冲击属性攻击力 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="721">
     <source>特殊效果/{f87d}{0d00}{f801}{ffff}</source>
@@ -2885,11 +2885,11 @@
   </entry>
   <entry id="722">
     <source>特殊効果/强化咒杀属性攻击力 効果/大{f801}{ffff}</source>
-    <target>特殊效果/强化咒杀属性攻击力 効果/大{f801}{ffff}</target>
+    <target>特殊效果/强化咒杀属性攻击力 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="723">
     <source>特殊効果/强化破魔属性攻击力 効果/大{f801}{ffff}</source>
-    <target>特殊效果/强化破魔属性攻击力 効果/大{f801}{ffff}</target>
+    <target>特殊效果/强化破魔属性攻击力 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="724">
     <source>特殊效果/{f87d}{0d00}{f801}{ffff}</source>
@@ -2913,7 +2913,7 @@
   </entry>
   <entry id="729">
     <source>{f87d}{0c00}{f801}特殊効果/HP归0时仅一次回复至HP1{f801}{ffff}</source>
-    <target>{f87d}{0c00}{f801}特殊効果/HP归0时仅一次回复至HP1{f801}{ffff}</target>
+    <target>{f87d}{0c00}{f801}特殊效果/HP归0时仅一次回复至HP1{f801}{ffff}</target>
   </entry>
   <entry id="730">
     <source>特殊效果/{f87d}{0d00}{f801}{ffff}</source>
@@ -2925,11 +2925,11 @@
   </entry>
   <entry id="732">
     <source>特殊効果/强化物理属性攻击力 効果/大{f801}{ffff}</source>
-    <target>特殊效果/强化物理属性攻击力 効果/大{f801}{ffff}</target>
+    <target>特殊效果/强化物理属性攻击力 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="733">
     <source>特殊効果/强化手枪属性攻击力 効果/大{f801}{ffff}</source>
-    <target>特殊效果/强化手枪属性攻击力 効果/大{f801}{ffff}</target>
+    <target>特殊效果/强化手枪属性攻击力 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="734">
     <source>特殊効果/同伴受到攻击时发起强反击{f801}{ffff}</source>
@@ -3017,19 +3017,19 @@
   </entry>
   <entry id="755">
     <source>{f87d}{0c00} {f801}特殊効果/提高会心率{f801}{ffff}</source>
-    <target>{f87d}{0c00} {f801}特殊効果/提高会心率{f801}{ffff}</target>
+    <target>{f87d}{0c00} {f801}特殊效果/提高会心率{f801}{ffff}</target>
   </entry>
   <entry id="756">
     <source>所有异常状态无效{f801}特殊効果/HP归0时仅一次回复全部HP{f801}{ffff}</source>
-    <target>所有异常状态无效{f801}特殊効果/HP归0时仅一次回复全部HP{f801}{ffff}</target>
+    <target>所有异常状态无效{f801}特殊效果/HP归0时仅一次回复全部HP{f801}{ffff}</target>
   </entry>
   <entry id="757">
     <source>特殊効果/强化所有属性攻击力 効果/大{f801}{ffff}</source>
-    <target>特殊效果/强化所有属性攻击力 効果/大{f801}{ffff}</target>
+    <target>特殊效果/强化所有属性攻击力 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="758">
     <source>{f87d}{0c00} {f801}特殊効果/战斗胜利时回复主角所有HP・MP{f801}{ffff}</source>
-    <target>{f87d}{0c00} {f801}特殊効果/战斗胜利时回复主角所有HP・MP{f801}{ffff}</target>
+    <target>{f87d}{0c00} {f801}特殊效果/战斗胜利时回复主角所有HP・MP{f801}{ffff}</target>
   </entry>
   <entry id="759">
     <source>特殊效果/{f87d}{0d00}{f801}{ffff}</source>
@@ -3037,7 +3037,7 @@
   </entry>
   <entry id="760">
     <source>特殊効果/获得经验值増加{f801}{ffff}</source>
-    <target>特殊效果/获得经验值増加{f801}{ffff}</target>
+    <target>特殊效果/获得经验值增加{f801}{ffff}</target>
   </entry>
   <entry id="761">
     <source>特殊効果/异常状态「紧缚」无效{f801}{ffff}</source>
@@ -3045,7 +3045,7 @@
   </entry>
   <entry id="762">
     <source>特殊効果/获得经验值増加 効果/大{f801}{ffff}</source>
-    <target>特殊效果/获得经验值増加 効果/大{f801}{ffff}</target>
+    <target>特殊效果/获得经验值增加 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="763">
     <source>特殊効果/异常状态「感冒」无效{f801}{ffff}</source>
@@ -3461,7 +3461,7 @@
   </entry>
   <entry id="866">
     <source>百合子派的盖亚教团成员给的{f801}位于築地根愿寺地下的回廊钥匙{f801}{ffff}</source>
-    <target>百合子派的盖亚教团成员给的{f801}位于築地根愿寺地下的回廊钥匙{f801}{ffff}</target>
+    <target>百合子派的盖亚教团成员给的{f801}位于筑地根愿寺地下的回廊钥匙{f801}{ffff}</target>
   </entry>
   <entry id="867">
     <source>寄宿着大地母神力量的金黄色羽毛。{f801}哪怕掉了下来,也尚未失去它原本的力量{f801}{ffff}</source>
@@ -7889,7 +7889,7 @@
   </entry>
   <entry id="1973">
     <source>获得程序点数5点{f801}当前AP/{f87d}{0000} 使用後/{f87d}{0100}{f801}{ffff}</source>
-    <target>获得程序点数5点{f801}当前AP/{f87d}{0000} 使用後/{f87d}{0100}{f801}{ffff}</target>
+    <target>获得程序点数5点{f801}当前AP/{f87d}{0000} 使用后/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="1974">
     <source>唤醒觉醒之力的石头{f801}补充/可无限使用 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
