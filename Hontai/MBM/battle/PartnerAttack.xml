@@ -5,7 +5,7 @@
   </entry>
   <entry id="2">
     <source>我现在浑身都充满了干劲!{f801}{f802}{ffff}</source>
-    <target>我现在浑身都充满了干劲!{f801}{f802}{ffff}</target>
+    <target>我现在干劲十足!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="3">
     <source>唔……无名快一点!{f801}{f802}{ffff}</source>
@@ -25,7 +25,7 @@
   </entry>
   <entry id="7">
     <source>偶尔也让我表现一下吧!{f801}{f802}{ffff}</source>
-    <target>偶尔也让我表现一下吧!{f801}{f802}{ffff}</target>
+    <target>偶尔也依靠下我吧!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="8">
     <source>一口气决出胜负!{f801}{f802}{ffff}</source>
@@ -49,7 +49,7 @@
   </entry>
   <entry id="13">
     <source>为什么!?和我下的命令不一样啊!{f801}{f802}{ffff}</source>
-    <target>为什么!?和我下的命令不一样啊!{f801}{f802}{ffff}</target>
+    <target>什么!?这跟命令不一样啊!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="14">
     <source>求你了,不要胡乱行动啊……{f801}{f802}{ffff}</source>
@@ -61,7 +61,7 @@
   </entry>
   <entry id="16">
     <source>为什么!?和我下的命令不一样啊!{f801}{f802}{ffff}</source>
-    <target>为什么!?和我下的命令不一样啊!{f801}{f802}{ffff}</target>
+    <target>什么!?这跟命令不一样啊!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="17">
     <source>求你了,不要胡乱行动啊……{f801}{f802}{ffff}</source>
@@ -93,7 +93,7 @@
   </entry>
   <entry id="24">
     <source>请赐予我不会输给任何人的力量……{f801}{f802}{ffff}</source>
-    <target>请赐予我不会输给任何人的力量……{f801}{f802}{ffff}</target>
+    <target>请赐我不败之力…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="25">
     <source>无名由我来守护……{f801}{f802}{ffff}</source>
@@ -105,7 +105,7 @@
   </entry>
   <entry id="27">
     <source>请赐予我不会输给任何人的力量……{f801}{f802}{ffff}</source>
-    <target>请赐予我不会输给任何人的力量……{f801}{f802}{ffff}</target>
+    <target>请赐我不败之力…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="28">
     <source>无名由我来守护!{f801}{f802}{ffff}</source>
@@ -117,7 +117,7 @@
   </entry>
   <entry id="30">
     <source>现在正是大好机会!{f801}{f802}{ffff}</source>
-    <target>现在正是大好机会!{f801}{f802}{ffff}</target>
+    <target>机会来了!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="31">
     <source>交给我吧。{f801}{f802}{ffff}</source>
@@ -137,7 +137,7 @@
   </entry>
   <entry id="35">
     <source>没问题,交给我吧。{f801}{f802}{ffff}</source>
-    <target>没问题,交给我吧。{f801}{f802}{ffff}</target>
+    <target>放心,交给我吧。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="36">
     <source>还可以再继续!{f801}{f802}{ffff}</source>
@@ -153,7 +153,7 @@
   </entry>
   <entry id="39">
     <source>我不会让任何人死去!{f801}{f802}{ffff}</source>
-    <target>我不会让任何人死去!{f801}{f802}{ffff}</target>
+    <target>不会让任何人死!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="40">
     <source>我们一定会赢!{f801}{f802}{ffff}</source>
@@ -181,7 +181,7 @@
   </entry>
   <entry id="46">
     <source>无名,你不要紧吧?{f801}{f802}{ffff}</source>
-    <target>无名,你不要紧吧?{f801}{f802}{ffff}</target>
+    <target>无名,没事吧?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="47">
     <source>我们绝对要赢!{f801}{f802}{ffff}</source>
@@ -197,7 +197,7 @@
   </entry>
   <entry id="50">
     <source>无名,你不要紧吧?{f801}{f802}{ffff}</source>
-    <target>无名,你不要紧吧?{f801}{f802}{ffff}</target>
+    <target>无名,没事吧?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="51">
     <source>我帮到无名了吗?{f801}{f802}{ffff}</source>
@@ -205,7 +205,7 @@
   </entry>
   <entry id="52">
     <source>我感受到了力量……{f801}{f802}{ffff}</source>
-    <target>我感受到了力量……{f801}{f802}{ffff}</target>
+    <target>力量……涌现……{f801}{f802}{ffff}</target>
   </entry>
   <entry id="53">
     <source>时代终于赶上我了!{f801}{f802}{ffff}</source>
@@ -213,7 +213,7 @@
   </entry>
   <entry id="54">
     <source>我有要大展神威的预感!{f801}{f802}{ffff}</source>
-    <target>我有要大展神威的预感!{f801}{f802}{ffff}</target>
+    <target>感觉要大展神威了!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="55">
     <source>嘿嘿……时机成熟了!{f801}{f802}{ffff}</source>
@@ -229,7 +229,7 @@
   </entry>
   <entry id="58">
     <source>我感受到了力量……{f801}{f802}{ffff}</source>
-    <target>我感受到了力量……{f801}{f802}{ffff}</target>
+    <target>力量……涌现……{f801}{f802}{ffff}</target>
   </entry>
   <entry id="59">
     <source>交给我吧!{f801}{f802}{ffff}</source>
@@ -337,15 +337,15 @@
   </entry>
   <entry id="85">
     <source>我的体内充满了达努的力量……{f801}{f802}{ffff}</source>
-    <target>我的体内充满了达努的力量……{f801}{f802}{ffff}</target>
+    <target>达努之力涌现……{f801}{f802}{ffff}</target>
   </entry>
   <entry id="86">
     <source>得要重新化妆才行呢……{f801}{f802}{ffff}</source>
-    <target>得要重新化妆才行呢……{f801}{f802}{ffff}</target>
+    <target>得要补妆才行呢……{f801}{f802}{ffff}</target>
   </entry>
   <entry id="87">
     <source>达努的力量快要溢出来了……{f801}{f802}{ffff}</source>
-    <target>达努的力量快要溢出来了……{f801}{f802}{ffff}</target>
+    <target>达努之力即将涌现……{f801}{f802}{ffff}</target>
   </entry>
   <entry id="88">
     <source>装填完毕!我准备好了!{f801}{f802}{ffff}</source>
@@ -365,11 +365,11 @@
   </entry>
   <entry id="92">
     <source>我要拍一张不错的照片。{f801}{f802}{ffff}</source>
-    <target>我要拍一张不错的照片。{f801}{f802}{ffff}</target>
+    <target>要拍出很棒的照片哦。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="93">
     <source>哎呀,我们的攻击可还没有结束哦?{f801}{f802}{ffff}</source>
-    <target>哎呀,我们的攻击可还没有结束哦?{f801}{f802}{ffff}</target>
+    <target>哎呀,还是我们攻击哦?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="94">
     <source>可别小瞧女王哦。{f801}{f802}{ffff}</source>
@@ -389,11 +389,11 @@
   </entry>
   <entry id="98">
     <source>哎呀,我们的攻击可还没有结束哦?{f801}{f802}{ffff}</source>
-    <target>哎呀,我们的攻击可还没有结束哦?{f801}{f802}{ffff}</target>
+    <target>哎呀,还是我们攻击哦?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="99">
     <source>现在正是攻击的时刻!{f801}{f802}{ffff}</source>
-    <target>现在正是攻击的时刻!{f801}{f802}{ffff}</target>
+    <target>是时候进攻了!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="100">
     <source>交给我吧。{f801}{f802}{ffff}</source>
@@ -409,7 +409,7 @@
   </entry>
   <entry id="103">
     <source>没问题,我还能继续战斗。{f801}{f802}{ffff}</source>
-    <target>没问题,我还能继续战斗。{f801}{f802}{ffff}</target>
+    <target>还早得很呢!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="104">
     <source>今后也要请大家一起努力!{f801}{f802}{ffff}</source>
@@ -453,7 +453,7 @@
   </entry>
   <entry id="114">
     <source>其实我是不愿意这样……{f801}{f802}{ffff}</source>
-    <target>其实我是不愿意这样……{f801}{f802}{ffff}</target>
+    <target>虽然不太愿意……{f801}{f802}{ffff}</target>
   </entry>
   <entry id="115">
     <source>可悲的命运啊……{f801}{f802}{ffff}</source>
@@ -525,11 +525,11 @@
   </entry>
   <entry id="132">
     <source>抱歉,我们的回合还没结束呢。{f801}{f802}{ffff}</source>
-    <target>抱歉,我们的回合还没结束呢。{f801}{f802}{ffff}</target>
+    <target>不好意思,还是我们。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="133">
     <source>抱歉,我们的回合还没结束呢。{f801}{f802}{ffff}</source>
-    <target>抱歉,我们的回合还没结束呢。{f801}{f802}{ffff}</target>
+    <target>不好意思,还是我们。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="134">
     <source>我不会放水的…全力进攻!{f801}{f802}{ffff}</source>
@@ -605,7 +605,7 @@
   </entry>
   <entry id="152">
     <source>就算力量薄弱也能派上用场吗……{f801}{f802}{ffff}</source>
-    <target>就算力量薄弱也能派上用场吗……{f801}{f802}{ffff}</target>
+    <target>这种力量也能派上用场吗……{f801}{f802}{ffff}</target>
   </entry>
   <entry id="153">
     <source>好,感觉状态不错!{f801}{f802}{ffff}</source>
@@ -625,7 +625,7 @@
   </entry>
   <entry id="157">
     <source>就算力量薄弱也能派上用场吗……{f801}{f802}{ffff}</source>
-    <target>就算力量薄弱也能派上用场吗……{f801}{f802}{ffff}</target>
+    <target>这种力量也能派上用场吗……{f801}{f802}{ffff}</target>
   </entry>
   <entry id="158">
     <source>好,感觉状态不错!{f801}{f802}{ffff}</source>
@@ -681,7 +681,7 @@
   </entry>
   <entry id="171">
     <source>神啊,请祝福我吧……!{f801}{f802}{ffff}</source>
-    <target>神啊,请祝福我吧……!{f801}{f802}{ffff}</target>
+    <target>神,赐福于我吧!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="172">
     <source>没错……我是不会输的!{f801}{f802}{ffff}</source>
@@ -769,11 +769,11 @@
   </entry>
   <entry id="193">
     <source>给我好好品尝一下吧!{f801}{f802}{ffff}</source>
-    <target>给我好好品尝一下吧!{f801}{f802}{ffff}</target>
+    <target>好好品尝一下吧!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="194">
     <source>不知天高地厚的家伙!{f801}{f802}{ffff}</source>
-    <target>不知天高地厚的家伙!{f801}{f802}{ffff}</target>
+    <target>不知天高地厚!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="195">
     <source>就让我来教教你!{f801}{f802}{ffff}</source>
@@ -793,11 +793,11 @@
   </entry>
   <entry id="199">
     <source>给我有点自知之明吧。{f801}{f802}{ffff}</source>
-    <target>给我有点自知之明吧。{f801}{f802}{ffff}</target>
+    <target>给我搞清楚状况。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="200">
     <source>在那儿给我看好了。{f801}{f802}{ffff}</source>
-    <target>在那儿给我看好了。{f801}{f802}{ffff}</target>
+    <target>给我乖乖待着。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="201">
     <source>颤抖吧!{f801}{f802}{ffff}</source>
@@ -869,23 +869,23 @@
   </entry>
   <entry id="218">
     <source>既然是任务,我会完成。{f801}{f802}{ffff}</source>
-    <target>既然是任务,我会完成。{f801}{f802}{ffff}</target>
+    <target>既然是任务……{f801}{f802}{ffff}</target>
   </entry>
   <entry id="219">
     <source>下次要一口气进攻了。{f801}{f802}{ffff}</source>
-    <target>下次要一口气进攻了。{f801}{f802}{ffff}</target>
+    <target>接着，一鼓作气。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="220">
     <source>主人,请下达指示……!{f801}{f802}{ffff}</source>
-    <target>主人,请下达指示……!{f801}{f802}{ffff}</target>
+    <target>主人请下达指示!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="221">
     <source>我的命全交由主人掌管。{f801}{f802}{ffff}</source>
-    <target>我的命全交由主人掌管。{f801}{f802}{ffff}</target>
+    <target>这条命就交给主人了。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="222">
     <source>交给我吧……我会消灭敌人。{f801}{f802}{ffff}</source>
-    <target>交给我吧……我会消灭敌人。{f801}{f802}{ffff}</target>
+    <target>歼敌就交给我！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="223">
     <source>解放……!{f801}{f802}{ffff}</source>
@@ -897,7 +897,7 @@
   </entry>
   <entry id="225">
     <source>我的命全交由主人掌管。{f801}{f802}{ffff}</source>
-    <target>我的命全交由主人掌管。{f801}{f802}{ffff}</target>
+    <target>这条命就交给主人了。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="226">
     <source>打破……枷锁!{f801}{f802}{ffff}</source>
@@ -909,7 +909,7 @@
   </entry>
   <entry id="228">
     <source>没有伤到要害吗……{f801}{f802}{ffff}</source>
-    <target>没有伤到要害吗……{f801}{f802}{ffff}</target>
+    <target>没伤到要害吗……{f801}{f802}{ffff}</target>
   </entry>
   <entry id="229">
     <source>处刑完毕……{f801}{f802}{ffff}</source>
@@ -917,7 +917,7 @@
   </entry>
   <entry id="230">
     <source>没有伤到要害吗……{f801}{f802}{ffff}</source>
-    <target>没有伤到要害吗……{f801}{f802}{ffff}</target>
+    <target>没伤到要害吗……{f801}{f802}{ffff}</target>
   </entry>
   <entry id="231">
     <source>交给我吧……{f801}{f802}{ffff}</source>
@@ -961,7 +961,7 @@
   </entry>
   <entry id="241">
     <source>我们的攻击……还没结束!{f801}{f802}{ffff}</source>
-    <target>我们的攻击……还没结束!{f801}{f802}{ffff}</target>
+    <target>攻击……还没结束!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="242">
     <source>别想对主人出手!{f801}{f802}{ffff}</source>
@@ -1041,11 +1041,11 @@
   </entry>
   <entry id="261">
     <source>让我们堂堂正正地战斗吧。{f801}{f802}{ffff}</source>
-    <target>让我们堂堂正正地战斗吧。{f801}{f802}{ffff}</target>
+    <target>堂堂正正地战斗吧。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="262">
     <source>好啊,我的状态很好!{f801}{f802}{ffff}</source>
-    <target>好啊,我的状态很好!{f801}{f802}{ffff}</target>
+    <target>好啊,状态不错!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="263">
     <source>我随时能战斗。{f801}{f802}{ffff}</source>
@@ -1057,7 +1057,7 @@
   </entry>
   <entry id="265">
     <source>好啊,我的状态很好!{f801}{f802}{ffff}</source>
-    <target>好啊,我的状态很好!{f801}{f802}{ffff}</target>
+    <target>好啊,状态不错!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="266">
     <source>战斗还没结束呢!{f801}{f802}{ffff}</source>
@@ -1069,7 +1069,7 @@
   </entry>
   <entry id="268">
     <source>在我的剑技之下,化为鲜红之血吧!{f801}{f802}{ffff}</source>
-    <target>在我的剑技之下,化为鲜红之血吧!{f801}{f802}{ffff}</target>
+    <target>在我剑下,身染鲜血吧!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="269">
     <source>巴洛兹,准备好了吗?{f801}{f802}{ffff}</source>
@@ -1077,7 +1077,7 @@
   </entry>
   <entry id="270">
     <source>在我的剑技之下,化为鲜红之血吧!{f801}{f802}{ffff}</source>
-    <target>在我的剑技之下,化为鲜红之血吧!{f801}{f802}{ffff}</target>
+    <target>在我剑下,身染鲜血吧!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="271">
     <source>这招怎么样?{f801}{f802}{ffff}</source>
@@ -1129,7 +1129,7 @@
   </entry>
   <entry id="283">
     <source>作为男生,你真有点不像样啊。{f801}{f802}{ffff}</source>
-    <target>作为男生,你真有点不像样啊。{f801}{f802}{ffff}</target>
+    <target>男生真是不检点呢。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="284">
     <source>这正是……武士之风采!{f801}{f802}{ffff}</source>
