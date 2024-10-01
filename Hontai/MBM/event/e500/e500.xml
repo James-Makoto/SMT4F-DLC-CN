@@ -117,7 +117,7 @@
   </entry>
   <entry id="2100">
     <source>说不定在这个房间中{f801}隐藏着《目的器材》……{f801}{ffff}</source>
-    <target>说不定在这个房间中{f801}隐藏着《目的器材》……{f801}{ffff}</target>
+    <target>说不定在这个房间中{f801}隐藏着《目标器材》……{f801}{ffff}</target>
   </entry>
   <entry id="2101">
     <source>进入房间{f801}返回{f801}{ffff}</source>
