@@ -597,7 +597,7 @@
   </entry>
   <entry id="150">
     <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</source>
-    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</target>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸收{f801}{ffff}</target>
   </entry>
   <entry id="151">
     <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 必杀率/高 命中/低{f801}{ffff}</source>
@@ -765,7 +765,7 @@
   </entry>
   <entry id="192">
     <source>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</source>
-    <target>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</target>
+    <target>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/紧缚{f801}{ffff}</target>
   </entry>
   <entry id="193">
     <source>对敌人发动2〜4次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
@@ -781,7 +781,7 @@
   </entry>
   <entry id="196">
     <source>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</source>
-    <target>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/緊縛{f801}{ffff}</target>
+    <target>对敌人发动1〜3次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/紧缚{f801}{ffff}</target>
   </entry>
   <entry id="197">
     <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/眩晕{f801}{ffff}</source>
@@ -917,7 +917,7 @@
   </entry>
   <entry id="230">
     <source>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/能力上昇消去・貫通{f801}{ffff}</source>
-    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/能力上昇消去・貫通{f801}{ffff}</target>
+    <target>对敌人发动1次{f87d}{0e00}属性大威力攻击{f801}对象/{f87d}{0f00} 付加/消除能力提升・贯通{f801}{ffff}</target>
   </entry>
   <entry id="231">
     <source>对敌人发动6次{f87d}{0e00}属性中威力攻击{f801}对象/{f87d}{0f00} 付加/贯通效果 命中/低{f801}{ffff}</source>
@@ -941,7 +941,7 @@
   </entry>
   <entry id="236">
     <source>在下个我方回合到来之前吸收所有弱点属性攻击{f801}对象/{f87d}{0f00} 吸収時/全能力提升・奸笑{f801}{ffff}</source>
-    <target>在下个我方回合到来之前吸收所有弱点属性攻击{f801}对象/{f87d}{0f00} 吸収時/全能力提升・奸笑{f801}{ffff}</target>
+    <target>在下个我方回合到来之前吸收所有弱点属性攻击{f801}对象/{f87d}{0f00} 吸收时/全能力提升・奸笑{f801}{ffff}</target>
   </entry>
   <entry id="237">
     <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 奸笑时/威力提升{f801}{ffff}</source>
@@ -1361,7 +1361,7 @@
   </entry>
   <entry id="341">
     <source>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</source>
-    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸収{f801}{ffff}</target>
+    <target>对敌人发动1次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00} 付加/HP吸收{f801}{ffff}</target>
   </entry>
   <entry id="342">
     <source>对敌人发动2次{f87d}{0e00}属性小威力攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
