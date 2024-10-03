@@ -709,7 +709,7 @@
   </entry>
   <entry id="220">
     <source>{f871}{0100}你还真是意外的小气呢。{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}你还真是意外的小气呢。{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}你还真是意外地小气呢。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="221">
     <source>{f871}{0100}不要,你好讨厌!{f801}{f802}{ffff}</source>
