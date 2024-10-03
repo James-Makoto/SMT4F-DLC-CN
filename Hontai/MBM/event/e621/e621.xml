@@ -41,7 +41,7 @@
   </entry>
   <entry id="10">
     <source>在如同被操纵了一般的镇上的人中,{f801}还有盖亚教徒与阿修罗会成员的身影……{f801}{f802}要阻止骚动吗?{f801}{ffff}</source>
-    <target>在如同被操纵了一般的镇上的人中,{f801}还有盖亚教徒与阿修罗会成员的身影……{f801}{f802}要阻止骚动吗?{f801}{ffff}</target>
+    <target>在如同被操纵了一般的街上的人中,{f801}还有盖亚教徒与阿修罗会成员的身影……{f801}{f802}要阻止骚动吗?{f801}{ffff}</target>
   </entry>
   <entry id="11">
     <source>{f843}{0000}为了阻止骚动,{f801}站在了丸男党男性的面前……{f801}{ffff}</source>
@@ -113,7 +113,7 @@
   </entry>
   <entry id="30">
     <source>镇上的人们在狂热的骚动着……{f801}要制止他们吗?{f801}{ffff}</source>
-    <target>镇上的人们在狂热的骚动着……{f801}要制止他们吗?{f801}{ffff}</target>
+    <target>街上的人们在狂热的骚动着……{f801}要制止他们吗?{f801}{ffff}</target>
   </entry>
   <entry id="100">
     <source>是{f801}否{f801}{ffff}</source>
