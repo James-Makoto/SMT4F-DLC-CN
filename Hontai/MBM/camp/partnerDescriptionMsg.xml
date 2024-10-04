@@ -9,7 +9,7 @@
   </entry>
   <entry id="3">
     <source>使用铳技攻击进行妨碍的{f801}攻击支援型。{f801}能学习铳系技能{f801}{ffff}</source>
-    <target>使用铳技攻击进行妨碍的{f801}攻击支援型。{f801}能学习铳系技能{f801}{ffff}</target>
+    <target>使用枪械技能攻击{f801}进行妨碍的攻击支援型。{f801}能学习枪系技能{f801}{ffff}</target>
   </entry>
   <entry id="4">
     <source>使用物理技能进行攻击的{f801}攻击特化型。{f801}能学习物理系技能{f801}{ffff}</source>

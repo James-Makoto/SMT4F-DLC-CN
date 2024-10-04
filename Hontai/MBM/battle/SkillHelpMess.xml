@@ -461,7 +461,7 @@
   </entry>
   <entry id="116">
     <source>为下次进行的物理・铳攻击付加必中暴击效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>为下次进行的物理・铳攻击付加必中暴击效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>为下次进行的物理・枪攻击付加必中暴击效果{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="117">
     <source>对敌人发动1次威力根据异常状态数量改变的攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
@@ -469,7 +469,7 @@
   </entry>
   <entry id="118">
     <source>在下个我方回合到来之前反射物理・铳攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>在下个我方回合到来之前反射物理・铳攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>在下个我方回合到来之前反射物理・枪攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="119">
     <source>在下个我方回合到来之前反射魔法攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
@@ -481,7 +481,7 @@
   </entry>
   <entry id="121">
     <source>下次进行的物理・铳攻击的威力变成两倍以上{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>下次进行的物理・铳攻击的威力变成两倍以上{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>下次进行的物理・枪攻击的威力变成两倍以上{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="122">
     <source>下次进行的魔法攻击的威力变成两倍以上{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
@@ -1489,7 +1489,7 @@
   </entry>
   <entry id="373">
     <source>在1回合内反射物理攻击和铳攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>在1回合内反射物理攻击和铳攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>在1回合内反射物理攻击和枪攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="374">
     <source>在1回合内反射异常状态之外的魔法攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
@@ -1617,19 +1617,19 @@
   </entry>
   <entry id="405">
     <source>强化自己对铳属性攻击的耐性{f801}对象/自己{f801}{ffff}</source>
-    <target>强化自己对铳属性攻击的耐性{f801}对象/自己{f801}{ffff}</target>
+    <target>强化自己对枪属性攻击的耐性{f801}对象/自己{f801}{ffff}</target>
   </entry>
   <entry id="406">
     <source>使铳属性攻击无效化{f801}对象/自己{f801}{ffff}</source>
-    <target>使铳属性攻击无效化{f801}对象/自己{f801}{ffff}</target>
+    <target>使枪属性攻击无效化{f801}对象/自己{f801}{ffff}</target>
   </entry>
   <entry id="407">
     <source>反射铳属性攻击{f801}对象/自己{f801}{ffff}</source>
-    <target>反射铳属性攻击{f801}对象/自己{f801}{ffff}</target>
+    <target>反射枪属性攻击{f801}对象/自己{f801}{ffff}</target>
   </entry>
   <entry id="408">
     <source>吸收铳属性攻击{f801}对象/自己{f801}{ffff}</source>
-    <target>吸收铳属性攻击{f801}对象/自己{f801}{ffff}</target>
+    <target>吸收枪属性攻击{f801}对象/自己{f801}{ffff}</target>
   </entry>
   <entry id="409">
     <source>强化自己对火炎属性攻击的耐性{f801}对象/自己{f801}{ffff}</source>
@@ -1729,11 +1729,11 @@
   </entry>
   <entry id="433">
     <source>强化铳属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</source>
-    <target>强化铳属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</target>
+    <target>强化枪属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</target>
   </entry>
   <entry id="434">
     <source>强化铳属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</source>
-    <target>强化铳属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</target>
+    <target>强化枪属性攻击时的攻击力{f801}对象/自己 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="435">
     <source>强化火炎属性攻击时的攻击力{f801}对象/自己{f801}{ffff}</source>
@@ -1785,19 +1785,19 @@
   </entry>
   <entry id="447">
     <source>以一定几率反击物理或者铳属性攻击{f801}条件/自己被攻击{f801}{ffff}</source>
-    <target>以一定几率反击物理或者铳属性攻击{f801}条件/自己被攻击{f801}{ffff}</target>
+    <target>以一定几率反击物理或者枪属性攻击{f801}条件/自己被攻击{f801}{ffff}</target>
   </entry>
   <entry id="448">
     <source>以一定几率反击物理或者铳属性攻击{f801}条件/自己被攻击 威力/大{f801}{ffff}</source>
-    <target>以一定几率反击物理或者铳属性攻击{f801}条件/自己被攻击 威力/大{f801}{ffff}</target>
+    <target>以一定几率反击物理或者枪属性攻击{f801}条件/自己被攻击 威力/大{f801}{ffff}</target>
   </entry>
   <entry id="449">
     <source>以一定几率反击物理或者铳属性攻击{f801}条件/我方成员被攻击时{f801}{ffff}</source>
-    <target>以一定几率反击物理或者铳属性攻击{f801}条件/我方成员被攻击时{f801}{ffff}</target>
+    <target>以一定几率反击物理或者枪属性攻击{f801}条件/我方成员被攻击时{f801}{ffff}</target>
   </entry>
   <entry id="450">
     <source>以一定几率反击物理或者铳属性攻击{f801}条件/我方成员被攻击时 威力/大{f801}{ffff}</source>
-    <target>以一定几率反击物理或者铳属性攻击{f801}条件/我方成员被攻击时 威力/大{f801}{ffff}</target>
+    <target>以一定几率反击物理或者枪属性攻击{f801}条件/我方成员被攻击时 威力/大{f801}{ffff}</target>
   </entry>
   <entry id="451">
     <source>战斗胜利时回复自身HP{f801}{ffff}</source>
@@ -1953,7 +1953,7 @@
   </entry>
   <entry id="489">
     <source>攻击时贯穿敌人的{f801}铳吸收・反射・无效・耐性,使其失效{f801}{ffff}</source>
-    <target>攻击时贯穿敌人的{f801}铳吸收・反射・无效・耐性,使其失效{f801}{ffff}</target>
+    <target>攻击时贯穿敌人的{f801}枪吸收・反射・无效・耐性,使其失效{f801}{ffff}</target>
   </entry>
   <entry id="490">
     <source>攻击时贯穿敌人的{f801}火炎吸收・反射・无效・耐性,使其失效{f801}{ffff}</source>
@@ -1981,7 +1981,7 @@
   </entry>
   <entry id="496">
     <source>强化铳属性的威力{f801}并付加贯通效果{f801}{ffff}</source>
-    <target>强化铳属性的威力{f801}并付加贯通效果{f801}{ffff}</target>
+    <target>强化枪属性的威力{f801}并付加贯通效果{f801}{ffff}</target>
   </entry>
   <entry id="497">
     <source>大幅强化魔法攻击的威力{f801}{ffff}</source>
