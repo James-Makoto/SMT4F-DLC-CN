@@ -1,7 +1,7 @@
 <mbm>
   <entry id="0">
     <source>浮在空中的方块展开,{f801}传送门开放了。{f801}{ffff}</source>
-    <target>浮在空中的方块展开,{f801}传送门开放了。{f801}{ffff}</target>
+    <target>浮在空中的方块展开,{f801}抽送阀开放了。{f801}{ffff}</target>
   </entry>
   <entry id="1">
     <source>门关得很紧……{f801}{ffff}</source>
@@ -37,7 +37,7 @@
   </entry>
   <entry id="9">
     <source>除这里之外的传送门{f801}好像还没有开放……{f801}{f802}成为目的地的传送门不开放的话,{f801}无法移动到其他场所。{f801}{ffff}</source>
-    <target>除这里之外的传送门{f801}好像还没有开放……{f801}{f802}成为目的地的传送门不开放的话,{f801}无法移动到其他场所。{f801}{ffff}</target>
+    <target>除这里之外的抽送阀{f801}好像还没有开放……{f801}{f802}成为目的地的抽送阀不开放的话,{f801}无法移动到其他场所。{f801}{ffff}</target>
   </entry>
   <entry id="10">
     <source>门关得很紧,{f801}以现在的状态无法打开……{f801}{ffff}</source>
