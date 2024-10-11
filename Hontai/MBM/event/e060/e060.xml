@@ -381,7 +381,7 @@
   </entry>
   <entry id="400">
     <source>门上上了锁…{f801}{ffff}</source>
-    <target>门上上了锁…{f801}{ffff}</target>
+    <target>门被锁上了…{f801}{ffff}</target>
   </entry>
   <entry id="401">
     <source>{f812}伊莎白{0000}{f87a}{0500}{f81b}{4930}{3038}{3033}{3900}{0000}{0000}上锁了吗?{f801}{ffff}</source>
