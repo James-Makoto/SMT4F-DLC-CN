@@ -217,7 +217,7 @@
   </entry>
   <entry id="180">
     <source>电梯被锁上了。{f801}{f802}用《{f872}{0100}》{f801}吗?{f801}{ffff}</source>
-    <target>电梯被锁上了。{f801}{f802}用《{f872}{0100}》{f801}吗?{f801}{ffff}</target>
+    <target>电梯被锁上了。{f801}{f802}要使用{f801}《{f872}{0100}》吗?{f801}{ffff}</target>
   </entry>
   <entry id="181">
     <source>使用{f801}不使用{f801}{ffff}</source>

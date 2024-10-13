@@ -297,7 +297,7 @@
   </entry>
   <entry id="200">
     <source>通往B2F的{f801}电子门锁上了。{f801}{f802}用《{f872}{0100}》{f801}吗?{f801}{ffff}</source>
-    <target>通往B2F的{f801}电子门锁上了。{f801}{f802}用《{f872}{0100}》{f801}吗?{f801}{ffff}</target>
+    <target>通往B2F的{f801}电子门锁上了。{f801}{f802}要使用{f801}《{f872}{0100}》吗?{f801}{ffff}</target>
   </entry>
   <entry id="201">
     <source>使用{f801}不使用{f801}{ffff}</source>
