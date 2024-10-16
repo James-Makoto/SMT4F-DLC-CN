@@ -249,7 +249,7 @@
   </entry>
   <entry id="108">
     <source>现在没有可以交纳的任务{f801}{ffff}</source>
-    <target>现在没有可以交纳的任务{f801}{ffff}</target>
+    <target>现在没有可以交纳的任务。{f801}{ffff}</target>
   </entry>
   <entry id="109">
     <source>{f812}店主{0000}{f87a}{0200}{f81b}{4630}{3031}{3030}{3700}{0000}{0000}虽然{f873}{0100}了,{f801}但已经登录在DDS上了。{f801}{f802}要解除登录还要再来一次才行。{f801}{ffff}</source>
