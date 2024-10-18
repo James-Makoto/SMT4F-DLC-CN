@@ -217,7 +217,7 @@
   </entry>
   <entry id="54">
     <source>{f873}{0600}用忍耐之术忍耐住了!{f801}{f802}{ffff}</source>
-    <target>{f873}{0600}用忍耐之术忍耐住了!{f801}{f802}{ffff}</target>
+    <target>{f873}{0600}通过警戒的呼吼嘿忍了下来!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="55">
     <source>全能力提升!{f801}{f802}{ffff}</source>
@@ -225,7 +225,7 @@
   </entry>
   <entry id="56">
     <source>阻止了{f873}{0600}陷入迷路状态!{f801}{f802}{ffff}</source>
-    <target>阻止了{f873}{0600}陷入迷路状态!{f801}{f802}{ffff}</target>
+    <target>因为{f873}{0600}的阻止,未陷入迷路状态!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="57">
     <source>伙伴从战斗中脱离……{f801}{f802}{ffff}</source>
