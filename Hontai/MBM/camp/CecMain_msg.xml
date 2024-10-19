@@ -125,11 +125,11 @@
   </entry>
   <entry id="115">
     <source>收到了{f811}{0000}枚DDS卡。{f801}{ffff}</source>
-    <target>收到了{f811}{0000}枚DDS卡。{f801}{ffff}</target>
+    <target>收到了{f811}{0000}枚DDS卡片。{f801}{ffff}</target>
   </entry>
   <entry id="116">
     <source>一张DDS卡都没有。{f801}{ffff}</source>
-    <target>一张DDS卡都没有。{f801}{ffff}</target>
+    <target>一张DDS卡片都没有。{f801}{ffff}</target>
   </entry>
   <entry id="117">
     <source>任天堂3DS本体没有登录本软件的{f801}擦肩通信。{f801}{f802}在菜单中选择『{f804}{0500}开/关{f804}{0000}』{f801}进行登录操作。{f801}{ffff}</source>
@@ -149,7 +149,7 @@
   </entry>
   <entry id="123">
     <source>DDS卡交换终止。{f801}{ffff}</source>
-    <target>DDS卡交换终止。{f801}{ffff}</target>
+    <target>DDS卡片交换终止。{f801}{ffff}</target>
   </entry>
   <entry id="124">
     <source>开始连接网络……{f801}{ffff}</source>
@@ -157,7 +157,7 @@
   </entry>
   <entry id="125">
     <source>DDS卡发送接收中。{f801}{ffff}</source>
-    <target>DDS卡发送接收中。{f801}{ffff}</target>
+    <target>DDS卡片发送接收中。{f801}{ffff}</target>
   </entry>
   <entry id="127">
     <source>切断通信中。{f801}{ffff}</source>
