@@ -4665,11 +4665,11 @@
   </entry>
   <entry id="1167">
     <source>拍摄动画的机器。{f801}可以用手机替代{f801}{ffff}</source>
-    <target>拍摄动画的机器。{f801}可以用手机替代{f801}{ffff}</target>
+    <target>拍摄影像的机器。{f801}可以用手机替代{f801}{ffff}</target>
   </entry>
   <entry id="1168">
     <source>拍照的机器。{f801}可以用电脑替代{f801}{ffff}</source>
-    <target>拍照的机器。{f801}可以用电脑替代{f801}{ffff}</target>
+    <target>拍照的机器。{f801}可以用手机替代{f801}{ffff}</target>
   </entry>
   <entry id="1169">
     <source>能够过滤周围空气的机器。{f801}比起空气,粮食优先{f801}{ffff}</source>
@@ -5869,7 +5869,7 @@
   </entry>
   <entry id="1468">
     <source>通过热能散发香气的产品。{f801}只有这个没法使用{f801}{ffff}</source>
-    <target>通过热能散发香气的产品。{f801}只有这个没法使用{f801}{ffff}</target>
+    <target>通过热能散发香气的产品。{f801}只有这个的话无法发挥作用{f801}{ffff}</target>
   </entry>
   <entry id="1469">
     <source>散发着清香。{f801}外表看上去只是木材的碎片{f801}{ffff}</source>
@@ -6001,39 +6001,39 @@
   </entry>
   <entry id="1501">
     <source>曾经使用的货币。{f801}使用铝制成,也能够作为估计重量的单位{f801}{ffff}</source>
-    <target>曾经使用的货币。{f801}使用铝制成,也能够作为估计重量的单位{f801}{ffff}</target>
+    <target>过去所使用的货币。{f801}使用铝制成,也能够作为估计重量的单位{f801}{ffff}</target>
   </entry>
   <entry id="1502">
     <source>曾经使用的货币。{f801}有少数猎人把这个用于道金术{f801}{ffff}</source>
-    <target>曾经使用的货币。{f801}有少数猎人把这个用于探测术{f801}{ffff}</target>
+    <target>过去所使用的货币。{f801}有少数猎人将这个用于探测术{f801}{ffff}</target>
   </entry>
   <entry id="1503">
     <source>曾经使用的货币。{f801}扔出去也许吓敌人一跳{f801}{ffff}</source>
-    <target>曾经使用的货币。{f801}扔出去也许吓敌人一跳{f801}{ffff}</target>
+    <target>过去所使用的货币。{f801}扔出去也许吓敌人一跳{f801}{ffff}</target>
   </entry>
   <entry id="1504">
     <source>曾经使用的货币。{f801}上面刻画的樱花很美{f801}{ffff}</source>
-    <target>曾经使用的货币。{f801}上面刻画的樱花很美{f801}{ffff}</target>
+    <target>过去所使用的货币。{f801}上面刻画的樱花很美{f801}{ffff}</target>
   </entry>
   <entry id="1505">
     <source>曾经使用的货币。{f801}和魔币不同,很有分量{f801}{ffff}</source>
-    <target>曾经使用的货币。{f801}和魔币不同,很有分量{f801}{ffff}</target>
+    <target>过去所使用的货币。{f801}和魔币不同,很有分量{f801}{ffff}</target>
   </entry>
   <entry id="1506">
     <source>曾经使用的纸币。{f801}上面画着个鸟窝头留着胡须的男人{f801}{ffff}</source>
-    <target>曾经使用的纸币。{f801}上面画着个鸟窝头留着胡须的男人{f801}{ffff}</target>
+    <target>过去所使用的纸币。{f801}上面画着个鸟窝头留着胡须的男人{f801}{ffff}</target>
   </entry>
   <entry id="1507">
     <source>曾经使用的纸币。{f801}画着一扇不知道在何处的门{f801}{ffff}</source>
-    <target>曾经使用的纸币。{f801}画着一扇不知道在何处的门{f801}{ffff}</target>
+    <target>过去所使用的纸币。{f801}画着一扇不知道在何处的门{f801}{ffff}</target>
   </entry>
   <entry id="1508">
     <source>曾经使用的纸币。{f801}上面画着一位一脸疲惫的薄幸女子{f801}{ffff}</source>
-    <target>曾经使用的纸币。{f801}上面画着一位一脸疲惫的薄幸女子{f801}{ffff}</target>
+    <target>过去所使用的纸币。{f801}上面画着一位一脸疲惫一脸衰样的女子{f801}{ffff}</target>
   </entry>
   <entry id="1509">
     <source>曾经使用的纸币。{f801}上面画着一位穿着和服的中年男子{f801}{ffff}</source>
-    <target>曾经使用的纸币。{f801}上面画着一位穿着和服的中年男子{f801}{ffff}</target>
+    <target>过去所使用的纸币。{f801}上面画着一位穿着和服的中年男子{f801}{ffff}</target>
   </entry>
   <entry id="1510">
     <source>印有多位数字的卡。{f801}以前的人们比起魔币更相信这个{f801}{ffff}</source>
@@ -6497,7 +6497,7 @@
   </entry>
   <entry id="1625">
     <source>高档洋装。{f801}该不该买下来当礼物送呢?{f801}{ffff}</source>
-    <target>高档洋装。{f801}该不该买下来当礼物送呢?{f801}{ffff}</target>
+    <target>高档洋装。{f801}该不该拿来当作礼物呢?{f801}{ffff}</target>
   </entry>
   <entry id="1626">
     <source>{ffff}</source>
