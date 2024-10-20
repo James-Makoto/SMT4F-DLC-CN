@@ -29,7 +29,7 @@
   </entry>
   <entry id="1004">
     <source>对{f843}{0000}的选择,{f801}{f87e}感受到了信赖……{f801}{ffff}</source>
-    <target>对{f843}{0000}的选择,{f801}{f87e}感受到了信赖……{f801}{ffff}</target>
+    <target>对于{f843}{0000}的选择,{f801}{f87e}感受到了信赖……{f801}{ffff}</target>
   </entry>
   <entry id="1005">
     <source>支援量表提高了……{f801}{ffff}</source>
@@ -53,7 +53,7 @@
   </entry>
   <entry id="1010">
     <source>对{f843}{0000}的选择,{f801}{f87e}大吃一惊……{f801}{ffff}</source>
-    <target>对{f843}{0000}的选择,{f801}{f87e}大吃一惊……{f801}{ffff}</target>
+    <target>对于{f843}{0000}的选择,{f801}{f87e}大吃一惊……{f801}{ffff}</target>
   </entry>
   <entry id="1011">
     <source>支援量表降低了……{f801}{ffff}</source>
