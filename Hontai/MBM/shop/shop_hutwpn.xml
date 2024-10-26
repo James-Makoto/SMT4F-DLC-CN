@@ -69,7 +69,7 @@
   </entry>
   <entry id="71">
     <source>{f812}山谷宁芙{0000}您想要买点什么?{f801}{ffff}</source>
-    <target>{f812}山谷宁芙{0000}您想要买点什么?{f801}{ffff}</target>
+    <target>{f812}山谷宁芙{0000}您想要卖点什么?{f801}{ffff}</target>
   </entry>
   <entry id="72">
     <source>{f812}山谷宁芙{0000}需要什么您尽管说。{f801}{ffff}</source>
