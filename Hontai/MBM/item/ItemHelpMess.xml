@@ -2789,7 +2789,7 @@
   </entry>
   <entry id="698">
     <source>特殊効果/强化手枪属性攻击力{f801}{ffff}</source>
-    <target>特殊效果/强化手枪属性攻击力{f801}{ffff}</target>
+    <target>特殊效果/强化枪属性攻击力{f801}{ffff}</target>
   </entry>
   <entry id="699">
     <source>特殊效果/{f87d}{0d00}{f801}{ffff}</source>
@@ -2929,7 +2929,7 @@
   </entry>
   <entry id="733">
     <source>特殊効果/强化手枪属性攻击力 効果/大{f801}{ffff}</source>
-    <target>特殊效果/强化手枪属性攻击力 效果/大{f801}{ffff}</target>
+    <target>特殊效果/强化枪属性攻击力 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="734">
     <source>特殊効果/同伴受到攻击时发起强反击{f801}{ffff}</source>
@@ -7873,7 +7873,7 @@
   </entry>
   <entry id="1969">
     <source>可以强化手枪的特殊包裹{f801}{ffff}</source>
-    <target>可以强化手枪的特殊包裹{f801}{ffff}</target>
+    <target>可以强化枪械的特殊包裹{f801}{ffff}</target>
   </entry>
   <entry id="1970">
     <source>可以强化防具的特殊包裹{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
@@ -7901,7 +7901,7 @@
   </entry>
   <entry id="1976">
     <source>仲魔的+手枪适应性提升1点{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
-    <target>仲魔的+手枪适应性提升1点{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</target>
+    <target>仲魔的+枪适应性提升1点{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="1977">
     <source>仲魔的+火炎适应性提升1点{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
