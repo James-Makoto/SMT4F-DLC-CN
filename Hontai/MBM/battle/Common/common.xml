@@ -144,8 +144,8 @@
     <target>守护壁反射了攻击!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="36">
-    <source>烙印付加在了{f873}{0600}身上……{f801}{f802}{ffff}</source>
-    <target>烙印付加在了{f873}{0600}身上……{f801}{f802}{ffff}</target>
+    <source>烙印附加在了{f873}{0600}身上……{f801}{f802}{ffff}</source>
+    <target>烙印附加在了{f873}{0600}身上……{f801}{f802}{ffff}</target>
   </entry>
   <entry id="37">
     <source>贯穿了对方的耐性!{f801}{f802}{ffff}</source>
