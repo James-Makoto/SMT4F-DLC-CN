@@ -61,11 +61,11 @@
   </entry>
   <entry id="16">
     <source>解除「睡眠・混乱・紧缚・着迷・魔封・晕眩」状态{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
-    <target>解除「睡眠・混乱・紧缚・着迷・魔封・晕眩」状态{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</target>
+    <target>解除「睡眠・混乱・束缚・魅惑・魔封・眩晕」状态{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="17">
     <source>解除「睡眠・混乱・紧缚・着迷・魔封・晕眩」状态{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
-    <target>解除「睡眠・混乱・紧缚・着迷・魔封・晕眩」状态{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</target>
+    <target>解除「睡眠・混乱・束缚・魅惑・魔封・眩晕」状态{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="18">
     <source>解除异常状态「毒・感冒」{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
@@ -201,7 +201,7 @@
   </entry>
   <entry id="51">
     <source>给目标附加异常状态「紧缚」{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
-    <target>给目标附加异常状态「紧缚」{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</target>
+    <target>给目标附加异常状态「束缚」{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="52">
     <source>一回合内反射物理攻击及枪属性攻击{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
@@ -2897,19 +2897,19 @@
   </entry>
   <entry id="725">
     <source>特殊効果/「毒・紧缚・感冒・晕眩」耐性{f801}{ffff}</source>
-    <target>特殊效果/「毒・紧缚・感冒・晕眩」耐性{f801}{ffff}</target>
+    <target>特殊效果/「毒・束缚・感冒・眩晕」耐性{f801}{ffff}</target>
   </entry>
   <entry id="726">
     <source>特殊効果/「睡眠・混乱・魔封・着迷」耐性{f801}{ffff}</source>
-    <target>特殊效果/「睡眠・混乱・魔封・着迷」耐性{f801}{ffff}</target>
+    <target>特殊效果/「睡眠・混乱・魔封・魅惑」耐性{f801}{ffff}</target>
   </entry>
   <entry id="727">
     <source>特殊効果/「毒・紧缚・感冒・晕眩」无效{f801}{ffff}</source>
-    <target>特殊效果/「毒・紧缚・感冒・晕眩」无效{f801}{ffff}</target>
+    <target>特殊效果/「毒・束缚・感冒・眩晕」无效{f801}{ffff}</target>
   </entry>
   <entry id="728">
     <source>特殊効果/「睡眠・混乱・魔封・着迷」无效{f801}{ffff}</source>
-    <target>特殊效果/「睡眠・混乱・魔封・着迷」无效{f801}{ffff}</target>
+    <target>特殊效果/「睡眠・混乱・魔封・魅惑」无效{f801}{ffff}</target>
   </entry>
   <entry id="729">
     <source>{f87d}{0c00}{f801}特殊効果/HP归0时仅一次回复至HP1{f801}{ffff}</source>
@@ -3041,7 +3041,7 @@
   </entry>
   <entry id="761">
     <source>特殊効果/异常状态「紧缚」无效{f801}{ffff}</source>
-    <target>特殊效果/异常状态「紧缚」无效{f801}{ffff}</target>
+    <target>特殊效果/异常状态「束缚」无效{f801}{ffff}</target>
   </entry>
   <entry id="762">
     <source>特殊効果/获得经验值増加 効果/大{f801}{ffff}</source>
@@ -3269,7 +3269,7 @@
   </entry>
   <entry id="818">
     <source>威/{f87d}{0200} {f87d}{0400}属性{f801}附加/晕眩{f801}{ffff}</source>
-    <target>威力/{f87d}{0200} {f87d}{0400}属性{f801}附加/晕眩{f801}{ffff}</target>
+    <target>威力/{f87d}{0200} {f87d}{0400}属性{f801}附加/眩晕{f801}{ffff}</target>
   </entry>
   <entry id="819">
     <source>威/{f87d}{0200} {f87d}{0400}属性{f801}附加/{f87d}{0600}{f801}{ffff}</source>
@@ -4601,11 +4601,11 @@
   </entry>
   <entry id="1151">
     <source>操纵电脑光标的装置。{f801}上了年纪的人似乎曾经熟练的使用过{f801}{ffff}</source>
-    <target>操纵电脑光标的装置。{f801}上了年纪的人似乎曾经熟练的使用过{f801}{ffff}</target>
+    <target>操纵电脑光标的装置。{f801}上了年纪的人似乎曾经熟练地使用过{f801}{ffff}</target>
   </entry>
   <entry id="1152">
     <source>向电脑输入文字的装置。{f801}上了年纪的人似乎曾经熟练的使用过{f801}{ffff}</source>
-    <target>向电脑输入文字的装置。{f801}上了年纪的人似乎曾经熟练的使用过{f801}{ffff}</target>
+    <target>向电脑输入文字的装置。{f801}上了年纪的人似乎曾经熟练地使用过{f801}{ffff}</target>
   </entry>
   <entry id="1153">
     <source>将电脑跟网络连接的网线。{f801}在猎人商会很常见{f801}{ffff}</source>
@@ -5617,7 +5617,7 @@
   </entry>
   <entry id="1405">
     <source>把纸杯靠在墙上,耳朵贴在杯底{f801}可以听清隔壁的声音{f801}{ffff}</source>
-    <target>把纸杯靠在墙上,耳朵贴在杯底{f801}可以听清隔壁的声音{f801}{ffff}</target>
+    <target>把水杯靠在墙上,耳朵贴在杯底{f801}可以听清隔壁的声音{f801}{ffff}</target>
   </entry>
   <entry id="1406">
     <source>切食材时要用到的厨房用具。{f801}也能当武器,不过攻击范围有点小{f801}{ffff}</source>
@@ -6009,7 +6009,7 @@
   </entry>
   <entry id="1503">
     <source>曾经使用的货币。{f801}扔出去也许吓敌人一跳{f801}{ffff}</source>
-    <target>过去所使用的货币。{f801}扔出去也许吓敌人一跳{f801}{ffff}</target>
+    <target>过去所使用的货币。{f801}扔出去也许能吓敌人一跳{f801}{ffff}</target>
   </entry>
   <entry id="1504">
     <source>曾经使用的货币。{f801}上面刻画的樱花很美{f801}{ffff}</source>
