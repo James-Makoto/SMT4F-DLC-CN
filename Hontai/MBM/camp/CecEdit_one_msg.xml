@@ -333,7 +333,7 @@
   </entry>
   <entry id="507">
     <source>被恶魔网开一面的事败露了。{f801}承蒙关照,今天也很有活力。{f801}{ffff}</source>
-    <target>被恶魔网开一面的事败露了。{f801}承蒙关照,今天也很有活力。{f801}{ffff}</target>
+    <target>被恶魔赋予新生的事败露了。{f801}承蒙关照,今天也很有活力。{f801}{ffff}</target>
   </entry>
   <entry id="508">
     <source>成功夺回了希望之星弗林。{f801}这下未来的东京一定是一派祥和。{f801}{ffff}</source>
@@ -349,7 +349,7 @@
   </entry>
   <entry id="511">
     <source>打倒密特拉,保留了和现世的联系。{f801}满月之时日渐接近了……{f801}{ffff}</source>
-    <target>打倒密特拉,保留了和现世的联系。{f801}满月之时日渐接近了……{f801}{ffff}</target>
+    <target>打倒密特拉,保留了和现世的联系。{f801}满月之时逐渐接近了……{f801}{ffff}</target>
   </entry>
   <entry id="512">
     <source>击破YHVH获得了真正的自由。{f801}这才是人类应有的答案。{f801}{ffff}</source>
@@ -361,11 +361,11 @@
   </entry>
   <entry id="514">
     <source>选择了今天的安宁能持续到明天的世界。{f801}加入梅尔卡巴,葬送了东京。{f801}{ffff}</source>
-    <target>选择了今天的安宁能持续到明天的世界。{f801}加入梅尔卡巴,葬送了东京。{f801}{ffff}</target>
+    <target>选择了今天的安宁能持续到明天的世界。{f801}与梅尔卡巴合作,亲手葬送了东京。{f801}{ffff}</target>
   </entry>
   <entry id="515">
     <source>选择了只有强者能够为所欲为的世界。{f801}加入路西法,获得了新生。{f801}{ffff}</source>
-    <target>选择了只有强者能够为所欲为的世界。{f801}加入路西法,获得了新生。{f801}{ffff}</target>
+    <target>选择了强者能够随心所欲改变的世界。{f801}与路西法合作,获得了新生。{f801}{ffff}</target>
   </entry>
   <entry id="516">
     <source>为他人着想而采取行动,{f801}同伴之间萌生了羁绊。{f801}{ffff}</source>
@@ -397,7 +397,7 @@
   </entry>
   <entry id="523">
     <source>打倒1000只恶魔。{f801}已经称的上是能垂名青史的英雄了。{f801}{ffff}</source>
-    <target>打倒1000只恶魔。{f801}已经称的上是能垂名青史的英雄了。{f801}{ffff}</target>
+    <target>打倒1000只恶魔。{f801}已经称得上是能垂名青史的英雄了。{f801}{ffff}</target>
   </entry>
   <entry id="524">
     <source>打倒8名魔人。{f801}真是个让人望而生畏的强者。{f801}{ffff}</source>
@@ -445,7 +445,7 @@
   </entry>
   <entry id="535">
     <source>成功逃走10次。{f801}三十六计走为上。{f801}{ffff}</source>
-    <target>成功逃走10次。{f801}三十六计走为上。{f801}{ffff}</target>
+    <target>成功逃走10次。{f801}三十六计走为上计。{f801}{ffff}</target>
   </entry>
   <entry id="536">
     <source>逃走失败10次。{f801}现实是无法逃避的。{f801}{ffff}</source>
@@ -485,7 +485,7 @@
   </entry>
   <entry id="545">
     <source>除去装备主人公的【魔】超过200。{f801}腹部底端涌上了沸腾的力量。{f801}{ffff}</source>
-    <target>除去装备主人公的【魔】超过200。{f801}腹部底端涌上了沸腾的力量。{f801}{ffff}</target>
+    <target>除去装备主人公的【魔】超过200。{f801}沸腾的力量似乎在从丹田涌出。{f801}{ffff}</target>
   </entry>
   <entry id="546">
     <source>除去装备主人公的【速】超过200。{f801}犹如疾风一般。{f801}{ffff}</source>
@@ -497,7 +497,7 @@
   </entry>
   <entry id="548">
     <source>在所有人外猎人商会里用过餐。{f801}所有店吃下来都不是人……味道都很独特。{f801}{ffff}</source>
-    <target>在所有人外猎人商会里用过餐。{f801}所有店吃下来都不是人……味道都很独特。{f801}{ffff}</target>
+    <target>在所有人外猎人商会里用过餐。{f801}无论是哪家的饭菜都是……相当独特的味道。{f801}{ffff}</target>
   </entry>
   <entry id="549">
     <source>完成10次挑战任务。{f801}随你什么样的任务,都过来吧。{f801}{ffff}</source>
@@ -573,7 +573,7 @@
   </entry>
   <entry id="567">
     <source>选择伊莎白作为搭档战斗100次。{f801}明白自己很受期待。{f801}{ffff}</source>
-    <target>选择伊莎白作为搭档战斗100次。{f801}明白自己很受期待。{f801}{ffff}</target>
+    <target>选择伊莎白作为搭档战斗100次。{f801}可以感觉到自己正在备受着期待。{f801}{ffff}</target>
   </entry>
   <entry id="568">
     <source>先制攻击100次。{f801}摸清了用武器攻击的时机。{f801}{ffff}</source>
@@ -605,7 +605,7 @@
   </entry>
   <entry id="575">
     <source>总移动距离超过100km。{f801}脚变强壮了也一定是达格达造成的。{f801}{ffff}</source>
-    <target>总移动距离超过100km。{f801}脚变强壮了也一定是达格达造成的。{f801}{ffff}</target>
+    <target>总移动距离超过100km。{f801}腿脚变结实了也一定是达格达所影响的吧。{f801}{ffff}</target>
   </entry>
   <entry id="576">
     <source>继承了其他世界记忆的证明。{f801}不要忘记武士道教义。{f801}{ffff}</source>
