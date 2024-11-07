@@ -105,7 +105,7 @@
   </entry>
   <entry id="109">
     <source>添加到卡片上的仲魔会{f801}自动回来。{f801}{ffff}</source>
-    <target>添加到卡片上的仲魔会{f801}自动回来。{f801}{ffff}</target>
+    <target>添加到卡片上的仲魔会{f801}自动返回。{f801}{ffff}</target>
   </entry>
   <entry id="111">
     <source>添加中的恶魔已经死亡,{f801}无法接收。{f801}{ffff}</source>
