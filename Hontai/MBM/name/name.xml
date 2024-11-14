@@ -1,7 +1,7 @@
 <mbm>
   <entry id="0">
     <source>请输入文字{f801}{ffff}</source>
-    <target>请输入文字{f801}{ffff}</target>
+    <target>请输入文字。{f801}{ffff}</target>
   </entry>
   <entry id="1">
     <source>确定要使用「{f811}{3200}」这个名字吗?{f801}{ffff}</source>
