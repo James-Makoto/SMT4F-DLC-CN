@@ -109,7 +109,7 @@
   </entry>
   <entry id="225">
     <source>往光亮处走3回,往阴影处走1回,{f801}往光亮处走1回。   {f801}{ffff}</source>
-    <target>往光亮处走3回,往阴影处走1回,{f801}往光亮处走1回。   {f801}{ffff}</target>
+    <target> {f801}    朝光3次 朝影1次 朝光1次{f801}{ffff}</target>
   </entry>
   <entry id="999">
     <source>设定好目的地{f801}{ffff}</source>
