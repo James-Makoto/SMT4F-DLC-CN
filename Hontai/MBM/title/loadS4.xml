@@ -21,7 +21,7 @@
   </entry>
   <entry id="6">
     <source>在插入真・女神转生{8757}的游戏卡之后{f801}请按下A键。{f801}{ffff}</source>
-    <target>在插入真・女神转生{8757}的游戏卡之后{f801}请按下A键。{f801}{ffff}</target>
+    <target>在插入真・女神转生{8757}的{f801}游戏卡之后请按下A键。{f801}{ffff}</target>
   </entry>
   <entry id="7">
     <source>要中断读取存档特典吗?{f801}{ffff}</source>
@@ -45,7 +45,7 @@
   </entry>
   <entry id="12">
     <source>在插入真・女神转生{8757}的游戏卡之后{f801}请按下A键。{f801}{ffff}</source>
-    <target>在插入真・女神转生{8757}的游戏卡之后{f801}请按下A键。{f801}{ffff}</target>
+    <target>在插入真・女神转生{8757} FINAL的{f801}游戏卡之后请按下A键。{f801}{ffff}</target>
   </entry>
   <entry id="13">
     <source>真・女神转生{8757} FINAL的游戏卡{f801}没有被正确插入。{f801}{ffff}</source>
