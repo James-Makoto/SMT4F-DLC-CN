@@ -25,7 +25,7 @@
   </entry>
   <entry id="10">
     <source>发生了没有预计到的错误。{f801}请重新调整擦肩通信的设定再次尝试。{f801}{ffff}</source>
-    <target>发生了没有预计到的错误。{f801}请重新调整擦肩通信的设定再次尝试。{f801}{ffff}</target>
+    <target>发生了意料之外的错误。{f801}请再次尝试进行擦肩通信设置。{f801}{ffff}</target>
   </entry>
   <entry id="11">
     <source>该软件的擦肩通信{f801}已经被登录过了。{f801}{ffff}</source>
