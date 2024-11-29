@@ -21,7 +21,7 @@
   </entry>
   <entry id="8">
     <source>将本软件的擦肩通信以登录到{f801}任天堂3DS本体。{f801}{ffff}</source>
-    <target>将本软件的擦肩通信以登录到{f801}任天堂3DS主机。{f801}{ffff}</target>
+    <target>本软件的擦肩通信{f801}已登录至任天堂3DS主机。{f801}{ffff}</target>
   </entry>
   <entry id="10">
     <source>发生了没有预计到的错误。{f801}请重新调整擦肩通信的设定再次尝试。{f801}{ffff}</source>
