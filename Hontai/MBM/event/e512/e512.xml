@@ -65,7 +65,7 @@
   </entry>
   <entry id="1007">
     <source>获得《{f872}{0100}》{f801}{ffff}</source>
-    <target>获得《{f872}{0100}》{f801}{ffff}</target>
+    <target>获得《{f872}{0100}》。{f801}{ffff}</target>
   </entry>
   <entry id="1008">
     <source>{f812}朝日{0000}{f87a}{8201}{f81b}{4531}{3032}{3032}{3500}{0000}{0000}不要再睡午觉了,{f801}我们赶快去收集情报吧?{f801}{ffff}</source>

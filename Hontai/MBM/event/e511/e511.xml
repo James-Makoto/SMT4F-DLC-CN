@@ -5,7 +5,7 @@
   </entry>
   <entry id="1">
     <source>获得《{f872}{0100}》{f801}{ffff}</source>
-    <target>获得《{f872}{0100}》{f801}{ffff}</target>
+    <target>获得《{f872}{0100}》。{f801}{ffff}</target>
   </entry>
   <entry id="2">
     <source>获得{f878}{0100}个《{f872}{0100}》。{f801}{ffff}</source>
@@ -13,15 +13,15 @@
   </entry>
   <entry id="3">
     <source>获得《{f872}{0100}》{f801}{ffff}</source>
-    <target>获得《{f872}{0100}》{f801}{ffff}</target>
+    <target>获得《{f872}{0100}》。{f801}{ffff}</target>
   </entry>
   <entry id="4">
     <source>获得《{f872}{0100}》{f801}{ffff}</source>
-    <target>获得《{f872}{0100}》{f801}{ffff}</target>
+    <target>获得《{f872}{0100}》。{f801}{ffff}</target>
   </entry>
   <entry id="5">
     <source>获得《{f872}{0100}》{f801}{ffff}</source>
-    <target>获得《{f872}{0100}》{f801}{ffff}</target>
+    <target>获得《{f872}{0100}》。{f801}{ffff}</target>
   </entry>
   <entry id="102">
     <source>获得{f878}{0200}个《{f872}{0200}》。{f801}{ffff}</source>
