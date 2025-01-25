@@ -3353,15 +3353,15 @@
   </entry>
   <entry id="839">
     <source>能够直达中城1F的{f801}电梯钥匙{f801}{ffff}</source>
-    <target>能够直达中城1F的{f801}电梯钥匙{f801}{ffff}</target>
+    <target>能够直达中城1F的{f801}电梯钥匙卡{f801}{ffff}</target>
   </entry>
   <entry id="840">
     <source>进入霞关地下4F所必须的钥匙。{f801}去研究所时要用到{f801}{ffff}</source>
-    <target>进入霞关地下4F所必须的钥匙。{f801}去研究所时要用到{f801}{ffff}</target>
+    <target>进入霞关地下4F所必须的钥匙卡。{f801}去研究所时要用到{f801}{ffff}</target>
   </entry>
   <entry id="841">
     <source>进入霞关地下2F所必须的钥匙。{f801}人外猎人商会送来的被信赖的证明{f801}{ffff}</source>
-    <target>进入霞关地下2F所必须的钥匙。{f801}人外猎人商会送来的被信赖的证明{f801}{ffff}</target>
+    <target>进入霞关地下2F所必须的钥匙卡。{f801}人外猎人商会送来的被信赖的证明{f801}{ffff}</target>
   </entry>
   <entry id="842">
     <source>寄宿着高僧的灵魂象征车轮的佛具。{f801}英杰天海的宿体{f801}{ffff}</source>
@@ -3397,7 +3397,7 @@
   </entry>
   <entry id="850">
     <source>进入霞关地下3F储藏库{f801}所必须的钥匙{f801}{ffff}</source>
-    <target>进入霞关地下3F储藏库{f801}所必须的钥匙{f801}{ffff}</target>
+    <target>进入霞关地下3F储藏库{f801}所必须的钥匙卡{f801}{ffff}</target>
   </entry>
   <entry id="851">
     <source>只有拥有神秘力量的人才能拔出来的太刀。{f801}刀身很长,称不上容易使用{f801}{ffff}</source>
