@@ -37,7 +37,7 @@
   </entry>
   <entry id="13">
     <source>该软件的擦肩通信{f801}无法登录。{f801}{ffff}</source>
-    <target>该软件的擦肩通信{f801}无法登录。{f801}{ffff}</target>
+    <target>该软件的擦肩通信{f801}未进行登录。{f801}{ffff}</target>
   </entry>
   <entry id="14">
     <source>该软件的擦肩通信的登录已从{f801}任天堂3DS本体中解除。{f801}{ffff}</source>
