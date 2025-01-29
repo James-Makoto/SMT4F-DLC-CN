@@ -73,7 +73,7 @@
   </entry>
   <entry id="19">
     <source>获得程序点数10点{f801}現在AP/{f87d}{0000} 使用後/{f87d}{0100}{f801}{ffff}</source>
-    <target>获得程序点数10点{f801}当前AP/{f87d}{0000} 使用后/{f87d}{0100}{f801}{ffff}</target>
+    <target>获得APP点数10点{f801}当前AP/{f87d}{0000} 使用后/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="20">
     <source>回复对象微量HP{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
@@ -93,7 +93,7 @@
   </entry>
   <entry id="24">
     <source>获得程序点数20点{f801}現在AP/{f87d}{0000} 使用後/{f87d}{0100}{f801}{ffff}</source>
-    <target>获得程序点数20点{f801}当前AP/{f87d}{0000} 使用后/{f87d}{0100}{f801}{ffff}</target>
+    <target>获得APP点数20点{f801}当前AP/{f87d}{0000} 使用后/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="25">
     <source>解除对象所有负面状态{f801}对象/{f87d}{0000} 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
@@ -7889,7 +7889,7 @@
   </entry>
   <entry id="1973">
     <source>获得程序点数5点{f801}当前AP/{f87d}{0000} 使用後/{f87d}{0100}{f801}{ffff}</source>
-    <target>获得程序点数5点{f801}当前AP/{f87d}{0000} 使用后/{f87d}{0100}{f801}{ffff}</target>
+    <target>获得APP点数5点{f801}当前AP/{f87d}{0000} 使用后/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="1974">
     <source>唤醒觉醒之力的石头{f801}补充/可无限使用 最大拥有数/{f87d}{0100}{f801}{ffff}</source>
